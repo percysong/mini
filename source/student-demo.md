@@ -4,7 +4,7 @@ title: Mike’s Learning Journey 王小明学习档案
 
 <span class="text"><li>学生姓名：王小明</li><li>English name: Mike</li><li>Age 年龄：10</li><li>Grade 年级：四年级</li><li>英语学习开始日期：2023-09-01</li></span>
 
-### Wk3, Mar 11, 2024<br>2024 年 3 月 11 日第 2 周课程 
+### Wk3, Mar 11, 2024
 
 - 口语对话话题 *What’s your dream job?*
 	![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/03/24/minimal-white-style-video-player.jpg)
@@ -27,10 +27,10 @@ title: Mike’s Learning Journey 王小明学习档案
 		- [PDF 文件下载 🔗](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/03/24/animals-animals.pdf)
 		- [mp3 文件下载 🔗](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/03/24/animals-animals.mp3)
 
-### Wk2, Mar 7, 2024<br>2024 年 3 月 7 日第 1 周课程
+### Wk2, Mar 7, 2024
 
 ...
 
-### Wk1, Mar 4, 2024<br>2024 年 3 月 7 日第 1 周课程
+### Wk1, Mar 4, 2024
 
 …
