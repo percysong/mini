@@ -1,9 +1,11 @@
 ---
 title: 课程特色
 date: 2024-03-24
+categories:
+  - 学生服务
 ---
 
-<img src="../_embeds/raising-hand-bro.svg" width="80%" class="center">
+<img src="source/_embeds/raising-hand-bro.svg" width="80%" class="center">
 <span class="caption"><a href="https://storyset.com/education">Illustrations by Storyset</a></span>
 
 针对三年级至初二的学生，旨在提升英语语言能力（包括口语表达能力和书面测试能力）和 21 世纪技能素养。

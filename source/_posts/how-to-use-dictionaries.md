@@ -1,18 +1,13 @@
 ---
 title: 如何使用词典
 date: 2024-03-28
+categories:
+  - 指南
 ---
 
-## 目录
-
-- [词典类工具网页](https://minielephant.net/how-to-use-dictionaries/#web)
-- [词典类工具 app](https://minielephant.net/how-to-use-dictionaries/#apps)
-	- [电脑和移动端如何选择 app](https://minielephant.net/how-to-use-dictionaries/#mac-ios)
-		- [mac](https://minielephant.net/how-to-use-dictionaries/#mac)
-		- [iOS](https://minielephant.net/how-to-use-dictionaries/#iOS)
-		- [欧陆词典](https://minielephant.net/how-to-use-dictionaries/#eudic)
-
 工欲善其事，必先利其器。词典无疑是最传统也是最有效的学习语言的器具之一。选择什么词典，使用什么形式的词典，如何使用词典⋯⋯都是值得探讨和研究的问题。每个学习者都有自己的喜好和不同的理论基础，小象希望能在此为您提供一些新的工具，独到的建议，以及广泛适用的实践方式。
+
+<!-- more -->
 
 - 越早抛弃母语越好；
 	- 只要你入门到 A1–A2 的水平，都可以开始逼迫自己只查阅英英词典；
@@ -71,8 +66,10 @@ date: 2024-03-28
 
 在 mac 端，我们可以通过 Dictionary（词典）这个 app 来查阅单词（按下 `Command + ,` 在设置中选择需要的词典源）；具体操作请查看[苹果官网的词典使用手册](https://support.apple.com/zh-cn/guide/dictionary/welcome/mac)。
 
+{% gp 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/03/28/SCR-20240328-nzu.png)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/03/28/SCR-20240328-nvj.png)
+{% endgp %}
 
 我们也可以在浏览器、PDF 阅读器等任何阅读文本的时候，通过三指点按或用力点按触控板查询某个字词和短语的定义；具体操作请查看[苹果官网 macOS 使用手册──在 Mac 上查询字词](https://support.apple.com/zh-cn/guide/mac-help/mchl3983326c/mac)。
 
@@ -80,15 +77,21 @@ date: 2024-03-28
 
 iPhone 和 iPad 上暂时并没有内置可直接查词的词典软件，只能通过长按特定单词点击「Look up 查询」来调用内置词典源获取释义，或是桌面下拉打开 Spotlight 输入字词搜索。后者因为 Spotlight 全局搜索的特性，若是查询常用词，词典查询的优先级会低于app、网页、照片、备忘录等其他类型数据，且不支持模糊搜索。
 
+{% gp 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/03/28/IMG_1506.PNG)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/03/28/IMG_1507.PNG)
+{% endgp %}
 
+{% gp 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/03/28/IMG_1505.PNG)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/03/28/IMG_1508.PNG)
+{% endgp %}
 
 ### 极光词典和欧陆词典
 
 想要达到在 mac 端「词典」同样调用系统自带词典源的体验则需要另外的 app。此前国人独立开发者 Junyu Kuang 做过一款能满足此需求的一款小而美的[极光词典](https://sspai.com/post/36050)，不幸如今已下架应用商店。可以考虑同样相对简洁的[欧陆词典](https://www.eudic.net/v4/en/app/eudic)，启动速度快且无广告，有丰富的第三方词库和线上权威词典（无法调用系统自带词典源），最关键的是，它可以允许在搜索列表中取消中文释义的显示。
 
+{% gp 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/03/28/IMG_1510.PNG)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/03/28/IMG_1512.PNG)
+{% endgp %}

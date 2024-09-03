@@ -1,9 +1,10 @@
 ---
 title: 家长服务
-
+categories:
+  - 家长服务
 ---
 
-<img src="/_embeds/parents-animate.svg" width="80%" class="center">
+<img src="source/_embeds/parents-animate.svg" width="80%" class="center">
 <span class="caption"><a href="https://storyset.com/education">Education illustrations by Storyset</a></span>
 
 孩子需要陪伴。所谓素养，亦不是单单靠学校或社会教育所能给予的。完全寄希望于第三方来维系同浸育那美好娇嫩的亲子关系，往往收效甚微。家庭在儿童的成长中起到了至关重要的作用，陪伴不一定都是明确的「教」，但长远来看都会指向「育」。
