@@ -282,10 +282,11 @@ embed {
   max-width: 100%;
 }
 hr {
-  background-image: repeating-linear-gradient(-45deg, #ddd, #ddd 4px, transparent 4px, transparent 8px);
-  border: 0;
-  height: 3px;
-  margin: 40px 0;
+  width: 100%;
+  opacity: 0.2;
+  margin: 20px auto 20px;
+  border: none;
+  border-bottom: 1px double #454544;
 }
 blockquote {
   border-left: 4px solid #ddd;
@@ -296,6 +297,15 @@ blockquote {
 blockquote cite::before {
   content: '-';
   padding: 0 5px;
+}
+caption {
+  color: color-grey;
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  margin-top: 0.5em;
+  position: relative;
+  text-align: right;
 }
 dt {
   font-weight: bold;
@@ -1387,7 +1397,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ffb3ff;
+  background: #b3ffff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -1805,48 +1815,6 @@ pre code {
     transform: scale(1.1);
   }
 }
-.back-to-top {
-  font-size: 12px;
-  align-items: center;
-  bottom: -100px;
-  color: #fff;
-  display: flex;
-  height: 26px;
-  transition: bottom 0.2s ease-in-out;
-  background: #222;
-  cursor: pointer;
-  opacity: 0.8;
-  position: fixed;
-  z-index: 30;
-  left: 30px;
-}
-.back-to-top span {
-  margin-right: 8px;
-  display: none;
-}
-.back-to-top .fa {
-  text-align: center;
-  width: 26px;
-}
-@media (max-width: 991px) {
-  .back-to-top {
-    left: 20px;
-  }
-}
-.back-to-top:hover {
-  opacity: 1;
-}
-@media (max-width: 991px) {
-  .back-to-top {
-    opacity: 1;
-  }
-}
-.back-to-top:hover {
-  color: #87daff;
-}
-.back-to-top.back-to-top-on {
-  bottom: 30px;
-}
 .rtl.post-body p,
 .rtl.post-body a,
 .rtl.post-body h1,
@@ -2147,7 +2115,7 @@ pre code {
 }
 .posts-expand .post-title {
   font-size: 1.5em;
-  font-weight: normal;
+  font-weight: bold;
   margin: initial;
   overflow-wrap: break-word;
 }
