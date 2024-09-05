@@ -12,6 +12,6 @@ sticky: 100
 
 {% btn /english-course, CLIL 超学科英文, [英语] %}
 
-{% btn /math, 数学小升初衔接, [数学] %}
+{% btn /math, 小学高阶思维, [数学] %}
 
-{% btn /calligraphy, 中文书法, [书法] %}
+{% btn /calligraphy, 中文硬笔书法, [书法] %}

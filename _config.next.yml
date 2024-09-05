@@ -21,7 +21,7 @@ custom_file_path:
   #postBodyEnd: source/_data/post-body-end.njk
   #footer: source/_data/footer.njk
   #bodyEnd: source/_data/body-end.njk
-  #variable: source/_data/variables.styl
+  variable: source/_data/variables.styl
   #mixin: source/_data/mixins.styl
   #style: source/_data/styles.styl
 
@@ -438,8 +438,8 @@ font:
 
   # Font settings for site title (.site-title).
   title:
-    external: true
-    family:
+    external: false
+    family: Oddval
     size:
 
   # Font settings for headlines (<h1> to <h6>).
