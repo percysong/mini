@@ -1,0 +1,183 @@
+{
+  "folderMappings": [
+    {
+      "folder": "Journals",
+      "toolbar": "Daily notes"
+    }
+  ],
+  "icon": "lucide-home",
+  "showEditInFabMenu": false,
+  "toolbarProp": "",
+  "toolbars": [
+    {
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "label": "",
+          "icon": "lucide-home",
+          "link": "Pages/Dashboard.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "label": "Previous",
+          "icon": "lucide-arrow-left",
+          "link": "Daily notes: Open previous daily note",
+          "linkAttr": {
+            "commandId": "daily-notes:goto-prev",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "3cc405a4-9a8b-42b5-8823-ba5c308d5176",
+          "label": "Today",
+          "icon": "lucide-arrow-down-to-dot",
+          "link": "Daily notes: Open today's daily note",
+          "linkAttr": {
+            "commandId": "daily-notes",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "label": "Next",
+          "icon": "lucide-arrow-right",
+          "link": "Daily notes: Open next daily note",
+          "linkAttr": {
+            "commandId": "daily-notes:goto-next",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Daily notes",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "hidden"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "top"
+          }
+        }
+      },
+      "updated": "2024-09-02T17:16:44.100Z"
+    }
+  ],
+  "version": 20240426.1
+}

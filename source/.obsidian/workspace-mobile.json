@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "13a4f1308fbec923",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b82f4c50a30cc5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d20d9f8f5607784d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business administration.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23b66857d68bd59e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c1a77b0ccedb2c0d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime"
+          }
+        }
+      },
+      {
+        "id": "1c313f3bece222bf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#tech/app",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e558b9728591d2b0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": false
+          }
+        }
+      },
+      {
+        "id": "b1286d807a8890f8",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "9987852c4fd5cfd2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "fa314b4332f27aac",
+        "type": "leaf",
+        "state": {
+          "type": "trash-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "1c7f36a42e1df067",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7a58183137fdee38",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "017fa78fe9a4d25f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Business administration.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bdeab82ef1d38114",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Business administration.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2e04d9c6c3fc5ffc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Business administration.md"
+          }
+        }
+      },
+      {
+        "id": "8fab3a78da6cc4f8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "84f6cd1df129ee5b",
+        "type": "leaf",
+        "state": {
+          "type": "file-properties",
+          "state": {
+            "file": "Business administration.md"
+          }
+        }
+      },
+      {
+        "id": "e4224e85d38bc2f1",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "switcher:Open quick switcher": false,
+      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": true,
+      "graph:Open graph view": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "open-weather:OpenWeather": false
+    }
+  },
+  "active": "d20d9f8f5607784d",
+  "lastOpenFiles": [
+    "Journals/2024-05-14.md",
+    "Journals/2024-05-13.md",
+    "Business administration.md",
+    "Japan study tour planner.md",
+    "Products.md",
+    "mini Elephant drafts/Design Service.md",
+    "Journals/2024-05-12.md",
+    "Journals/2024-05-11.md",
+    "References/Products/Nexus 6P.md",
+    "References/Products/Apple Pencil (2nd gen).md",
+    "References/Products/iPhone 7 128GB.md",
+    "References/Products/iPad Pro (11-inch 2020).md",
+    "References/Products/MacBook Pro (13-inch, Late 2013).md",
+    "Journals/2014/2014-01-20.md",
+    "Journals/2014/2014-01-30.md",
+    "Journals/2014/2014-01-19.md",
+    "Journals/2014/2014-01-12.md",
+    "References/Products/MacBook Pro (14-inch, 2021).md",
+    "Journals/2024-05-10.md",
+    "Journals/2024-05-09.md",
+    "Journals/yddddds.md",
+    "Journals/2024-05-08.md",
+    "Journals/2024-05-03.md",
+    "Music/Artists/Radiohead.md",
+    "Music/Songs/Morning Bell.md",
+    "Music/Albums/Kid A.md",
+    "Attachments/lucy-in-the-sky-with-diamonds.png",
+    "Attachments/day-tripper.pdf",
+    "Attachments/because-beatles.pdf",
+    "Attachments/come-together.pdf",
+    "Attachments/Lithium.png",
+    "Attachments/Simon And Garfunkel - Scarborough Fair.pdf",
+    "Attachments/lake-of-fire.png",
+    "Attachments/heart-shaped-box.png",
+    "Attachments/all-apologies.png",
+    "Attachments/the-boxer.png",
+    "Attachments/I-am-a-rock.png",
+    "Attachments/thank-you-for-the-music.png",
+    "Attachments/chiquitita.png",
+    "Attachments/happy-new-year-intro.png",
+    "mini Elephant.canvas",
+    "Attachments/dan·de·li·on  |  ˈdandlˌīən  |  noun.txt",
+    "Attachments/2024-02-29.pdf",
+    "Attachments/2024-02-29-1.heic",
+    "Attachments/_Files/embedded/a-la-volonte-du-peuple.mp3",
+    "Attachments/Scripts/movie.js",
+    "percy's song drafts/Essays/adieu-mr-lawrence.txt"
+  ]
+}

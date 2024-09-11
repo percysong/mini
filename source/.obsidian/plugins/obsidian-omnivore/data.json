@@ -1,0 +1,32 @@
+{
+  "dateHighlightedFormat": "yyyy-MM-dd HH:mm:ss",
+  "dateSavedFormat": "yyyy-MM-dd HH:mm:ss",
+  "apiKey": "c7043c29-c40a-43e3-af75-aa76b3128cb0",
+  "filter": "HIGHLIGHTS",
+  "syncAt": "2024-03-04T09:10:46",
+  "customQuery": "in:all has:highlights label:Omnivore",
+  "template": "# {{{title}}}\n\n{{#highlights.length}}\n## Highlights\n\n{{#highlights}}\n> {{{text}}} [⤴️]({{{highlightUrl}}}) {{#labels}} #{{name}} {{/labels}} ^{{{highlightID}}}\n{{#note}}\n\n{{{note}}}\n{{/note}}\n\n{{/highlights}}\n{{/highlights.length}}",
+  "highlightOrder": "LOCATION",
+  "syncing": false,
+  "folder": "References/Omnivore",
+  "folderDateFormat": "yyyy-MM-dd",
+  "endpoint": "https://api-prod.omnivore.app/api/graphql",
+  "filename": "{{{title}}}",
+  "filenameDateFormat": "yyyy-MM-dd",
+  "attachmentFolder": "Attachments/Omnivore",
+  "version": "1.10.1",
+  "isSingleFile": false,
+  "frequency": 0,
+  "intervalId": 0,
+  "frontMatterVariables": [],
+  "frontMatterTemplate": "id: {{{id}}}\ntype: \"[[Articles]]\"\n{{#author}}\nauthor: \"[[{{{author}}}]]\"\n{{/author}}\n{{#description}}\ndescription: {{{description}}}\n{{/description}}\n{{#omnivoreUrl}}\nomnivoreURL: {{{omnivoreUrl}}}\n{{/omnivoreUrl}}\n{{#originalUrl}}\noriginalURL: {{{originalUrl}}}\n{{/originalUrl}}\n{{#dateSaved}}\nsaved: {{{dateSaved}}}\n{{/dateSaved}}\n{{#datePublished}}\npublished: {{{datePublished}}}\n{{/datePublished}}\n{{#wordsCount}}\nwordsCount: {{{wordsCount}}}\n{{/wordsCount}}\n{{#readLength}}\nreadLength: {{{readLength}}}\n{{/readLength}}\n{{#labels.length}}\ntags:\n{{#labels}} - {{{name}}}\n{{/labels}}\n{{/labels.length}}",
+  "syncOnStart": false,
+  "enableHighlightColorRender": false,
+  "highlightManagerId": "omni",
+  "highlightColorMapping": {
+    "yellow": "#fff3a3",
+    "red": "#ff5582",
+    "blue": "#adccff",
+    "green": "#bbfabb"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "accentColor": "#c26b8a",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "SF Pro",
+  "textFontFamily": "SF Pro Text",
+  "monospaceFontFamily": "SF Mono",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "theme": "system",
+  "enabledCssSnippets": []
+}

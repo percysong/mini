@@ -1,0 +1,46 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "templates/",
+    "logseq/"
+  ],
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "mobileToolbarCommands": [
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-bullet-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:redo",
+    "editor:undo",
+    "editor:insert-link",
+    "editor:insert-wikilink",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:toggle-highlight",
+    "editor:toggle-strikethrough",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-tag",
+    "editor:insert-embed",
+    "editor:toggle-source",
+    "editor:fold-all",
+    "editor:unfold-all",
+    "editor:configure-toolbar"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "livePreview": false,
+  "attachmentFolderPath": "Attachments",
+  "defaultViewMode": "source",
+  "showRibbon": false
+}

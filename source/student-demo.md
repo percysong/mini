@@ -1,5 +1,7 @@
 ---
 title: Mike’s Learning Journey 王小明学习档案
+created: 2024-03-24
+updated: 2024-09-11
 ---
 
 <span class="text"><li>学生姓名：王小明</li><li>English name: Mike</li><li>Age 年龄：10</li><li>Grade 年级：四年级</li><li>英语学习开始日期：2023-09-01</li></span>
@@ -9,7 +11,7 @@ title: Mike’s Learning Journey 王小明学习档案
 - 口语对话话题 *What’s your dream job?*
 	![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/03/24/minimal-white-style-video-player.jpg)
 	<span class="caption">学生课堂对话录音或录像存档<br>（可直接点击观看，此处为模版）</span>
-	
+
 	> 学生掌握常用职业的相关词汇（如 teacher, firefighter, scientist 等），能用简单的句式来表达自己的喜好及原因，但对具体职业的深入描述语言相对匮乏。
 
 - **Phonics 自然拼读**
@@ -29,7 +31,7 @@ title: Mike’s Learning Journey 王小明学习档案
 
 ### Wk2, Mar 7, 2024
 
-...
+…
 
 ### Wk1, Mar 4, 2024
 

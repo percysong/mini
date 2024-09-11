@@ -1,0 +1,64 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 7,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "gaoshengyu.md",
+      "timestamp": 1726040574520
+    },
+    {
+      "filepath": "niehaochen.md",
+      "timestamp": 1726040573336
+    },
+    {
+      "filepath": "student-demo.md",
+      "timestamp": 1726040571740
+    },
+    {
+      "filepath": "zhangqiming.md",
+      "timestamp": 1726040244539
+    },
+    {
+      "filepath": "for-parents.md",
+      "timestamp": 1726038318923
+    },
+    {
+      "filepath": "english-notes.md",
+      "timestamp": 1726038318292
+    },
+    {
+      "filepath": "clil-a.md",
+      "timestamp": 1726038317218
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true,
+  "showStarredFiles": false,
+  "starredFileStore": []
+}

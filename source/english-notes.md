@@ -1,5 +1,7 @@
 ---
 title: 小象 CLIL 内容语言整合条款
+created: 2024-03-24
+updated: 2024-09-11
 ---
 
 <img src="source/_embeds/raising-hand-bro.svg" width="80%" class="center">
@@ -13,7 +15,6 @@ title: 小象 CLIL 内容语言整合条款
 - 人数：不超过 6 人（包括 6 人在内），在学期过程中不排除有学生插班加入的可能。
 
 ## 培养目标
-
 
 - 一至两年可从 CEFR（欧洲共同语言参考标准）Pre-A1（零基础）/A1 达到 A2/B1 的水平，具体语言能力描述请参考语言能力量表 [^1]：
 
