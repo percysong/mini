@@ -24,8 +24,8 @@ updated: 2024-09-13
 | 数学  | 背诵乘法口诀                                 | ☑️ 背诵熟练        |
 | 英语  | 预习P16-17课文                             | ☑️ 跟读两遍，长句子有难度 |
 |     | 跟读P19生词句型                              | ☑️ 单词熟练，句子有难度  |
-|     | 记忆单词 Sports Day, Open Day，Parents’ Day |                |
-|     | 绘本阅读                                   |                |
+|     | 记忆单词 Sports Day, Open Day，Parents’ Day | ☑️             |
+|     | 绘本阅读                                   | ☑️ iPad 自主阅读   |
 
 {% endnote %}
 
