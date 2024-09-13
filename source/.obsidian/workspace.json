@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 200
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -176,9 +176,10 @@
   },
   "active": "bebafc4bcc688db1",
   "lastOpenFiles": [
-    "niehaochen.md",
-    "zhangqiming.md",
     "gaoshengyu.md",
+    "niehaochen.md",
+    "english-course.md",
+    "zhangqiming.md",
     "for-teachers.md",
     "student-demo.md",
     "for-parents.md",
