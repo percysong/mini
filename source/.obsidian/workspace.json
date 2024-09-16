@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2b8ed35f23fa5ca3",
+        "id": "93ff287202e91c57",
         "type": "tabs",
         "children": [
           {
-            "id": "bebafc4bcc688db1",
+            "id": "d5bd6478fef45e8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaoshengyu.md",
+                "file": "zhangqiming.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gaoshengyu.md",
+                "file": "zhangqiming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gaoshengyu.md",
+                "file": "zhangqiming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gaoshengyu.md"
+                "file": "zhangqiming.md"
               }
             }
           },
@@ -174,17 +175,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bebafc4bcc688db1",
+  "active": "d5bd6478fef45e8a",
   "lastOpenFiles": [
-    "niehaochen.md",
-    "zhangqiming.md",
-    "gaoshengyu.md",
     "student-demo.md",
+    "niehaochen.md",
+    "math.md",
+    "gaoshengyu.md",
+    "zhangqiming.md",
     "for-teachers.md",
     "english-course.md",
     "for-parents.md",
     "english-notes.md",
-    "clil-a.md",
-    "math.md"
+    "clil-a.md"
   ]
 }
