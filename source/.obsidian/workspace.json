@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5bd6478fef45e8a",
+            "id": "f5d51b9740b285c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,7 @@
                 "file": "zhangqiming.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -175,13 +174,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5bd6478fef45e8a",
+  "active": "f5d51b9740b285c6",
   "lastOpenFiles": [
-    "student-demo.md",
-    "niehaochen.md",
-    "math.md",
     "gaoshengyu.md",
+    "niehaochen.md",
     "zhangqiming.md",
+    "student-demo.md",
+    "math.md",
     "for-teachers.md",
     "english-course.md",
     "for-parents.md",
