@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "niehaochen.md",
+                "file": "gaoshengyu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "niehaochen.md",
+                "file": "gaoshengyu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "niehaochen.md",
+                "file": "gaoshengyu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "niehaochen.md"
+                "file": "gaoshengyu.md"
               }
             }
           },
@@ -177,10 +177,10 @@
   },
   "active": "a82cc76c9d02f33c",
   "lastOpenFiles": [
+    "niehaochen.md",
     "gaoshengyu.md",
     "zhangqiming.md",
     "for-teachers.md",
-    "niehaochen.md",
     "student-demo.md",
     "math.md",
     "english-course.md",
