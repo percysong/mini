@@ -27,7 +27,7 @@ Open in browser to play.
 - 逐句暂停跟读，每天读两遍，直到能熟练指读
 {% endnote %}
 
-{% pdf https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD1-U1-Reading.pdf %}
+{% pdf /source/_embeds/OD1-U1-Reading.pdf %}
 
 {% tabs 2 %}
 <!-- tab 预习视频 @fa fa-video-camera -->
