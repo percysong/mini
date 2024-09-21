@@ -3,10 +3,10 @@ title: 教师服务
 categories:
   - 教师服务
 created: 2024-03-19
-updated: 2024-09-12
+updated: 2024-09-21
 ---
 
-<img src="source/_embeds/kindergarten-student-animate.svg" width="80%" class="center">
+<img src="/embeds/kindergarten-student-animate.svg" width="80%" class="center">
 <span class="caption"><a href="https://storyset.com/education">Education illustrations by Storyset</a></span>
 
 我们不指导老师如何教学。学校和同侪或许会让您教得更好，但不一定会让您成为未来的老师，或更好的人。所谓未来的老师，是具备让学生面对未来世界的机遇和挑战做准备的意识；他们重视学生自主性（[agency](https://en.wikipedia.org/wiki/Sense_of_agency)），并具有开阔的全球视野和国际情怀。

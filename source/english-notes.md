@@ -1,10 +1,10 @@
 ---
 title: 小象 CLIL 内容语言整合条款
 created: 2024-03-24
-updated: 2024-09-11
+updated: 2024-09-21
 ---
 
-<img src="source/_embeds/raising-hand-bro.svg" width="80%" class="center">
+<img src="/embeds/raising-hand-bro.svg" width="80%" class="center">
 <span class="caption"><a href="https://storyset.com/education">Illustrations by Storyset</a></span>
 
 - 时间：周四晚 7 点至 9 点、周六上午 10 点至 12 点；

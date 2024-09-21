@@ -29,10 +29,12 @@ updated: 2024-09-21
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD2e_L1_Grammar_Book_Audio_03.mp3" type="audio/mp3">
   Open in browser to play.
 </audio>
-  
+
+[PDF 文件下载 🔗](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD1-U1-Grammar.pdf) 已打印
+
 {% endnote %}
 
-{% pdf /source/_embeds/OD1-U1-Grammar.pdf %}
+{% pdf /embeds/OD1-U1-Grammar.pdf %}
 
 {% note default %}
 
@@ -48,7 +50,7 @@ Open in browser to play.
 
 {% endnote %}
 
-{% pdf /source/_embeds/OD1-U1-Reading.pdf %}
+{% pdf /embeds/OD1-U1-Reading.pdf %}
 
 {% tabs 2 %}
 <!-- tab 预习视频 @fa fa-video-camera -->

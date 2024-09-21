@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ffd558cf5f93747",
+        "id": "1286ed301ac625f8",
         "type": "tabs",
         "children": [
           {
-            "id": "a21733e822914d48",
+            "id": "b2f2270012c696ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xiangxiyan.md",
+                "file": "wuzimo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xiangxiyan.md",
+                "file": "wuzimo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xiangxiyan.md",
+                "file": "wuzimo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xiangxiyan.md"
+                "file": "wuzimo.md"
               }
             }
           },
@@ -168,11 +168,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a21733e822914d48",
+  "active": "b2f2270012c696ad",
   "lastOpenFiles": [
+    "for-parents.md",
+    "chinese.md",
+    "calligraphy.md",
+    "english-notes.md",
+    "for-teachers.md",
     "chenruochun.md",
-    "wuzimo.md",
     "xiangxiyan.md",
+    "wuzimo.md",
+    "embeds/OD1-U1-Reading.pdf",
+    "embeds/OD1-U1-Grammar.pdf",
+    "embeds/raising-hand-bro.svg",
+    "embeds/parents-animate.svg",
+    "embeds/kindergarten-student-animate.svg",
+    "embeds/college-project-animate.svg",
+    "embeds",
+    "OD1-U1-Reading.pdf",
+    "OD1-U1-Grammar.pdf",
+    "student-demo.md",
     "_embeds/OD1-U1-Grammar.pdf",
     "_embeds/OD1-U1-Reading.pdf",
     "clil-a.md",
@@ -180,29 +195,16 @@
     "lib/pdf/web/viewer.mjs.map",
     "lib/pdf/web/viewer.mjs",
     "lib/pdf/web/viewer.js.map",
-    "lib/pdf/web/viewer.js",
-    "lib/pdf/web/viewer.html",
-    "lib/pdf/web/viewer.css",
-    "lib/pdf/web/standard_fonts/LiberationSans-Regular.ttf",
-    "lib/pdf/web/standard_fonts/LiberationSans-Italic.ttf",
     "lib/pdf/web/images/treeitem-expanded@2x.png",
     "lib/pdf/web/images/treeitem-expanded.svg",
     "lib/pdf/web/images/treeitem-expanded.png",
     "lib/pdf/web/images/treeitem-collapsed@2x.png",
     "lib/pdf/web/images/treeitem-collapsed.svg",
     "lib/pdf/web/images/treeitem-collapsed.png",
-    "lib/pdf/web/images/treeitem-collapsed-rtl@2x.png",
-    "lib/pdf/web/images/treeitem-collapsed-rtl.png",
-    "lib/pdf/web/images/toolbarButton-zoomOut@2x.png",
-    "lib/pdf/web/images/toolbarButton-zoomOut.svg",
     "lib/pdf/README.md",
     "zhangqiming.md",
     "niehaochen.md",
-    "for-teachers.md",
-    "student-demo.md",
     "math.md",
-    "english-course.md",
-    "for-parents.md",
-    "english-notes.md"
+    "english-course.md"
   ]
 }

@@ -28,7 +28,7 @@ Open in browser to play.
 
 {% endnote %}
 
-{% pdf /source/_embeds/OD1-U1-Reading.pdf %}
+{% pdf /embeds/OD1-U1-Reading.pdf %}
 
 {% tabs 2 %}
 <!-- tab 预习视频 @fa fa-video-camera -->
