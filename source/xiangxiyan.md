@@ -41,6 +41,7 @@ Open in browser to play.
 - Tips 学习小贴士
 	- 观看两遍，说说你听到了关于 Zac 的什么
 	- 逐句暂停跟读两遍，注意语音语调
+<!-- endtab -->
 {% endtabs %}
 
 {% tabs 1 %}
@@ -55,6 +56,7 @@ Open in browser to play.
 - Tips 学习小贴士
 	- 观看两遍，说说 Ryan 和 Max 家庭和自己的家庭有什么不同；
 	- 他们的朋友是谁？
+<!-- endtab -->
 {% endtabs %}
 
 

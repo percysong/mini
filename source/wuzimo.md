@@ -35,6 +35,7 @@ updated: 2024-09-21
 {% pdf https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD1-U1-Grammar.pdf %}
 
 {% note default %}
+
 #### Families and Friends 文本
 
 <audio controls>
@@ -59,6 +60,7 @@ Open in browser to play.
 - 难度 ★☆☆
 - Tips 学习小贴士
 	- 观看两遍，说说你听到了关于 Zac 的什么
+<!-- endtab -->
 {% endtabs %}
 
 {% tabs 1 %}
@@ -73,6 +75,7 @@ Open in browser to play.
 - Tips 学习小贴士
 	- 观看两遍，说说 Ryan 和 Max 家庭和自己的家庭有什么不同；
 	- 他们的朋友是谁？
+<!-- endtab -->
 {% endtabs %}
 
 
