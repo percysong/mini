@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "377ca5a532dbed87",
+        "id": "8ffd558cf5f93747",
         "type": "tabs",
         "children": [
           {
-            "id": "89564c2bee7b47a9",
+            "id": "a21733e822914d48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clil-a.md",
+                "file": "wuzimo.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clil-a.md",
+                "file": "wuzimo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clil-a.md",
+                "file": "wuzimo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clil-a.md"
+                "file": "wuzimo.md"
               }
             }
           },
@@ -160,12 +159,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "open-weather:OpenWeather": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-stille:Toggle Stille": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -175,17 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89564c2bee7b47a9",
+  "active": "a21733e822914d48",
   "lastOpenFiles": [
+    "xiangxiyan.md",
+    "chenruochun.md",
+    "wuzimo.md",
     "gaoshengyu.md",
-    "niehaochen.md",
+    "clil-a.md",
     "zhangqiming.md",
+    "niehaochen.md",
     "for-teachers.md",
     "student-demo.md",
     "math.md",
     "english-course.md",
     "for-parents.md",
-    "english-notes.md",
-    "clil-a.md"
+    "english-notes.md"
   ]
 }

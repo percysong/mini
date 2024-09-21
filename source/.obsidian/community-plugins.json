@@ -1,5 +1,4 @@
 [
-  "open-weather",
   "calendar",
   "obsidian-smart-typography",
   "quickadd",
@@ -7,25 +6,11 @@
   "obsidian-style-settings",
   "obsidian-minimal-settings",
   "obsidian-sortable",
-  "tag-wrangler",
-  "obsidian-paste-image-rename",
-  "obsidian-front-matter-title-plugin",
   "obsidian-outliner",
-  "chord-sheets",
-  "obsidian-clipper",
   "dataview",
-  "obsidian-media-db-plugin",
-  "omnisearch",
   "quick-explorer",
   "settings-search",
-  "obsidian-list-callouts",
-  "home-tab",
   "obsidian-linter",
-  "nldates-obsidian",
   "obsidian-hider",
-  "templater-obsidian",
-  "obsidian-book-search-plugin",
-  "obsidian-completr",
-  "note-toolbar",
-  "obsidian-stille"
+  "obsidian-icon-folder"
 ]
