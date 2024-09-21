@@ -38,13 +38,14 @@ updated: 2024-09-21
 
 #### Families and Friends 文本
 
+- 听录音，尝试根据图片猜测并理解文章大意
+- 逐句暂停跟读两遍，熟练指读
+
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD2e_L1_Student_Book_Audio_1.03.mp3" type="audio/mp3">
 Open in browser to play.
 </audio>
 
-- 听录音，尝试根据图片猜测并理解文章大意
-- 逐句暂停跟读两遍，熟练指读
 {% endnote %}
 
 {% pdf /source/_embeds/OD1-U1-Reading.pdf %}
