@@ -34,8 +34,6 @@ updated: 2024-09-21
 
 {% endnote %}
 
-{% pdf /embeds/OD1-U1-Grammar.pdf %}
-
 {% note default %}
 
 #### Families and Friends 文本
@@ -50,7 +48,10 @@ Open in browser to play.
 
 {% endnote %}
 
-{% pdf /embeds/OD1-U1-Reading.pdf %}
+{% grouppicture 2-2 %}
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/ODU1L1-Reading1.jpg)
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/ODU1L1-Reading2.jpg)
+{% endgrouppicture %}
 
 {% tabs 2 %}
 <!-- tab 预习视频 @fa fa-video-camera -->
