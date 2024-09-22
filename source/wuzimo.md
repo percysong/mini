@@ -32,23 +32,19 @@ updated: 2024-09-22
 
 {% endnote %}
 
+### 学习资料和学习任务
 
 {% tabs 1 %}
 
 <!-- tab 复习任务 -->
 
 {% note info %}
-Tips: 以下视频为复习视频，按计划每日复习跟读两个视频即可，无需打卡
+以下视频为复习视频，按计划每日复习跟读两个视频即可，无需打卡
 {% endnote %}
-
-{% subtabs Sub %}
-
-<!-- tab 自然拼读-->
-
-{% note info %}
 
 #### Phonics 自然拼读
 
+{% note info %}
 - 难度 ★☆☆
 - Tips 学习小贴士
 	- 访问并收藏[牛津拼读世界网站](https://elt.oup.com/student/oxfordphonicsworld/level02/watch?cc=cn&selLanguage=zh)
@@ -66,30 +62,26 @@ Tips: 以下视频为复习视频，按计划每日复习跟读两个视频即�
 	- 想想有同样组合的单词，你能说出几个？
 {% endnote %}
 
-<!-- endtab -->
-
-<!-- tab 课堂学习资料-->
-{% note info %}
-
 #### 开课视频
 
+{% note info %}
 - 难度 ★☆☆
 - Tips 学习小贴士
 	- 观看两遍，说说 Ryan 和 Max 家庭和自己的家庭有什么不同；
 	- 他们的朋友是谁？
+{% endnote %}
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD1_M1_WU.mp4" type="video/mp4">
 </video>
-{% endnote %}
-
-{% note info %}
 
 #### 歌曲音频
 
+{% note info %}
 - 难度 ★☆☆
 - Tips 学习小贴士
 	- 听一遍，跟唱两遍
+{% endnote %}
 
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD2e_L1_Student_Book_Audio_1.04.mp3" type="audio/mp3">
@@ -97,20 +89,16 @@ Tips: 以下视频为复习视频，按计划每日复习跟读两个视频即�
 
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/22/OD_U1_GR_song.jpg)
 
-{% endnote %}
-
-<!-- endtab -->
-{% endsubtabs %}
 <!-- endtab -->
 
 <!-- tab 打卡任务 -->
 
-{% note primary %}
-
 #### Families and Friends 课文
 
+{% note info %}
 - 听录音，尝试根据图片猜测并理解文章大意
-- 子墨需要花一天五分钟时间跟读两遍，周四之前完成指读打卡
+- 子墨需抽一天十分钟时间暂停跟读两遍，在下周四之前完成指读打卡
+{% endnote %}
 
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD2e_L1_Student_Book_Audio_1.03.mp3" type="audio/mp3">
@@ -121,21 +109,18 @@ Tips: 以下视频为复习视频，按计划每日复习跟读两个视频即�
 ![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/ODU1L1-Reading2.jpg)
 {% endgrouppicture %}
 
-{% endnote %}
-
-{% note primary %}
-
 #### Story 故事视频
 
+{% note info %}
 - 难度 ★★☆
 - Tips 学习小贴士
 	- 观看两遍，说说你听到了关于 Zac 的什么
-	- 跟读两遍，注意语音语调，周四前完成打卡
+	- 暂停跟读两遍，注意语音语调，周四前完成打卡
+{% endnote %}
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD1_M1_story.mp4" type="video/mp4">
 </video>
-{% endnote %}
 <!-- endtab -->
 
 {% endtabs %}
@@ -182,8 +167,6 @@ Tips: 以下视频为复习视频，按计划每日复习跟读两个视频即�
 
 ## D1, 2024年9月19日
 
-{% note info %}
-
 ### 学习内容
 
 | 学习内容                                             | 语言表达句式                                                |
@@ -196,8 +179,6 @@ Tips: 以下视频为复习视频，按计划每日复习跟读两个视频即�
 | 6. 学生带读词汇，确认每个学生的掌握情况                            |                                                       |
 | 7. 听文章，聊聊自己最喜欢的家庭类型（社会学）                         | I like the first family, (because it’s a big family). |
 | 8. 初步检测学生的词汇量、字母发音和拼读能力                          |                                                       |
-
-{% endnote %}
 
 {% note primary %}
 
