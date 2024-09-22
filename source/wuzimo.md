@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2024-09-21
+updated: 2024-09-22
 ---
 
 - 学生姓名：武子墨
@@ -10,78 +10,176 @@ updated: 2024-09-21
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 
-## D1, 2024年9月19日
+## D2, 2024年9月22日
 
 ### 学习资料和学习任务
 
 {% note primary %}
 
-#### 阅读语法加强练习
+#### 阅读语法订制加强练习
 
 **02 Audio**
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD2e_L1_Grammar_Book_Audio_02.mp3" type="audio/mp3">
-  Open in browser to play.
 </audio>
 
   **03 Audio**
   <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD2e_L1_Grammar_Book_Audio_03.mp3" type="audio/mp3">
-  Open in browser to play.
 </audio>
 
 [PDF 文件下载 🔗](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD1-U1-Grammar.pdf) 已打印
 
 {% endnote %}
 
-{% note default %}
 
-#### Families and Friends 文本
+{% tabs 1 %}
+
+<!-- tab 复习任务 -->
+
+{% note info %}
+Tips: 以下视频为复习视频，按计划每日复习跟读两个视频即可，无需打卡
+{% endnote %}
+
+{% subtabs Sub %}
+
+<!-- tab 自然拼读-->
+
+{% note info %}
+
+#### Phonics 自然拼读
+
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 访问并收藏[牛津拼读世界网站](https://elt.oup.com/student/oxfordphonicsworld/level02/watch?cc=cn&selLanguage=zh)
+	- 选择相应字母组合
+		- *e*
+		- *ed*
+		- *en*
+		- *et*
+		- *i*
+		- *ib*
+		- *id*
+		- *ig*
+	- 每天复习两个拼读视频
+	- 听一遍，暂停跟读两遍
+	- 想想有同样组合的单词，你能说出几个？
+{% endnote %}
+
+<!-- endtab -->
+
+<!-- tab 课堂学习资料-->
+{% note info %}
+
+#### 开课视频
+
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 观看两遍，说说 Ryan 和 Max 家庭和自己的家庭有什么不同；
+	- 他们的朋友是谁？
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD1_M1_WU.mp4" type="video/mp4">
+</video>
+{% endnote %}
+
+{% note info %}
+
+#### P歌曲音频
+
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟唱两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD2e_L1_Student_Book_Audio_1.04.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/22/OD_U1_GR_song.jpg)
+
+{% endnote %}
+
+<!-- endtab -->
+{% endsubtabs %}
+
+<!-- tab 打卡任务 -->
+
+{% note primary %}
+
+#### Families and Friends 课文
 
 - 听录音，尝试根据图片猜测并理解文章大意
-- 逐句暂停跟读两遍，熟练指读
+- 子墨需要花一天五分钟时间跟读两遍，周四之前完成指读打卡
 
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD2e_L1_Student_Book_Audio_1.03.mp3" type="audio/mp3">
-Open in browser to play.
 </audio>
-
-{% endnote %}
 
 {% grouppicture 2-2 %}
 ![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/ODU1L1-Reading1.jpg)
 ![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/ODU1L1-Reading2.jpg)
 {% endgrouppicture %}
 
-{% tabs 2 %}
-<!-- tab 预习视频 @fa fa-video-camera -->
+{% endnote %}
+
+{% note primary %}
+
+#### Story 故事视频
+
+- 难度 ★★☆
+- Tips 学习小贴士
+	- 观看两遍，说说你听到了关于 Zac 的什么
+	- 跟读两遍，注意语音语调，周四前完成打卡
+
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD1_M1_story.mp4" type="video/mp4">
 </video>
+{% endnote %}
 <!-- endtab -->
 
-<!-- tab 学习指导 @fa fa-info -->
-- 难度 ★☆☆
-- Tips 学习小贴士
-	- 观看两遍，说说你听到了关于 Zac 的什么
-<!-- endtab -->
 {% endtabs %}
 
-{% tabs 1 %}
-<!-- tab 复习视频 @fa fa-video-camera -->
+
+{% note info %}
+
+### 学习内容
+
+1. 复习自然拼读 short *i*, short *e*
+2. 跟读课文，教授模仿语调的方法
+3. 熟悉文章中的新词汇和短语
+	1. live with
+	2. go places together
+	3. important
+	4. play together
+	5. share things
+4. 学习阅读策略：
+	1. 通过图片推测文章意思和所表达的感情
+5. 巩固语法：Be 动词的使用，区分 is 和 are 的使用语境
+6. 完成听力和口语介绍练习
+7. 学习做 presentation 介绍自己的家庭
+	1. Hello, everyone. I’m …
+	2. This is my family. This is my … / This is me.
+	3. I have a big/small family.
+	4. Thank you, everyone.
+
+{% endnote %}
+
+### Molly 课堂上的家庭介绍
+
 <video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD1_M1_WU.mp4" type="video/mp4">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/22/IMG_0736.mp4" type="video/mp4">
 </video>
-<!-- endtab -->
 
-<!-- tab 学习指导 @fa fa-info -->
-- 难度 ★☆☆
-- Tips 学习小贴士
-	- 观看两遍，说说 Ryan 和 Max 家庭和自己的家庭有什么不同；
-	- 他们的朋友是谁？
-<!-- endtab -->
-{% endtabs %}
+{% note primary %}
 
+### 课堂反馈
+
+- Molly 自然拼读发音准确，课文语音准确，语调有待进一步模仿提升
+- 语言点对于 Molly 基本已掌握，本课主要巩固语法，锻炼听和表达
+
+{% endnote %}
+
+## D1, 2024年9月19日
 
 {% note info %}
 
