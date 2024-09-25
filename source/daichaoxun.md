@@ -13,6 +13,10 @@ updated: 2024-09-25
 
 ### 学习资料和学习任务
 
+{% note info %}
+
+
+
 {% linkgrid %}
 
 Do You Know About Mammals | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutMammals.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-05-23.png
@@ -27,11 +31,13 @@ Do You Know About Reptiles | https://mini-elephant-1318622621.cos.ap-chongqing.m
 
 Do You Know About Insects | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutInsects.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-16-06.png
 
-
-
 {% endlinkgrid %}
 
 {% note info %}
+
+Choose two animal groups you like best. Tell us what’s the characteristics do they have, what’s amazing about them.
+
+{% endnote %}
 
 ### 学习内容
 
