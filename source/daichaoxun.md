@@ -15,17 +15,17 @@ updated: 2024-09-25
 
 {% linkgrid %}
 
-Do You Know about Mammals | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutMammals.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-05-23.png
+Do You Know About Mammals | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutMammals.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-05-23.png
 
-Do You Know about Amphibians | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutAmphibians.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-22-16.png
+Do You Know About Amphibians | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutAmphibians.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-22-16.png
 
-Do You Know about Birds | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutBirds.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-24-08.png
+Do You Know About Birds | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutBirds.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-24-08.png
 
-Do You Know about Fish | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutFish.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-19-03.png
+Do You Know About Fish | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutFish.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-19-03.png
 
-Do You Know about Reptiles | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutReptiles.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-12-26.png
+Do You Know About Reptiles | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutReptiles.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-12-26.png
 
-Do You Know about Insects | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutInsects.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-16-06.png
+Do You Know About Insects | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/DoYouKnowaboutInsects.pdf | By Buffy Silverman, Lightning Bolt Books | https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/25/cover-2024-09-2517-16-06.png
 
 
 
