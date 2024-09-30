@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2024-09-27
+updated: 2024-10-01
 ---
 
 - 学生姓名：武子墨
@@ -9,6 +9,156 @@ updated: 2024-09-27
 - 年级：三年级
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
+
+## D4, 2024年9月28日
+
+### 国庆复习及打卡任务
+
+{% tabs 4 %}
+
+<!-- tab 复习任务 -->
+
+{% note info %}
+以下视频为复习视频，按计划每日复习跟读两个视频即可，无需打卡
+{% endnote %}
+
+#### Phonics 自然拼读
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- [牛津拼读世界网站 Level 2](https://elt.oup.com/student/oxfordphonicsworld/level02/watch?cc=cn&selLanguage=zh) short *a*
+		- *a*
+		- *ad*
+		- *ag*
+		- *am*
+		- *an*
+		- *ap*
+		- *at*
+	- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *e*
+		- *ee*
+		- *ea*
+		- *ey*
+		- *y*
+	- 每天复习两个拼读视频
+	- 听一遍，暂停跟读两遍
+	- 想想有同样组合的单词，你能说出几个？
+{% endnote %}
+
+#### Alphablocks 拼读视频
+
+观看隔日观看一个拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Short *A*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/01/alphablocks-the-letter-a-learn-to-read-phonics-for-kids-learning-blocks.mp4" type="video/mp4">
+</video>
+
+- Long *e*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/phonics-learn-to-read-fun-with-long-e-sounds-alphablocks.mp4" type="video/mp4">
+</video>
+
+#### P16 词汇音频
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.09.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-1.jpeg)
+
+#### P21 歌曲音频
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟唱两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.11.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-4.jpeg)
+
+<!-- endtab -->
+
+<!-- tab 打卡任务 -->
+
+#### Workbook P2–11 练习册笔头练习
+
+{% note info %}
+- 每日 1–2 页笔头练习，注意以下英文题目中的指令词：
+	- look 看
+	- match 配对
+	- circle 圈
+	- complete 完成
+	- check 打勾
+	- cross 打叉
+{% endnote %}
+
+#### P18–19 Elliot’s New Friend 课文
+
+{% note info %}
+- 听录音，逐句暂停跟读，模仿情绪和语音语调
+- 每天模仿两遍，连续跟读三天
+- 在熟练模仿之后，指读并打卡
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-2.jpeg)
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-3.jpeg)
+{% endgrouppicture %}
+
+<!-- endtab -->
+
+{% endtabs %}
+
+
+{% note info %}
+
+### 学习内容
+
+1. 学习自然拼读 long *e* 并完成工作纸
+	- 学习字母组合 *ee*, *ea*, *ey*, *y*
+2. 上台向大家分享并介绍上节课制作的家庭树以及家庭成员
+3. 学习故事 *Elliot’s New Friend*
+	1. 学习用不同的符号来标注不同角色的文本段落
+	2. 学习用手势来模仿语调的变化并模仿
+	3. 分角色带感情地朗读
+4. 语法学习和操练
+	1. *This is*, *That’s*, *These are*, *Those are*
+	2. 通过教室小动物寻宝游戏，调动学生的眼睛和身体，在游戏中操练语法
+	3. 完成练习册 P14 语法练习
+
+{% endnote %}
+
+### 课堂学习记录
+
+- Family Tree Introduction
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/IMG_0756_Molly.mp4" type="video/mp4">
+</video>
+
+- Grammar Practice 1
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/01/IMG_0762_Molly.mp4" type="video/mp4">
+</video>
+
+- Grammar Practice 2
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/01/IMG_0765_Molly.mp4" type="video/mp4">
+</video>
 
 ## D3, 2024年9月26日
 
