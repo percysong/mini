@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zhuxuanyu.md",
+                "file": "wuzimo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zhuxuanyu.md",
+                "file": "wuzimo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zhuxuanyu.md",
+                "file": "wuzimo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zhuxuanyu.md"
+                "file": "wuzimo.md"
               }
             }
           },
@@ -170,10 +170,10 @@
   },
   "active": "5fb56ba6cf9f181a",
   "lastOpenFiles": [
-    "chenruochun.md",
-    "zhuxuanyu.md",
-    "wuzimo.md",
     "xiangxiyan.md",
+    "chenruochun.md",
+    "wuzimo.md",
+    "zhuxuanyu.md",
     "zhangyuantai.md",
     "daichaoxun.md",
     "embeds/OD1-U1-Reading.pdf",

@@ -475,7 +475,6 @@
   "app:open-vault": [
     {
       "modifiers": [
-        "Alt",
         "Mod",
         "Shift"
       ],
