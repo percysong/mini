@@ -116,12 +116,6 @@ updated: 2024-10-08
 - 在熟练模仿之后，指读并打卡
 {% endnote %}
 
-{% note info %}
-- 听录音，逐句暂停跟读，模仿情绪和语音语调
-- 每天模仿两遍，连续跟读三天
-- 在熟练模仿之后，指读并打卡
-{% endnote %}
-
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.10.mp3" type="audio/mp3">
 </audio>
