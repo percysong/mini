@@ -1,7 +1,7 @@
 ---
 title: 向惜妍学习档案
 created: 2024-09-11
-updated: 2024-10-01
+updated: 2024-10-08
 ---
 
 - 学生姓名：向惜妍
@@ -104,6 +104,17 @@ updated: 2024-10-01
 {% endnote %}
 
 #### P18–19 Elliot’s New Friend 课文
+
+- 老师指导视频
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/08/IMG_0761_Percy.mp4" type="video/mp4">
+</video>
+
+{% note info %}
+- 参考老师的指导视频，听录音，逐句暂停跟读，模仿情绪和语音语调
+- 每天模仿两遍，连续跟读三天
+- 在熟练模仿之后，指读并打卡
+{% endnote %}
 
 {% note info %}
 - 听录音，逐句暂停跟读，模仿情绪和语音语调
