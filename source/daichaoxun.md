@@ -17,6 +17,12 @@ updated: 2024-10-09
 
 1. 阅读 *The NATURE a Matter* ([PDF 链接 🔗](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/09/the-nature-a-matter.pdf) )，学习新的词汇和表达；
 2. 完成练习册 P17，根据指示完成习作描写一个小动物，运用到 P16 所学的形容词。（练习册已让他带回）
+3. 复习 BrainPop 关于 Cause and Effect 视频：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/09/BrainPOP_cause-effect.mp4" type="video/mp4">
+</video>
+
 
 {% endnote %}
 
