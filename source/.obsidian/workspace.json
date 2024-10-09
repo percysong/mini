@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chenruochun.md",
+                "file": "daichaoxun.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chenruochun.md",
+                "file": "daichaoxun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chenruochun.md",
+                "file": "daichaoxun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chenruochun.md"
+                "file": "daichaoxun.md"
               }
             }
           },
@@ -155,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,17 +171,17 @@
   },
   "active": "5fb56ba6cf9f181a",
   "lastOpenFiles": [
+    "niehaochen.md",
+    "gaoshengyu.md",
+    "zhangqiming.md",
+    "zhangyuantai.md",
+    "wangwanyan.md",
+    "daichaoxun.md",
+    "chenruochun.md",
     "wuzimo.md",
     "xiangxiyan.md",
-    "chenruochun.md",
     "zhuxuanyu.md",
-    "zhangyuantai.md",
-    "daichaoxun.md",
     "embeds/OD1-U1-Reading.pdf",
-    "gaoshengyu.md",
-    "wangwanyan.md",
-    "zhangqiming.md",
-    "niehaochen.md",
     "embeds/OD1-U1-Grammar.pdf",
     "for-parents.md",
     "chinese.md",
