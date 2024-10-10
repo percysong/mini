@@ -9,6 +9,109 @@ updated: 2024-10-01
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 
+## D4, 2024年10月10日
+
+### 学习资料和学习任务
+
+{% tabs 2 %}
+
+<!-- tab 复习任务 -->
+
+{% note info %}
+以下视频为复习视频，按计划每日复习，无需打卡
+{% endnote %}
+
+{% note info %}
+#### Phonics 自然拼读
+
+- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh#tracktitle) Long *e*
+	- *ue*
+	- *ew*
+	- *oo*
+- 每天复习两个拼读视频
+- 听一遍，暂停跟读两遍
+- 想想有同样组合的单词，你能说出几个？
+{% endnote %}
+
+{% note info %}
+#### National Geographic: *Animal Homes*
+
+- [PDF 文件链接 🔗]()
+- 自主阅读，复习巩固认读
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/10/IMG_0036.mp4" type="video/mp4">
+</video>
+
+{% endnote %}
+
+{% note info %}
+#### P56 词汇音频
+
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/10/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+<!-- endtab -->
+
+<!-- tab 打卡任务 -->
+
+{% note info %}
+
+#### P58–59 *My Friend Anak*
+
+- 听录音，暂停跟读三遍，坚持三天，注意逗号、句号停顿，模仿语调，找到读句子的感觉
+- 需抽一天十分钟时间暂停跟读两遍，完成指读打卡
+- 注意：装订成册的书文字版本有出入，请使用单独彩色打印的文本；
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/10/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+<!-- endtab -->
+
+{% endtabs %}
+
+{% note info %}
+
+### 课堂学习内容及反馈
+
+#### 开课口语操练
+
+用英语谈论了此次国庆假期澳洲的行程，所见所闻，提前进入了语言环境。同时聊了行程中最喜欢的动物，回到课程主题。
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/10/IMG_0040.jpeg)
+
+#### 自然拼读
+
+- long *u*
+对于 long *u* 的发音没有问题，辨音会有一定的出入，比如 short *u* (*book*) 和 long *u* (moon) 的区别，需在牛津拼读的视频跟读练习中注意
+
+#### 动物在哪里生活
+
+- **泛读**
+	- 课前阅读国家地理杂志的补充绘本，了解了更多动物的栖息地及其名称
+- **词汇**：
+	- 学习了部分没有接触过的新词汇，同时也算是扩宽国际视野和知识面
+	- *orangutan* 音节较多，需注意拼读和发音
+	- *reserve* 的发音稍困难，需注意
+- **阅读策略**：辨认故事角色能帮助我们更好地理解文本
+- **阅读**：*My Friend Anak*
+	- 讲述动物保护区的真实故事，了解动物跟人类共处的模式
+	- 使用时间线和关键词来练习复述，基本能根据自己找到的关键信息在老师提示下来讲述完整故事。
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/10/IMG_0038.mp4" type="video/mp4">
+</video>
+
+{% endnote %}
+
 ## D2&3, 2024年9月27–28日
 
 ### 学习资料和学习任务
