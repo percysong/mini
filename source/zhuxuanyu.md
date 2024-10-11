@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-10-01
+updated: 2024-10-11
 ---
 
 - 学生姓名：朱宣宇
@@ -22,6 +22,7 @@ updated: 2024-10-01
 {% endnote %}
 
 {% note info %}
+
 #### Phonics 自然拼读
 
 - [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh#tracktitle) Long *e*
@@ -34,6 +35,7 @@ updated: 2024-10-01
 {% endnote %}
 
 {% note info %}
+
 #### National Geographic: *Animal Homes*
 
 - [PDF 文件链接 🔗]()
@@ -46,6 +48,7 @@ updated: 2024-10-01
 {% endnote %}
 
 {% note info %}
+
 #### P56 词汇音频
 
 - 难度 ★☆☆
