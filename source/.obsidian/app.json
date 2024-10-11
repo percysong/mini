@@ -1,5 +1,5 @@
 {
-  "trashOption": "local",
+  "trashOption": "system",
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "visible",
   "promptDelete": false,
