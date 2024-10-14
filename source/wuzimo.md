@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2024-10-08
+updated: 2024-10-14
 ---
 
 - 学生姓名：武子墨
@@ -9,6 +9,81 @@ updated: 2024-10-08
 - 年级：三年级
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
+
+## D5, 2024年10月13日
+
+### 学习任务
+
+{% tabs 5 %}
+
+<!-- tab 复习任务 -->
+
+{% note info %}
+以下视频为复习视频，按计划每日复习跟读两个视频即可，无需打卡
+{% endnote %}
+
+#### Phonics 自然拼读
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *u*
+		- *ue*
+		- *ew*
+		- *oo*
+	- 每天复习一个拼读视频
+	- 听一遍，暂停跟读两遍
+	- 想想有同样组合的单词，你能说出几个？
+{% endnote %}
+
+#### Alphablocks 拼读视频
+
+观看隔日观看一个拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *u*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/14/learn-to-read-phonics-for-kids-long-u-vowels.mp4" type="video/mp4">
+</video>
+
+#### Rainbow Colors Song
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/14/rainbow-colors-song-colors-song-for-kids-the-singing-walrus.mp4" type="video/mp4">
+</video>
+
+#### Who’s In the Tree | Colors of the Sky
+
+{% note info %}
+- 听录音，暂停跟读三遍，注意模仿语调
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.18.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-1.jpeg)
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-2.jpeg)
+{% endgrouppicture %}
+
+<!-- endtab -->
+
+{% endtabs %}
+
+
+{% note info %}
+
+### 课堂学习内容
+
+1. 学习自然拼读 long *u*
+	- 学习字母组合 *ue*, *ew*, *oo*
+2. 复习基本的颜色词汇，巩固读音和拼读
+3. 学习三原色、三间色、颜色轮等艺术学科概念
+	1. 句式 *We mix red and yellow to create orange.*
+	2. 学习 P38 文本
+4. 预习 P30 诗歌
+
+{% endnote %}
 
 ## D4, 2024年9月28日
 
