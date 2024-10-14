@@ -1,7 +1,7 @@
 ---
 title: 陈若淳学习档案
 created: 2024-09-11
-updated: 2024-10-08
+updated: 2024-10-14
 ---
 
 - 学生姓名：陈若淳
@@ -25,20 +25,20 @@ updated: 2024-10-08
 #### Phonics 自然拼读
 
 {% note info %}
-- 难度 ★☆☆
-- Tips 学习小贴士
-	- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *u*
-		- *ue*
-		- *ew*
-		- *oo*
-	- 每天复习一个拼读视频
-	- 听一遍，暂停跟读两遍
-	- 想想有同样组合的单词，你能说出几个？
+- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *u*
+	- *ue*
+	- *ew*
+	- *oo*
+- 每天复习一个拼读视频
+- 听一遍，暂停跟读两遍
+- 想想有同样组合的单词，你能说出几个？
 {% endnote %}
 
 #### Alphablocks 拼读视频
 
-观看隔日观看一个拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+{% note info %}
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+{% endnote %}
 
 - Long *u*
 <video width="100%" height="auto" controls>
@@ -47,6 +47,10 @@ updated: 2024-10-08
 
 #### Rainbow Colors Song
 
+{% note info %}
+聆听歌曲，每日跟唱一遍，熟悉各类颜色词汇。
+{% endnote %}
+
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/14/rainbow-colors-song-colors-song-for-kids-the-singing-walrus.mp4" type="video/mp4">
 </video>
@@ -54,7 +58,7 @@ updated: 2024-10-08
 #### Who’s In the Tree | Colors of the Sky
 
 {% note info %}
-- 听录音，暂停跟读三遍，注意模仿语调
+听录音，暂停跟读三遍，连续跟读两日，注意模仿语调。
 {% endnote %}
 
 <audio controls>
@@ -84,7 +88,6 @@ updated: 2024-10-08
 4. 预习 P30 诗歌
 
 {% endnote %}
-
 
 ## D4, 2024年9月28日
 
