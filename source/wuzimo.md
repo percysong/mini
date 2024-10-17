@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2024-10-14
+updated: 2024-10-17
 ---
 
 - 学生姓名：武子墨
@@ -25,7 +25,7 @@ updated: 2024-10-14
 #### Phonics 自然拼读
 
 {% note info %}
-- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *u*
+- *[牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long u*
 	- *ue*
 	- *ew*
 	- *oo*

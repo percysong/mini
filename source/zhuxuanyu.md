@@ -1,13 +1,96 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-10-11
+updated: 2024-10-17
 ---
 
 - 学生姓名：朱宣宇
 - English Name: Rocky
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
+
+## D5, 2024年10月16日
+
+### 学习资料和学习任务
+
+#### Phonics 自然拼读
+
+- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh#tracktitle) Long *o*
+	- *oa*
+	- *ow*
+	- *oo*
+- 每天复习一个拼读视频
+- 听一遍，暂停跟读两遍
+- 想想有同样组合的单词，你能说出几个？
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *u*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/14/learn-to-read-phonics-for-kids-long-u-vowels.mp4" type="video/mp4">
+</video>
+
+- Long *o*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/17/learn-to-read-phonics-for-kids-long-o-vowels.mp4" type="video/mp4">
+</video>
+
+#### 复习 P58–59 *My Friend Anak*
+
+- 听录音，对于自己不熟悉的段落跟读两遍；
+- 注意：装订成册的书文字版本有出入，请使用单独彩色打印的文本；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/10/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### BrainPop 关于四季的视频
+
+- 回看视频，复习每个季节的特点
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/17/BrainPOP-JR-seasons.mp4" type="video/mp4">
+</video>
+
+#### *Four Seasons* 课文阅读打卡
+
+- 听录音，暂停跟读三遍，分两天完成，注意模仿语调
+- 另需抽一天十分钟时间暂停跟读两遍，完成指读打卡
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/17/OD2e_L1_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+</audio>
+
+### 课堂学习内容及反馈
+
+#### 自然拼读
+
+- 复习 long *u*
+- 学习 long *o*
+	- ow, oa
+
+#### 阅读策略
+
+学习阅读图片的描述文字 *captions*, 以快更全面地理解课文。
+
+#### 学习四季的知识和课文
+
+复习四季词汇，用不同表达描述四季的各个方面：
+	- *When is (fall)*: it comes after (summer).
+	- *What is (fall) weather like*: it gets cool.
+	- *What do plants do in fall*
+	- *What do animals do*
+
+观看 BrainPop 补充视频，用全英文介绍四季和为什么有四季的产生。
+
+- 白板画图英文讲解科学知识
+  ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/17/IMG_4253.jpeg)
+
+- Rocky 画图模拟
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/17/IMG_4251.mp4" type="video/mp4">
+</video>
 
 ## D4, 2024年10月10日
 

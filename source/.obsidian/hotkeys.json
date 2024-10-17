@@ -114,30 +114,6 @@
       "key": "H"
     }
   ],
-  "editor:set-heading-1": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "1"
-    }
-  ],
-  "editor:set-heading-2": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "2"
-    }
-  ],
-  "editor:set-heading-3": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "3"
-    }
-  ],
   "outgoing-links:open": [
     {
       "modifiers": [
@@ -479,6 +455,38 @@
         "Shift"
       ],
       "key": "O"
+    }
+  ],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:set-heading-2": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "2"
+    }
+  ],
+  "editor:set-heading-3": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "3"
+    }
+  ],
+  "editor:set-heading-4": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "4"
     }
   ]
 }
