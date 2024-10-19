@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "liaopeiyan.md",
+                "file": "shaoyuhan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "liaopeiyan.md",
+                "file": "shaoyuhan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "liaopeiyan.md",
+                "file": "shaoyuhan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "liaopeiyan.md"
+                "file": "shaoyuhan.md"
               }
             }
           },
@@ -155,8 +156,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,11 +177,12 @@
   "active": "5fb56ba6cf9f181a",
   "lastOpenFiles": [
     "wuzimo.md",
-    "liaopeiyan.md",
+    "shaoyuhan.md",
+    "daichaoxun.md",
     "zhuxuanyu.md",
+    "liaopeiyan.md",
     "niehaochen.md",
     "wangwanyan.md",
-    "daichaoxun.md",
     "zhangqiming.md",
     "gaoshengyu.md",
     "Music/Songs",
