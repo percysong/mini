@@ -20,9 +20,9 @@ updated: 2024-10-19
 
 - 听录音，跟读 *Amazing Animals* P10–11
 - 分成两页，每两天熟练跟读一页，逐句暂停跟读两遍，模仿语音语调，找到读句子的感觉。
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/19/OD2e_L2_Student_Book_Audio_1.03.mp3" type="video/mp4">
-</video>
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/19/OD2e_L2_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+</audio>
 
 - P13 听歌曲，每天暂停跟唱两遍，跟唱三天；
 <audio controls>
