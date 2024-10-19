@@ -13,7 +13,7 @@ updated: 2024-10-19
 
 ### 学习资料和学习任务
 
-- 听录音，复习词汇 P8，想想不同的身体部位对应哪一类的动物；
+- 听录音，复习词汇 P8，想想不同的身体部位对应哪一类的动物
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/19/ODF_SB1_1.02.mp3" type="audio/mp3">
 </audio>
@@ -24,7 +24,7 @@ updated: 2024-10-19
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/19/OD2e_L2_Student_Book_Audio_1.03.mp3" type="audio/mp3">
 </audio>
 
-- P13 听歌曲，每天暂停跟唱两遍，跟唱三天；
+- P13 听歌曲，每天暂停跟唱两遍，跟唱三天
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/19/ODF_SB1_1.02.mp3" type="audio/mp3">
 </audio>
