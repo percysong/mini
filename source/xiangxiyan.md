@@ -39,6 +39,7 @@ updated: 2024-10-20
 #### 自学 P33–C 歌曲
 
 - 每天跟唱两遍，持续两天，注意目标句型
+
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.19.mp3" type="audio/mp3">
 </audio>
