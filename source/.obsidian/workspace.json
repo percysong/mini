@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shaoyuhan.md",
+                "file": "xiangxiyan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -26,6 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "chenruochun.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0b85b432b0b9e28e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "wuzimo.md",
                 "mode": "source",
                 "backlinks": true,
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shaoyuhan.md",
+                "file": "wuzimo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shaoyuhan.md",
+                "file": "wuzimo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shaoyuhan.md"
+                "file": "wuzimo.md"
               }
             }
           },
@@ -155,13 +169,23 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "c57f67643e1ad694",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "wuzimo.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,12 +198,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fb56ba6cf9f181a",
+  "active": "0b85b432b0b9e28e",
   "lastOpenFiles": [
+    "chenruochun.md",
+    "xiangxiyan.md",
     "wuzimo.md",
     "shaoyuhan.md",
-    "daichaoxun.md",
     "zhuxuanyu.md",
+    "daichaoxun.md",
     "liaopeiyan.md",
     "niehaochen.md",
     "wangwanyan.md",
@@ -187,8 +213,6 @@
     "gaoshengyu.md",
     "Music/Songs",
     "Music",
-    "xiangxiyan.md",
-    "chenruochun.md",
     "zhangyuantai.md",
     "CleanShot X 2024-10-10 18.43.43.png",
     "embeds/OD1-U1-Reading.pdf",

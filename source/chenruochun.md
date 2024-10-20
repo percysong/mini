@@ -1,7 +1,7 @@
 ---
 title: 陈若淳学习档案
 created: 2024-09-11
-updated: 2024-10-14
+updated: 2024-10-20
 ---
 
 - 学生姓名：陈若淳
@@ -9,6 +9,96 @@ updated: 2024-10-14
 - 年级：三年级
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
+
+## D6, 2024年10月20日（+10月17日网课）
+
+### 学习任务
+
+#### Phonics 自然拼读
+
+{% note info %}
+- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *o*
+	- *oa*
+	- *ow*
+- 每天复习一个拼读视频
+- 听一遍，暂停跟读两遍
+- 想想有同样组合的单词，你能说出几个？
+{% endnote %}
+
+#### Alphablocks 拼读视频
+
+{% note info %}
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+{% endnote %}
+
+- Long *o*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/20/learn-to-read-phonics-for-kids-long-o-vowels.mp4" type="video/mp4">
+</video>
+
+#### 自学 P33 P33–C 歌曲
+
+- 每天跟唱两遍，持续两天，注意目标句型
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.19.mp3" type="audio/mp3">
+</audio>
+
+#### 打卡任务：P33–D 看图片说一说
+
+- 找一找草丛中的小动物，用 There is / There are 的句型说一说
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/20/clean-shot-2024-10-20-at-16-12-48-2-x.png)
+
+#### 打卡任务：Who’s In the Tree | Colors of the Sky
+
+{% note info %}
+听录音，暂停跟读三遍，连续跟读两日，注意模仿语调。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.18.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-1.jpeg)
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-2.jpeg)
+{% endgrouppicture %}
+
+#### 练习册 Workbook P11–13, P18–19
+
+- 补之前 P11–13 练习（<mark>Danny 尚未完成</mark>）
+	- 注意 P12–A 题目，是需要在阅读之前看图片猜测的
+- P19–D 注意人名首字母大写
+
+{% note info %}
+
+### 课堂学习内容及反馈
+
+1. 练习册检查及订正讲解
+	- <mark>Danny 书写认真，整体正确率很高</mark>
+2. 自然拼读 
+	- 复习拼读 short *i*, short *e*, short *a*, long *e*, long *u*
+	- 学习字母组合 long *o*: *oa*, *ow*
+	- 完成拼读练习题单（<mark> Danny 速度过慢，第二页未完成</mark>）
+3. 复习什么是 story, 以及 P186–187 关于 *Elliot’s New Friend* 剧本 (playscript)
+	- 认识了角色 characters、旁白 narrator、齐声 chorus
+	- 再次复习剧本并做了读者剧场 (Readers’ Theatre) 的活动
+4. 学习了什么是诗歌 poem 以及诗歌的特点
+	- usually short 一般比较短小
+	- have ending words that sound the same (rhyme) 有押韵
+	- 做了找韵尾的游戏
+5. 学习诗歌 *Who’s In the Tree* & *Colors of the Sky*
+	- 圈一圈这两篇诗歌中押韵的词
+	- 用英文和图片来学习新词汇 garden, problem, clouds, night
+	- 有感情地朗读诗歌，注意录音的情绪（<mark>Danny 的语音语调模仿非常准确，请继续保持</mark>）
+6. 学习并操练语法 There is / There are
+	- 看图片，用目标句型说一说看到的动物（<mark>熟练度需要提升</mark>）
+	  <video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/20/IMG_0079.mp4" type="video/mp4">
+	  </video>
+	- 读句子，选择相应的图片
+	- 完成相关练习题单（<mark>Danny 完成速度过慢，最后一题未完成，请补完</mark>）
+
+{% endnote %}
 
 ## D5, 2024年10月13日
 
