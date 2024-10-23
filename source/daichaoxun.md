@@ -9,6 +9,46 @@ updated: 2024-10-19
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
 
+## D4, 2024年10月22日
+
+### 学习资料和学习任务
+
+{% note info %}
+
+1. 复习绘本 *The NATURE a Matter* ([PDF 链接 🔗](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/09/the-nature-a-matter.pdf) )，注意本节课学习的新词汇和概念：
+	- **condensation**: the process by which a gas cools and becomes a liquid; small drops of water that form on a cold surface
+	- **evaporation**: the process of changing from a liquid to a gas
+	- **mass**: the amount of matter (material) in something
+	- **volume**: the amount of space that something takes up
+	- **vapor**: a liquid in the form of a gas, or tiny drops of water mixed with the air
+2. 完成练习册 P30–31（练习册已带回）
+3. 复习 BrainPop 关于 Changing States of matter 的视频：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/23/changing-states-of-matter.mp4" type="video/mp4">
+</video>
+
+{% endnote %}
+
+{% note info %}
+
+### 学习内容及反馈
+
+#### Warm Up
+
+1. 回顾复习物质三态及其特点（<mark>基本掌握到位，有个别词汇没有想起来，如 flow, heat 等</mark>）
+2. 观看 BrainPop 科学互动视频，巩固了三态，学习了新的概念和词汇，并完成课后练习
+	- 凝结 condense / condensation
+	- 蒸发 evaporate / evaporation
+	- 粒子 particle
+	- 质量 mass
+	- 体积 volume
+	- 水蒸气 vapor
+3. 阅读故事，学习如何不用冰箱的情况下制作冰激凌
+4. 完成课后练习（<mark>有点粗心，在理解的情况下选错两道 True OR False 的题目</mark>）
+
+{% endnote %}
+
 ## D3, 2024年10月8日
 
 ### 学习资料和学习任务

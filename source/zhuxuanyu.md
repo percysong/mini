@@ -1,13 +1,82 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-10-17
+updated: 2024-10-22
 ---
 
 - 学生姓名：朱宣宇
 - English Name: Rocky
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
+
+## D6, 2024年10月21日
+
+### 学习资料和学习任务
+
+#### Phonics 自然拼读
+
+- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh#tracktitle) Long *i*
+	- *igh*
+	- *ie*
+	- *y*
+- 每天复习一个拼读视频
+- 听一遍，暂停跟读两遍
+- 想想有同样组合的单词，你能说出几个？
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *i*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/learn-to-read-phonics-for-kids-long-i-vowels.mp4" type="video/mp4">
+</video>
+
+#### 复习*Four Seasons* 课文
+
+- 听录音，暂停跟读一遍，坚持两天
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/17/OD2e_L1_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+</audio>
+
+#### *Arnold’s Apple Tree* 课文阅读打卡
+
+- 听录音，暂停跟读三遍，分两天完成，注意模仿语调
+- 另需抽一天十分钟时间暂停跟读两遍，完成指读打卡
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P58–58
+
+### 课堂学习内容及反馈
+
+#### 开课口语练习
+
+- Rocky 介绍了自己最喜欢的活动 fishing
+- 介绍了 fishing pole, baits 等词汇帮助表达
+- Rocky 聊了聊自己最喜欢的季节（录音 ⬇️）
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/rocky-2024-10-22.m4a" type="audio/mp3">
+</audio>
+
+#### 自然拼读
+
+- 复习 long *u*, long *o*
+- 学习 long *i*
+	- igh, ie, y
+
+#### 阅读策略
+
+复习阅读图片的描述文字 *captions*, 以快更全面地理解课文。
+
+#### 阅读
+
+- 探究人们在不同季节的不同活动，通过阅读文本，了解中西方不同季节中活动的文化差异。
+- 了解苹果树在不同季节里的变化和表达方式，探索人与自然的关系。
 
 ## D5, 2024年10月16日
 

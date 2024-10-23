@@ -1,13 +1,105 @@
 ---
 title: 廖培焱学习档案
 created: 2024-09-11
-updated: 2024-10-17
+updated: 2024-10-22
 ---
 
 - 学生姓名：廖培焱
 - English Name: Jerry
 - 年级：四年级
 - 开始学习日期：2024 年 10 月 9 日
+
+## D4–5, 2024年10月21, 23日
+
+### 学习资料和学习任务
+
+#### Phonics 自然拼读
+
+{% note info %}
+- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *o*
+	- oa
+	- ow
+- 每天复习两个拼读视频
+- 听一遍，暂停跟读两遍
+- 想想有同样组合的单词，你能说出几个？
+{% endnote %}
+
+#### Alphablocks 拼读视频
+
+观看隔日观看一个拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *o*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/17/learn-to-read-phonics-for-kids-long-o-vowels.mp4" type="video/mp4">
+</video>
+
+#### 复习 Families and Friends 课文
+
+{% note info %}
+- 听录音，暂停跟读两遍，持续两天，注意语调
+- <mark>尤其是最后一段，还读得不是很熟</mark>
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD2e_L1_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/ODU1L1-Reading1.jpg)
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/ODU1L1-Reading2.jpg)
+{% endgrouppicture %}
+
+#### P16 词汇音频
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.09.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-1.jpeg)
+
+#### P18–19 Elliot’s New Friend 课文
+
+- 老师指导视频
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/08/IMG_0761_Percy.mp4" type="video/mp4">
+</video>
+
+{% note info %}
+- 参考老师的指导视频，听录音，逐句暂停跟读，模仿情绪和语音语调
+- 每天模仿两遍，连续跟读三天
+- 在熟练模仿之后，指读并打卡
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-2.jpeg)
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-3.jpeg)
+{% endgrouppicture %}
+
+
+{% note primary %}
+
+### 课堂学习内容和反馈
+
+- 复习第一单元课文：<mark>比上次熟练一些，但注意语调和最后一段的练习</mark>
+- 学习描述情绪、动物和动作的词汇
+- 学习阅读策略：根据图片猜测文章大意
+- 学习故事 *Elliot’s New Friend*
+	- 分析角色
+	- 用不同符号标记不同角色
+	- 了解主角的情感变化
+- 完成课后练习题 P20
+
+{% endnote %}
 
 ## D2–3, 2024年10月14, 16日
 
