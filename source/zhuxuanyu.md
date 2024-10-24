@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-10-22
+updated: 2024-10-24
 ---
 
 - 学生姓名：朱宣宇
@@ -9,7 +9,7 @@ updated: 2024-10-22
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 
-## D6, 2024年10月21日
+## D6&7, 2024年10月21, 23日
 
 ### 学习资料和学习任务
 
@@ -19,7 +19,16 @@ updated: 2024-10-22
 	- *igh*
 	- *ie*
 	- *y*
-- 每天复习一个拼读视频
+- [牛津拼读世界网站 Level 2](https://elt.oup.com/student/oxfordphonicsworld/level02/watch?cc=cn&selLanguage=zh) short *u* （第一个必听，后面的有时间每天可以听两个）
+	- *u* 
+	- *ub*
+	- *ud*
+	- *ug*
+	- *um*
+	- *un*
+	- *up*
+	- *ut*
+- 每天复习两个拼读视频
 - 听一遍，暂停跟读两遍
 - 想想有同样组合的单词，你能说出几个？
 
@@ -32,6 +41,11 @@ updated: 2024-10-22
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/learn-to-read-phonics-for-kids-long-i-vowels.mp4" type="video/mp4">
 </video>
 
+- Short *u*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/23/alphablocks-short-u.mp4" type="video/mp4">
+</video>
+
 #### 复习*Four Seasons* 课文
 
 - 听录音，暂停跟读一遍，坚持两天
@@ -40,7 +54,7 @@ updated: 2024-10-22
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/17/OD2e_L1_Student_Book_Audio_1.48.mp3" type="audio/mp3">
 </audio>
 
-#### *Arnold’s Apple Tree* 课文阅读打卡
+#### 朗读打卡：P78–79 *Arnold’s Apple Tree* 课文
 
 - 听录音，暂停跟读三遍，分两天完成，注意模仿语调
 - 另需抽一天十分钟时间暂停跟读两遍，完成指读打卡
@@ -49,7 +63,17 @@ updated: 2024-10-22
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
 </audio>
 
-#### 练习册 Workbook P58–58
+#### 复习 P90–91 课文 *Working with Numbers* 课文
+
+#### 练习册 Workbook
+
+- 阅读相对容易，不能查单词或问老师，自主完成
+- 每天完成两页即可
+
+- [ ] P58–59 阅读
+- [ ] P60–61 语法
+- [ ] P66–67 阅读
+- [ ] P74–75 词汇（打印的题单）
 
 ### 课堂学习内容及反馈
 
@@ -68,15 +92,33 @@ updated: 2024-10-22
 - 复习 long *u*, long *o*
 - 学习 long *i*
 	- igh, ie, y
+- 学习 short *u*
 
 #### 阅读策略
 
-复习阅读图片的描述文字 *captions*, 以快更全面地理解课文。
+- 复习阅读图片的描述文字 *captions*, 以快更全面地理解课文
+- 学习小标题 *Heading*, 通过小标题猜测文章大意
 
 #### 阅读
 
 - 探究人们在不同季节的不同活动，通过阅读文本，了解中西方不同季节中活动的文化差异。
 - 了解苹果树在不同季节里的变化和表达方式，探索人与自然的关系。
+- 次日课堂复习课文中的生词
+	- bud
+	- blossom
+	- nectar
+	- shade
+	- juggle
+	- soft
+	- branch
+	- bare
+	- string
+- 复习课文，拼读和朗读训练，加强语感
+
+#### 数学
+
+- 学习数字和基本加法运算符号的词汇
+- 阅读文本，了解数学相关表达
 
 ## D5, 2024年10月16日
 

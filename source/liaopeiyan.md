@@ -1,7 +1,7 @@
 ---
 title: 廖培焱学习档案
 created: 2024-09-11
-updated: 2024-10-22
+updated: 2024-10-24
 ---
 
 - 学生姓名：廖培焱
@@ -9,7 +9,7 @@ updated: 2024-10-22
 - 年级：四年级
 - 开始学习日期：2024 年 10 月 9 日
 
-## D4–5, 2024年10月21, 23日
+## D4&5, 2024年10月21, 23日
 
 ### 学习资料和学习任务
 
@@ -17,8 +17,17 @@ updated: 2024-10-22
 
 {% note info %}
 - [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *o*
-	- oa
-	- ow
+	- *oa*
+	- *ow*
+- - [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *u*
+	- *ue*
+	- *ew*
+	- *oo*
+- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *e*
+	- *ee*
+	- *ea*
+	- *ey*
+	- *y*
 - 每天复习两个拼读视频
 - 听一遍，暂停跟读两遍
 - 想想有同样组合的单词，你能说出几个？
@@ -63,7 +72,7 @@ updated: 2024-10-22
 
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-1.jpeg)
 
-#### P18–19 Elliot’s New Friend 课文
+#### 朗读打卡：P18–19 Elliot’s New Friend 课文
 
 - 老师指导视频
 <video width="100%" height="auto" controls>
@@ -85,6 +94,9 @@ updated: 2024-10-22
 ![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-3.jpeg)
 {% endgrouppicture %}
 
+#### 练习册 Workbook P3–15
+
+练习册已打印发给了 Jerry，内容相对容易，每天完成两页。
 
 {% note primary %}
 
@@ -98,10 +110,16 @@ updated: 2024-10-22
 	- 用不同符号标记不同角色
 	- 了解主角的情感变化
 - 完成课后练习题 P20
+- 次日复习故事，拼读和朗读训练
+	- <mark>总体能自己读，部分句子和单词不准确，需要坚持听录音跟读练习，加强语感</mark>
+- 操练语法 *This, That, These, Those*
+	- <mark>这几个词说的时候容易搞混，训练之后做题效果不错</mark>
+- 学习宠物词汇，完成课后练习题
+- 学习大写字母的规则
 
 {% endnote %}
 
-## D2–3, 2024年10月14, 16日
+## D2&3, 2024年10月14, 16日
 
 ### 学习资料和学习任务
 
