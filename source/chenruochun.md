@@ -1,7 +1,7 @@
 ---
 title: 陈若淳学习档案
 created: 2024-09-11
-updated: 2024-10-20
+updated: 2024-10-25
 ---
 
 - 学生姓名：陈若淳
@@ -9,6 +9,101 @@ updated: 2024-10-20
 - 年级：三年级
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
+
+## D7, 2024年10月24日
+
+### 学习任务
+
+#### Oxford Phonics 自然拼读
+
+{% note info %}
+- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *i*
+	- *y*
+	- *igh*
+	- *ie*
+- 每天复习一个拼读视频
+- 听一遍，暂停跟读两遍
+- 想想有同样组合的单词，你能说出几个？
+{% endnote %}
+
+#### Alphablocks 拼读动画
+
+{% note info %}
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+{% endnote %}
+
+- Long *i*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/learn-to-read-phonics-for-kids-long-i-vowels.mp4" type="video/mp4">
+</video>
+
+#### 复习 P44 词汇
+
+{% note info %}
+Listen and point to the words. Listen again and say the words.
+听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/25/OD2e_L1_Student_Book_Audio_1.20.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P45 口语对话
+
+{% note info %}
+Listen and repeat.
+听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/25/OD2e_L1_Student_Book_Audio_1.23.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P45 词汇
+
+{% note info %}
+Listen and point to the words. Listen again and say the words.
+听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/25/OD2e_L1_Student_Book_Audio_1.24.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 Who’s In the Tree | Colors of the Sky
+
+{% note info %}
+听录音，暂停跟读两遍，连续跟读两日，注意模仿语调。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.18.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-1.jpeg)
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-2.jpeg)
+{% endgrouppicture %}
+
+#### 练习册 Workbook P21C–23E
+
+P23-D: 选择一个押韵的词填空
+
+{% note info %}
+
+### 课堂学习内容及反馈
+
+1. 检查诗歌朗读情况和练习册作业
+	<mark>Danny 的语音语调模仿的都很好，接下来两天加强熟练即可</mark>
+2. 学习自然拼读 long *i*，完成练习
+3. 复习语法 There be 句型操练，描述教室里面的物品
+4. 学习更多颜色，包括描述颜色深浅的词汇 *dark, light*， 完成 P34 听力练习
+5. 口语操练：除了 Yes 我们还可以用 Sure 回答邀请
+6. 学习语法 Nouns, 了解 nouns 可以是 person, place or thing（<mark>名词的概念理解对于Danny稍有难度，可以在之后的学习中慢慢渗透这个概念</mark>）
+7. 学习关于海洋和艺术的词汇 P36；
+8. 学习阅读策略，通过阅读标题预测文章（Predicting from titles）
+
+{% endnote %}
 
 ## D6, 2024年10月20日（+10月17日网课）
 
