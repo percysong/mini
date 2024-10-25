@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xiangxiyan.md",
+                "file": "wuzimo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "xiangxiyan"
+              "title": "wuzimo"
             }
           },
           {
@@ -156,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xiangxiyan.md"
+                "file": "wuzimo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of xiangxiyan"
+              "title": "Outline of wuzimo"
             }
           },
           {
@@ -208,9 +208,9 @@
   },
   "active": "6c997d3924c77573",
   "lastOpenFiles": [
+    "xiangxiyan.md",
     "chenruochun.md",
     "zhuxuanyu.md",
-    "xiangxiyan.md",
     "wuzimo.md",
     "daichaoxun.md",
     "liaopeiyan.md",
