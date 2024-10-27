@@ -1,7 +1,7 @@
 ---
 title: 陈若淳学习档案
 created: 2024-09-11
-updated: 2024-10-25
+updated: 2024-10-27
 ---
 
 - 学生姓名：陈若淳
@@ -9,6 +9,135 @@ updated: 2024-10-25
 - 年级：三年级
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
+---
+
+## D8, 2024年10月26日
+
+### 学习任务
+
+{% note info %}
+学习小贴士：
+
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+- 打卡阅读的文章每日跟读一段，连续跟读三天后尝试自己朗读
+- 练习册部分每日完成两页（计时8分钟）
+{% endnote %}
+
+#### Oxford Phonics 自然拼读
+
+- [牛津拼读世界网站 Level 2](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) short *u*
+	- *u* 
+	- *ub*
+	- *ud*
+	- *ug*
+	- *um*
+	- *un*
+	- *up*
+	- *ut*
+
+#### Alphablocks 拼读动画
+
+{% note info %}
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+{% endnote %}
+
+- Short *u*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/23/alphablocks-short-u.mp4" type="video/mp4">
+</video>
+
+#### 复习 P36 词汇
+
+{% note info %}
+Listen and point to the words. Listen again and say the words.
+听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/25/OD2e_L1_Student_Book_Audio_1.24.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P41 歌曲 *The Starfish*
+
+{% note info %}
+听录音，跟唱两遍，连续跟唱两天。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/OD2e_L1_Student_Book_Audio_1.26.mp3" type="audio/mp3">
+</audio>
+
+#### 复习歌曲 *On, In, Under, By*
+
+{% note info %}
+看视频，跟唱两遍。
+{% endnote %}
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/on-in-under-by.mp4" type="video/mp4">
+</video>
+
+#### 复习歌曲 *Where is it?*
+
+{% note info %}
+看视频，跟唱两遍，说一说这些物品在哪里？
+–*Where is it?*
+–*It’s on / in / under the …*
+{% endnote %}
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/27/where-is-it.mp4" type="video/mp4">
+</video>
+
+#### P38 打卡阅读 *Let’s Make Colors*
+
+{% note info %}
+听录音，暂停跟读三遍，每天跟读一段，连续跟读三日，注意模仿语调。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/OD2e_L1_Student_Book_Audio_1.25.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P24–31
+
+每日完成两页练习册内容。
+
+{% note info %}
+
+#### 复习 P42 词汇
+
+{% note info %}
+Listen and point to the words. Listen again and say the words.
+听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/27/OD2e_L1_Student_Book_Audio_1.27.mp3" type="audio/mp3">
+</audio>
+
+### 课堂学习内容及反馈
+
+1. 检查练习册作业
+2. 复习自然拼读，学习自然拼读 short *u* 并完成工作纸
+3. 学习文本 *Let’s Make Colors*
+	1. 认识什么是标题 Title 和小标题 subtitles (the small titles)
+	2. 认识颜色轮 color wheel, 使用三角形来表示三原色 primary colors 或三间色 secondary colors（艺术学科）
+	3. 欣赏更多的 [mural art](https://www.behance.net/search/projects/mural)., 尝试描述艺术作品并表达自己的喜好（艺术学科）
+	4. 完成课后练习 P40
+4. 学习/巩固介词 *in, on, under, next to*
+	1. 通过问答活动操练物品的位置
+	2. 完成练习册 P32–33 相应练习
+5. 学习服饰词汇表达
+
+<mark>
+- Danny 的状态整体比周四要好一些，但有时说眼睛不舒服，有时又说头晕，一会又好了。有在老师的鼓励下持续参与课堂，但没有表现得特别积极。
+- 跟读的声音还有待提升，有时认真，有时需要老师鼓励提示。
+- 回答问题的准确度很高，但完成笔头任务速度还需提升。
+</mark>
+
+{% endnote %}
 
 ## D7, 2024年10月24日
 
@@ -37,7 +166,7 @@ updated: 2024-10-25
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/learn-to-read-phonics-for-kids-long-i-vowels.mp4" type="video/mp4">
 </video>
 
-#### 复习 P44 词汇
+#### 复习 P34 词汇
 
 {% note info %}
 Listen and point to the words. Listen again and say the words.
@@ -48,7 +177,7 @@ Listen and point to the words. Listen again and say the words.
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/25/OD2e_L1_Student_Book_Audio_1.20.mp3" type="audio/mp3">
 </audio>
 
-#### 复习 P45 口语对话
+#### 复习 P35 口语对话
 
 {% note info %}
 Listen and repeat.
@@ -59,7 +188,7 @@ Listen and repeat.
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/25/OD2e_L1_Student_Book_Audio_1.23.mp3" type="audio/mp3">
 </audio>
 
-#### 复习 P45 词汇
+#### 复习 P36 词汇
 
 {% note info %}
 Listen and point to the words. Listen again and say the words.

@@ -13,16 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shaoyuhan.md",
+                "file": "wuzimo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "shaoyuhan"
+              "title": "wuzimo"
+            }
+          },
+          {
+            "id": "ee9e7f6720a0a2a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xiangxiyan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "xiangxiyan"
+            }
+          },
+          {
+            "id": "7be96153bc3f8a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chenruochun.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "chenruochun"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shaoyuhan.md"
+                "file": "xiangxiyan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of shaoyuhan"
+              "title": "Outline of xiangxiyan"
             }
           },
           {
@@ -191,14 +222,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c997d3924c77573",
+  "active": "ee9e7f6720a0a2a1",
   "lastOpenFiles": [
-    "daichaoxun.md",
-    "shaoyuhan.md",
-    "chenruochun.md",
     "wuzimo.md",
     "xiangxiyan.md",
+    "chenruochun.md",
     "zhuxuanyu.md",
+    "shaoyuhan.md",
+    "daichaoxun.md",
     "liaopeiyan.md",
     "rock.md",
     "niehaochen.md",

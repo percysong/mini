@@ -52,7 +52,6 @@ Do You Know About Insects | https://mini-elephant-1318622621.cos.ap-chongqing.my
 </audio>
 
 - 练习册 Workbook P10–15
-
 - Pronouns Worksheet 代词练习 [PDF 下载🔗](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/personal-pronouns-worksheet-ver-7.pdf)
 
 {% note info %}
@@ -72,7 +71,7 @@ Do You Know About Insects | https://mini-elephant-1318622621.cos.ap-chongqing.my
 7. 复习人称代词（主格、宾格）及形容词性物主代词，完成练习
 	- <mark>Anna 对这个部分还掌握得不是很熟练，需要打印 Pronouns 题单加强练习</mark>
 
-Anna 在课堂上专注度很高，一直非常积极在思考，即便困了也会站起来互动，值得鼓励！希望继续保持，相信自己，更多锻炼自己的思考和表达。
+Anna 在课堂上专注度很高，一直非常积极在思考，即便困了也会站起来互动，值得鼓励！希望继续保持，相信自己，更多锻炼自己的思考和表达。å
 
 {% endnote %}
 
