@@ -52,8 +52,7 @@
               "title": "chenruochun"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,10 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xiangxiyan.md"
+                "file": "wuzimo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of xiangxiyan"
+              "title": "Outline of wuzimo"
             }
           },
           {
@@ -209,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,11 +221,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee9e7f6720a0a2a1",
+  "active": "6c997d3924c77573",
   "lastOpenFiles": [
-    "wuzimo.md",
     "xiangxiyan.md",
     "chenruochun.md",
+    "wuzimo.md",
     "zhuxuanyu.md",
     "shaoyuhan.md",
     "daichaoxun.md",

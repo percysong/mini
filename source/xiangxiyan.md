@@ -11,7 +11,7 @@ updated: 2024-10-27
 - 开始学习日期：2024 年 9 月 19 日
 ---
 
-## D8, 2024年10月26日
+## D8, 2024年10月27日
 
 ### 学习任务
 
@@ -104,8 +104,6 @@ Listen and point to the words. Listen again and say the words.
 
 每日完成两页练习册内容。
 
-{% note info %}
-
 #### 复习 P42 词汇
 
 {% note info %}
@@ -116,6 +114,8 @@ Listen and point to the words. Listen again and say the words.
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/27/OD2e_L1_Student_Book_Audio_1.27.mp3" type="audio/mp3">
 </audio>
+
+{% note info %}
 
 ### 课堂学习内容及反馈
 
