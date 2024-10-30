@@ -10,7 +10,7 @@ updated: 2024-10-30
 - 开始学习日期：2024 年 9 月 23 日
 ---
 
-## D8, 2024年10月28日
+## D8&9, 2024年10月28, 30日
 
 ### 学习资料和学习任务
 
@@ -33,15 +33,6 @@ updated: 2024-10-30
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/29/alphablocks-volume-2-episode-17-odd-short-vowel-o.mp4" type="video/mp4">
 </video>
 
-#### 朗读打卡：第一册P78–79 *Arnold’s Apple Tree* 课文
-
-- 听录音，暂停跟读三遍，分两天完成，注意模仿语调
-- 另需抽一天十分钟时间暂停跟读两遍，完成指读打卡
-
-<audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
-</audio>
-
 #### 复习第一册 P88 词汇
 
 <audio controls>
@@ -54,23 +45,43 @@ updated: 2024-10-30
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/29/OD2e_L2_Student_Book_Audio_1.47.mp3" type="audio/mp3">
 </audio>
 
-#### 跟读第二册 P70 文本 *Subtraction*
-
-<audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/29/OD2e_L2_Student_Book_Audio_1.48.mp3" type="audio/mp3">
-</audio>
-
 #### 复习第二册 P76 词汇
 
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/OD2e_L2_Student_Book_Audio_2.02.mp3" type="audio/mp3">
 </audio>
 
+#### 跟读第二册 P70 文本 *Subtraction*
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/29/OD2e_L2_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+</audio>
+
+#### 复习第二册 P2 词汇
+
+听录音，复习词汇 P8，想想不同的身体部位对应哪一类的动物。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/OD2e_L2_Student_Book_Audio_1.02.mp3" type="audio/mp3">
+</audio>
+
+#### 打卡第二册 P10 文本 *Amazing Animals*
+
+- 听录音，跟读 *Amazing Animals* P10–11
+- 分成两页，每两天熟练跟读一页，逐句暂停跟读两遍，模仿语音语调，找到读句子的感觉。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/19/OD2e_L2_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+</audio>
+
 #### 练习册 Workbook
 
 - 完成第二册蓝色练习册 P56–59
+- 完成第二册蓝色练习册 P1–7
 
 ### 课堂学习内容及反馈
+
+#### 10月28日
 
 - Rocky 介绍了自己喜欢的课程，包括编程课和UOI课，老师补充相关词汇
 	- *computer science*
@@ -82,7 +93,7 @@ updated: 2024-10-30
 - 自己编一个 word problem 数学故事
 
 <video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/IMG_0118.mp4” type=“video/mp4”>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/IMG_0118.mp4" type="video/mp4">
 </video>
 
 - 复习了过去式的不规则动词变化，常用的不规则动词有一部分还需要加强记忆
@@ -107,6 +118,15 @@ updated: 2024-10-30
 	- scene (setting)
 	- BME (beginning, middle, end)
 - 听故事 *Bandar, the Greedy Monkey*
+
+#### 10月30日
+
+- 学习了动物分类方法以及为什么分类，分类如何帮助我们认识事物
+- 学习阅读策略 Compare and contrast 来比较事物间的异同
+- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/IMG_0141.jpeg)
+- 阅读文本，了解不同的动物类型，并说说他们的特点
+
+<mark>本堂课的科学知识对于 Rocky 相对容易，能够很快地根据自己的已知知识经验来给动物分类，英文语言部分都是新的词汇，需要一定时间来不断重复才能掌握。思维清晰，语言表达也在老师的帮助下不断完善中，在不同语境下不断重复操练才能掌握。</mark>
 
 ## D6&7, 2024年10月21, 23日
 

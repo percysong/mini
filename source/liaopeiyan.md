@@ -34,7 +34,7 @@ updated: 2024-10-30
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/learn-to-read-phonics-for-kids-long-i-vowels.mp4" type="video/mp4">
 </video>
 
-#### 复习 P16 词汇音频
+#### 复习 P16 及 P22 词汇音频
 
 {% note info %}
 - 难度 ★☆☆
@@ -42,37 +42,43 @@ updated: 2024-10-30
 	- 听一遍，跟读三遍
 {% endnote %}
 
+
+- P16
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.09.mp3" type="audio/mp3">
 </audio>
 
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-1.jpeg)
+-P22
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/OD2e_L1_Student_Book_Audio_1.12.mp3" type="audio/mp3">
+</audio>
 
-#### 朗读打卡：P18–19 Elliot’s New Friend 课文
-
-- 老师指导视频
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/08/IMG_0761_Percy.mp4" type="video/mp4">
-</video>
+#### Who’s In the Tree | Colors of the Sky
 
 {% note info %}
-- 参考老师的指导视频，听录音，逐句暂停跟读，模仿情绪和语音语调
-- 每天模仿两遍，连续跟读三天
-- 在熟练模仿之后，指读并打卡
+听录音，暂停跟读三遍，连续跟读两日，注意模仿语调。
 {% endnote %}
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.18.mp3" type="audio/mp3">
 </audio>
 
 {% grouppicture 2-2 %}
-![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-2.jpeg)
-![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-3.jpeg)
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-1.jpeg)
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-2.jpeg)
 {% endgrouppicture %}
 
-#### 练习册 Workbook P3–15
+#### 自学 P33–C 歌曲
 
-练习册已打印发给了 Jerry，内容相对容易，每天完成两页。
+- 每天跟唱两遍，持续两天，注意目标句型
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.19.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P3–19
+
+练习册已发给了 Jerry，内容相对容易，每天完成两页。
 
 {% note primary %}
 
@@ -85,6 +91,18 @@ updated: 2024-10-30
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/IMG_0121.mp4" type="video/mp4">
 </video>
+
+- 复习课文 P18–19 Elliot’s New Friend（<mark>Jerry 发音基本准确，注意 tortoise 和 find 的发音，语调和情感还可以提升</mark>）
+- 学习P24故事
+- 认识标题 *title*，学习阅读策略：从标题预测大意
+- 学习关于颜色的诗歌，了解押韵词
+- 复习 There is / There are 语法
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/IMG_0142.mp4" type="video/mp4">
+</video>
+
+<mark>Jerry 相比之前的课堂要更专注，对于不熟悉的词汇语法反复训练，很有耐心。但是平时还需要更多复习。</mark>
 
 {% endnote %}
 
