@@ -9,6 +9,64 @@ updated: 2024-10-24
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
 
+
+## D4, 2024年10月29日
+
+### 学习资料和学习任务
+
+{% note info %}
+
+1. 阅读课外绘本 *Our Natural Resources* ([PDF 链接 🔗](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/our-natural-resources.pdf) )，回顾本堂课学习的概念和新词汇
+	- natural resources
+	- fuel
+	- oxygen
+	- oil
+	- coal
+	- natural gas
+	- renewable
+	- nonrenewable
+	- conserve
+2. 复习 BrainPop 关于 Natural Resources 的视频：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/brain-pop-jr-natural-resources.mp4" type="video/mp4">
+</video>
+
+3. 自学 BrainPop 关于 3R: Reduce, Reuse, and Recycle 的视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/brain-pop-jr-3r.mp4" type="video/mp4">
+</video>
+
+4. 自学课文 P108–112, 完成练习册 P92–95 内容
+
+{% endnote %}
+
+{% note info %}
+
+### 学习内容及反馈
+
+- 口语热身：聊聊自己再 Singapore Universal Studio 的经历
+	- 新的支撑词汇：roller coaster
+- 再次复习三态变化相关词汇
+	- evaporate
+	- heat
+	- flow
+- 观看视频 [*One Earth - Environmental Short Film*](https://www.youtube.com/watch?v=QQYgCxu988s)进入本堂课课题，说一说，写一写：
+	- 看到了地球上有什么
+	- 地球给人类带来了什么
+	- 地球有什么问题
+	- 我们为什么以及如何保护地球
+- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/IMG_0137.jpeg)
+- 进入课题：Natural Resources
+- 了解不同的自然资源，并写出它们的用途
+- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/IMG_0136.jpeg)
+- 了解可再生和不可再生资源，以及我们不能全部使用可再生资源的理由
+
+<mark>Ben 对该课题有一定的了解，本次课程的视频和阅读资料扩展了认知和词汇，比如可再生和不可再生资源、fossil fuel 化石燃料以及其制作塑料的用途等等。可以看出 Ben 对于改话题兴趣浓厚，难度适中。较容易的学习材料也已经发给他下来作为自学内容完成。</mark>
+
+{% endnote %}
+
 ## D4, 2024年10月22日
 
 ### 学习资料和学习任务

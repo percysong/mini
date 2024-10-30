@@ -52,7 +52,8 @@
               "title": "liaopeiyan"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "discover-futures.md"
+                "file": "daichaoxun.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of discover-futures"
+              "title": "Outline of daichaoxun"
             }
           },
           {
@@ -239,36 +240,36 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "liaopeiyan.md",
+                    "file": "daichaoxun.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "liaopeiyan"
+                  "title": "daichaoxun"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 44,
+        "x": 170,
         "y": 25,
-        "width": 938,
+        "width": 769,
         "height": 1055,
         "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "6c997d3924c77573",
+  "active": "ee9e7f6720a0a2a1",
   "lastOpenFiles": [
-    "wuzimo.md",
     "liaopeiyan.md",
-    "zhuxuanyu.md",
-    "daichaoxun.md",
     "chenruochun.md",
     "discover-futures.md",
+    "wuzimo.md",
+    "zhuxuanyu.md",
+    "daichaoxun.md",
     "xiangxiyan.md",
     "shaoyuhan.md",
     "rock.md",
