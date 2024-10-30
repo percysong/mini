@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "ee9e7f6720a0a2a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xiangxiyan.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "xiangxiyan"
-            }
-          },
-          {
             "id": "7be96153bc3f8a33",
             "type": "leaf",
             "state": {
@@ -51,8 +36,24 @@
               "icon": "lucide-file",
               "title": "chenruochun"
             }
+          },
+          {
+            "id": "8bec8985d8f66ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "liaopeiyan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "liaopeiyan"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wuzimo.md"
+                "file": "liaopeiyan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of wuzimo"
+              "title": "Outline of liaopeiyan"
             }
           },
           {
@@ -221,15 +222,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c997d3924c77573",
+  "floating": {
+    "id": "2fb42243a5598af2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8ffb5661ca576b57",
+        "type": "window",
+        "children": [
+          {
+            "id": "f3791168ca97d116",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ee9e7f6720a0a2a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "liaopeiyan.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "liaopeiyan"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 44,
+        "y": 25,
+        "width": 938,
+        "height": 1055,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "8bec8985d8f66ce3",
   "lastOpenFiles": [
-    "xiangxiyan.md",
-    "chenruochun.md",
-    "wuzimo.md",
     "zhuxuanyu.md",
-    "shaoyuhan.md",
-    "daichaoxun.md",
     "liaopeiyan.md",
+    "daichaoxun.md",
+    "chenruochun.md",
+    "discover-future.md",
+    "wuzimo.md",
+    "xiangxiyan.md",
+    "shaoyuhan.md",
     "rock.md",
     "niehaochen.md",
     "wangwanyan.md",

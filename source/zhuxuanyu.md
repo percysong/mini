@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-10-25
+updated: 2024-10-30
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,104 @@ updated: 2024-10-25
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D8, 2024年10月28日
+
+### 学习资料和学习任务
+
+#### Phonics 自然拼读
+
+- [牛津拼读世界网站 Level 2](https://elt.oup.com/student/oxfordphonicsworld/level02/watch?cc=cn&selLanguage=zh) short *o* 
+	- *o* 
+	- *op*
+	- *ot*
+- 每天复习两个拼读视频
+- 听一遍，暂停跟读两遍
+- 想想有同样组合的单词，你能说出几个？
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Short *o*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/29/alphablocks-volume-2-episode-17-odd-short-vowel-o.mp4" type="video/mp4">
+</video>
+
+#### 朗读打卡：第一册P78–79 *Arnold’s Apple Tree* 课文
+
+- 听录音，暂停跟读三遍，分两天完成，注意模仿语调
+- 另需抽一天十分钟时间暂停跟读两遍，完成指读打卡
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
+</audio>
+
+#### 复习第一册 P88 词汇
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/29/OD2e_L1_Student_Book_Audio_2.02.mp3" type="audio/mp3">
+</audio>
+
+#### 复习第二册 P68 词汇
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/29/OD2e_L2_Student_Book_Audio_1.47.mp3" type="audio/mp3">
+</audio>
+
+#### 跟读第二册 P70 文本 *Subtraction*
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/29/OD2e_L2_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+</audio>
+
+#### 复习第二册 P76 词汇
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/OD2e_L2_Student_Book_Audio_2.02.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook
+
+- 完成第二册蓝色练习册 P56–59
+
+### 课堂学习内容及反馈
+
+- Rocky 介绍了自己喜欢的课程，包括编程课和UOI课，老师补充相关词汇
+	- *computer science*
+	- *website*
+	- *programming*
+	- *application*
+- 学习 short *o*, 同时与 short *u* 区分
+- 学习 *subtraction* 文本 P70–71 了解关于减法的相关表达
+- 自己编一个 word problem 数学故事
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/IMG_0118.mp4” type=“video/mp4”>
+</video>
+
+- 复习了过去式的不规则动词变化，常用的不规则动词有一部分还需要加强记忆
+	- win–won
+	- sing–sang
+	- tell–told
+	- sell–sold
+	- fall–fell
+	- feel–felt
+	- wear–wore
+	- lose–lost
+	- find–found
+	- bring–brought
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/IMG_0119.mp4" type="video/mp4">
+</video>
+
+- 学习 P76 词汇
+- 复习故事要素
+	- characters
+	- scene (setting)
+	- BME (beginning, middle, end)
+- 听故事 *Bandar, the Greedy Monkey*
 
 ## D6&7, 2024年10月21, 23日
 
