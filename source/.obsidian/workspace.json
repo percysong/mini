@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wuzimo.md",
+                "file": "discover-futures.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "wuzimo"
+              "title": "discover-futures"
             }
           },
           {
@@ -52,8 +52,7 @@
               "title": "liaopeiyan"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,10 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "liaopeiyan.md"
+                "file": "discover-futures.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of liaopeiyan"
+              "title": "Outline of discover-futures"
             }
           },
           {
@@ -262,14 +261,14 @@
       }
     ]
   },
-  "active": "8bec8985d8f66ce3",
+  "active": "6c997d3924c77573",
   "lastOpenFiles": [
-    "zhuxuanyu.md",
+    "wuzimo.md",
     "liaopeiyan.md",
+    "zhuxuanyu.md",
     "daichaoxun.md",
     "chenruochun.md",
-    "discover-future.md",
-    "wuzimo.md",
+    "discover-futures.md",
     "xiangxiyan.md",
     "shaoyuhan.md",
     "rock.md",
