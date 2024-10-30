@@ -30,6 +30,7 @@ updated: 2024-10-30
 观看隔日观看一个拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
 
 - Long *i*
+
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/learn-to-read-phonics-for-kids-long-i-vowels.mp4" type="video/mp4">
 </video>
@@ -44,11 +45,13 @@ updated: 2024-10-30
 
 
 - P16
+
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.09.mp3" type="audio/mp3">
 </audio>
 
 -P22
+
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/OD2e_L1_Student_Book_Audio_1.12.mp3" type="audio/mp3">
 </audio>

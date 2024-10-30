@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zhuxuanyu.md",
+                "file": "liaopeiyan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "zhuxuanyu"
+              "title": "liaopeiyan"
             }
           },
           {
@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shaoyuhan.md",
+                "file": "zhuxuanyu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "shaoyuhan"
+              "title": "zhuxuanyu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,12 +207,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c997d3924c77573",
+  "active": "7be96153bc3f8a33",
   "lastOpenFiles": [
     "shaoyuhan.md",
+    "liaopeiyan.md",
     "zhuxuanyu.md",
     "wuzimo.md",
-    "liaopeiyan.md",
     "discover-futures.md",
     "chenruochun.md",
     "daichaoxun.md",
