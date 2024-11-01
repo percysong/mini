@@ -1,7 +1,7 @@
 ---
 title: 向惜妍学习档案
 created: 2024-09-11
-updated: 2024-10-27
+updated: 2024-11-01
 ---
 
 - 学生姓名：向惜妍
@@ -10,6 +10,95 @@ updated: 2024-10-27
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D9, 2024年10月31日
+
+### 学习任务
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+- 阅读文本请圈出自己不熟悉的单词，每日跟读一段
+- 练习册每天两页（计时10分钟）
+{% endnote %}
+
+#### Oxford Phonics 自然拼读
+
+- [牛津拼读世界网站 Level 2](https://elt.oup.com/student/oxfordphonicsworld/level02/watch?cc=cn&selLanguage=zh) short *o* 
+	- *o* 
+	- *op*
+	- *ot*
+- 每天复习两个拼读视频
+- 听一遍，暂停跟读两遍
+- 想想有同样组合的单词，你能说出几个？
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Short *o*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/29/alphablocks-volume-2-episode-17-odd-short-vowel-o.mp4" type="video/mp4">
+</video>
+
+#### 复习 Big Question 2 视频总结
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/31/OD1_M2_WU.mp4" type="video/mp4">
+</video>
+
+#### 复习 P48 词汇
+
+{% note info %}
+- 难度 ★★☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+</audio>
+
+#### 预习阅读 *Animal Homes*
+
+{% note info %}
+- 听录音，听两遍，圈出自己不熟悉的单词
+- 暂停跟读两遍，注意模仿语调，找到断句停顿的位置
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-51-52-1.jpeg)
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-51-52-2.jpeg)
+{% endgrouppicture %}
+
+#### 练习册 Workbook P34–37
+
+每日完成两页练习册内容。
+
+{% note primary %}
+
+### 课堂学习内容及反馈
+
+1. 检查练习册作业
+   <mark>练习册完成认真，there be 句型中 is 和 are 还是会混淆。下次在完成过程中妈妈可以少一些帮助，尽量让她自己完成，如果不会的可以看书复习一下。</mark>
+2. 复习自然拼读，学习自然拼读 short *o* 并完成工作纸
+3. 通过视频和图片引入大问题：*Where do animals live?* 
+4. **词汇**：介绍不同动物及其生活的环境
+	- 包括美洲特有的物种负鼠 opossum
+	- 了解动物及其栖息地的词汇表达
+5. **阅读策略**：根据标题 title and subtitles 和图片预测文本
+6. **阅读** ：*Where do Animals Live*, 了解不同物种的不同生活环境
+
+<mark>
+本单元课程难度有阶梯式地提升，对于妍妍也算是不小的挑战。课程中都在跟随老师和子墨一起，虽然节奏要慢一些，但也在努力尝试。课后一定要认真复习，圈出不理解的词汇，通过图片和上下文猜测理解（暂时不用查字典或告知中文意思）。
+</mark>
+
+{% endnote %}
 
 ## D8, 2024年10月27日
 
