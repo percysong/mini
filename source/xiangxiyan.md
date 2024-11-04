@@ -26,9 +26,8 @@ updated: 2024-11-04
 #### Oxford Phonics 自然拼读
 
 - [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *a*
-	- *y*
-	- *igh*
-	- *ie*
+	- *[ai](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u04_ai.mp4?cc=cn&selLanguage=zh)*
+	- *[ay](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u04_ay.mp4?cc=cn&selLanguage=zh)*
 
 #### Alphablocks 拼读视频
 

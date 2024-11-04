@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "discover-futures"
             }
+          },
+          {
+            "id": "c5e2d4b8805ff7ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chenruochun.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "chenruochun"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "discover-futures.md"
+                "file": "chenruochun.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of discover-futures"
+              "title": "Outline of chenruochun"
             }
           },
           {
@@ -191,12 +207,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c997d3924c77573",
+  "active": "c5e2d4b8805ff7ba",
   "lastOpenFiles": [
-    "chenruochun.md",
-    "wuzimo.md",
     "xiangxiyan.md",
+    "wuzimo.md",
     "discover-futures.md",
+    "chenruochun.md",
     "zhuxuanyu.md",
     "liaopeiyan.md",
     "shaoyuhan.md",
