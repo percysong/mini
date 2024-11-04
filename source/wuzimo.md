@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2024-11-01
+updated: 2024-11-04
 ---
 
 - 学生姓名：武子墨
@@ -10,6 +10,102 @@ updated: 2024-11-01
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D10, 2024年11月3日
+
+### 学习任务
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+- 阅读文本请圈出自己不熟悉的单词，每日跟读一段
+- 练习册每天两页（计时10分钟）
+{% endnote %}
+
+#### Oxford Phonics 自然拼读
+
+- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *a*
+	- *y*
+	- *igh*
+	- *ie*
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *a*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/alphablocks-level-five-long-vowels-long-a-full-episodes-learn-how-to-read.mp4" type="video/mp4">
+</video>
+
+#### 复习 P48 词汇
+
+{% note info %}
+- 难度 ★★☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+</audio>
+
+#### 自学 P53–C 歌曲
+
+- 每天跟唱两遍，持续两天，注意目标句型
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/OD2e_L1_Student_Book_Audio_1.34.mp3" type="audio/mp3">
+</audio>
+
+#### 打卡 P51 阅读 *Animal Homes*
+
+{% note info %}
+- 难度 ★★☆
+- 听录音，暂停跟读三遍，每天跟读两段，连续跟读两天，注意模仿语调
+- 第三天完成指读打卡
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-51-52-1.jpeg)
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-51-52-2.jpeg)
+{% endgrouppicture %}
+
+#### 预习 P54 词汇
+
+{% note info %}
+- 难度 ★★☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/OD2e_L1_Student_Book_Audio_1.35.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P38–43
+
+每日完成两页练习册内容。
+
+{% note primary %}
+
+### 课堂学习内容及反馈
+
+1. 检查练习册作业（未完成，已利用课前时间补完）
+2. 复习自然拼读，学习自然拼读 long *a* 并完成工作纸
+3. 通过视频和图片引入大问题：*Where do animals live?* 
+4. **阅读** ：*Where do Animals Live*
+	1. 通过图片和动作，带领学生跟读，更生动地理解
+	2. 谈论自己最喜欢的动物，完成课后练习（<mark>课后练习题理解问题和寻找关键信息对于子墨稍有难度，不过在老师提示下能很快找到答案</mark>）
+	3. 补充阅读绘本 *This Is a Home* 动物及其栖息地，扩展知识
+5. **语法**：复习 where 句型，区分单复数问答，通过歌曲、图片问答、游戏、笔头练习等活动强化。
+
+{% endnote %}
 
 ## D9, 2024年10月31日
 
@@ -29,9 +125,6 @@ updated: 2024-11-01
 	- *o* 
 	- *op*
 	- *ot*
-- 每天复习两个拼读视频
-- 听一遍，暂停跟读两遍
-- 想想有同样组合的单词，你能说出几个？
 
 #### Alphablocks 拼读视频
 
@@ -63,6 +156,7 @@ updated: 2024-11-01
 #### 预习阅读 *Animal Homes*
 
 {% note info %}
+- 难度 ★★☆
 - 听录音，听两遍，圈出自己不熟悉的单词
 - 暂停跟读两遍，注意模仿语调，找到断句停顿的位置
 {% endnote %}
