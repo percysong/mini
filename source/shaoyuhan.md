@@ -40,8 +40,8 @@ updated: 2024-11-05
 ### 学习内容
 
 1. Phonics 自然拼读：
-   在课堂当中不断纠正Anna的部分拼读混淆，如 short *i, e* 和 long *a*等
-   ![https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/05/IMG_0179.jpeg]
+	- 在课堂当中不断纠正Anna的部分拼读混淆，如 short *i, e* 和 long *a*等
+	- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/05/IMG_0179.jpeg)
 2. 复习 Text type 文本类型 fiction *vs* nonfiction, 以及故事要素
 	- characters
 	- scene (setting)
