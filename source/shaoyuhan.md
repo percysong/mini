@@ -1,7 +1,7 @@
 ---
 title: 邵雨涵学习档案
 created: 2024-10-19
-updated: 2024-10-26
+updated: 2024-11-05
 ---
 
 - 学生姓名：邵雨涵
@@ -10,6 +10,55 @@ updated: 2024-10-26
 - 开始学习日期：2024 年 9 月 18 日
 
 ---
+
+## D3, 2024年11月3日
+
+### 学习资料和学习任务
+
+- 复习 P22 词汇，听录音，跟读两遍，持续两天
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/05/OD2e_L2_Student_Book_Audio_1.12.mp3" type="audio/mp3">
+</audio>
+
+- 复习 P28 词汇，听录音，跟读两遍，持续两天
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/05/OD2e_L2_Student_Book_Audio_1.17.mp3" type="audio/mp3">
+</audio>
+
+- 复习 BrainPop 关于物质三态的视频，回顾并深入理解物质三态的不同特点
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/05/brain-pop-jr-solids-liquids-and-gases.mp4" type="video/mp4">
+</video>
+
+- 练习册 Workbook P16–21
+
+{% note info %}
+
+### 学习内容
+
+1. Phonics 自然拼读：
+   在课堂当中不断纠正Anna的部分拼读混淆，如 short *i, e* 和 long *a*等
+   ![https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/05/IMG_0179.jpeg]
+2. 复习 Text type 文本类型 fiction *vs* nonfiction, 以及故事要素
+	- characters
+	- scene (setting)
+	- BME (beginning, middle, end)
+3. 阅读文本 *Leo and Lily’s Adventure* 并完成复述
+   <mark>有部分遗忘，基本能用自己的语言来复述故事，熟练度还可以提高</mark>
+4. 再次复习人称代词（主格、宾格）及形容词性物主代词，完成练习
+5. 学习更多关于动物性格的形容词
+6. 完成听力练习，根据形容词的关键信息来抓去文章主旨
+7. 角色扮演 Unit 2 Story 加强语音语调
+8. 开启新的单元《事物如何变化》，了解三态、不同的特点和变化方式
+   <mark>Anna 对科学方面还需要更多的思考，新概念的理解需要一定的反应时间，在老师的鼓励和引导下能够举一反三</mark>
+9. 学习阅读策略 Cause and Effect，了解因果关系在阅读中如何帮助我们理解文本
+	- 通过短片学习因果关系、连锁反应等，并运用自己的生活经验来举例
+	- 阅读文本，完成练习，在阅读文本中，根据连接词来梳理因果关系
+
+{% endnote %}
 
 ## D2, 2024年10月25日
 
@@ -71,7 +120,7 @@ Do You Know About Insects | https://mini-elephant-1318622621.cos.ap-chongqing.my
 7. 复习人称代词（主格、宾格）及形容词性物主代词，完成练习
 	- <mark>Anna 对这个部分还掌握得不是很熟练，需要打印 Pronouns 题单加强练习</mark>
 
-Anna 在课堂上专注度很高，一直非常积极在思考，即便困了也会站起来互动，值得鼓励！希望继续保持，相信自己，更多锻炼自己的思考和表达。å
+Anna 在课堂上专注度很高，一直非常积极在思考，即便困了也会站起来互动，值得鼓励！希望继续保持，相信自己，更多锻炼自己的思考和表达。
 
 {% endnote %}
 

@@ -100,8 +100,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: next
 plugins:
-  - hexo-footnote
-  - han-css
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
