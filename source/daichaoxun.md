@@ -9,6 +9,56 @@ updated: 2024-11-05
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
 
+## D5, 2024年11月5日
+
+### 学习资料和学习任务
+
+{% note info %}
+
+- Watch a video about natural resources and review what we’ve learned in previous lessons.
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/what-are-natural-resources-types-of-natural-resources-the-dr-binocs-show-peekaboo-kidz.mp4" type="video/mp4">
+</video>
+
+- Watch a video by *Crash Course Kids*, and think about the relation between natural resources and human communities.
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/earth-science-earth-s-spheres-and-natural-resources-001-resources-welcome-to-the-neighborhood-crash-course-kids-2-1.mp4" type="video/mp4">
+</video>
+
+- Read *[A Ton of Trash](https://www.readworks.org/article/A-Ton-of-Trash/4c8b1406-ce20-43d8-b28a-3756ff9907e0#!questionsetsSection:1306/articleTab:content/)* and answer the [questions](https://www.readworks.org/article/A-Ton-of-Trash/4c8b1406-ce20-43d8-b28a-3756ff9907e0#!questionsetsSection:1306/articleTab:questionsets/), think about what can we do with the huge amount of trash we created.
+
+- Choose a level and read *Energy for Life*, think about the question: Can renewable energy  have bad effects on earth?
+	- [Level 1: Easy](https://www.readworks.org/article/Energy-for-Life/23847089-b0b5-498f-850d-b4410829b465#!questionsetsSection:374/articleTab:stepreads/stepreadsSection:edc72503-b2ff-40b9-893f-0f377500f0f6/)
+	- [Level 2: Medium](https://www.readworks.org/article/Energy-for-Life/23847089-b0b5-498f-850d-b4410829b465#!questionsetsSection:374/articleTab:stepreads/stepreadsSection:2ae20828-e579-45f6-a53f-2797f49e4878/)
+	- [Level 3: Hard](https://www.readworks.org/article/Energy-for-Life/23847089-b0b5-498f-850d-b4410829b465#!questionsetsSection:374/stepreadsSection:2ae20828-e579-45f6-a53f-2797f49e4878/articleTab:content/)
+- Answer the [questions](https://www.readworks.org/article/Energy-for-Life/23847089-b0b5-498f-850d-b4410829b465#!questionsetsSection:374/stepreadsSection:2ae20828-e579-45f6-a53f-2797f49e4878/articleTab:questionsets/).
+
+- Review the video from BrainPop about main ideas and supporting detail.
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-main-idea.mp4" type="video/mp4">
+</video>
+
+{% endnote %}
+
+{% note info %}
+
+### 学习内容及反馈
+
+- 回顾上节课学习内容：可再生和不可再生资源，并在自己的笔记上补充不同的能源种类
+- 学习阅读策略：主旨和支撑论据
+	- 观看视频并回答问题，学习在不同文本类型中（nonfiction 和 fiction）找到主旨的办法
+	- 阅读课文，找到主旨句和论据
+	- 回答课后问题
+- 复习常见词性，完成练习
+- 阅读漫画故事，了解一个 carton 回收利用的历程
+
+<mark>Ben 再次回顾了上节课学习的资源及词汇表达，讨论了人类使用自然资源所存在的问题和解决方法（已记录在笔记上）；对主旨和支撑论据有一定的认识，并能在非虚构文本中很快地找到中心主旨，对于非虚构文本稍有难度，需要从论据论点倒推回文章的主旨。</mark>
+
+{% endnote %}
+
 ## D4, 2024年10月29日
 
 ### 学习资料和学习任务

@@ -1,13 +1,124 @@
 ---
 title: 廖培焱学习档案
 created: 2024-09-11
-updated: 2024-10-30
+updated: 2024-11-07
 ---
 
 - 学生姓名：廖培焱
 - English Name: Jerry
 - 年级：四年级
 - 开始学习日期：2024 年 10 月 9 日
+
+## D7&8, 2024年11月4, 6日
+
+### 学习资料和学习任务
+
+#### Phonics 自然拼读
+
+{% note info %}
+- [牛津拼读世界网站 Level 2](https://elt.oup.com/student/oxfordphonicsworld/level02/watch?cc=cn&selLanguage=zh) short *u* （第一个必听，后面的有时间每天可以听两个）
+	- *u* 
+	- *ub*
+	- *ud*
+	- *ug*
+	- *um*
+	- *un*
+	- *up*
+	- *ut*
+- 每天复习两个拼读视频
+- 听一遍，暂停跟读两遍
+- 想想有同样组合的单词，你能说出几个？
+{% endnote %}
+
+#### Alphablocks 拼读视频
+
+观看隔日观看一个拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Short *u*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/23/alphablocks-short-u.mp4" type="video/mp4">
+</video>
+
+#### 复习 P34 词汇
+
+{% note info %}
+Listen and point to the words. Listen again and say the words.
+听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/25/OD2e_L1_Student_Book_Audio_1.20.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 Who’s In the Tree | Colors of the Sky
+
+{% note info %}
+听录音，暂停跟读三遍，连续跟读两日，注意模仿语调。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.18.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-1.jpeg)
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-2.jpeg)
+{% endgrouppicture %}
+
+#### 复习 P36 词汇
+
+{% note info %}
+Listen and point to the words. Listen again and say the words.
+听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/25/OD2e_L1_Student_Book_Audio_1.24.mp3" type="audio/mp3">
+</audio>
+
+#### 预习阅读文本 *Let’s Make Colors*
+
+{% note info %}
+听录音，暂停跟读三遍，每天跟读一段，连续跟读三日，注意模仿语调。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/OD2e_L1_Student_Book_Audio_1.25.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P3–19
+
+<mark>Jerry只做了前面两页，请一定坚持完成，跟上进度哟</mark> 内容相对容易，每天完成两页。
+
+{% note primary %}
+
+### 课堂学习内容和反馈
+
+#### 11月4日
+
+- 复习之前长元音的拼读组合
+- 学习短元音 u 相关拼读发音
+- 复习 *Who’s In the Tree | Colors of the Sky*
+  <mark>回家未完成跟读练习，所以很多词汇不是很熟悉，所以又跟着录音带读了一遍，模仿语音语调</mark>
+- 复习 There be 句型
+  <mark>虽然是二年级学过的句型，但是Jerry掌握得还不是很熟练，单复数需要一定时间反应</mark>
+- 学习更多颜色词汇，包括之前没有学过的 dark, light
+- 完成听力练习，谈论 fireworks 的颜色
+- 认识名词 Nouns 和名词的类型
+
+#### 11月6日
+
+- 学习更多关于海洋的生词
+- 学习文本 *Let’s Make Colors*
+	1. 认识什么是标题 Title 
+	2. 自己用马克笔来混合颜色，学习相关知识并表达
+	   We can mix … and … to make …
+	3. 认识颜色轮 color wheel, 使用三角形来表示三原色 primary colors 或三间色 secondary colors（艺术学科）
+	4. 欣赏更多的 [mural art](https://www.behance.net/search/projects/mural)., 尝试描述艺术作品并表达自己的喜好（艺术学科）
+
+<mark>Jerry 对于颜色混合的艺术知识还不是很了解，所以是通过自己的探究找到的规律。词汇表达上有一定难度，需要坚持复习跟读。</mark>
+{% endnote %}
 
 ## D6&7, 2024年10月28, 30日
 
