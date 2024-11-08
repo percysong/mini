@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-11-07
+updated: 2024-11-08
 ---
 
 - 学生姓名：朱宣宇
@@ -65,7 +65,6 @@ updated: 2024-11-07
 
 #### 练习册 Workbook
 
-- 完成练习册 
 - 完成第二册蓝色练习册 P9–15
 
 ### 课堂学习内容及反馈
@@ -439,7 +438,7 @@ updated: 2024-11-07
 
 #### National Geographic: *Animal Homes*
 
-- [PDF 文件链接 🔗]()
+- [PDF 文件链接 🔗](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/national-geographic-kids-animal-homes.pdf)
 - 自主阅读，复习巩固认读
 
 <video width="100%" height="auto" controls>

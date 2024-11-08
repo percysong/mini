@@ -1,7 +1,7 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2024-11-05
+updated: 2024-11-07
 ---
 
 - 学生姓名：代超巡
@@ -28,13 +28,11 @@ updated: 2024-11-05
 </video>
 
 - Read *[A Ton of Trash](https://www.readworks.org/article/A-Ton-of-Trash/4c8b1406-ce20-43d8-b28a-3756ff9907e0#!questionsetsSection:1306/articleTab:content/)* and answer the [questions](https://www.readworks.org/article/A-Ton-of-Trash/4c8b1406-ce20-43d8-b28a-3756ff9907e0#!questionsetsSection:1306/articleTab:questionsets/), think about what can we do with the huge amount of trash we created.
-
-- Choose a level and read *Energy for Life*, think about the question: Can renewable energy  have bad effects on earth?
+- Choose a level and read *Energy for Life*, think about the question: Can renewable energy have bad effects on earth?
 	- [Level 1: Easy](https://www.readworks.org/article/Energy-for-Life/23847089-b0b5-498f-850d-b4410829b465#!questionsetsSection:374/articleTab:stepreads/stepreadsSection:edc72503-b2ff-40b9-893f-0f377500f0f6/)
 	- [Level 2: Medium](https://www.readworks.org/article/Energy-for-Life/23847089-b0b5-498f-850d-b4410829b465#!questionsetsSection:374/articleTab:stepreads/stepreadsSection:2ae20828-e579-45f6-a53f-2797f49e4878/)
 	- [Level 3: Hard](https://www.readworks.org/article/Energy-for-Life/23847089-b0b5-498f-850d-b4410829b465#!questionsetsSection:374/stepreadsSection:2ae20828-e579-45f6-a53f-2797f49e4878/articleTab:content/)
 - Answer the [questions](https://www.readworks.org/article/Energy-for-Life/23847089-b0b5-498f-850d-b4410829b465#!questionsetsSection:374/stepreadsSection:2ae20828-e579-45f6-a53f-2797f49e4878/articleTab:questionsets/).
-
 - Review the video from BrainPop about main ideas and supporting detail.
 
 <video width="100%" height="auto" controls>

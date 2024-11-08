@@ -1,7 +1,7 @@
 ---
 title: 陈若淳学习档案
 created: 2024-09-11
-updated: 2024-11-04
+updated: 2024-11-08
 ---
 
 - 学生姓名：陈若淳
@@ -10,6 +10,73 @@ updated: 2024-11-04
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D11, 2024年11月7日
+
+### 学习任务
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+- 阅读文本请圈出自己不熟悉的单词，每日跟读一段
+- 练习册每天两页（计时10分钟）
+{% endnote %}
+
+#### 复习 P54 词汇
+
+{% note info %}
+- 难度 ★★☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.35.mp3" type="audio/mp3">
+</audio>
+
+#### 继续跟读 P51 阅读 *Animal Homes*
+
+{% note info %}
+- 难度 ★★☆
+- 听录音，暂停跟读三遍，每天跟读两段，连续跟读两天，注意模仿语调
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-51-52-1.jpeg)
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-51-52-2.jpeg)
+{% endgrouppicture %}
+
+#### 练习册 Workbook P44–45
+
+每日完成两页练习册内容。
+
+### 课堂学习内容及反馈
+
+- 复习第一单元词汇、课文和语法，完成小测试<br><mark>词汇认识没问题，语法 You are 的搭配混淆了，写作在老师描述题意之后能够很好地完成。</mark>
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U1-test-3.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U1-test-4.jpeg)
+{% endgrouppicture %}
+- 学习更多的动物以及它们的栖息地
+- 完成P54课后词汇练习和听力练习
+- **活动**：选择最喜欢的动物，聊聊它的样子和它生活的地方（<mark>Danny 的表达还有些不熟悉，下来可以再多说一说。</mark>）
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0234.mp4" type="video/mp4">
+</video>
+
+- **阅读**：补充阅读国家地理绘本 National Geographic: *Animal Homes*
+	- [PDF 文件链接 🔗](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/national-geographic-kids-animal-homes.pdf)
+	- 积累词汇，学习更多栖息地的表达
+	- 自主阅读，复习巩固认读
+- **语法**：不规则名词复数变化
+- **写作**：说一说你最喜欢的动物，写一写它们都住在哪里
+	- 完成练习册 P45 写作部分
 
 ## D10, 2024年11月3日
 
