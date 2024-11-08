@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "85e8bbf9874ad376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wuzimo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "wuzimo"
-            }
-          },
-          {
             "id": "951bc4b08863287d",
             "type": "leaf",
             "state": {
@@ -67,8 +52,7 @@
               "title": "xiangxiyan"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xiangxiyan.md"
+                "file": "zhangyuantai.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of xiangxiyan"
+              "title": "Outline of zhangyuantai"
             }
           },
           {
@@ -238,11 +222,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1f438eff439d031",
+  "active": "f78700ad9b7cb368",
   "lastOpenFiles": [
-    "chenruochun.md",
     "wuzimo.md",
     "xiangxiyan.md",
+    "chenruochun.md",
     "zhuxuanyu.md",
     "zhangyuantai.md",
     "zhangqiming.md",
