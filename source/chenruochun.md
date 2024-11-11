@@ -1,7 +1,7 @@
 ---
 title: 陈若淳学习档案
 created: 2024-09-11
-updated: 2024-11-08
+updated: 2024-11-11
 ---
 
 - 学生姓名：陈若淳
@@ -10,6 +10,87 @@ updated: 2024-11-08
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D12, 2024年11月10日
+
+### 学习任务
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+- 阅读文本请圈出自己不熟悉的单词，每日跟读一段
+- 练习册每天两页（计时10分钟）
+{% endnote %}
+
+#### Oxford Phonics 自然拼读
+
+- [牛津拼读世界网站 Level 4 – *ch*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb4_u04_ch.mp4?cc=cn&selLanguage=zh)
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- *ch*, *sh*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-to-read-phonics-for-kids-letter-teams-sh-and-ch.mp4" type="video/mp4">
+</video>
+
+#### 复习 Big Question 3 视频总结
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M3_WU.mp4" type="video/mp4">
+</video>
+
+#### 复习 P56 词汇
+
+{% note info %}
+- 难度 ★★☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+#### 预习 P58–59 阅读 *My Friend Anak*
+
+{% note info %}
+- 难度 ★★★
+- Day 1: Read the titles, look at the pictures, guess what is the story about. Listen to the audio two times, talk about what you learned.
+  第一天：阅读标题，看图片，猜一猜故事是关于什么的；听两遍录音，说一说你听到了什么
+- Day 2: 暂停跟读第一、二自然段，跟读两遍，注意生词的发音，模仿语音语调；
+- Day 3: 复习第一自然段，跟读一遍；暂停跟读第二、三自然段，跟读两遍注意生词的发音，模仿语音语调；
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### 完成语法练习题单
+
+- Entry Review 1 & 2
+- 每日完成一页练习，共三页，已打印布置
+
+{% grouppicture 3-3 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Entry_Review_Worksheet_1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Entry_Review_Worksheet_2-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Entry_Review_Worksheet_2-2.jpeg)
+{% endgrouppicture %}
+
+### 课堂学习内容及反馈
+
+- 课后练习册完成情况检查和讲解（<mark>阅读部分对 Pet goldfish live at home / in the ocean. 没有理解到，在讲解后改正。</mark>）
+- 复习第二单元词汇、课文和语法，完成小测试（题目很容易，都完成得不错。下节课反馈。）
+- 学习自然拼读 *ch* 组合
+- 回顾整个单元学习了什么，尝试用自己所学的句子来回答大问题 *Where do animals live?* 大家可以用 A … lives in / on … 来回答，老师带领总结 *Animals live in different places.* 对比课前大家的了解，丰富了许多
+	- What do we know before learning this unit
+		- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0153.jpeg)
+	- What have we learnt
+		- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0250.jpeg)
+- 学习 P56 词汇，关于在动物保护区里的动物、栖息地、以及动作词汇（<mark>词汇对于Danny来说还有点难度，在课堂上后半节课一直守着他一个一个完成。回家之后还要多听单词，看图片猜意思，读句子加深理解。</mark>）
+- 检查了 Danny 对课文 *Animal Homes* 的朗读情况，比之前熟悉了很多，看得出来在家是有认真跟读，效果非常不错！请继续复习哟
 
 ## D11, 2024年11月7日
 
