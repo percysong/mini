@@ -1,7 +1,7 @@
 ---
 title: 邵雨涵学习档案
 created: 2024-10-19
-updated: 2024-11-05
+updated: 2024-11-12
 ---
 
 - 学生姓名：邵雨涵
@@ -10,6 +10,51 @@ updated: 2024-11-05
 - 开始学习日期：2024 年 9 月 18 日
 
 ---
+
+## D3, 2024年11月10日
+
+### 学习资料和学习任务
+
+- 复习 P28 词汇，听录音，跟读两遍，持续两天
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/05/OD2e_L2_Student_Book_Audio_1.17.mp3" type="audio/mp3">
+</audio>
+
+- 复习 P30–31 课文 *What is our world made of?* 听录音跟读两遍，每两天跟读一页，注意物质三态的不同表达和描述方法，模仿语音语调
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.18.mp3" type="audio/mp3">
+</audio>
+
+- 复习 BrainPop 关于 Cause and Effect 视频，思考我们如何将这个策略 strategy 运用到自己平时的阅读中
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/09/BrainPOP_cause-effect.mp4" type="video/mp4">
+</video>
+
+- 练习册 Workbook P23–25
+
+{% note info %}
+
+### 学习内容
+
+1. 热身口语对话：Talk about interesting school activities, 老师提供更多词汇和句型辅助表达
+	- practice
+	- patterns (design the patterns on the dress)
+	- Somebody dressed up as … 用该句型描述班上朋友的装扮
+2. 学习阅读策略 Cause and Effect，了解因果关系在阅读中如何帮助我们理解文本
+	- 通过短片学习因果关系、连锁反应等，并运用自己的生活经验来举例
+	- 阅读文本，完成练习，在阅读文本中，根据连接词来梳理因果关系
+3. 思考「我们的世界是由什么组成的」(*What is our world made of?*) 阅读文本
+	- 了解三态的性质，以及描述它们的不同词汇
+		- solids can be *hard* or *soft*
+		- liquids can be *thick* or *thin*
+	- 运用 cause and effect 阅读策略来解释三态之间的变化
+	- 在笔记上画出物质三态转化图表来加深自己的理解
+4. 完成相关练习题
+
+{% endnote %}
 
 ## D3, 2024年11月3日
 

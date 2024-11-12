@@ -1,8 +1,52 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2024-11-06
+updated: 2024-11-12
 ---
+
+## 2024年11月11日
+
+### 学习资料和学习任务
+
+- 为方便大家的学习，这堂课我们将整套学习教材和练习册都免费发给了大家，今后直接带书和练习册来上课即可
+- 作文请参考 Workbook P21 再次修改，再次誊抄在作文纸上
+- Student book P112 **Talking about time**
+- Workbook P6 **Talking about time** **1 & 2**
+
+### 课堂学习内容及反馈
+
+- 检查订正作文和练习册 P20
+- 互相阅读同伴的文章并提出修改意见
+- 进入新的探索大问题学习 *What is the value of TIME?*「什么是时间的价值？」以及「时间为什么重要」，大家都提出了自己的观点：
+	- **Ryan**
+		- Time can change people, animals and things. 
+		- We can’t do anything without time.
+	- **Jason**
+		- We can make and create things with time.
+		- Time is precious. If we waste it, it’s hard to start it again.
+	- **Joyce**
+		- Time makes rules for our lives. (⭐️ Interesting idea!)
+		- The world will disappear without time.
+- 复习/学习了常用的时间相关的短语搭配：
+	- have time
+	- save time
+	- spend time
+	- share time
+	- find/make time
+	- **run out of time** (new phrase meaning you used up and don’t have enough of something)
+- 猜一猜做各项事情的时间，观看视频，验证自己的猜想（社会学）。
+- 什么是浪费时间？你觉得浪费时间都是坏事吗？What do you think is a waste of time? Is wasting time always bad?
+- 学习阅读策略 Identifying text types 不同的文本形式如何传递不同的信息
+- **Ryan**
+	- 忘记了完成 workbook P20, 记得回去补在新发的练习册上
+	- 作文的表达很多中式英文指出，已指出，重新思考表达的重点，具体描写两件印象最深的事。结尾处可以提前至 What a happy day! 处。
+	- 对话题的思维活跃，有许多奇特的想法，但表达上还需在说之前多加思考，使其更有逻辑。
+- **Jason**
+	- 作文完成的不错，结构比较完整，部分表达可以再更地道，比如 act … 可以改成 role played … 
+	- 对话题的思维活跃，但表达时还需留足思考时间，使其更精简。
+- **Joyce**
+	- 作文段落清晰，但注意时态。提到的两件事只详细描写了其中一件，还需要补充一下对 concert 的描写。
+	- 对话题有很多不一样的思考，比如，「时间给我的生活带来了规则」，口头表达清晰简洁。
 
 ## 2024年11月4日
 
@@ -17,7 +61,6 @@ updated: 2024-11-06
 	- 注意三段式结构以及每段的描写重点
 	- 注意形容词的使用来丰富自己当时的感受及事件描写
 	- 注意使用 sequencing words 连接词来描述事件的先后顺序
-
 
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/05/odf-1-wb-pages-20-21-1.jpeg)
 - 完成练习册 P20
