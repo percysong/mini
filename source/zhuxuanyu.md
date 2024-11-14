@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-11-11
+updated: 2024-11-14
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,179 @@ updated: 2024-11-11
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D12&13, 2024年11月11, 13日
+
+### 学习资料和学习任务
+
+#### 复习 P22 词汇
+
+- 复习 P22 词汇，听录音，跟读两遍，持续两天
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/05/OD2e_L2_Student_Book_Audio_1.12.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P28 词汇
+
+- 听录音，跟读两遍，持续两天
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/05/OD2e_L2_Student_Book_Audio_1.17.mp3" type="audio/mp3">
+</audio>
+
+#### 复习课文
+
+- 复习 P30–31 课文 *What is our world made of?* 听录音跟读两遍，每两天跟读一页，注意物质三态的不同表达和描述方法，模仿语音语调
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.18.mp3" type="audio/mp3">
+</audio>
+
+#### 复习阅读策略
+
+复习 BrainPop 关于 Cause and Effect 视频，思考我们如何将这个策略 strategy 运用到自己平时的阅读中
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/09/BrainPOP_cause-effect.mp4" type="video/mp4">
+</video>
+
+#### 复习物质的三态
+
+复习 BrainPop 关于物质三态的视频，回顾并深入理解物质三态的不同特点
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/05/brain-pop-jr-solids-liquids-and-gases.mp4" type="video/mp4">
+</video>
+
+#### 练习册 Workbook
+
+- 完成练习册 P20–25
+
+### 课堂学习内容及反馈
+
+#### 11月11日
+
+- 开课口语热身：聊了上周末和本周学校的活动，包括宣宇参加的运动会，服装日等活动的学习相关句型表达
+	- School activities: Sports day, Dressing up day
+	- I got the … place!
+	- *I dressed up like (a sandworm).*
+	- *I gave the idea.*
+- 自然拼读：再次区分了 long *a* 和 short *e* 的读音
+- 学习更多描述动物相关的形容词 P22，<mark>其中一半对于宣宇都是新词，需要认真复习</mark>
+- 完成听力练习，<mark>宣宇对中等长度的听力文本理解不错，进步明显</mark>。
+- 口头描述介绍自己喜欢的动物类型
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0260.mp4" type="video/mp4">
+</video>
+
+- Write about the animal on workbook, <mark>课堂上带着宣宇梳理了结构以及表达，回家后完成了简单的写作，部分表达还是没有按照课堂上梳理的来，第二节课已更正。</mark> 
+- 进入了第二个大问题「物质如何改变」的科学单元学习，<mark>宣宇的兴趣也相对更浓厚一些</mark>。
+	- 学习了物质三态及其变化相关的词汇
+	- 学习了阅读策略 *Cause and effect*
+
+#### 11月13日
+
+- 开课口语热身：聊了今天体育课上的飞盘运动，学习相关表达
+	- 🥏 Frisbee
+	- throw and catch a frisbee.
+- 回顾上节课学习的阅读策略，完成课题小练习
+- 学习P30-31文本 *What is our world made of?*
+	- 朗读课文，解决生词
+	- 用思维工具帮助梳理物质三态的特点及三态之间的转变
+	- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0278.jpeg)
+- 观看 BrainPop 关于物质三态及其变化的视频，回答互动问题
+- <mark>宣宇对于科学知识的思维和反应都很快，能够通过英语理解并简单描述物质三态的特点以及变化，并举一反三，值得鼓励</mark>
+
+## D10&11, 2024年11月4, 6日
+
+### 学习资料和学习任务
+
+#### Oxford Phonics 自然拼读
+
+- [牛津拼读世界网站 Level 3](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) Long *a*
+	- *[ai](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u04_ai.mp4?cc=cn&selLanguage=zh)*
+	- *[ay](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u04_ay.mp4?cc=cn&selLanguage=zh)*
+- 每天复习两个拼读视频
+- 听一遍，暂停跟读两遍
+- 想想有同样组合的单词，你能说出几个？
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *a*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/alphablocks-level-five-long-vowels-long-a-full-episodes-learn-how-to-read.mp4" type="video/mp4">
+</video>
+
+#### 复习 P10 文本 *Amazing Animals*
+
+- 听录音，跟读 *Amazing Animals* P10–11
+- 分成两页，每两天熟练跟读一页，逐句暂停跟读两遍，模仿语音语调，找到读句子的感觉。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/19/OD2e_L2_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P16 词汇
+
+- 听录音，跟读两遍，持续两天
+- 想一想这些动作，自己模仿一下(不要翻译中文)
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/OD2e_L2_Student_Book_Audio_1.09.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P18 故事 *Leo and Lily’s Adventure*
+
+- 听录音，跟读分成两页，每两天熟练跟读一页
+- 逐句暂停跟读两遍，模仿语音语调，找到读句子的感觉
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/OD2e_L2_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 BrainPop 关于 Compare and contrast 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-compare-and-contrast.mp4" type="video/mp4">
+</video>
+
+#### 练习册 Workbook
+
+- 完成练习册 P9-15
+
+### 课堂学习内容及反馈
+
+#### 11月4日
+
+- 开课口语练习:聊了聊周末陪爸爸一起去医院，以及如何能保持健康，补充了词汇和短语给宣宇更好地表达
+	- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0186.jpeg)
+- 复习身体部位的词汇 (巩固拼写)
+- 完成关于不同动物身体部位描述的听力练习，学习了许多关于动物的有趣小知识（宣宇的听力理解不错，能够把握一小段听力材料的大意，但对于长段听力材料的细节记忆还可以提升）
+- 口语交际:受伤的时候如何问候和回应
+- 学习合成词 Compound Words
+- 第二单元词汇，看图片，模仿动作，扩展相关词汇，把词汇放在不同语境下认识以更好地理解（从本册开始，词汇的广度很大，一般9个词，宣宇会有一两个是比较熟悉的，其它均为生词，需要下来认真复习）
+- 复习阅读策略 Compare and contrast 和 Venn Diagram 维恩图的使用,一边看 BrainPop 视频一边学习；运用该策略，在老师的带领下，自己思考并总结了鲨鱼和海豚的异同点
+	- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0187.jpeg)
+
+#### 11月6日
+
+- 复习 Text type 文本类型 fiction vs nonfiction,以及 fiction 的特点
+	1. characters
+	2. scene (setting)
+	3. BME (beginning, middle, end)
+	4. problem and solution
+- 阅读文本 Leo and Lily’s Adventure
+	- 解决生词
+	- 跟读文本，提升语音语调并复习拼读
+	- 完成课后练习
+- 观看视频，讨论动物之间是否有互助的情形
+- 学习频率副词，完成对话
+
+宣宇对故事的理解没有问题，能够尝试用自己的语言猜测故事和复述故事；但跟读训练时有一些排斥情绪，在引导和鼓励下完成。希望下来能坚持更多地跟读、认读练习。
 
 ## D8&9, 2024年10月28, 30日
 

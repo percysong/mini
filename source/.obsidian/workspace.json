@@ -13,17 +13,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "discover-futures.md",
+                "file": "zhuxuanyu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "discover-futures"
+              "title": "zhuxuanyu"
             }
           },
           {
-            "id": "24c3762a5d96577e",
+            "id": "9e80a165ca13547f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,21 +35,6 @@
               },
               "icon": "lucide-file",
               "title": "liaopeiyan"
-            }
-          },
-          {
-            "id": "f71b2894a48d649a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zhuxuanyu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "zhuxuanyu"
             }
           }
         ],
@@ -100,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "compare ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,10 +189,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "wuzimo.md"
+                "file": "liaopeiyan.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for wuzimo"
+              "title": "File properties for liaopeiyan"
             }
           }
         ],
@@ -228,22 +213,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24c3762a5d96577e",
+  "active": "9e80a165ca13547f",
   "lastOpenFiles": [
     "zhuxuanyu.md",
     "liaopeiyan.md",
-    "discover-futures.md",
-    "daichaoxun.md",
     "shaoyuhan.md",
-    "chenruochun.md",
-    "xiangxiyan.md",
-    "wuzimo.md",
-    "jerry.md",
-    "zhangyuantai.md",
-    "zhangqiming.md",
-    "rock.md",
+    "Untitled.md",
     "niehaochen.md",
     "wangwanyan.md",
+    "zhangqiming.md",
+    "zhangyuantai.md",
+    "daichaoxun.md",
+    "wuzimo.md",
+    "discover-futures.md",
+    "chenruochun.md",
+    "xiangxiyan.md",
+    "jerry.md",
+    "rock.md",
     "gaoshengyu.md",
     "Music/Songs",
     "Music",

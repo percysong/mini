@@ -17,7 +17,7 @@ updated: 2024-11-12
 
 - 检查订正作文和练习册 P20
 - 互相阅读同伴的文章并提出修改意见
-- 进入新的探索大问题学习 *What is the value of TIME?*「什么是时间的价值？」以及「时间为什么重要」，大家都提出了自己的观点：
+- 进入新的探索大问题学习 *What is the value of TIME?* 「什么是时间的价值？」以及「时间为什么重要」，大家都提出了自己的观点：
 	- **Ryan**
 		- Time can change people, animals and things. 
 		- We can’t do anything without time.

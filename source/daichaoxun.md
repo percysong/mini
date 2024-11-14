@@ -1,13 +1,62 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2024-11-07
+updated: 2024-11-14
 ---
 
 - 学生姓名：代超巡
 - English Name: Ben
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
+
+## D6, 2024年11月12日
+
+### 学习资料和学习任务
+
+{% note info %}
+
+- Listen and read P71, for three days. (彩色打印学习资料)
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.45.mp3" type="audio/mp3">
+</audio>
+
+- Finish reading *What Do A.M. and PM. Mean?* 
+- Watch the video *Why do places have different times?*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/why-do-places-have-different-times-mystery-science.mp4" type="video/mp4">
+</video>
+
+- Finish workbook P59–62 (黑白打印练习单)
+
+{% endnote %}
+
+{% note info %}
+
+### 学习内容及反馈
+
+- 因为上次的阅读网站登陆有些负责，Ben 没有登陆成功，正好带了 iPad，便带着他一起操作，登陆了 ReadWise 阅读班级，学习了答题的方式和一些操作的小技巧。<mark>上次的阅读还没有完成，这次记得补完哟。</mark>
+- 开启了新的大问题 *How do we measure time?* 「我们如何测量时间」
+- 通过太空中地球的照片引入话题，说一说、写一写你了解到的时间相关的表达。<mark>Ben 基本能够拼写出大部分时间相关的词汇，（对 minute 的拼写不太熟悉）。能够在地球上指出重庆的位置，以及 Asia（学习了欧洲 Europe 的表达）</mark>
+- 复习了时间的词汇，学习了地球自转公转相关词汇表达
+	- spin
+	- orbit
+	- time zone
+	- multiply
+- 探究地球自转的相关问题，并完成自转模拟实验，以更形象地理解地球自转以及日出日落的形成：
+
+<img src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0266.jpeg" alt="" width=50%>
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0268.mp4" type="video/mp4">
+</video>
+
+- 阅读材料 *Time and the Earth* P70–71，回答理解性问题
+
+<mark>Ben 对于美国 NGSS 科学标准五年级的内容已经掌握得不错，主要在于学习不同语言的表达。课文可以再听一下录音，跟读一下，有一些词还不是很熟悉。</mark>
+
+{% endnote %}
 
 ## D5, 2024年11月5日
 
