@@ -86,6 +86,11 @@ updated: 2024-11-14
 - 开课口语热身：聊了今天体育课上的飞盘运动，学习相关表达
 	- 🥏 Frisbee
 	- throw and catch a frisbee.
+- 完成第一单元小测试，<mark>词汇和阅读理解都掌握得不错，最后拼写和基础词汇的认读（如 Lion 开始没有认出来）有些小问题</mark>
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Rocky-OD2U1-test-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Rocky-OD2U1-test-2.jpeg)
+{% endgrouppicture %}
 - 回顾上节课学习的阅读策略，完成课题小练习
 - 学习P30-31文本 *What is our world made of?*
 	- 朗读课文，解决生词

@@ -45,11 +45,10 @@ updated: 2024-11-14
 	- time zone
 	- multiply
 - 探究地球自转的相关问题，并完成自转模拟实验，以更形象地理解地球自转以及日出日落的形成：
-
-<img src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0266.jpeg" alt="" width=50%>
+- <img src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0266.jpeg" alt="" width=50%>
 
 <video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0268.mp4" type="video/mp4">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0268.mp4" width=50% type="video/mp4">
 </video>
 
 - 阅读材料 *Time and the Earth* P70–71，回答理解性问题
