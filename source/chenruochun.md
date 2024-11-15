@@ -1,7 +1,7 @@
 ---
 title: 陈若淳学习档案
 created: 2024-09-11
-updated: 2024-11-11
+updated: 2024-11-15
 ---
 
 - 学生姓名：陈若淳
@@ -10,6 +10,89 @@ updated: 2024-11-11
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D13, 2024年11月14日
+
+### 学习任务
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+- 阅读文本请圈出自己不熟悉的单词，每日跟读一段
+- 练习册每天两页（计时10分钟）
+{% endnote %}
+
+#### Oxford Phonics 自然拼读
+
+- 牛津拼读世界网站 Level 4
+	- [*ng*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb4_u06_ng.mp4?cc=cn&selLanguage=zh)
+	- [*nk*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb4_u06_nk.mp4?cc=cn&selLanguage=zh)
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- *ng*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/phonics-learn-to-read-the-ng-team-alphablocks.mp4" type="video/mp4">
+</video>
+
+- *nk*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/alphablocks-a-lesson-nk-learn-to-read-phonics-for-kids-learning-blocks.mp4" type="video/mp4">
+</video>
+
+#### 复习 P56 词汇
+
+{% note info %}
+- 难度 ★★☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P58 阅读 *My Friend Anak*
+
+{% note info %}
+- 难度 ★★★
+- 注意逗号、句号停顿，模仿语调，找到读句子的感觉；
+- 听录音，暂停跟读 P58，读两遍（P59可以下周再复习）；
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P46–47
+
+- 不看书，凭记忆完成练习册词汇部分练习；
+- P47 拼写的时候，边写边自主拼读，加深印象。
+
+### 课堂学习内容及反馈
+
+{% grouppicture 4-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/danny-OD1-U2-test1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/danny-OD1-U2-test2.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/danny-OD1-U3-test1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/danny-OD1-U3-test2.jpeg)
+{% endgrouppicture %}
+- 讲解 U2（上周完成）测试结果并完成 U3 小测试
+	- ==Danny 对于 U2 的测试很仔细，全对，值得鼓励！==
+	- ==U3 把 *There’s* 写成了 *This is*; 最后写作部分拼写有点小问题 *ruler*, *book* ==
+- Phonics 自然拼读 *ng, nk*
+- 复习 P56 词汇，关于在动物保护区里的动物、栖息地、以及动作词汇，并用短语造句
+- 学习阅读策略：识别故事人物 Identifying Characters
+	- 观看小红帽的故事 *Little Red Riding Hood*，识别人物
+	- 阅读书上的小故事，找到人物
+- 学习故事 *My Friend Anak* 前半部分
+
+<mark>文本稍长，考虑到学生的接受程度我们将分成两次学习。因为上周没有完成预习，妍妍理解起来可能有点吃力。下来之后需要再把整篇文章专心听两遍，根据标题、图片猜测文章意思并圈出不熟悉的词汇。</mark>
 
 ## D12, 2024年11月10日
 

@@ -1,7 +1,7 @@
 ---
 title: 张元泰学习档案
 created: 2024-09-11
-updated: 2024-11-08
+updated: 2024-11-14
 ---
 
 - 学生姓名：张元泰
@@ -11,6 +11,43 @@ updated: 2024-11-08
 
 ---
 
+## D4, 2024年11月14日
+
+### 学习资料和学习任务
+
+#### 复习 P18 故事 *Leo and Lily’s Adventure*
+
+- 听录音，跟读分成两页，每两天熟练跟读一页
+- 逐句暂停跟读两遍，模仿语音语调，找到读句子的感觉
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/OD2e_L2_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 BrainPop 关于 Compare and contrast 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-compare-and-contrast.mp4" type="video/mp4">
+</video>
+
+### 课堂学习内容及反馈
+
+- 课前口语练习，构想外星人的一天生活
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0286.mp4" type="video/mp4">
+</video>
+
+ - 复习第二单元词汇，看图片，模仿动作，扩展相关词汇，把词汇放在不同语境下认识以更好地理解
+- 完成练习册上的内容
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0287.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0290.jpeg)
+{% endgrouppicture %}
+- 复习阅读策略 Compare and contrast 和 Venn Diagram 维恩图的使用
+- 观看 BrainPop 视频学习；
+- 运用该策略，在老师的带领下，自己思考并总结了鲨鱼和海豚的异同点
+	- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0291.jpeg) 
 ## D3, 2024年11月7日
 
 ### 学习资料和学习任务

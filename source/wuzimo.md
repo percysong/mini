@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2024-11-11
+updated: 2024-11-15
 ---
 
 - 学生姓名：武子墨
@@ -10,6 +10,87 @@ updated: 2024-11-11
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D13, 2024年11月14日
+
+### 学习任务
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+- 阅读文本请圈出自己不熟悉的单词，每日跟读一段
+- 练习册每天两页（计时10分钟）
+{% endnote %}
+
+#### Oxford Phonics 自然拼读
+
+- 牛津拼读世界网站 Level 4
+	- [*ng*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb4_u06_ng.mp4?cc=cn&selLanguage=zh)
+	- [*nk*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb4_u06_nk.mp4?cc=cn&selLanguage=zh)
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- *ng*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/phonics-learn-to-read-the-ng-team-alphablocks.mp4" type="video/mp4">
+</video>
+
+- *nk*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/alphablocks-a-lesson-nk-learn-to-read-phonics-for-kids-learning-blocks.mp4" type="video/mp4">
+</video>
+
+#### 复习 P56 词汇
+
+{% note info %}
+- 难度 ★★☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P58 阅读 *My Friend Anak*
+
+{% note info %}
+- 难度 ★★★
+- 注意逗号、句号停顿，模仿语调，找到读句子的感觉；
+- 听录音，暂停跟读 P58，读两遍（P59可以下周再复习）；
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P46–47
+
+- 不看书，凭记忆完成练习册词汇部分练习；
+- P47 拼写的时候，边写边自主拼读，加深印象。
+
+### 课堂学习内容及反馈
+
+{% grouppicture 4-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/molly-OD1-U2-test1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/molly-OD1-U2-test2.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/molly-OD1-U3-test1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/molly-OD1-U3-test2.jpeg)
+{% endgrouppicture %}
+- 讲解 U2（上周完成）测试结果并完成 U3 小测试（<mark>子墨只忘记圈出人称代词和一个小的拼写错误</mark>）
+- Phonics 自然拼读 *ng, nk*
+- 复习 P56 词汇，关于在动物保护区里的动物、栖息地、以及动作词汇，并用短语造句
+- 学习阅读策略：识别故事人物 Identifying Characters
+	- 观看小红帽的故事 *Little Red Riding Hood*，识别人物
+	- 阅读书上的小故事，找到人物
+- 学习故事 *My Friend Anak* 前半部分
+
+<mark>文本稍长，考虑到学生的接受程度我们将分成两次学习。子墨能够很快地理解并回答关于故事的问题并找到关键信息。下来只需要多多跟读，找找语调和语感就好。</mark>
 
 ## D12, 2024年11月10日
 
@@ -81,7 +162,7 @@ updated: 2024-11-11
 
 ### 课堂学习内容及反馈
 
-- 课后练习册完成情况检查和讲解（<mark>阅读部分对 Pet goldfish live at home / in the ocean. 没有理解到，在讲解后改正。</mark> ）
+- 课后练习册完成情况检查和讲解（==阅读部分对 Pet goldfish live at home /in the ocean. 没有理解到，在讲解后改正。==）
 - 复习第二单元词汇、课文和语法，完成小测试（题目很容易，都完成得不错。下节课反馈。）
 - 学习自然拼读 *ch* 组合
 - 回顾整个单元学习了什么，尝试用自己所学的句子来回答大问题 *Where do animals live?* 大家可以用 A … lives in / on … 来回答，老师带领总结 *Animals live in different places.* 对比课前大家的了解，丰富了许多
@@ -89,7 +170,7 @@ updated: 2024-11-11
 		- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0153.jpeg)
 	- What have we learnt
 		- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0250.jpeg)
-- 学习 P56 词汇，关于在动物保护区里的动物、栖息地、以及动作词汇（<mark>子墨很快就熟悉并猜测出了词汇短语的意思，并放在句子里完成。</mark>）
+- 学习 P56 词汇，关于在动物保护区里的动物、栖息地、以及动作词汇（==子墨很快就熟悉并猜测出了词汇短语的意思，并放在句子里完成。==）
 
 ## D11, 2024年11月7日
 
@@ -137,11 +218,11 @@ updated: 2024-11-11
 
 ### 课堂学习内容及反馈
 
-- 复习第一单元词汇、课文和语法，完成小测试<br><mark>Molly 对基础词汇、语法完全没问题，注意最后一道写作题，题目是 Draw <em>a member</em> of your family. This is my family. (用单数)</mark>
 {% grouppicture 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U1-test-1.jpeg)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U1-test-2.jpeg)
 {% endgrouppicture %}
+- 复习第一单元词汇、课文和语法，完成小测试<br><mark>Molly 对基础词汇、语法完全没问题，注意最后一道写作题，题目是 Draw <em>a member</em> of your family. This is my family. (用单数)</mark>
 - 学习更多的动物以及它们的栖息地
 - 完成P54课后词汇练习和听力练习
 - **活动**：选择最喜欢的动物，聊聊它的样子和它生活的地方

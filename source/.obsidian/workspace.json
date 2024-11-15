@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "9e80a165ca13547f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daichaoxun.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "daichaoxun"
-            }
-          },
-          {
             "id": "7900994b5d3c7784",
             "type": "leaf",
             "state": {
@@ -51,8 +36,39 @@
               "icon": "lucide-file",
               "title": "zhangyuantai"
             }
+          },
+          {
+            "id": "9e80a165ca13547f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wuzimo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "wuzimo"
+            }
+          },
+          {
+            "id": "43e536051e8dce7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chenruochun.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "chenruochun"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +193,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zhuxuanyu.md"
+                "file": "zhangyuantai.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of zhuxuanyu"
+              "title": "Outline of zhangyuantai"
             }
           },
           {
@@ -227,21 +243,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "674e80864cbf6905",
+  "active": "7900994b5d3c7784",
   "lastOpenFiles": [
-    "daichaoxun.md",
-    "liaopeiyan.md",
+    "wuzimo.md",
+    "chenruochun.md",
+    "xiangxiyan.md",
     "zhuxuanyu.md",
     "zhangyuantai.md",
+    "daichaoxun.md",
+    "liaopeiyan.md",
     "shaoyuhan.md",
     "Untitled.md",
     "niehaochen.md",
     "wangwanyan.md",
     "zhangqiming.md",
-    "wuzimo.md",
     "discover-futures.md",
-    "chenruochun.md",
-    "xiangxiyan.md",
     "jerry.md",
     "rock.md",
     "gaoshengyu.md",
