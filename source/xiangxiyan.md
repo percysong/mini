@@ -76,14 +76,17 @@ updated: 2024-11-15
 
 ### 课堂学习内容及反馈
 
-{% grouppicture 4-2 %}
+{% grouppicture 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/anna-OD1-U2-test1.jpeg)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/anna-OD1-U2-test2.jpeg)
+{% endgrouppicture %}
+
+{% grouppicture 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/anna-OD1-U3-test1.jpeg)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/anna-OD1-U3-test2.jpeg)
 {% endgrouppicture %}
 - 讲解 U2（上周完成）测试结果并完成 U3 小测试
-	- ==U2 阅读判断题可能没有理解到 *“They are in the same class at school.”*，最后一句小作文应该是 We *go to* school together.==
+	- <mark>U2 阅读判断题可能没有理解到 *“They are in the same class at school.”*，最后一句小作文应该是 We *go to* school together.</mark>
 	- <mark>U3 妍妍 Be 动词单复数掌握得没问题，但把 There 跟 These 搞混淆了</mark>
 - Phonics 自然拼读 *ng, nk*
 - 复习 P56 词汇，关于在动物保护区里的动物、栖息地、以及动作词汇，并用短语造句

@@ -76,9 +76,12 @@ updated: 2024-11-15
 
 ### 课堂学习内容及反馈
 
-{% grouppicture 4-2 %}
+{% grouppicture 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/molly-OD1-U2-test1.jpeg)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/molly-OD1-U2-test2.jpeg)
+{% endgrouppicture %}
+
+{% grouppicture 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/molly-OD1-U3-test1.jpeg)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/molly-OD1-U3-test2.jpeg)
 {% endgrouppicture %}

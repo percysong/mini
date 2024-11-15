@@ -76,15 +76,18 @@ updated: 2024-11-15
 
 ### 课堂学习内容及反馈
 
-{% grouppicture 4-2 %}
+{% grouppicture 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/danny-OD1-U2-test1.jpeg)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/danny-OD1-U2-test2.jpeg)
+{% endgrouppicture %}
+
+{% grouppicture 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/danny-OD1-U3-test1.jpeg)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/danny-OD1-U3-test2.jpeg)
 {% endgrouppicture %}
 - 讲解 U2（上周完成）测试结果并完成 U3 小测试
-	- ==Danny 对于 U2 的测试很仔细，全对，值得鼓励！==
-	- ==U3 把 *There’s* 写成了 *This is*; 最后写作部分拼写有点小问题 *ruler*, *book* ==
+	- <mark>Danny 对于 U2 的测试很仔细，全对，值得鼓励！</mark>
+	- <mark>U3 把 *There’s* 写成了 *This is*; 最后写作部分拼写有点小问题 *ruler*, *book*</mark>
 - Phonics 自然拼读 *ng, nk*
 - 复习 P56 词汇，关于在动物保护区里的动物、栖息地、以及动作词汇，并用短语造句
 - 学习阅读策略：识别故事人物 Identifying Characters

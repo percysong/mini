@@ -1,7 +1,7 @@
 ---
 title: 张元泰学习档案
 created: 2024-09-11
-updated: 2024-11-14
+updated: 2024-11-15
 ---
 
 - 学生姓名：张元泰
@@ -30,6 +30,10 @@ updated: 2024-11-14
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-compare-and-contrast.mp4" type="video/mp4">
 </video>
 
+#### 阅读练习
+
+- 完成上次打印练习题单的阅读部分
+
 ### 课堂学习内容及反馈
 
 - 课前口语练习，构想外星人的一天生活
@@ -45,9 +49,12 @@ updated: 2024-11-14
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0290.jpeg)
 {% endgrouppicture %}
 - 复习阅读策略 Compare and contrast 和 Venn Diagram 维恩图的使用
-- 观看 BrainPop 视频学习；
+- 观看 BrainPop 视频学习，并完成线上练习
 - 运用该策略，在老师的带领下，自己思考并总结了鲨鱼和海豚的异同点
 	- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0291.jpeg) 
+
+<mark>Henry这两次课理解得很到位，思维活跃，但还是喜欢在无关紧要的事情上磨时间（如白板上没写好擦了重写😂）回去之后记得完成阅读题单练习哟。</mark>
+
 ## D3, 2024年11月7日
 
 ### 学习资料和学习任务
