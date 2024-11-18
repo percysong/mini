@@ -1,7 +1,7 @@
 ---
 title: 向惜妍学习档案
 created: 2024-09-11
-updated: 2024-11-15
+updated: 2024-11-18
 ---
 
 - 学生姓名：向惜妍
@@ -10,6 +10,100 @@ updated: 2024-11-15
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D14, 2024年11月17日
+
+### 学习任务
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+- 阅读文本请圈出自己不熟悉的单词，每日跟读一段
+- 练习册每天两页（计时10分钟）
+{% endnote %}
+
+#### 自然拼读
+
+- 完成复习上周拼读视频即可
+
+#### 打卡 P58–59 阅读 *My Friend Anak*
+
+{% note info %}
+- 难度 ★★★
+- 注意逗号、句号停顿，模仿语调，找到读句子的感觉
+- 听录音，暂停跟读 P59，每天跟读两段，跟读两遍
+- 本周跟读打卡 P58 即可
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### 自学 P61–D 歌曲 *Two Birds*
+
+- 每天跟唱两遍，持续两天，注意目标句型
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.41.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P62 词汇
+
+{% note info %}
+- 难度 ★☆☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.42.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P64 视频动画
+
+{% note info %}
+- 难度 ★☆☆
+- 听录音，跟读两遍，注意人物角色的情绪和语气
+{% endnote %}
+
+**Audio**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.46.mp3" type="audio/mp3">
+</audio>
+
+**Video**
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M3_story.mp4" type="video/mp4">
+</video>
+
+#### 练习册 Workbook P48–53
+
+- P48–A 需要大家快速读一遍后，阅读标题和图片，猜测答案
+- P49–A 按照自己喜欢故事的程度标注数字 1–4（1 代表最喜欢）
+- P49–C 问题是关于自己的
+- P53 Writing Study 需要自己找到问题和对应的回答
+- P53 Writing A–B 需要自己想一个生活在保护区的动物，并用简单的句子来描写，最后一句是写人类如何帮助动物，如果有困难可以先空着，老师下次课来辅导
+
+### 课堂学习内容及反馈
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/anna-OD1-U4-test1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/anna-OD1-U4-test2.jpeg)
+{% endgrouppicture %}
+
+- 讲解 U3 测试并完成 U4 小测试（<mark>从测试来看，Anna 对于方位词的掌握，还有阅读理解都有一点小问题，下来还要时不时复习巩固才行。</mark>）
+
+- **故事阅读**
+	- 通过图片复习并引导孩子们复述 Anak 不同年龄段做的事
+	- 学习故事 *My Friend Anak* 后半部分，解决生词和文本大意
+	- 完成课后关于故事的练习题（<mark>Anna 对于练习最后一个问题，因为文本很长，Anak 不同年龄做的事情还不能完全对应上，需要再更多地熟悉文本</mark>）
+- **听力**
+	- 学习不同时间段的词汇
+	- 听材料，了解不同动物的不同作息时间和生活习惯
+- **动画**
+	- 观看 P64 动画，复习不同动物的生活环境
+	- 跟读，并模仿语调和情绪
 
 ## D13, 2024年11月14日
 
