@@ -4,7 +4,7 @@ created: 2024-09-11
 updated: 2024-11-19
 ---
 
-## 2024年11月11日
+## 2024年11月18日
 
 ### 学习资料和学习任务
 
@@ -26,7 +26,6 @@ updated: 2024-11-19
 	- P4–5 Reading
 	- P6 **Uses of *get* – 3 & 4**
 - 上次Joyce和Ryan的作文忘记带了，请参考 Workbook P21 修改誊抄，下次记得带过来哟；
-
 - 扩展学习视频 *Why Do We Sleep* by [SciShow Kids](https://www.youtube.com/@SciShowKids)
 
 <video width="100%" height="auto" controls>
