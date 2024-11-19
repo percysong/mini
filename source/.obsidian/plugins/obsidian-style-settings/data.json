@@ -21,7 +21,6 @@
   "minimal-style@@row-lines": false,
   "encore-settings@@theme-light": "encore-theme-light",
   "encore-settings@@blur-amount": "encore-blur-less",
-  "Components@@icon-autohide": false,
   "Components@@CTA-BTN-enable": false,
   "Components@@file-names-untrim": false,
   "Components@@folder-font-bold": true,

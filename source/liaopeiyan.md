@@ -1,7 +1,7 @@
 ---
 title: 廖培焱学习档案
 created: 2024-09-11
-updated: 2024-11-14
+updated: 2024-11-19
 ---
 
 - 学生姓名：廖培焱
@@ -9,7 +9,7 @@ updated: 2024-11-14
 - 年级：四年级
 - 开始学习日期：2024 年 10 月 9 日
 
-## D10&11, 2024年11月11, 13日
+## D14&15, 2024年11月18&19日
 
 ### 学习资料和学习任务
 
@@ -64,7 +64,62 @@ Listen and point to the words. Listen again and say the words.
 
 {% endnote %}
 
-## D8&9, 2024年11月4, 6日
+## D10&11, 2024年11月11&13日
+
+### 学习资料和学习任务
+
+#### 复习P38–39文本 *Let’s Make Colors*
+
+{% note info %}
+听录音，暂停跟读三遍，每天跟读一段，连续跟读三日，注意模仿语调。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/OD2e_L1_Student_Book_Audio_1.25.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P42 词汇
+
+{% note info %}
+Listen and point to the words. Listen again and say the words.
+听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.27.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P8–15
+
+{% note primary %}
+
+### 课堂学习内容和反馈
+
+#### 11月11日
+
+- 复习文本 *Let’s Make Colors*，回忆三原色、三间色、颜色轮等美术学科概念；<mark>Jerry相比上次，对颜色的基本概念要熟悉一些，能够理解并简单表达出相应的概念以及混合的原则</mark>
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0263.mp4" type="video/mp4">
+</video>
+
+- 完成课后练习，复习方位词相关语法
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0264.mp4" type="video/mp4">
+</video>
+
+#### 11月13日
+
+- 学习更多关于服饰的生词，<mark> Jerry 对个别服饰词汇有一定了解，但大多数都需要重新学习，下来之后一定要复习</mark>
+- 完成简单的听力练习，Jerry 的理解没有问题
+- 在练习册上 P35 完成自己最喜欢的服饰的写作练习
+- 观看P44动画，复习颜色混合相关词汇
+- 完成拼词游戏，复习自然拼读，<mark> Jerry 对于拼写基本的词汇还不是很熟练，没有办法很快反应出来字母是什么（本能地会说拼音而非英文字母的读音），通过游戏的形式，激发他的思考，更多地操练拼读拼写。熟悉简单的拼读规则，但较复杂的拼读规则还需要更多练习</mark>
+
+{% endnote %}
+
+## D8&9, 2024年11月4&6日
 
 ### 学习资料和学习任务
 
@@ -175,7 +230,7 @@ Listen and point to the words. Listen again and say the words.
 <mark>Jerry 对于颜色混合的艺术知识还不是很了解，所以是通过自己的探究找到的规律。词汇表达上有一定难度，需要坚持复习跟读。</mark>
 {% endnote %}
 
-## D6&7, 2024年10月28, 30日
+## D6&7, 2024年10月28&30日
 
 ### 学习资料和学习任务
 
@@ -275,7 +330,7 @@ Listen and point to the words. Listen again and say the words.
 
 {% endnote %}
 
-## D4&5, 2024年10月21, 23日
+## D4&5, 2024年10月21&23日
 
 ### 学习资料和学习任务
 
@@ -385,7 +440,7 @@ Listen and point to the words. Listen again and say the words.
 
 {% endnote %}
 
-## D2&3, 2024年10月14, 16日
+## D2&3, 2024年10月14&16日
 
 ### 学习资料和学习任务
 

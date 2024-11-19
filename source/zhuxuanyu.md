@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-11-14
+updated: 2024-11-19
 ---
 
 - 学生姓名：朱宣宇
@@ -10,7 +10,70 @@ updated: 2024-11-14
 - 开始学习日期：2024 年 9 月 23 日
 ---
 
-## D12&13, 2024年11月11, 13日
+## D14&15, 2024年11月18&19日
+
+### 学习资料和学习任务
+
+#### Video
+
+- 复习 BrainPop 关于 Changing States of matter 视频，思考并复述物质如何在三态间转换
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/23/changing-states-of-matter.mp4" type="video/mp4">
+</video>
+
+- 观看制作冰激凌的视频，自己尝试在家不用冰箱制作冰激凌
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/homemade-ice-cream-without-a-machine-in-just-5-minutes.mp4" type="video/mp4">
+</video>
+ 
+
+#### Vocabulary
+
+复习 P34 和 P36 词汇，听录音，跟读两遍，持续两天
+
+**P34**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.20.mp3" type="audio/mp3">
+</audio>
+
+**P36**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.24.mp3" type="audio/mp3">
+</audio>
+
+#### Play
+
+复习 P38–39 剧本 *Let’s Make Ice Cream!* 听录音跟读两遍，每两天跟读一页，注意语气和情绪
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.25.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook
+
+练习册 Workbook P26–33
+
+{% note info %}
+
+### 学习内容
+
+- 复习物质的三态，举例描述物质三态的特点，并用句型说一说三态之间如何变化
+	- When we make it (hot / cold), it (freezes / melts / boils), and changes into a (solid / liquid / gas)
+	- <mark>Rocky 整体都能运用句型复述出来，反应很快，掌握熟练</mark>
+- 扩展不同物质的词汇，通过阅读线索和听力来猜测物品（<mark>Rocky 能准确根据物质特征快速判断出是什么物品，对语言的理解越来越熟练</mark>）
+- 口语交际：如何用英语来请求对方递物品
+- 学习可以同时作为名词和动词的词汇
+- 学习关于食物和烹饪动作相关词汇（其中一半的词汇应该是宣宇已经掌握的）
+- 复习阅读策略 Cause and Effect, 并运用它来理解虚构文本
+- 阅读故事，学习如何不用冰箱的情况下制作冰激凌，完成课后题
+
+<mark>Rocky 对于故事/戏剧文本要素比较熟悉，如人物、场景等，对文本的整体理解很不错，能够很快反应回答找出故事的问题和原因。之后也能边读，边复述出制作的步骤，完成得很不错！</mark>
+
+{% endnote %}
+
+## D12&13, 2024年11月11&13日
 
 ### 学习资料和学习任务
 
@@ -99,7 +162,7 @@ updated: 2024-11-14
 - 观看 BrainPop 关于物质三态及其变化的视频，回答互动问题
 - <mark>宣宇对于科学知识的思维和反应都很快，能够通过英语理解并简单描述物质三态的特点以及变化，并举一反三，值得鼓励</mark>
 
-## D10&11, 2024年11月4, 6日
+## D10&11, 2024年11月4&6日
 
 ### 学习资料和学习任务
 
@@ -188,7 +251,7 @@ updated: 2024-11-14
 
 宣宇对故事的理解没有问题，能够尝试用自己的语言猜测故事和复述故事；但跟读训练时有一些排斥情绪，在引导和鼓励下完成。希望下来能坚持更多地跟读、认读练习。
 
-## D8&9, 2024年10月28, 30日
+## D8&9, 2024年10月28&30日
 
 ### 学习资料和学习任务
 
@@ -306,7 +369,7 @@ updated: 2024-11-14
 
 <mark>本堂课的科学知识对于 Rocky 相对容易，能够很快地根据自己的已知知识经验来给动物分类，英文语言部分都是新的词汇，需要一定时间来不断重复才能掌握。思维清晰，语言表达也在老师的帮助下不断完善中，在不同语境下不断重复操练才能掌握。</mark>
 
-## D6&7, 2024年10月21, 23日
+## D6&7, 2024年10月21&23日
 
 ### 学习资料和学习任务
 

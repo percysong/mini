@@ -8,12 +8,36 @@ updated: 2024-11-19
 
 ### 学习资料和学习任务
 
-- 上次Joyce和Ryan的作文忘记带了，请参考 Workbook P21 修改誊抄，下次记得带过来哟；
+- Factflix Video 开课视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF___Level_1___Factflix_Unit_1_final.mp4" type="video/mp4">
+</video>
+ 
+- *Time for BED* audio 阅读音频
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_SB1_1.01.mp3" type="audio/mp3">
+</audio>
+ 
 - **Student book**
 	- P112 **Uses of *get* – 3 & 4** 
 - **Workbook**
 	- P4–5 Reading
 	- P6 **Uses of *get* – 3 & 4**
+- 上次Joyce和Ryan的作文忘记带了，请参考 Workbook P21 修改誊抄，下次记得带过来哟；
+
+- 扩展学习视频 *Why Do We Sleep* by [SciShow Kids](https://www.youtube.com/@SciShowKids)
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/why-do-we-need-sleep.mp4" type="video/mp4">
+</video>
+ 
+- 扩展学习视频 *What If You Stopped SLEEPING?* by [Peekaboo Kidz](https://www.youtube.com/@Peekaboo_Kidz)
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/what-if-you-stopped-sleeping-dr-binocs-show-peekaboo-kid.mp4" type="video/mp4">
+</video>
 
 ### 课堂学习内容及反馈
 

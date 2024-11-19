@@ -1,12 +1,9 @@
 [
   "obsidian-smart-typography",
   "cm-chs-patch",
-  "obsidian-style-settings",
-  "obsidian-minimal-settings",
   "obsidian-sortable",
   "obsidian-outliner",
-  "quick-explorer",
   "settings-search",
   "obsidian-linter",
-  "obsidian-hider"
+  "obsidian-style-settings"
 ]
