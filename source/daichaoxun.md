@@ -34,8 +34,6 @@ updated: 2024-11-20
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/following-the-sun-crash-course-kids-8-2.mp4" type="video/mp4">
 </video>
  
-{% note info %}
-
 ### 学习内容及反馈
 
 - 解决 Ben 在上次阅读作业练习中遇到的问题
@@ -58,8 +56,6 @@ updated: 2024-11-20
  
 - 继续下一个单元问题探究：*How can the Sun tell you the season?* **我们如何从太阳的位置和影子来判断季节？**
 <mark>这节课相对上节课科学层面的难度有所增加，Ben 依然保持着极强的兴趣和学习热情，在操练语言的过程中也学到了不少科学知识。下来请完成两页科学相关课后练习，一些有难度的词汇已经标准在最上面。</mark>
-
-{% endnote %}
 
 ## D6, 2024年11月12日
 
