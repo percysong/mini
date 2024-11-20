@@ -1,13 +1,65 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2024-11-14
+updated: 2024-11-20
 ---
 
 - 学生姓名：代超巡
 - English Name: Ben
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
+
+## D6, 2024年11月12日
+
+### 学习资料和学习任务
+
+- 完成两节课的科学练习题（已打印）
+	- *Who set the first clock?* 如何用日晷来表示时间和太阳的位置？
+	- *How can the Sun tell you the season?* 判断不同季节太阳的轨迹
+- 复习本节课学习的新词汇
+	- far - farther - farthest
+	- location: the place or position of something
+	- Four **directions**
+		- north
+		- east
+		- south
+		- west
+		- 记忆方法 (mnemonic): **N**ever **E**at **S**oggy **W**affles
+	- **sundial**: a tool that tells time by using the changing direction of shadows caused by the Sun’s movement across the sky
+	- **observation** *n.*: the things you notice by looking carefully (observe *n.*)
+	- **throughout**: from the beginning to end of something
+- 观看视频，回顾如何通过太阳位置和影子来判断时间
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/following-the-sun-crash-course-kids-8-2.mp4" type="video/mp4">
+</video>
+ 
+{% note info %}
+
+### 学习内容及反馈
+
+- 解决 Ben 在上次阅读作业练习中遇到的问题
+	- 这篇阅读有一定难度，帮助 Ben 解决了一些关键词汇（比如 far - farther - farthest）
+	- 还有一道题需要根据表格的信息来推理，回答的语言也规范了一下
+- 复习了地球产生白天 daytime 和黑夜 nighttime 的原因
+	- Ben 能够很清楚准确地回答：*Because the earth is spinning.*
+- 通过单元问题引入今天的探究：*Who set the first clock?* **谁设定第一台钟表的时间？**
+	- 如果新的机械钟表需要调时间，我们参照手机，手机参考网络，那网络上的时间是参考哪里呢？第一台钟表的时间是如何确定的呢？
+	- 为什么人类要使用钟表？——以前的农耕社会参考太阳不需要具体时间，但如果现代社会没有钟表生活会变得怎样？（口语表达）
+	- 最开始如何来将一天划分？为什么划分为24小时？（学习古埃及的计数方式）
+	- 将时针作为太阳的位置（投影更方便人们观察），来表示具体时间
+	- 学习最早的钟表：日晷
+	- 制作日晷并学习其工作原理
+	- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0320.jpeg) 
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0319.mp4" type="video/mp4">
+</video>
+ 
+- 继续下一个单元问题探究：*How can the Sun tell you the season?* **我们如何从太阳的位置和影子来判断季节？**
+<mark>这节课相对上节课科学层面的难度有所增加，Ben 依然保持着极强的兴趣和学习热情，在操练语言的过程中也学到了不少科学知识。下来请完成两页科学相关课后练习，一些有难度的词汇已经标准在最上面。</mark>
+
+{% endnote %}
 
 ## D6, 2024年11月12日
 
