@@ -1,7 +1,7 @@
 ---
 title: 廖培焱学习档案
 created: 2024-09-11
-updated: 2024-11-19
+updated: 2024-11-20
 ---
 
 - 学生姓名：廖培焱
@@ -9,60 +9,80 @@ updated: 2024-11-19
 - 年级：四年级
 - 开始学习日期：2024 年 10 月 9 日
 
-## D14&15, 2024年11月18&19日
+## D12&13, 2024年11月18&20日
 
 ### 学习资料和学习任务
 
-#### 复习P38–39文本 *Let’s Make Colors*
+#### 复习 P48 词汇
 
 {% note info %}
-听录音，暂停跟读三遍，每天跟读一段，连续跟读三日，注意模仿语调。
+- 难度 ★★☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
 {% endnote %}
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/OD2e_L1_Student_Book_Audio_1.25.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.32.mp3" type="audio/mp3">
 </audio>
 
-#### 复习 P42 词汇
+#### 复习 P51 阅读 *Animal Homes*
 
 {% note info %}
-Listen and point to the words. Listen again and say the words.
-听录音，跟读两遍
+- 难度 ★★☆
+- 听录音，暂停跟读三遍，每天跟读两段，连续跟读两天，注意模仿语调
 {% endnote %}
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.27.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.33.mp3" type="audio/mp3">
 </audio>
 
-#### 练习册 Workbook P8–15
+{% grouppicture 2-2 %}
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-51-52-1.jpeg)
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-51-52-2.jpeg)
+{% endgrouppicture %}
 
-{% note primary %}
+#### 练习册 Workbook
+
+完成相应内容
 
 ### 课堂学习内容和反馈
 
-#### 11月11日
+#### 11月18日
 
-- 复习文本 *Let’s Make Colors*，回忆三原色、三间色、颜色轮等美术学科概念；<mark>Jerry相比上次，对颜色的基本概念要熟悉一些，能够理解并简单表达出相应的概念以及混合的原则</mark>
+- 完成二单元测试
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Jerry-OD1-U2-test-1.jpeg) 
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Jerry-OD1-U2-test-2.jpeg) 
+{% endgrouppicture %}
+
+<mark>Jerry 对词汇部分比较了解，可能因为还不够熟悉，也可能因为完成练习的时候还不够专注，所以花费了过长的时间完成；阅读理解有些马虎，对于简单的文本并不能完全准确把握关键信息。<br>从写作可以看出 Jerry 的拼音掌握情况也不好，比如前后鼻音搞混，zhi, chi, shi 整体认读拼写忘记等等。在之前拼写练习时也反映出相应问题，比如在拼 yellow 的时候，用「爷爷」的拼音做类比，Jerry 并没有办法拼出 yé 的拼音。</mark>
+
+- 通过视频和图片引入大问题：*Where do animals live?* 
 
 <video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0263.mp4" type="video/mp4">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0314.mp4" type="video/mp4">
 </video>
 
-- 完成课后练习，复习方位词相关语法
+<mark>Jerry 对基本的问题可以回答，能对图片做出简单的描述。但还需要更多练习熟练表达。</mark>
 
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0264.mp4" type="video/mp4">
-</video>
+- **词汇**：介绍不同动物及其生活的环境
+	- 包括美洲特有的物种负鼠 opossum
+	- 了解动物及其栖息地的词汇表达
+- **阅读策略**：根据标题 title and subtitles 和图片预测文本
+- **阅读** ：*Where do Animals Live*, 了解不同物种的不同生活环境
 
-#### 11月13日
+#### 11月20日
 
-- 学习更多关于服饰的生词，<mark> Jerry 对个别服饰词汇有一定了解，但大多数都需要重新学习，下来之后一定要复习</mark>
-- 完成简单的听力练习，Jerry 的理解没有问题
-- 在练习册上 P35 完成自己最喜欢的服饰的写作练习
-- 观看P44动画，复习颜色混合相关词汇
-- 完成拼词游戏，复习自然拼读，<mark> Jerry 对于拼写基本的词汇还不是很熟练，没有办法很快反应出来字母是什么（本能地会说拼音而非英文字母的读音），通过游戏的形式，激发他的思考，更多地操练拼读拼写。熟悉简单的拼读规则，但较复杂的拼读规则还需要更多练习</mark>
-
-{% endnote %}
+- 完成第三单元测试
+- 继续学习文本 Animal Homes，并用句型回答
+	- Eagles live in a nest.
+	- A … lives in / on …
+	- <mark>Jerry 对于新的词汇熟悉和记忆比较困难，需要很多次重复才能准确发音；回答问题也倾向于说单词，需要老师不断引导才能表达完整句子。</mark>
+- 课文跟读，纠正发音，培养语感
+	- <mark>这个文本相对之前难度提升，可能接近朗文二年级的难度，Jerry读起来还是有些吃力，基本上都是一个单词一个单词在读。很多常见单词都需要很长的拼读时间。跟读时总是习惯于去和录音一起读，而不是听完整个句子再读。</mark>
+- 完成课后练习题
+	- <mark>对于大部分的问题，Jerry都能够理解，但需要一些思考或反应时间。</mark>
 
 ## D10&11, 2024年11月11&13日
 

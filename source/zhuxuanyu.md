@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-11-19
+updated: 2024-11-21
 ---
 
 - 学生姓名：朱宣宇
@@ -10,28 +10,34 @@ updated: 2024-11-19
 - 开始学习日期：2024 年 9 月 23 日
 ---
 
-## D14&15, 2024年11月18&19日
+## D14&15, 2024年11月18&20日
 
 ### 学习资料和学习任务
 
 #### Video
 
-- 复习 BrainPop 关于 Changing States of matter 视频，思考并复述物质如何在三态间转换
-
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/23/changing-states-of-matter.mp4" type="video/mp4">
-</video>
-
-- 观看制作冰激凌的视频，自己尝试在家不用冰箱制作冰激凌
+- 观看制作冰激凌的视频，有机会可以自己尝试在家不用冰箱制作冰激凌
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/homemade-ice-cream-without-a-machine-in-just-5-minutes.mp4" type="video/mp4">
+</video>
+
+- 复习 BrainPop 关于 Main idea and supporting details 的视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-main-idea.mp4" type="video/mp4">
+</video>
+
+- 复习第二单元动画对话视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_02_Story2.mp4" type="video/mp4">
 </video>
  
 
 #### Vocabulary
 
-复习 P34 和 P36 词汇，听录音，跟读两遍，持续两天
+复习 P34, P36, P48 词汇，每天复习一页，听录音，跟读两遍
 
 **P34**
 <audio controls>
@@ -43,9 +49,14 @@ updated: 2024-11-19
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.24.mp3" type="audio/mp3">
 </audio>
 
-#### Play
+**P48**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+</audio>
 
-复习 P38–39 剧本 *Let’s Make Ice Cream!* 听录音跟读两遍，每两天跟读一页，注意语气和情绪
+#### Play 阅读打卡
+
+复习 P38–39 剧本 *Let’s Make Ice Cream!* 听录音跟读两遍，每两天跟读一页，注意语气和情绪；视频打卡
 
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.25.mp3" type="audio/mp3">
@@ -53,11 +64,11 @@ updated: 2024-11-19
 
 #### Workbook
 
-练习册 Workbook P26–33
-
-{% note info %}
+练习册 Workbook P26–37
 
 ### 学习内容
+
+#### 11月19日
 
 - 复习物质的三态，举例描述物质三态的特点，并用句型说一说三态之间如何变化
 	- When we make it (hot / cold), it (freezes / melts / boils), and changes into a (solid / liquid / gas)
@@ -71,7 +82,32 @@ updated: 2024-11-19
 
 <mark>Rocky 对于故事/戏剧文本要素比较熟悉，如人物、场景等，对文本的整体理解很不错，能够很快反应回答找出故事的问题和原因。之后也能边读，边复述出制作的步骤，完成得很不错！</mark>
 
-{% endnote %}
+#### 11月20日
+
+- Unit 2 小测试
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Rocky-OD2-U2-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Rocky-OD2-U2-2.jpeg)
+{% endgrouppicture %}
+
+<mark>宣宇词汇掌握很好，关于频率副词的理解和搭配都没有问题。阅读有一个题目粗心，判断错误；写作主要是拼写和搭配的错误，还需要更多的笔头练习。</mark>
+
+- 复习一般过去时态 be 动词的提问和回答
+	- <mark>Rocky对一般过去时态提问的回答还不是很习惯用过去时态来回答，还需要在不同的情景下多多练习</mark>
+- 学习更多食物的词汇，训练听力，了解不同食物的食材（ingredients）
+	- <mark>这些食物词汇Rocky都认识，听力主要训练宣宇对细节的关注；今天的听力有些不是很认真，听漏了两个食材的名字</mark>
+- 学习两个词的缩写 contraction
+- 看动画，回答问题，回顾整个单元学习的内容
+- 开启第三个大单元 *How are things different now from long ago*
+	- <mark>因为这个单元的探究话题宣宇在四年级已经学过，主要是复习这个概念，扩展更多词汇，同时操练过去时态的语法</mark>
+- 探讨现在和以前的事物有哪些方面不一样
+	- 交通（<mark>Rocky很不错，记得transportation这个词</mark>）
+	- 交流
+	- 获取新闻
+	- <mark>宣宇能够用英语很熟练地总结表达现在跟以前的不同之处</mark>
+- 学习阅读策略 Main idea and details 中心句和支持论点
+	- 如何找到中心句（一般在段落第一句）和支持论点
 
 ## D12&13, 2024年11月11&13日
 
