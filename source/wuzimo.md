@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2024-11-20
+updated: 2024-11-22
 ---
 
 - 学生姓名：武子墨
@@ -10,6 +10,110 @@ updated: 2024-11-20
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D15, 2024年11月21日
+
+### 学习任务
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+- 阅读文本请圈出自己不熟悉的单词，每日跟读一段
+- 练习册每天两页（计时10分钟）
+{% endnote %}
+
+#### 自然拼读
+
+- 牛津拼读世界网站 Level 4
+	- [*th1*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb4_u05_th.mp4?cc=cn&selLanguage=zh)
+	- [*th2*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb4_u05_th2.mp4?cc=cn&selLanguage=zh)
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- *th*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-to-read-phonics-for-kids-letter-teams-th.mp4" type="video/mp4">
+</video>
+ 
+
+#### 打卡 P59 阅读 *My Friend Anak*
+
+{% note info %}
+- 难度 ★★★
+- 注意逗号、句号停顿，模仿语调，找到读句子的感觉
+- 听录音，暂停跟读 P59，每天跟读两段，跟读两遍
+- 周六跟读打卡 P59 
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P68 词汇
+
+{% note info %}
+- 难度 ★☆☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.47.mp3" type="audio/mp3">
+</audio>
+
+#### 复习季节 Seasons 词汇
+
+{% note info %}
+- 难度 ★☆☆
+- 看视频，跟读两遍季节相关词汇。
+{% endnote %}
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/kids-vocabulary-four-seasons-4-seasons-in-a-year-english-educational-video-for-kids.mp4" type="video/mp4">
+</video>
+
+#### 预习 P70–71 文本
+
+{% note info %}
+- 难度 ★★★
+- Day 1: 阅读标题，看图片，猜一猜故事是关于什么的；听两遍录音，说一说你听到了什么，圈出不熟悉的词汇；
+- Day 2: 暂停跟读第一自然段，跟读两遍，注意生词的发音，模仿语音语调；
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P54–57
+
+- 注意 P54 和 P56 左上角灰色部分需要回答
+- 四季的词汇拼写：
+	- spring
+	- summer
+	- fall
+	- winter
+
+### 课堂学习内容及反馈
+
+- 口语训练
+	- 复习故事 *My Friend Anak*，加上手势和动作跟读，训练语音语调
+	- 学习自然拼读 *th* 的两种不同发音
+- 开启新的大单元，「四季如何变化」*How do seasons change?*
+	- 通过图片和视频，学生观察自然界和生活中不同季节的事物和变化
+	- 学生说出相关词汇来分享自己的已知
+		- <mark>子墨分享了她看到的 leaves, snowman, trees and flowers … </mark>
+	- 老师引入四季及相关词汇
+		- <mark>子墨说出了summer，但是其它季节的词汇都不是很熟悉</mark>
+	- 口语表达自己最喜欢的季节以及原因
+		- <mark>子墨也分享了自己最喜欢的季节 “I like spring because it is warm…“</mark>
+- 学习阅读策略 Captions
+	- captions 这个概念在中文中很少被提及，指的是图片下方的注释和说明文字；在语文中也少有被提起，但在当代多媒介信息时代，阅读 caption 是一项很重要的技能了。
+- 进入阅读文本的学习，初步了解不同季节的不同特点；
+	- 文本很长，有些难度，大家尽力理解，我们会分两节课完成学习。
 
 ## D14, 2024年11月17日
 
