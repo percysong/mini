@@ -1,7 +1,7 @@
 ---
 title: 张元泰学习档案
 created: 2024-09-11
-updated: 2024-11-22
+updated: 2024-11-25
 ---
 
 - 学生姓名：张元泰
@@ -17,8 +17,7 @@ updated: 2024-11-22
 
 #### 复习 P18 故事 *Leo and Lily’s Adventure*
 
-- 听录音，跟读分成两页，每两天熟练跟读一页
-- 逐句暂停跟读两遍，模仿语音语调，找到读句子的感觉
+- 听录音，尝试复述故事，讲一讲角色遇到了什么问题，他们如何解决的
 
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/OD2e_L2_Student_Book_Audio_1.10.mp3" type="audio/mp3">
@@ -27,15 +26,14 @@ updated: 2024-11-22
 ### 课堂学习内容及反馈
 
 - 口语练习：聊一聊自己喜欢的运动
-	- Henry 聊到了 basketball，自己喜欢的
+	- Henry 聊到了 basketball，自己喜欢的球员 Kobe Bryant 和 Michael Jordan 及其特点
+- 复习上节课学习的阅读策略 Compare and contrast 和 Venn Diagram 维恩图的使用
+- 回顾鲨鱼和海豚的异同点
 - 学习故事
 - 复习 Text type 文本类型 fiction *vs* nonfiction, 以及 fiction 的特点
 	- characters
 	- scene (setting)
 	- BME (beginning, middle, end)
-- 阅读文本 *Leo and Lily’s Adventure* 并完成复述
-- 复习上节课学习的阅读策略 Compare and contrast 和 Venn Diagram 维恩图的使用
-- 回顾鲨鱼和海豚的异同点
 
 ## D4, 2024年11月14日
 

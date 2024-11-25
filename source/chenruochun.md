@@ -1,7 +1,7 @@
 ---
 title: 陈若淳学习档案
 created: 2024-09-11
-updated: 2024-11-22
+updated: 2024-11-25
 ---
 
 - 学生姓名：陈若淳
@@ -10,6 +10,115 @@ updated: 2024-11-22
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D16, 2024年11月24日
+
+### 学习任务
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+- 阅读文本请圈出自己不熟悉的单词，每日跟读一段
+- 练习册每天两页（计时10分钟）
+{% endnote %}
+
+#### 自然拼读
+
+- 学习 Magic *e* 
+	- [*a_e*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u01_a_e.mp4?cc=global&selLanguage=en)
+- 复习同样发 long *a* 的两个字母组合
+	- *[ai](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u04_ai.mp4?cc=cn&selLanguage=zh)*
+	- *[ay](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u04_ay.mp4?cc=cn&selLanguage=zh)*
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Magic *e* Introduction 介绍视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/alphablocks-changing-sounds-with-magic-e-learn-to-read-phonics-for-kids-learning-blocks.mp4" type="video/mp4">
+</video>
+
+- Long *a* 回顾视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/alphablocks-long-a-with-magic-e-learn-to-read-phonics-for-kids-learning-blocks.mp4" type="video/mp4">
+</video>
+ 
+
+#### 复习 P68 词汇
+
+{% note info %}
+- 难度 ★☆☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.47.mp3" type="audio/mp3">
+</audio>
+
+#### 复习季节 Seasons 词汇
+
+{% note info %}
+- 难度 ★☆☆
+- 看视频，跟读两遍季节相关词汇。
+{% endnote %}
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/kids-vocabulary-four-seasons-4-seasons-in-a-year-english-educational-video-for-kids.mp4" type="video/mp4">
+</video>
+
+#### 复习 P70–71 文本
+
+{% note info %}
+- 难度 ★★★
+- 每天听录音，暂停跟读跟读一个季节文本，跟读至少两遍；
+- 思考每个季节有哪些特别的地方，你能尝试说说看吗？
+- <mark>选择自己最喜欢的季节，熟练指读打卡</mark>
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P73 歌曲
+
+{% note info %}
+- 难度 ★★☆
+- 听录音，跟唱歌曲两遍
+- 注意相应语法表达
+	- It gets …
+	- It doesn’t get …
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.49.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P58–59
+
+- P59–D 回答关于自己国家的情况
+- P60 语法本节课刚刚引入，还没有操练，可以先不做
+
+### 课堂学习内容及反馈
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Danny-OD1-U5-test1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Danny-OD1-U5-test2.jpeg)
+{% endgrouppicture %}
+
+- Unit 5 *Where do animals live* 小测试
+	- Danny 词汇、语法、阅读和写作总体都掌握得不错
+	- 语法练习单数的疑问词不知为什么没有照着复数来写
+	- 阅读部分有一个句子比较难理解，大家都做错了（I watch the animals play. 并不是 play together with the animals.）
+	- 写作部分的科学知识都掌握得很好，只是定冠词有点不熟悉（并非本单元学习重点，现在只是加深印象，不需要理解掌握）
+- 学习自然拼读 Magic *e* 和 *a* 的组合，复习 Long *a* 字母组合
+- 复习四季的词汇以及每个季节的特点，继续学习文本阅读
+- 完成课后练习题
+- <mark>本次阅读文本对Danny有些难度，只能回答简单的关于季节的问题，没有办法自己用关键词说出每个季节的不同特点。下来可以多熟悉一下文本，下节课尝试用自己的理解来说一说。</mark>
 
 ## D15, 2024年11月21日
 
