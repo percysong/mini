@@ -1,13 +1,48 @@
 ---
 title: 廖培焱学习档案
 created: 2024-09-11
-updated: 2024-11-21
+updated: 2024-11-26
 ---
 
 - 学生姓名：廖培焱
 - English Name: Jerry
 - 年级：四年级
 - 开始学习日期：2024 年 10 月 9 日
+
+## D14&15, 2024年11月25&27日
+
+### 学习资料和学习任务
+
+#### 复习 P51 阅读 *Animal Homes*
+
+{% note info %}
+- 难度 ★★☆
+- 听录音，继续暂停跟读三遍，连续跟读两天，注意模仿语调
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P53–C 歌曲
+
+- 每天跟唱两遍，持续两天，注意目标句型
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/OD2e_L1_Student_Book_Audio_1.34.mp3" type="audio/mp3">
+</audio>
+
+### 课堂学习内容和反馈
+
+#### 11月25日
+
+- 复习之前学习的拼读规则
+	- 掌握得不错，认读速度也要快一些
+- 复习故事：*Elliot’s New Friend* 和 *Who’s In the Tree | Colors of the Sky*
+	- 认读的速度和准确度比之前要好一些，但有的还是遗忘了，主要在训练模仿语调
+- 继续学习文本 *Animal Homes* 提问检查理解
+	- 下来复习的不错，许多上次一直读错的生词（如 *crab*）这次很准确地说出来了
+	- 使用句型回答问题 –*Where does a … live?* –*A … lives in …* 说一说每一个动物住的地方，Jerry 这次来也都能用自己的语言尝试回答了，很棒！
 
 ## D12&13, 2024年11月18&20日
 

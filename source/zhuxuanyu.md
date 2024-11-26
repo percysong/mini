@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-11-21
+updated: 2024-11-26
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,70 @@ updated: 2024-11-21
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D16&17, 2024年11月25&27日
+
+### 学习资料和学习任务
+
+#### Video
+
+- 复习第二单元动画对话视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_02_Story2.mp4" type="video/mp4">
+</video>
+ 
+
+#### Vocabulary
+
+复习 P48 词汇，听录音，跟读两遍
+
+**P48**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读打卡 *Then and Now*
+
+复习 P50–51 文本，听录音跟读两遍，每两天跟读一页；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook
+
+练习册 Workbook P38–43
+
+### 学习内容
+
+#### 11月25日
+
+- 开课口语练习，介绍海洋。老师提出引导性问题帮助梳理口语表达的思路。<mark>练习一遍之后，宣宇可以较流利地表达并介绍，只是表达的欲望还可以在慢慢激发。</mark>
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0367.mp4" type="video/mp4">
+</video>
+
+- 完成 Unit 3 小测试，这次练习完成得不认真，简单的语法都会粗心写错，最后的写作小练习也没有仔细思考。词汇和阅读理解掌握得不错：
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Rocky-OD2-U3-test1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Rocky-OD2-U3-test2.jpeg)
+{% endgrouppicture %}
+
+- 复习 Unit 5 词汇，有个别词汇还不是很熟悉，要着重复习一下。
+	- communication
+	- letter
+	- text message
+	- radio
+	- internet
+- 复习阅读策略：Main Idea and Details 中心句和支持论点
+- 学习文本，对比过去和现在的沟通交流、新闻和旅游有什么不同
+- 找关键信息，完成椅子图（已经粘贴到书上，并在引导下找到关于 Communication 部分的不同，还有剩下的部分需要完成）
+- 完成课后练习问题（宣宇都能找到关键信息，只是今天学习热情没有很高，需要老师督促着完成）
+
+#### 11月27日
 
 ## D14&15, 2024年11月18&20日
 

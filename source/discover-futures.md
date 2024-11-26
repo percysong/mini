@@ -1,8 +1,56 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2024-11-19
+updated: 2024-11-26
 ---
+
+## 2024年11月25日
+
+### 学习资料和学习任务
+
+- **Student book** Review Grammar
+	- P113 Discover grammar 阅读并复习语法
+	- P9 Search for an unusual hobbies and share it with the class. 查找一个不寻常的兴趣，下节课分享。
+- **Workbook**
+	- P4–5 Joyce 和 Ryan 还没有完成阅读，请下周一定完成哟！
+	- P7–8
+
+### 课堂学习内容及反馈
+
+- 检查订正练习册（本单元语法练习较容易，主要是起到复习巩固，大家都完成得不错）
+- 统计自己每周每项日常事务所用的时间，计算自己每周所剩的 free time
+	- 对比自己的答案，讨论我们每人每周的空闲时间是否足够？
+	- 大家平均每天算下来有两小时左右的空闲时间
+- 阅读材料：Sameer’s Day 一位童工的一天，探讨问题
+	- 引导学生对比自己的生活和 Sameer 的生活，发现有什么不同？
+	- 他会怎样看待我们的生活？
+	- 辨识文本类型（a leaflet）
+- 学习语法 P113：
+	- 一般现在时用来描述事实 facts、常规 routines，现在进行时表示一段持续的动作 actions in progress
+	- 复习频率副词 adverbs of frequency
+	- 完成书上练习
+	- 学习并完成书上相应练习
+	- 大家对时态的掌握都不错，也均能区分一般现在时和现在进行时的不同用法，并很好地完成练习（改错题稍有难度）
+- 运用不同时态描述不同职业人们的日常工作，对比其工作性质和心情
+- 聊一聊业余活动，并介绍自己喜欢的业余活动
+- Ryan
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0370.mp4" type="video/mp4">
+</video>
+
+- Jason
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0371.mp4" type="video/mp4">
+</video>
+
+- Joyce
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0372.mp4" type="video/mp4">
+</video>
+ 
 
 ## 2024年11月18日
 

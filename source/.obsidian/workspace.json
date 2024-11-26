@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wuzimo.md",
+                "file": "discover-futures.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "wuzimo"
+              "title": "discover-futures"
             }
           },
           {
@@ -36,8 +36,39 @@
               "icon": "lucide-file",
               "title": "zhangyuantai"
             }
+          },
+          {
+            "id": "b90067c0d1cd77b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "liaopeiyan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "liaopeiyan"
+            }
+          },
+          {
+            "id": "21233197bcc3405d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wuzimo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "wuzimo"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,10 +193,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wuzimo.md"
+                "file": "liaopeiyan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of wuzimo"
+              "title": "Outline of liaopeiyan"
             }
           },
           {
@@ -210,16 +241,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bab04c0ee03c6766",
+  "active": "b90067c0d1cd77b0",
   "lastOpenFiles": [
-    "zhangyuantai.md",
     "wuzimo.md",
+    "zhuxuanyu.md",
+    "liaopeiyan.md",
+    "zhangyuantai.md",
+    "discover-futures.md",
     "chenruochun.md",
     "xiangxiyan.md",
-    "liaopeiyan.md",
     "daichaoxun.md",
-    "zhuxuanyu.md",
-    "discover-futures.md",
     "shaoyuhan.md",
     "Untitled.md",
     "niehaochen.md",
