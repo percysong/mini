@@ -9,7 +9,57 @@ updated: 2024-11-21
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
 
-## D6, 2024年11月12日
+## D9, 2024年11月26日
+
+### 学习资料和学习任务
+
+- 完成本节课的科学练习题（已打印）
+- 完成课外延伸阅读 *How Does a Leaf Know When to Change Its Color?*
+- 复习本节课学习的新词汇
+	- constellation
+		- a group of stars in the night sky that form a pattern
+	- rotate
+		- to spin or turn around a central point, like the Earth around its axis
+	- orbit (resolve)
+		- to circle another object, like the Earth around the Sun
+	- solid line  ────
+	- dotted line  – · – · – · –
+
+- 观看视频，回顾著名星座的英文命名
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/constellations-connect-the-dots-in-the-sky.mp4" type="video/mp4">
+</video>
+
+- 观看视频，回顾为什么不同季节会看到星座
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/let-s-look-at-constellations-how-we-study-space-sci-show-kids.mp4" type="video/mp4">
+</video>
+ 
+
+### 学习内容及反馈
+
+- 订正上次的作业
+- 复习了如何用日晷来判断时间，以及不同季节太阳在天空中的不同位置
+	- Ben 能够很清楚地用完整段落回答：*In summer, the sun is the highest in the sky; in winter, it is the lowest ...*
+- 通过单元问题引入今天的探究：*Why do the stars change with the seasons?* **为什么星星随着季节而改变？** 进入地球公转的学习。
+	- 认识星座 *Constellation* 的概念，以及不同季节的著名星座及旁边的星云 *nebula*
+	- 探究为什么冬天看到的猎户座 *Orion* 在夏天会消失
+		- Ben 即刻就反应过来了是因为地球公转
+	- 通过季节星象图，认识不同季节的不同星座及其英文名称
+	- 看不同的夜空图片，找到相应的星座及季节
+	- 回顾视频，进一步了解产生这一现象的原因
+	- 制作 *Universe In a Box* 「盒子中的宇宙」模型并运用来观察不同季节的星象
+		- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0377.jpeg)
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0374.mp4" type="video/mp4">
+</video>
+ 
+<mark>Ben对于地球公转的影响和现象已经有所了解，本节课，我们主要来探究星象如何收到地球公转影响，认识不同星座的英文名称，以及他们的希腊神话来源。同时动手制作了模型。Ben使用剪刀的motor skill还需要再提高，每次剪手工都是歪歪扭扭的，也害怕剪不好不愿意自己动手，总是向老师寻求帮助😄</mark>
+
+## D8, 2024年11月19日
 
 ### 学习资料和学习任务
 
@@ -58,7 +108,7 @@ updated: 2024-11-21
 - 继续下一个单元问题探究：*How can the Sun tell you the season?* **我们如何从太阳的位置和影子来判断季节？**
 <mark>这节课相对上节课科学层面的难度有所增加，Ben 依然保持着极强的兴趣和学习热情，在操练语言的过程中也学到了不少科学知识。下来请完成两页科学相关课后练习，一些有难度的词汇已经标准在最上面。</mark>
 
-## D6, 2024年11月12日
+## D7, 2024年11月12日
 
 ### 学习资料和学习任务
 
@@ -106,7 +156,7 @@ updated: 2024-11-21
 
 {% endnote %}
 
-## D5, 2024年11月5日
+## D6, 2024年11月5日
 
 ### 学习资料和学习任务
 
@@ -154,7 +204,7 @@ updated: 2024-11-21
 
 {% endnote %}
 
-## D4, 2024年10月29日
+## D5, 2024年10月29日
 
 ### 学习资料和学习任务
 
