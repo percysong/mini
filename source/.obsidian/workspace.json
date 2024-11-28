@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "78f7fea2912d0a1e",
+        "id": "6326e95f064a150b",
         "type": "tabs",
         "children": [
           {
-            "id": "b90067c0d1cd77b0",
+            "id": "b8209492ac22f29d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "liaopeiyan.md",
+                "file": "wuzimo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "liaopeiyan"
-            }
-          },
-          {
-            "id": "21233197bcc3405d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zhuxuanyu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "zhuxuanyu"
+              "title": "wuzimo"
             }
           }
         ]
@@ -162,10 +147,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "liaopeiyan.md"
+                "file": "wuzimo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of liaopeiyan"
+              "title": "Outline of wuzimo"
             }
           },
           {
@@ -210,11 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b90067c0d1cd77b0",
+  "active": "b8209492ac22f29d",
   "lastOpenFiles": [
+    "liaopeiyan.md",
     "zhuxuanyu.md",
     "wuzimo.md",
-    "liaopeiyan.md",
     "daichaoxun.md",
     "zhangyuantai.md",
     "discover-futures.md",
