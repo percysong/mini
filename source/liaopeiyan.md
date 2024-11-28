@@ -32,6 +32,18 @@ updated: 2024-11-26
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/OD2e_L1_Student_Book_Audio_1.34.mp3" type="audio/mp3">
 </audio>
 
+#### 复习 *Where Is It* 歌曲
+
+- 跟唱两遍，注意目标句型
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/where-is-it-3.mp4" type="video/mp4">
+</video>
+
+#### Workbook 练习册
+
+- 完成 P40–41 阅读练习
+
 ### 课堂学习内容和反馈
 
 #### 11月25日
@@ -43,6 +55,16 @@ updated: 2024-11-26
 - 继续学习文本 *Animal Homes* 提问检查理解
 	- 下来复习的不错，许多上次一直读错的生词（如 *crab*）这次很准确地说出来了
 	- 使用句型回答问题 –*Where does a … live?* –*A … lives in …* 说一说每一个动物住的地方，Jerry 这次来也都能用自己的语言尝试回答了，很棒！
+
+#### 11月27日
+
+- 学习 Magic *e* 拼读规则, 完成练习
+	- Jerry 对于 Magic *e* 的拼读规则掌握得不错，能较准确认读有无 magic *e* 情况下元音字母的不同发音。
+- 巩固句型 *Where is … / Where are …* 看图问答操练句型
+	- 基本掌握，回答 It’s / They’re 单复数有时候会搞混。
+- 学习更多动物生活的地点和动物词汇，并完成听力练习
+	- 掌握得很快，听力相对容易
+- 完成练习册 P42–43 页关于 Where 句型的练习（准确率很高）
 
 ## D12&13, 2024年11月18&20日
 

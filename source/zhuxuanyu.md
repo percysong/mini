@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-11-26
+updated: 2024-11-28
 ---
 
 - 学生姓名：朱宣宇
@@ -16,7 +16,7 @@ updated: 2024-11-26
 
 #### Video
 
-- 复习第二单元动画对话视频
+复习第二单元动画对话视频
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_02_Story2.mp4" type="video/mp4">
@@ -25,11 +25,24 @@ updated: 2024-11-26
 
 #### Vocabulary
 
-复习 P48 词汇，听录音，跟读两遍
+复习 P48 和 P54 词汇，听录音，跟读两遍
 
 **P48**
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+</audio>
+
+**P54**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.35.mp3" type="audio/mp3">
+</audio>
+
+#### Song
+
+复习P53–D歌曲，跟唱两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.34.mp3" type="audio/mp3">
 </audio>
 
 #### 阅读打卡 *Then and Now*
@@ -42,7 +55,7 @@ updated: 2024-11-26
 
 #### Workbook
 
-练习册 Workbook P38–43
+练习册 Workbook P38–44
 
 ### 学习内容
 
@@ -69,10 +82,21 @@ updated: 2024-11-26
 	- internet
 - 复习阅读策略：Main Idea and Details 中心句和支持论点
 - 学习文本，对比过去和现在的沟通交流、新闻和旅游有什么不同
-- 找关键信息，完成椅子图（已经粘贴到书上，并在引导下找到关于 Communication 部分的不同，还有剩下的部分需要完成）
+- 找关键信息，完成椅子图（已经粘贴到书上，并在引导下找到关于 Communication 部分的不同）
 - 完成课后练习问题（宣宇都能找到关键信息，只是今天学习热情没有很高，需要老师督促着完成）
 
 #### 11月27日
+
+- 口语热身：随机选取场景 setting, 人物 character, 和道具 prop 来自己创编故事
+	- <mark>宣宇可以在短时间内简单创造出一个有背景、问题和解决方案的小故事（虽然是打打杀杀的😅），有一两个表达需要老师帮助，其它均可自己完成。</mark>
+- 继续学习文本 *Then and Now*，回顾中心句，找到更多部分的支持论点
+	- <mark>宣宇能够在原文中找到绝大部分论点，以及今昔对比的不同。有个别遗漏之处在老师的提示下也能很快理解。</mark>
+- 学习歌曲 *Great Grandma* 熟悉过去时态的表达
+- 复习一般过去时态的动词变化规则
+	- <mark>宣宇对变化规则掌握得不错，包括什么时候直接加-ed, 什么时候只加-d, 什么时候变y为i再加ed；只是变化之后的读音还不是很熟悉 /t/ /d/ /id/，老师带着总结了一下发音规则。</mark>
+- 学习并认识更多的交通工具
+- 完成听力和口语交际练习
+- 观看视频，回顾单元大问题
 
 ## D14&15, 2024年11月18&20日
 

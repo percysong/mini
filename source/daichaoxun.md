@@ -1,7 +1,7 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2024-11-21
+updated: 2024-11-27
 ---
 
 - 学生姓名：代超巡
@@ -22,9 +22,8 @@ updated: 2024-11-21
 		- to spin or turn around a central point, like the Earth around its axis
 	- orbit (resolve)
 		- to circle another object, like the Earth around the Sun
-	- solid line  ────
-	- dotted line  – · – · – · –
-
+	- solid line ────
+	- dotted line – · – · – · –
 - 观看视频，回顾著名星座的英文命名
 
 <video width="100%" height="auto" controls>
@@ -42,7 +41,7 @@ updated: 2024-11-21
 
 - 订正上次的作业
 - 复习了如何用日晷来判断时间，以及不同季节太阳在天空中的不同位置
-	- Ben 能够很清楚地用完整段落回答：*In summer, the sun is the highest in the sky; in winter, it is the lowest ...*
+	- Ben 能够很清楚地用完整段落回答：*In summer, the sun is the highest in the sky; in winter, it is the lowest …*
 - 通过单元问题引入今天的探究：*Why do the stars change with the seasons?* **为什么星星随着季节而改变？** 进入地球公转的学习。
 	- 认识星座 *Constellation* 的概念，以及不同季节的著名星座及旁边的星云 *nebula*
 	- 探究为什么冬天看到的猎户座 *Orion* 在夏天会消失
