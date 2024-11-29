@@ -17,9 +17,11 @@ updated: 2024-11-29
 
 - 根据提示词卡，尝试复述每个季节的特点，注意加 *s* 的地方。
 
-{% grouppicture 4-2 %}
+{% grouppicture 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.002.jpeg)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.003.jpeg) 
+{% endgrouppicture %}
+{% grouppicture 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.004.jpeg)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.005.jpeg)
 {% endgrouppicture %}
