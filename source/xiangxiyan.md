@@ -1,7 +1,7 @@
 ---
 title: 向惜妍学习档案
 created: 2024-09-11
-updated: 2024-11-25
+updated: 2024-11-29
 ---
 
 - 学生姓名：向惜妍
@@ -10,6 +10,60 @@ updated: 2024-11-25
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D17, 2024年11月28日
+
+### 学习任务
+
+- 根据提示词卡，尝试复述每个季节的特点，注意加 *s* 的地方。
+
+{% grouppicture 4-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.002.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.003.jpeg) 
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.004.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.005.jpeg)
+{% endgrouppicture %}
+
+- 完成 U3, U4 练习题单（已打印发给学生）
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Entry_Review_Worksheet_4-5-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Entry_Review_Worksheet_4-5-2.jpeg)
+{% endgrouppicture %}
+
+- 复习 P74 天气词汇，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.50.mp3" type="audio/mp3">
+</audio>
+
+- 复习 P75 口语交际，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.53.mp3" type="audio/mp3">
+</audio>
+
+- 学习天气歌曲，跟唱两遍
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/how-s-the-weather-song.mp4" type="video/mp4">
+</video>
+ 
+- 复习大问题视频总结
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M4_WU.mp4" type="video/mp4">
+</video>
+
+### 课堂学习内容及反馈
+
+- 复习季节词汇，通过提示词复述每个季节的特点
+- 通过描述图片来操练句型，熟悉一般现在时态第三人称单数语法
+- 学习天气词汇，完成听力练习
+- 口语交际训练
+- 学习合成词
+
+<mark>妍妍在口头表达和活动参与上表现积极，比之前更愿意表达，不怕犯错，准确性也慢慢在提高。第三人称单数语法练习难度有些大，有个别的错误，已订正。</mark>
 
 ## D16, 2024年11月24日
 

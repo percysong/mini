@@ -11,7 +11,35 @@ updated: 2024-11-25
 
 ---
 
-## D5, 2024年11月21日
+## D7, 2024年11月28日
+
+### 课堂学习内容及反馈
+
+- 通过问题引入今天的探究 *Why would a wild animal visit a playground?*
+- 了解 Bighorn Sheep 在美国中部沙漠地区的特别现象——除了在沙漠中的山崖上睡觉，白天还要到公园里来，为什么？
+	- <mark>一开始Henry就敏锐地捕捉到了 sheep 来公园里有更多的食物（草坪），而沙漠中草很少</mark>
+- 了解不同的 Habitats 栖息地和栖息地为动物所提供的东西
+	- <mark>Henry自己提到了7个栖息地，并准确地说出在其上面生长的动物；同时也回答了栖息地能为动物提供食物和住所（学习 shelter）；老师补充，「还有更安全的养育后代的环境」</mark>
+- 模拟小小科学家来观察和记录公园和沙漠两个不同栖息地的情况，每个栖息地分别有哪些动物出入，数量如何
+	- 学习使用科学观察日记并记录情况
+	- 找到相同和不同，总结观察结果
+	- 学习「多样性」diversity 的概念
+- 除了动物之外，植物多样性也很重要，随后我们研究了一个植物学家的观察结果，总结自己的发现。
+- 最后的问题「为什么 sheep 每天晚上还要回山崖上睡呢」<mark>Henry 提到沙漠中草比较高，更安全一些。</mark>其实也考虑到了安全性，但是离正确答案还差一点点，因为时间不够了没有完成探究，可以作为本科的思考题目回去完成。提示 coyote 和 sheep 有什么不同的能力呢？
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0396.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0397.jpeg)
+{% endgrouppicture %}
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0395.mp4" type="video/mp4">
+</video>
+ 
+<mark>Henry 这次学习积极性不错，一直在认真思考并参与实验活动，也通过自己的努力兑换了一个植物盆栽。</mark>
+
+
+## D6, 2024年11月21日
 
 ### 学习资料和学习任务
 
@@ -35,7 +63,9 @@ updated: 2024-11-25
 	- scene (setting)
 	- BME (beginning, middle, end)
 
-## D4, 2024年11月14日
+<mark>Henry 这次学习积极性不高，在随意玩老师的办公用品之后被批评，情绪不好。最后告诉他如何更礼貌地向他人提问，得到同意之后再玩耍或使用物品。</mark>
+
+## D5, 2024年11月14日
 
 ### 学习资料和学习任务
 
@@ -79,7 +109,7 @@ updated: 2024-11-25
 
 <mark>Henry这两次课理解得很到位，思维活跃，但还是喜欢在无关紧要的事情上磨时间（如白板上没写好擦了重写😂）回去之后记得完成阅读题单练习哟。</mark>
 
-## D3, 2024年11月7日
+## D4, 2024年11月7日
 
 ### 学习资料和学习任务
 
@@ -148,7 +178,7 @@ What is a compound word? Can you name some compound words you know?
 - 第二单元词汇，看图片，模仿动作，扩展相关词汇，把词汇放在不同语境下认识以更好地理解
 - <mark>Henry 对大部分词汇比较熟悉，学习了个别新词 peck, squawk …; 完成词语搭配例句填写时容易混淆，教了他一下这种练习的小技巧，先填自己确定的，不确定的先空出来，而不是硬选一个。今天课堂 Henry 很投入，完成练习也没有像之前一样拖沓，值得鼓励！练习已经打印放到他书包里啦，记得提醒他完成。P9 有一篇小作文。</mark>
 
-## D2, 2024年9月24日
+## D3, 2024年9月24日
 
 ### 学习资料和学习任务
 
