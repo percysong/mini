@@ -1,7 +1,7 @@
 ---
 title: 向惜妍学习档案
 created: 2024-09-11
-updated: 2024-11-29
+updated: 2024-12-02
 ---
 
 - 学生姓名：向惜妍
@@ -10,6 +10,79 @@ updated: 2024-11-29
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D18, 2024年12月1日
+
+### 学习任务
+
+#### 自然拼读
+
+- 每天复习两个视频，坚持三天，注意，哪些字母组合发 long *i*
+- Magic *e* + long *i*
+	- [*i_e*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u02_i_e.mp4?cc=cn&selLanguage=zh)
+	- [*ime*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u02_ime.mp4?cc=cn&selLanguage=zh)
+	- [*ine*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u02_ine.mp4?cc=cn&selLanguage=zh)
+	- [*ive*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u02_ive.mp4?cc=cn&selLanguage=zh)
+- 复习同样发 long *i* 的两个字母组合
+	- [*igh*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u06_igh.mp4?cc=cn&selLanguage=zh)
+	- [*ie*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u06_ie.mp4?cc=cn&selLanguage=zh)
+	- [*y*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u06_spy.mp4?cc=cn&selLanguage=zh)
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *i* 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-to-read-y-ie-igh-and-i-e-phonics-and-word-magic-officialalphablocks.mp4" type="video/mp4">
+</video>
+ 
+
+#### 复习 P76 词汇
+
+{% note info %}
+- 难度 ★☆☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.54.mp3" type="audio/mp3">
+</audio>
+
+#### 预习 P78–79 *Arnold’s Apple Tree* 课文
+
+- 第一天：听录音，阅读图片和注释 captions，说一说每个季节 Arnold 都在干什么？Apple Tree 有什么变化？（可以用中文表达）；
+- 第二天听录音，暂停跟读第一部分 **spring**，不认识的生词根据图片来猜测即可，跟读三遍，注意模仿语调；
+- 第三天听录音，暂停跟读第二部分 **summer**，不认识的生词根据图片来猜测即可，跟读三遍，注意模仿语调；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
+</audio>
+
+### 课堂学习内容及反馈
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Anna-U6-test-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Anna-U6-test-2.jpeg)
+{% endgrouppicture %}
+
+- Unit 6 第六单元小测试
+	- <mark>词汇部分还有一点不熟练，在take a nap, put out food 还有 reserve 中间犹豫了一下，不过最后还是选正确了；语法部分掌握得不错 ，阅读理解第一题粗心，最后一道题没有把 <em>put out food</em> 和 <em>take care of</em>联系在一起。</mark>
+- 学习自然拼读 Magic *e* + long *i*
+- 复习天气词汇，回顾每个季节天气的不同
+- 讨论每个季节你都会做什么特别的活动
+- 学习 Unit 8 关于不同季节不同活动的词汇
+- 复习阅读策略 Captions
+	- 回顾什么是 Captions, 它如何帮助我们理解文章内容
+- 初步熟悉故事 *Arnold’s Apple Tree*，
+	- 阅读标题、图片和 captions 图片注释，预测故事内容
+	- 了解作者信息
+	- 聊聊你最喜欢哪个季节的 Apple Tree，为什么
+	- 简单聊了聊每个季节 Arnold 做的事情和苹果树的变化
+
+<mark>妍妍大部分时候还是在积极地跟着老师跟读、思考，回答问题，但偶尔还是会有注意力不集中的情况，有时找找自己包包里的东西，有时摸摸水瓶，总要找个东西出来😅。还需要继续锻炼她的耐心和专注力。</mark>
 
 ## D17, 2024年11月28日
 

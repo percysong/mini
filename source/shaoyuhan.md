@@ -1,7 +1,7 @@
 ---
 title: 邵雨涵学习档案
 created: 2024-10-19
-updated: 2024-11-18
+updated: 2024-12-02
 ---
 
 - 学生姓名：邵雨涵
@@ -10,6 +10,75 @@ updated: 2024-11-18
 - 开始学习日期：2024 年 9 月 18 日
 
 ---
+
+## D6, 2024年12月1日
+
+### 学习资料和学习任务
+
+#### Video
+
+- 复习 BrainPop 关于 Main idea and supporting details 的视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-main-idea.mp4" type="video/mp4">
+</video>
+
+- 复习第二单元动画对话视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_02_Story2.mp4" type="video/mp4">
+</video>
+ 
+
+#### Vocabulary
+
+复习 P48 词汇，每天复习一页，听录音，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+</audio>
+
+#### Reading
+
+预习 P50–51 文本，听录音跟读两遍，每两天跟读一页，思考过去和现在在哪几个方面有不一样，有哪些不同；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook
+
+练习册 Workbook P34–39
+
+### 学习内容
+
+- 开课口语练习
+	- 聊了一下上周的财商挑战，通过梳理，用 sequence words 连接词帮助其梳理一整天的活动，用基本的动词短语来描述。
+- Unit 1 小测试
+	- 虽然已经过了两个月，但词汇部分都还掌握得不错，只有 skin 和 scales 的图片有点犹豫，本来选对了又改错了；
+	- 语法部分很粗心，标点符号没有看到，语句也没有通顺；
+	- Compare and contrast 阅读策略掌握得不错，理解也没有问题；
+	- 写作得部分很简单，考察了对动物特征的掌握情况。
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/AnnaS-OD2U1-test-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/AnnaS-OD2U1-test-2.jpeg)
+{% endgrouppicture %}
+
+- 复习一般过去时态 be 动词的提问和回答
+	- <mark>对一般过去时态问答Anna掌握得不错，基本口头回答没有问题，只是从上次练习册来看，笔头回答还是有很多小错误</mark>
+- 学习更多食物的词汇，训练听力，了解不同食物的食材（ingredients）
+	- <mark>这些食物词汇基本都熟悉，听力主要训练对细节的关注，这方面Anna要薄弱一些，直到第二遍甚至第三遍才能捕捉到所有食材的名字，还需要不断加强</mark>
+- 学习两个词的缩写 contraction, 复习其读音
+- 看动画，回答问题，角色扮演朗读，回顾整个单元学习的内容
+- 开启第三个大单元 *How are things different now from long ago*
+	- <mark>因为这个单元的探究话题在四年级已经学过，主要是复习这个概念，扩展更多词汇，同时操练过去时态的语法</mark>
+- 探讨现在和以前的事物有哪些方面不一样
+	- 交通
+	- 交流
+	- 获取新闻
+- 学习阅读策略 Main idea and details 中心句和支持论点
+	- 如何找到中心句（一般在段落第一句）和支持论点
 
 ## D5, 2024年11月17日
 
