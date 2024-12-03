@@ -1,8 +1,51 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2024-11-26
+updated: 2024-12-03
 ---
+
+## 2024年12月2日
+
+### 学习资料和学习任务
+
+- **Student book** 
+	- P112: **Planner events** 5 & 6
+	- P11: **Discover more**: SEARCH ONLINE and find out about productivity apps for. These are apps that help people to study and to organize their lives. Choose one you like. Tell the class about it. What is it called? What does it do? Why do you like it? 网上搜索效率类的 app，选择一个自己喜欢的，分享它能做什么。
+- **Workbook**
+	- P8: Planner events
+	- P9: Listening and Speaking
+
+#### Listening Audio 听力音频
+
+- Student book P11:
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_SB1_1.02.mp3" type="audio/mp3">
+</audio>
+
+- Workbook P9:
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_WB1_1.01.mp3" type="audio/mp3">
+</audio>
+
+### 课堂学习内容及反馈
+
+- 检查订正练习册
+	- 本课的语法练习是关于一般现在时态和现在进行时态，主要是区分不同语境下是描述 facts 事实, routines 作息规律，还是 actions in progress 正在进行的动作；facts 和 routine 在不同语境下不是很容易区分。
+- 进入本课主题：我们如何掌握自己的时间
+	- 阅读时间管理的小贴士，说一说你们在使用其中的哪些方法，它如何帮助你管理时间和提醒你完成任务
+	- 观察和阅读不同的时间管理，找到关键的信息
+	- Jason 选择第七条Leave home early so that you don’t arrive late. 说明平时很守时，不拖拉，值得学习
+	- Ryan 选择第三条Write down important times and dates in a calendar. 说明平时有使用日历来规划重要日程的习惯，对于中国小朋友来说是很难得的
+- 听力策略：理解语境
+	- 我们在听陌生文本或音频材料时，第一时间并不是听细节信息，而是去理解整个语境。有哪些人在说话，他们是谁，在什么环境下谈话⋯⋯理解整个语境可以更快地帮助我们理解文本大意。
+	- 阅读不同语境，预判在不同语境下可能听到的表达
+- 思考自己这两周的学校家庭生活，有哪些计划，相互提问，熟悉口语表达
+- To-do list 到底需要哪些元素，总结
+	- Jason 很快地总结出了要有 table, task, time and (maybe) the people you work with 并举例自己踢足球
+- 讨论自己还有哪些方法可以来更好地管理时间
+	- Ryan 提到了冥想，可以让自己更专注，更好地掌控时间，很有道理，大家都应该尝试。
 
 ## 2024年11月25日
 
