@@ -341,8 +341,6 @@ updated: 2024-12-04
 
 ### 学习内容及反馈
 
-#### Warm Up
-
 1. 回顾复习物质三态及其特点（<mark>基本掌握到位，有个别词汇没有想起来，如 flow, heat 等</mark>）
 2. 观看 BrainPop 科学互动视频，巩固了三态，学习了新的概念和词汇，并完成课后练习
 	- 凝结 condense / condensation

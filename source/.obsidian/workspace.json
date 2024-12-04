@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daichaoxun.md"
+                "file": "zhuxuanyu.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of daichaoxun"
+              "title": "Outline of zhuxuanyu"
             }
           },
           {
@@ -226,11 +226,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95ea892614c46a6f",
+  "active": "774581fecf09b9ff",
   "lastOpenFiles": [
+    "daichaoxun.md",
     "zhuxuanyu.md",
     "liaopeiyan.md",
-    "daichaoxun.md",
     "discover-futures.md",
     "shaoyuhan.md",
     "xiangxiyan.md",
