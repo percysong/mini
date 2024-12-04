@@ -1,13 +1,69 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2024-11-27
+updated: 2024-12-04
 ---
 
 - 学生姓名：代超巡
 - English Name: Ben
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
+
+## D10, 2024年12月4日
+
+### 学习资料和学习任务
+
+- 复习本节课学习的新词汇
+	- moon **phase**
+		- the part of the Moon that we can see on a particular night
+	- new moon
+		- moon phase when the Moon looks completely dark
+	- crescent moon
+		- moon phase when the Moon looks like a sliver
+	- half moon
+		- moon phase when the Moon looks like half of a circle
+	- gibbous moon
+		- moon phase when the Moon looks like a little less than a full circle
+	- full moon
+		- moon phase when the Moon looks like a circle
+	- **pattern**
+		- something that happens again and again and again in a way that can be predicted
+	- cycle
+		- a set of events that repeats in the same order over and over
+- 观看视频，回顾 Moon phases 产生的原因和它的表现形态
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/why-does-the-moon-change-sci-show-kids.mp4 " type="video/mp4">
+</video>
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/phases-of-the-moon-why-does-the-moon-change-its-shape-space-dr-binocs-show-peekaboo-kidz.mp4" type="video/mp4">
+</video>
+
+### 学习内容及反馈
+
+- 订正上次的作业
+- 复习了星座的概念，以及不同季节看到不同星座的原因
+	- Ben 能够理解并用模型来回顾解释，但是用语言诠释起来略有难度，在老师的帮助下重新梳理语言表达
+- 通过单元问题引入今天的探究：*# Why does the Moon change shape?* **为什么月亮会改变形状？** 进入月球运动的学习。
+	- 首先让Ben分享了自己对月球运动知识的了解情况，Ben提到了：
+		- Moon is the satellite of the earth. 卫星
+		- It takes a month to orbits the earth. 绕地球公转
+		- It is NOT a planet. 不是行星
+		- Moon *reflect* light from the sun. 反射太阳光
+		- Moon eclipse. 自己用模型模拟月食现象的产生。
+	- Ben 画出了他看到过不同月亮的形状。
+	- 学习 moon phases 这个词汇及概念
+	- 观察一个月的周期内月亮每天在天空中的位置及其月相的变化照片，总结规律
+	- 通过小苹果模拟月亮，来实时观测月相的变化
+	- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0424-0001.png)
+	- 月相周期作为时间单位
+- 完成课外延伸阅读 *The Many Names for a Full Moon*
+	- 了解了北美洲 Algonquian 原住民如何给不同月份的月亮命名
+	- 了解原住民的语言
+- 完成月相的课后练习（相对容易，但是Ben总是粗心看错题目选项，在老师提醒之后才改正）
+ 
+<mark>Ben对于月球运动和月相相关的现象和原理已经有所了解，能够自己通过模型模拟来大致解释，本节课，我们主要进一步通过观察总结月球运动规律，认识不同月相的英文名称，同时亲身用模型感受月相的变化和与太阳位置的关系。</mark>
 
 ## D9, 2024年11月26日
 

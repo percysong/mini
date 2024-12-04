@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-11-28
+updated: 2024-12-04
 ---
 
 - 学生姓名：朱宣宇
@@ -10,11 +10,88 @@ updated: 2024-11-28
 - 开始学习日期：2024 年 9 月 23 日
 ---
 
-## D16&17, 2024年11月25&27日
+## D18&19, 2024年12月2&4日
 
 ### 学习资料和学习任务
 
- 
+#### Vocabulary
+
+复习 P56, P62 词汇，听录音，跟读两遍
+
+**P56**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+**P62**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.42.mp3" type="audio/mp3">
+</audio>
+
+#### Song
+
+复习P61–D歌曲 *What did you do yesterday?*，跟唱两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.41.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读打卡 *Tell me a story Grandpa!*
+
+复习 P58–59 文本，听录音跟读两遍，每两天跟读一页；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook
+
+练习册 Workbook P45–52
+
+### 学习内容
+
+#### 12月2日
+
+- 开课口语练习，设想你要组织一场 Party，你会邀请哪些人，准备哪些食物，玩什么游戏？
+	- 宣宇提到他会邀请自己班上的好朋友（*I will invite my friend …*）
+	- 准备很多菜品（了解 starter, main course, dessert, and drinks 不同菜品的区别）
+- 完成 Unit 4 小测试，
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Rocky-OD2-U4-test1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Rocky-OD2-U4-test2.jpeg)
+{% endgrouppicture %}
+
+- 开启 Unit 6 旅行相关的话题，谈论自己之前的旅游经历
+	- 宣宇谈到自己之前去过的国家
+	- Europe作为欧洲和国家没有区分开
+- 学习 Unit 6 旅行相关的词汇，注意以下不太熟悉的词汇表达
+	- arrive
+	- enter
+	- crowded
+	- clerk
+	- sick
+- 学习阅读策略：Sequence of Events 中心句和支持论点
+- 学习文本，对比过去和现在的沟通交流、新闻和旅游有什么不同
+- 找关键信息，完成椅子图（已经粘贴到书上，并在引导下找到关于 Communication 部分的不同）
+- 完成课后练习问题（宣宇都能找到关键信息，只是今天学习热情没有很高，需要老师督促着完成）
+
+#### 12月4日
+
+- 口语热身：随机选取场景 setting, 人物 character, 和道具 prop 来自己创编故事
+	- <mark>宣宇可以在短时间内简单创造出一个有背景、问题和解决方案的小故事（虽然是打打杀杀的😅），仅有一两个表达需要老师帮助，其它均可自己完成。</mark>
+- 继续学习文本 *Then and Now*，回顾中心句，找到更多部分的支持论点
+	- <mark>宣宇能够在原文中找到绝大部分论点，以及今昔对比的不同。有个别遗漏之处在老师的提示下也能很快理解。</mark>
+- 学习歌曲 *Great Grandma* 熟悉过去时态的表达
+- 复习一般过去时态的动词变化规则
+	- <mark>宣宇对变化规则掌握得不错，包括什么时候直接加-ed, 什么时候只加-d, 什么时候变y为i再加ed；只是变化之后的读音还不是很熟悉 /t/ /d/ /id/，老师带着总结了一下发音规则。</mark>
+- 学习并认识更多的交通工具
+- 完成听力和口语交际练习
+- 观看视频，回顾单元大问题
+
+## D16&17, 2024年11月25&27日
+
+### 学习资料和学习任务
 
 #### Vocabulary
 

@@ -1,13 +1,59 @@
 ---
 title: 廖培焱学习档案
 created: 2024-09-11
-updated: 2024-11-28
+updated: 2024-12-03
 ---
 
 - 学生姓名：廖培焱
 - English Name: Jerry
 - 年级：四年级
 - 开始学习日期：2024 年 10 月 9 日
+
+## D16&17, 2024年12月2&4日
+
+### 学习资料和学习任务
+
+#### 牛津自然拼读
+
+- 看视频，跟读两遍，注意 soft *c* 的规则：
+- [视频链接 🔗](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb4_u08_c.mp4?cc=cn&selLanguage=zh)
+
+#### 复习 P53–C 歌曲
+
+- 每天跟唱两遍，持续两天，注意目标句型
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/OD2e_L1_Student_Book_Audio_1.34.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 *Where Is It* 歌曲
+
+- 跟唱两遍，注意目标句型
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/where-is-it-3.mp4" type="video/mp4">
+</video>
+
+### 课堂学习内容和反馈
+
+#### 12月2日
+
+- 学习自然拼读 soft *c*
+	- Jerry 已经很熟悉 c 字母的最常见的读音 /k/，但在元音 i, y, e 之前，发 /s/，这个规则 Jerry 不是很熟悉，我们一起找规律总结了一下，并操练
+- 复习文本 *Animal Homes*，朗读训练
+- 认识名词，学习名词的不规则复数变化和读音
+	- Jerry 大致了解，但是有些复数的读音还不是很准确（比如 foxes），不规则的变化还需要更多熟悉（mouse–mice）
+	- 完成复数变化小练习
+
+#### 11月27日
+
+- 学习 Magic *e* 拼读规则, 完成练习
+	- Jerry 对于 Magic *e* 的拼读规则掌握得不错，能较准确认读有无 magic *e* 情况下元音字母的不同发音。
+- 巩固句型 *Where is … / Where are …* 看图问答操练句型
+	- 基本掌握，回答 It’s / They’re 单复数有时候会搞混。
+- 学习更多动物生活的地点和动物词汇，并完成听力练习
+	- 掌握得很快，听力相对容易
+- 完成了练习册 P42–43 页关于 Where 句型的练习（准确率很高）
 
 ## D14&15, 2024年11月25&27日
 
