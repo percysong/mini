@@ -38,7 +38,7 @@
             }
           },
           {
-            "id": "95ea892614c46a6f",
+            "id": "dad151b2da307362",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wuzimo.md",
+                "file": "zhuxuanyu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for wuzimo"
+              "title": "Backlinks for zhuxuanyu"
             }
           },
           {
@@ -203,9 +203,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "zhuxuanyu.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for zhuxuanyu"
             }
           }
         ],
@@ -228,9 +230,9 @@
   },
   "active": "774581fecf09b9ff",
   "lastOpenFiles": [
-    "daichaoxun.md",
-    "zhuxuanyu.md",
     "liaopeiyan.md",
+    "zhuxuanyu.md",
+    "daichaoxun.md",
     "discover-futures.md",
     "shaoyuhan.md",
     "xiangxiyan.md",

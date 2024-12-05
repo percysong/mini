@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-12-04
+updated: 2024-12-05
 ---
 
 - 学生姓名：朱宣宇
@@ -14,9 +14,17 @@ updated: 2024-12-04
 
 ### 学习资料和学习任务
 
+#### Video
+
+复习 BrainPop 关于 Natural Resources 的视频：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/brain-pop-jr-natural-resources.mp4" type="video/mp4">
+</video>#### Vocabulary
+
 #### Vocabulary
 
-复习 P56, P62 词汇，听录音，跟读两遍
+复习 P56, P62, P108 词汇，听录音，跟读两遍，每天一页
 
 **P56**
 <audio controls>
@@ -26,6 +34,11 @@ updated: 2024-12-04
 **P62**
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.42.mp3" type="audio/mp3">
+</audio>
+
+**P108**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.25.mp3" type="audio/mp3">
 </audio>
 
 #### Song
@@ -38,7 +51,7 @@ updated: 2024-12-04
 
 #### 阅读打卡 *Tell me a story Grandpa!*
 
-复习 P58–59 文本，听录音跟读两遍，每两天跟读一页；
+复习 P58–59 文本，听录音跟读两遍，每两天跟读一页，完成打卡；
 
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.40.mp3" type="audio/mp3">
@@ -46,7 +59,7 @@ updated: 2024-12-04
 
 #### Workbook
 
-练习册 Workbook P45–52
+练习册 Workbook P45–53
 
 ### 学习内容
 
@@ -55,13 +68,7 @@ updated: 2024-12-04
 - 开课口语练习，设想你要组织一场 Party，你会邀请哪些人，准备哪些食物，玩什么游戏？
 	- 宣宇提到他会邀请自己班上的好朋友（*I will invite my friend …*）
 	- 准备很多菜品（了解 starter, main course, dessert, and drinks 不同菜品的区别）
-- 完成 Unit 4 小测试，
-
-{% grouppicture 2-2 %}
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Rocky-OD2-U4-test1.jpeg)
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Rocky-OD2-U4-test2.jpeg)
-{% endgrouppicture %}
-
+- 完成 Unit 4 小测试，再
 - 开启 Unit 6 旅行相关的话题，谈论自己之前的旅游经历
 	- 宣宇谈到自己之前去过的国家
 	- Europe作为欧洲和国家没有区分开
@@ -78,11 +85,21 @@ updated: 2024-12-04
 
 #### 12月4日
 
-- 口语热身：随机选取场景 setting, 人物 character, 和道具 prop 来自己创编故事
-	- <mark></mark>
+- 口语热身：猜猜你老师的信息和喜好，操练基本句型
 - 继续学习动画视频，角色扮演模仿语音语调
-	- <mark></mark>
-- 开启
+	- <mark>宣宇语调模仿得越来越到位了，准确性也在提升</mark>
+- 开启第六个大问题 *Why Should We Take Care of The Earth?*
+- 观看视频 [*One Earth - Environmental Short Film*](https://www.youtube.com/watch?v=QQYgCxu988s)进入本堂课课题，说一说，写一写：
+	- 看到了地球上有什么
+	- 地球给人类带来了什么
+	- 地球有什么问题
+	- 我们为什么以及如何保护地球
+- 进入课题：Natural Resources
+	- <mark>宣宇对自然资源有一定的了解，提到了很多自然资源：water, food, air, rocks, woods, animals, plants …</mark>
+- 了解不同的自然资源，并写出它们的用途，用句型 “People use … to make …“ 说一说
+	- <mark>宣宇提到最多的就是可以用来吃喝😅</mark>
+- 了解可再生和不可再生资源 renewable and non-renewable
+- 观看 BrainPOP 视频，回顾自然资源和保护资源的方法
 
 ## D16&17, 2024年11月25&27日
 

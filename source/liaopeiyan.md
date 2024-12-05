@@ -1,7 +1,7 @@
 ---
 title: 廖培焱学习档案
 created: 2024-09-11
-updated: 2024-12-03
+updated: 2024-12-05
 ---
 
 - 学生姓名：廖培焱
@@ -18,21 +18,21 @@ updated: 2024-12-03
 - 看视频，跟读两遍，注意 soft *c* 的规则：
 - [视频链接 🔗](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb4_u08_c.mp4?cc=cn&selLanguage=zh)
 
-#### 复习 P53–C 歌曲
+#### 复习 P56 词汇
 
-- 每天跟唱两遍，持续两天，注意目标句型
+听录音，跟读两遍。
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/OD2e_L1_Student_Book_Audio_1.34.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
 </audio>
 
-#### 复习 *Where Is It* 歌曲
+#### 复习 P58–59 课文
 
-- 跟唱两遍，注意目标句型
+课文有点难度。听录音，分两页，每页暂停跟读三遍，坚持两天；注意逗号、句号停顿，模仿语调，找到读句子的感觉。
 
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/where-is-it-3.mp4" type="video/mp4">
-</video>
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
 
 ### 课堂学习内容和反馈
 
@@ -45,15 +45,13 @@ updated: 2024-12-03
 	- Jerry 大致了解，但是有些复数的读音还不是很准确（比如 foxes），不规则的变化还需要更多熟悉（mouse–mice）
 	- 完成复数变化小练习
 
-#### 11月27日
+#### 12月4日
 
-- 学习 Magic *e* 拼读规则, 完成练习
-	- Jerry 对于 Magic *e* 的拼读规则掌握得不错，能较准确认读有无 magic *e* 情况下元音字母的不同发音。
-- 巩固句型 *Where is … / Where are …* 看图问答操练句型
-	- 基本掌握，回答 It’s / They’re 单复数有时候会搞混。
-- 学习更多动物生活的地点和动物词汇，并完成听力练习
-	- 掌握得很快，听力相对容易
-- 完成了练习册 P42–43 页关于 Where 句型的练习（准确率很高）
+- 开启第六单元的学习，了解了一种在东南亚生活的猩猩 orangutan
+- 学习词汇，对于 reserve 掌握起来有点困难，其它的都掌握得不错
+- 复习故事人物characters，以及识别故事人物的阅读策略
+- 进入故事 *My Friend Anak* 的学习，阅读标题、副标题、图片来训练预测，加深理解
+- Jerry 对问题的反应还是需要很长的时间，有时需要反复提问才能回应。本片内容稍有难度，Jerry 能够通过图片、标题和人物等元素理解故事大意，需要下来听录音，熟悉课文，下节课来进行细节的学习和复述。
 
 ## D14&15, 2024年11月25&27日
 
