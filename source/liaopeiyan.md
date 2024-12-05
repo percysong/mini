@@ -23,7 +23,7 @@ updated: 2024-12-05
 听录音，跟读两遍。
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
 </audio>
 
 #### 复习 P58–59 课文
@@ -31,7 +31,7 @@ updated: 2024-12-05
 课文有点难度。听录音，分两页，每页暂停跟读三遍，坚持两天；注意逗号、句号停顿，模仿语调，找到读句子的感觉。
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
 </audio>
 
 ### 课堂学习内容和反馈
