@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zhangyuantai.md"
+                "file": "xiangxiyan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of zhangyuantai"
+              "title": "Outline of xiangxiyan"
             }
           },
           {
@@ -228,12 +228,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "403f52722e0a7731",
+  "active": "ffbdb2e18f8cc90a",
   "lastOpenFiles": [
+    "zhangyuantai.md",
     "xiangxiyan.md",
     "zhuxuanyu.md",
     "chenruochun.md",
-    "zhangyuantai.md",
     "daichaoxun.md",
     "liaopeiyan.md",
     "wuzimo.md",
