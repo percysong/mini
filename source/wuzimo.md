@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2024-12-02
+updated: 2024-12-06
 ---
 
 - 学生姓名：武子墨
@@ -10,6 +10,79 @@ updated: 2024-12-02
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D19, 2024年12月5日
+
+### 学习任务
+
+#### How’s The Weather 歌曲
+
+自学天气歌曲，跟唱两遍：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/how-s-the-weather-ft-the-super-simple-puppets-super-simple-songs.mp4" type="video/mp4">
+</video>
+
+#### 复习 P76 和 P82 词汇
+
+{% note info %}
+- 难度 ★★☆
+- 听录音，跟读两遍
+{% endnote %}
+
+- **P76**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.54.mp3" type="audio/mp3">
+</audio>
+
+- **P82**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.57.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P78–79 *Arnold’s Apple Tree* 课文
+
+- 第一天：暂停跟读 P79 **fall** 部分
+- 第二天：暂停跟读 P79 **winter** 部分
+- 根据课上标注的图片来理解句子，跟读三遍，注意模仿语调
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P81 *Do You Like The Summer* 歌曲
+
+听录音，每天跟唱一遍；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.56.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook 练习册
+
+- P66–69
+	- P66–A 快速浏览标题、图片、caption，猜猜文章是关于什么的？
+	- P67–A 标出文章中你最喜欢的部分（1 是最喜欢）
+	- P67–D 关于你自己的回答
+	- P69–C 重组句子，选择相应图片
+
+### 课堂学习内容及反馈
+
+- 检查订正练习册
+	- <mark>大家在看图拼词游戏中 honeybee 都写成了 fireworks </mark>
+- 学习故事 *Arnold’s Apple Tree*
+	- 看图片，说说不同季节的苹果树上长出了什么
+	- 看图片，给做不同事情的 Arnold 标记不同的数字，并写在相应句子旁边，帮助理解
+	- 解决生词、跟读，说说 Arnold 在不同季节做了哪些事情
+	- 回答课后问题
+- 学习语法一般现在时态肯定、否定以及问句句型的表达
+	- 学习歌曲 *Do You Like The Summer?*
+	- 通过句子重组游戏巩固语法
+	- 口语操练，相互问答
+- 学习不同季节我们会做的特别活动词汇
+	- 总结并扩展不同季节我们会做的活动
+
+<mark>Molly 一直保持着积极的状态，敏锐的思考和回应。即便对于今天这样的长篇文本，也能快速找到图片对应的文本，回答问题。继续保持！</mark>
 
 ## D18, 2024年12月1日
 

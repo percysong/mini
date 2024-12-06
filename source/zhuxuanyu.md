@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-12-05
+updated: 2024-12-06
 ---
 
 - 学生姓名：朱宣宇
@@ -20,7 +20,7 @@ updated: 2024-12-05
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/brain-pop-jr-natural-resources.mp4" type="video/mp4">
-</video>#### Vocabulary
+</video>
 
 #### Vocabulary
 
