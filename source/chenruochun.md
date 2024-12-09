@@ -1,7 +1,7 @@
 ---
 title: 陈若淳学习档案
 created: 2024-09-11
-updated: 2024-12-06
+updated: 2024-12-09
 ---
 
 - 学生姓名：陈若淳
@@ -10,6 +10,97 @@ updated: 2024-12-06
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D20, 2024年12月8日
+
+### 学习任务
+
+#### 自然拼读
+
+- 每天复习两个视频，坚持三天，注意，哪些字母组合发 long *i*
+- Magic *e* + long *o*
+	- [*o_e*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u03_o_e.mp4?cc=cn&selLanguage=zh)
+- 复习同样发 long *i* 的两个字母组合
+	- [*oa*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u07_oa.mp4?cc=cn&selLanguage=zh)
+	- [*ow*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u07_ow.mp4?cc=cn&selLanguage=zh)
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *o* 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/home-animation-for-kids-alphablocks.mp4" type="video/mp4">
+</video>
+
+#### 复习 P82 词汇
+
+{% note info %}
+- 难度 ★★☆
+- 听录音，跟读两遍
+{% endnote %}
+
+- **P82**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.57.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P78–79 *Arnold’s Apple Tree* 课文
+
+- 第一天：听录音，暂停跟读两遍 P78，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
+- 第二天：听录音，暂停跟读两遍 P79，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
+- 第三天：看老师的提示词图片，尝试复述课文：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-001.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-002.jpeg)
+{% endgrouppicture %}
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-003.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-004.jpeg)
+{% endgrouppicture %}
+
+#### 复习 P84 动画视频
+
+听录音，跟读两遍，注意模仿角色情绪和语调
+
+**Audio**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.61.mp3" type="audio/mp3">
+</audio>
+
+**Video**
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M4_story.mp4" type="video/mp4">
+</video>
+
+#### Workbook 练习册
+
+- P70–73
+	- P71–写作部分课堂上已讲解，根据问题和例文完成自己的作文
+
+#### Project: A Seasons Journal
+
+完成在课堂上做了一半的季节日志，写一写自己最喜欢季节的特点，以及自己和家人在这个季节做的活动。用彩笔装饰着色。参考书上 P85
+
+### 课堂学习内容及反馈
+
+- 检查订正练习册
+- 学习 Magic *e*, 复习 long *o*
+- 复习故事 *Arnold’s Apple Tree*
+	- 看图片，尝试复述不同季节Arnold的活动
+- 口语问答不同季节的活动，完成听力练习
+- 学习英文逗号 comma 的用法，完成练习
+- 学习本单元的写作，讲解练习册 P71 的写作练习，我们可以从哪些方面来描写季节
+- 学习单元总结动画，角色扮演
+- 通过拼词游戏加强自然拼读和拼写
+
+<mark>Danny 慢慢进入了学习状态，在口头表达上也更能放开了一些，复述都有在尝试。在拼词游戏上反应相对较慢，需要一定的思考时间，下来再更多熟悉一下拼读规则。观察到 Danny 的拼写习惯还是很棒，在抄写单词时都有意识去按照拼读在边拼边写。继续保持哟！</mark>
 
 ## D19, 2024年12月5日
 

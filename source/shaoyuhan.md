@@ -1,4 +1,9 @@
 ---
+created: 2024-10-19
+updated: 2024-12-09
+---
+
+---
 title: 邵雨涵学习档案
 created: 2024-10-19
 updated: 2024-12-02
@@ -10,6 +15,59 @@ updated: 2024-12-02
 - 开始学习日期：2024 年 9 月 18 日
 
 ---
+
+## D6, 2024年12月1日
+
+### 学习资料和学习任务
+
+#### Video
+
+- 复习 BrainPop 关于 Main idea and supporting details 的视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-main-idea.mp4" type="video/mp4">
+</video>
+
+- 复习第二单元动画对话视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_02_Story2.mp4" type="video/mp4">
+</video>
+ 
+#### Vocabulary
+
+复习 P48 词汇，每天复习一页，听录音，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+</audio>
+
+#### Reading
+
+预习 P50–51 文本，听录音跟读两遍，每两天跟读一页，思考过去和现在在哪几个方面有不一样，有哪些不同；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook
+
+练习册 Workbook P34–39
+
+### 学习内容
+
+- 开课口语练习
+	- 聊了一下上周的财商挑战，通过梳理，用 sequence words 连接词帮助其梳理一整天的活动，用基本的动词短语来描述。
+- Unit 2 小测试
+	 - 
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/AnnaS-OD2U2-test-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/AnnaS-OD2U2-test-2.jpeg)
+{% endgrouppicture %}
+
+
+- 复习阅读策略 Main idea and details 中心句和支持论点
+	- 完成练习
 
 ## D6, 2024年12月1日
 
