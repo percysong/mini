@@ -33,7 +33,7 @@ updated: 2024-12-02
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_02_Story2.mp4" type="video/mp4">
 </video>
- 
+
 #### Vocabulary
 
 复习 P48 词汇，每天复习一页，听录音，跟读两遍
