@@ -1,12 +1,7 @@
 ---
-created: 2024-10-19
-updated: 2024-12-09
----
-
----
 title: 邵雨涵学习档案
 created: 2024-10-19
-updated: 2024-12-02
+updated: 2024-12-10
 ---
 
 - 学生姓名：邵雨涵
@@ -16,35 +11,21 @@ updated: 2024-12-02
 
 ---
 
-## D6, 2024年12月1日
+## D7, 2024年12月8日
 
 ### 学习资料和学习任务
 
-#### Video
+#### Song
 
-- 复习 BrainPop 关于 Main idea and supporting details 的视频
-
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-main-idea.mp4" type="video/mp4">
-</video>
-
-- 复习第二单元动画对话视频
-
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_02_Story2.mp4" type="video/mp4">
-</video>
-
-#### Vocabulary
-
-复习 P48 词汇，每天复习一页，听录音，跟读两遍
+复习P53–D歌曲，跟唱两遍
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.34.mp3" type="audio/mp3">
 </audio>
 
 #### Reading
 
-预习 P50–51 文本，听录音跟读两遍，每两天跟读一页，思考过去和现在在哪几个方面有不一样，有哪些不同；
+复习 P50–51 文本，听录音跟读两遍，每两天跟读一页；
 
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.33.mp3" type="audio/mp3">
@@ -52,22 +33,36 @@ updated: 2024-12-02
 
 #### Workbook
 
-练习册 Workbook P34–39
+练习册 Workbook P40–43
 
 ### 学习内容
 
-- 开课口语练习
-	- 聊了一下上周的财商挑战，通过梳理，用 sequence words 连接词帮助其梳理一整天的活动，用基本的动词短语来描述。
 - Unit 2 小测试
-	 - 
+	 - Anna 在词汇和频率副词组织句子的语感上没有问题
+	 - 阅读没有很细心，错的有点多（其中一道是相对主观一点，never fierce 和 always gentle 可能没有理解为同样的意思）
+	 - 写作上主要是第三人称单数和人称代词的使用，在意义表达上和语言组织上都不错
 {% grouppicture 2-2 %}
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/AnnaS-OD2U2-test-1.jpeg)
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/AnnaS-OD2U2-test-2.jpeg)
 {% endgrouppicture %}
 
-
-- 复习阅读策略 Main idea and details 中心句和支持论点
-	- 完成练习
+- 复习阅读策略：Main Idea and Details 中心句和支持论点
+- 学习文本，对比过去和现在的沟通交流、新闻和旅游有什么不同
+	- 阅读图片、caption图片注释等，获取更多额外信息
+- 找关键信息，完成椅子图
+	- 已经粘贴到书上，基本在自己的阅读理解下找到正确答案
+- 完成课后练习问题
+	- Anna 基本能够自主找到答案，个别问题需要一定的时间，
+- 学习歌曲 *Great Grandma* 熟悉过去时态的表达
+- 复习一般过去时态的动词变化规则
+	- <mark>Anna对变化规则掌握得不错，包括什么时候直接加-ed, 什么时候只加-d, 什么时候变y为i再加ed；只是变化之后的读音还不是很熟悉 /t/ /d/ /id/，老师带着总结了一下发音规则。</mark>
+	- /t/
+		- searched
+		- chased
+		- talked
+	- /id/
+		- painted
+		- added
 
 ## D6, 2024年12月1日
 

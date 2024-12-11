@@ -13,6 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "liaopeiyan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "liaopeiyan"
+            }
+          },
+          {
+            "id": "120b339397f8829f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "shaoyuhan.md",
                 "mode": "source",
                 "backlinks": true,
@@ -21,8 +36,24 @@
               "icon": "lucide-file",
               "title": "shaoyuhan"
             }
+          },
+          {
+            "id": "9acdf2ea4bebc61c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discover-futures.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "discover-futures"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shaoyuhan.md"
+                "file": "discover-futures.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of shaoyuhan"
+              "title": "Outline of discover-futures"
             }
           },
           {
@@ -197,16 +228,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dad151b2da307362",
+  "active": "9acdf2ea4bebc61c",
   "lastOpenFiles": [
+    "liaopeiyan.md",
+    "shaoyuhan.md",
+    "zhuxuanyu.md",
     "chenruochun.md",
     "xiangxiyan.md",
     "wuzimo.md",
     "zhangyuantai.md",
-    "shaoyuhan.md",
-    "zhuxuanyu.md",
     "daichaoxun.md",
-    "liaopeiyan.md",
     "discover-futures.md",
     "Untitled.md",
     "niehaochen.md",
