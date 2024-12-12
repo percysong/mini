@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-12-06
+updated: 2024-12-12
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,87 @@ updated: 2024-12-06
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D20&21, 2024年12月9&11日
+
+### 学习资料和学习任务
+
+#### Video
+
+复习 BrainPop 关于 Reduce, Reuse, Recycle 的视频：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-reduce-reuse-recycle.mp4" type="video/mp4">
+</video>
+
+#### Vocabulary
+
+复习 P108 词汇，听录音，跟读两遍，每天一页
+
+**P108**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.25.mp3" type="audio/mp3">
+</audio>
+
+#### Song
+
+复习P113–D歌曲 *The Tree*，跟唱两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.27.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读打卡 *Natural Resources*
+
+复习 P110–111 文本，听录音跟读两遍，每两天跟读一页，完成打卡；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.26.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook
+
+练习册 Workbook P92–99
+
+### 学习内容
+
+#### 12月9日
+
+- 开课口语练习，聊了聊这周末跟爸爸见面的活动，并用过去时态来表达（宣宇在口语表达的时候还是不习惯使用过去时态）
+	- 学习品牌 New Balance 的说法
+	- did some sports
+	- went shopping in the Ring
+	- bought shoes at New Balance store
+	- ate Peking Duck
+	- had a great time together
+- 回顾自然资源话题和词汇
+- 回顾了阅读策略：中心句和支撑论点
+- 进入自然资源文本的学习
+- 通过图片和标题（title, heading）来猜测文本大意
+- 讨论自然环境和保护相关问题
+
+宣宇能够对于基本描述性问题给出回答，比如 It’s dirty / clean. I can see smoke. I don’t want to live there because it’s dirty. 但对于更深层次的环境保护相关问题不太能给出实际的解决方法，所以我们下节课进入了保护方法的学习
+
+#### 12月11日
+
+- 完成 Unit 5 小测试
+- 口语热身：通过 Google 街景地图去 New Zealand 实地探索，说说自己看到的商铺
+	- 宣宇能够自主使用 go straight, turn left/right, 来描述方向，并描述周围商铺
+- 再次阅读课文，找到中心句和支持论点
+- 完成课后练习，并回答问题
+- 学习语法：preposition 介词
+- 用不同的介词来描述图片
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0467.mp4" type="video/mp4">
+</video>
+
+- 了解不同形式的户外活动，练习听力，找到污染的地方（宣宇的听力部分很不错，完全听懂并复述细节信息）
+- 练习口语交际，看到乱扔垃圾应该怎么回应，如何道歉
+	- 学习不同程度的道歉方法
+	- I apologize.
+	- I’m very sorry.
+- 学习词性和判断词性的方法，完成练习
 
 ## D18&19, 2024年12月2&4日
 
@@ -68,7 +149,7 @@ updated: 2024-12-06
 - 开课口语练习，设想你要组织一场 Party，你会邀请哪些人，准备哪些食物，玩什么游戏？
 	- 宣宇提到他会邀请自己班上的好朋友（*I will invite my friend …*）
 	- 准备很多菜品（了解 starter, main course, dessert, and drinks 不同菜品的区别）
-- 完成 Unit 4 小测试，再
+- 完成 Unit 4 小测试
 - 开启 Unit 6 旅行相关的话题，谈论自己之前的旅游经历
 	- 宣宇谈到自己之前去过的国家
 	- Europe作为欧洲和国家没有区分开

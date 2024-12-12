@@ -1,13 +1,55 @@
 ---
 title: 廖培焱学习档案
 created: 2024-09-11
-updated: 2024-12-05
+updated: 2024-12-12
 ---
 
 - 学生姓名：廖培焱
 - English Name: Jerry
 - 年级：四年级
 - 开始学习日期：2024 年 10 月 9 日
+
+## D18&19, 2024年12月9&11日
+
+### 学习资料和学习任务
+
+#### 复习 P58–59 课文
+
+听录音，分两页，继续每页暂停跟读三遍，坚持两天；注意逗号、句号停顿，模仿语调，找到读句子的感觉。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+完成练习册 P46–49 内容
+
+### 课堂学习内容和反馈
+
+#### 12月9日
+
+- 复习P56词汇，纠正读音，造句理解，加深印象
+- 继续故事 *My Friend Anak* 的学习
+- 再一次操练描述图片，根据图片来推断文本信息
+- 初步熟悉课文，听录音了解文章大致内容
+- 跟读课文，解决生难词汇
+- 总结 Anak 在各个年龄做的不同事情，理解角色的心情
+- <mark>Jerry 对问题的反应还是需要很长的时间，有时需要反复提问才能回应</mark>
+
+#### 12月11日
+
+- 回顾故事 *My Friend Anak* 用图片来引导 Jerry 讲述关键动词
+- 训练基本词汇的拼写，加深自然拼读规则
+	- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0468.jpeg)
+- 训练动词短语，加强口语表达，尝试在老师的提示下复述文本
+- 完成课后题
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0471.mp4" type="video/mp4">
+</video>
+
+<mark>今天Jerry在总结文本的过程中，主动要求在白板上操练拼写，加强基础词汇和自然拼读的训练。最后在老师的提示下，自己第一次尝试完整复述文本，虽然还不是很熟练，但慢慢在有意识去主动尝试。</mark>
 
 ## D16&17, 2024年12月2&4日
 
