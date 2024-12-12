@@ -11,7 +11,186 @@ updated: 2024-12-09
 - 开始学习日期：2024 年 9 月 19 日
 ---
 
- 
+## D21, 2024年12月12日
+
+### 学习任务
+
+#### 自然拼读
+
+- 每天复习两个视频，坚持三天，注意，哪些字母组合发 long *i*
+- Magic *e* + long *o*
+	- [*u_e*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u03_u_e.mp4?cc=cn&selLanguage=zh)
+	- [*ube*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u03_ube.mp4?cc=cn&selLanguage=zh)
+- 复习同样发 long *u* 的字母组合
+	- [*ue*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u08_ue.mp4?cc=cn&selLanguage=zh)
+	- [*ew*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u08_ew.mp4?cc=cn&selLanguage=zh)
+	- [*ui*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u08_ui.mp4?cc=cn&selLanguage=zh)
+	- [*oo*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u08_oo.mp4?cc=cn&selLanguage=zh)
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *o* 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/home-animation-for-kids-alphablocks.mp4" type="video/mp4">
+</video>
+
+#### 复习 P82 词汇
+
+{% note info %}
+- 难度 ★★☆
+- 听录音，跟读两遍
+{% endnote %}
+
+- **P82**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.57.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P78–79 *Arnold’s Apple Tree* 课文
+
+- 第一天：听录音，暂停跟读两遍 P78，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
+- 第二天：听录音，暂停跟读两遍 P79，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
+- 第三天：看老师的提示词图片，尝试复述课文：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-001.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-002.jpeg)
+{% endgrouppicture %}
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-003.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-004.jpeg)
+{% endgrouppicture %}
+
+#### 复习 P84 动画视频
+
+听录音，跟读两遍，注意模仿角色情绪和语调
+
+**Audio**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.61.mp3" type="audio/mp3">
+</audio>
+
+**Video**
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M4_story.mp4" type="video/mp4">
+</video>
+
+#### Workbook 练习册
+
+- P70–73
+	- P71–写作部分课堂上已讲解，根据问题和例文完成自己的作文
+
+#### Project: A Seasons Journal
+
+完成在课堂上做了一半的季节日志，写一写自己最喜欢季节的特点，以及自己和家人在这个季节做的活动。用彩笔装饰着色。参考书上 P85
+
+### 课堂学习内容及反馈
+
+- 检查订正练习册
+- 学习 Magic *e*, 复习 long *o*
+- 复习故事 *Arnold’s Apple Tree*
+	- 看图片，尝试复述不同季节Arnold的活动
+- 口语问答不同季节的活动，完成听力练习
+- 学习英文逗号 comma 的用法，完成练习
+- 学习本单元的写作，讲解练习册 P71 的写作练习，我们可以从哪些方面来描写季节
+- 学习单元总结动画，角色扮演
+- 通过拼词游戏加强自然拼读和拼写
+
+## D20, 2024年12月8日
+
+### 学习任务
+
+#### 自然拼读
+
+- 每天复习两个视频，坚持三天，注意，哪些字母组合发 long *i*
+- Magic *e* + long *o*
+	- [*o_e*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u03_o_e.mp4?cc=cn&selLanguage=zh)
+- 复习同样发 long *i* 的两个字母组合
+	- [*oa*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u07_oa.mp4?cc=cn&selLanguage=zh)
+	- [*ow*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u07_ow.mp4?cc=cn&selLanguage=zh)
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *o* 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/home-animation-for-kids-alphablocks.mp4" type="video/mp4">
+</video>
+
+#### 复习 P82 词汇
+
+{% note info %}
+- 难度 ★★☆
+- 听录音，跟读两遍
+{% endnote %}
+
+- **P82**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.57.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P78–79 *Arnold’s Apple Tree* 课文
+
+- 第一天：听录音，暂停跟读两遍 P78，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
+- 第二天：听录音，暂停跟读两遍 P79，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
+- 第三天：看老师的提示词图片，尝试复述课文：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-001.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-002.jpeg)
+{% endgrouppicture %}
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-003.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-004.jpeg)
+{% endgrouppicture %}
+
+#### 复习 P84 动画视频
+
+听录音，跟读两遍，注意模仿角色情绪和语调
+
+**Audio**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.61.mp3" type="audio/mp3">
+</audio>
+
+**Video**
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M4_story.mp4" type="video/mp4">
+</video>
+
+#### Workbook 练习册
+
+- P70–73
+	- P71–写作部分课堂上已讲解，根据问题和例文完成自己的作文
+
+#### Project: A Seasons Journal
+
+完成在课堂上做了一半的季节日志，写一写自己最喜欢季节的特点，以及自己和家人在这个季节做的活动。用彩笔装饰着色。参考书上 P85
+
+### 课堂学习内容及反馈
+
+- 检查订正练习册
+- 学习 Magic *e*, 复习 long *o*
+- 复习故事 *Arnold’s Apple Tree*
+	- 看图片，尝试复述不同季节Arnold的活动
+- 口语问答不同季节的活动，完成听力练习
+- 学习英文逗号 comma 的用法，完成练习
+- 学习本单元的写作，讲解练习册 P71 的写作练习，我们可以从哪些方面来描写季节
+- 学习单元总结动画，角色扮演
+- 通过拼词游戏加强自然拼读和拼写
 
 ## D19, 2024年12月5日
 
@@ -98,6 +277,7 @@ updated: 2024-12-09
 	- [*ime*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u02_ime.mp4?cc=cn&selLanguage=zh)
 	- [*ine*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u02_ine.mp4?cc=cn&selLanguage=zh)
 	- [*ive*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u02_ive.mp4?cc=cn&selLanguage=zh)
+	- [*ike*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u02_ike.mp4?cc=cn&selLanguage=zh)
 - 复习同样发 long *i* 的两个字母组合
 	- [*igh*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u06_igh.mp4?cc=cn&selLanguage=zh)
 	- [*ie*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u06_ie.mp4?cc=cn&selLanguage=zh)
@@ -230,6 +410,10 @@ updated: 2024-12-09
 
 - 学习 Magic *e* 
 	- [*a_e*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u01_a_e.mp4?cc=global&selLanguage=en)
+	- [*ake*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u01_ake.mp4?cc=cn&selLanguage=zh)
+	- [*ame*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u01_ame.mp4?cc=cn&selLanguage=zh)
+	- [*ate*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u01_ate.mp4?cc=cn&selLanguage=zh)
+	- [*ave*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u01_ave.mp4?cc=cn&selLanguage=zh)
 - 复习同样发 long *a* 的两个字母组合
 	- *[ai](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u04_ai.mp4?cc=cn&selLanguage=zh)*
 	- *[ay](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u04_ay.mp4?cc=cn&selLanguage=zh)*

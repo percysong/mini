@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "liaopeiyan.md",
+                "file": "wuzimo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "liaopeiyan"
+              "title": "wuzimo"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zhuxuanyu.md",
+                "file": "xiangxiyan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "zhuxuanyu"
+              "title": "xiangxiyan"
             }
           },
           {
@@ -52,8 +52,7 @@
               "title": "daichaoxun"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +177,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zhuxuanyu.md"
+                "file": "wuzimo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of zhuxuanyu"
+              "title": "Outline of wuzimo"
             }
           },
           {
@@ -228,16 +227,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bd59ad4409f8b8c",
+  "active": "dad151b2da307362",
   "lastOpenFiles": [
-    "liaopeiyan.md",
+    "xiangxiyan.md",
     "zhuxuanyu.md",
+    "wuzimo.md",
+    "liaopeiyan.md",
     "daichaoxun.md",
     "shaoyuhan.md",
     "discover-futures.md",
     "chenruochun.md",
-    "xiangxiyan.md",
-    "wuzimo.md",
     "zhangyuantai.md",
     "Untitled.md",
     "niehaochen.md",
