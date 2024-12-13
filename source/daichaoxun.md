@@ -11,18 +11,29 @@ updated: 2024-12-13
 
 ## D11, 2024年12月10日
 
-### 学习资料和学习任务
-
-- 复习本节课学习的新词汇
-	- 
-- 观看视频，回顾 Moon phases 产生的原因和它的表现形态
-
 ### 学习内容及反馈
 
-- 订正上次的作业
-- 
- 
-<mark>Ben对于月球运动和月相相关的现象和原理已经有所了解，能够自己通过模型模拟来大致解释，本节课，我们主要进一步通过观察总结月球运动规律，认识不同月相的英文名称，同时亲身用模型感受月相的变化和与太阳位置的关系。</mark>
+- 进入总结性问题探究学习：相片中星星的轨迹是如何产生的？
+	- 学习星星的描述性词汇
+		- shine
+		- bright
+		- faint
+		- twinkle
+		- distant
+	- 观察星星的运动轨迹，为什么会有这样的照片产生
+		- 学习摄影的相关知识，快门（shutter）的概念
+		- 用老师的照相机来拍摄光束轨迹，理解延时摄影的概念
+		- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/DSCF9315.jpeg)
+- 回顾这个单元每节课学习的重点，Ben 可以很清楚地复述出来每节课的关节信息：
+	- The Sun _seems_ to move across the sky because the Earth is spinning.
+	- The Sun’s apparent movement across the sky makes shadows move. You can use a shadow’s movement to tell what time of day it is.
+	- The Sun’s path across the sky changes with the seasons of the year. It climbs higher in the sky in summer than in winter.
+	- The Earth orbits the Sun each year. Because of this, you see different parts of the night sky and different constellations each season.
+	- The Moon goes through phases over the course of a month.
+- 回到本次的问题探究，究竟是什么原因导致星星轨迹。
+	- 通过之前的探究，Ben 很快就找到了原因
+- 探究夜间是否可以通过星星来判断时间，开放探究
+	- 这个开放问题有些挑战，我们通过本单元所学，试想了一些解决方法，Ben 也考虑到之前学习的问题，比如星星会随着季节而变动，所以位置也不一样，很难有一个统一的方式。通过这个问题，我们更好地回顾了整个单元学习的星体运动规律和现象。
 
 ## D10, 2024年12月3日
 
