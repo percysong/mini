@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2024-12-09
+updated: 2024-12-13
 ---
 
 - 学生姓名：武子墨
@@ -17,8 +17,8 @@ updated: 2024-12-09
 
 #### 自然拼读
 
-- 每天复习两个视频，坚持三天，注意，哪些字母组合发 long *i*
-- Magic *e* + long *o*
+- 每天复习两个视频，坚持三天，注意，哪些字母组合发 long *u*
+- Magic *e* + long *u*
 	- [*u_e*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u03_u_e.mp4?cc=cn&selLanguage=zh)
 	- [*ube*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u03_ube.mp4?cc=cn&selLanguage=zh)
 - 复习同样发 long *u* 的字母组合
@@ -31,77 +31,57 @@ updated: 2024-12-09
 
 观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
 
-- Long *o* 视频
+- Long *u* 视频
 
 <video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/home-animation-for-kids-alphablocks.mp4" type="video/mp4">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/14/learn-to-read-phonics-for-kids-long-u-vowels.mp4" type="video/mp4">
 </video>
 
-#### 复习 P82 词汇
+#### Spelling Bee 拼词练习
 
-{% note info %}
-- 难度 ★★☆
-- 听录音，跟读两遍
-{% endnote %}
+- 完成 Unit 3–4 拼词练习，记得使用课堂上学习的拼词方法：
+1. Look 👀 观察单词，记住单词的整体形状和样子（而不是记每个字母）
+2. Say 🗣️ 读单词，可以使用自然拼读方式拼出单词（拼读多次，直至熟悉单词结构）
+3. Cover 🤚 遮住单词，脑海中回忆两秒
+4. Write ✍️ 拼写单词，根据刚刚的记忆拼写单词（期间不能再查看遮住的单词）
+5. Check ✅ 检查单词，是否拼写正确，若拼写错误，请重复步骤 1，直到正确拼写
 
-- **P82**
-<audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.57.mp3" type="audio/mp3">
-</audio>
+#### 复习 Unit 1–6
 
-#### 复习 P78–79 *Arnold’s Apple Tree* 课文
-
-- 第一天：听录音，暂停跟读两遍 P78，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
-- 第二天：听录音，暂停跟读两遍 P79，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
-- 第三天：看老师的提示词图片，尝试复述课文：
-
-<audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
-</audio>
-
-{% grouppicture 2-2 %}
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-001.jpeg)
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-002.jpeg)
-{% endgrouppicture %}
-{% grouppicture 2-2 %}
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-003.jpeg)
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-004.jpeg)
-{% endgrouppicture %}
-
-#### 复习 P84 动画视频
-
-听录音，跟读两遍，注意模仿角色情绪和语调
-
-**Audio**
-<audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.61.mp3" type="audio/mp3">
-</audio>
-
-**Video**
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M4_story.mp4" type="video/mp4">
-</video>
-
-#### Workbook 练习册
-
-- P70–73
-	- P71–写作部分课堂上已讲解，根据问题和例文完成自己的作文
-
-#### Project: A Seasons Journal
-
-完成在课堂上做了一半的季节日志，写一写自己最喜欢季节的特点，以及自己和家人在这个季节做的活动。用彩笔装饰着色。参考书上 P85
+- 复习 1–6 单元的学习内容，准备周日的阶段性测试
+	- 复习每个单元的词汇，跟读
+	- 不熟悉的词汇请观察图片，并在课文中找到相应位置，猜测意思
+	- 找到之前的音频学习资料，回顾跟读每个单元的文本
 
 ### 课堂学习内容及反馈
 
-- 检查订正练习册
-- 学习 Magic *e*, 复习 long *o*
-- 复习故事 *Arnold’s Apple Tree*
-	- 看图片，尝试复述不同季节Arnold的活动
-- 口语问答不同季节的活动，完成听力练习
-- 学习英文逗号 comma 的用法，完成练习
-- 学习本单元的写作，讲解练习册 P71 的写作练习，我们可以从哪些方面来描写季节
-- 学习单元总结动画，角色扮演
-- 通过拼词游戏加强自然拼读和拼写
+- 检查订正练习册（本次完成质量很高）
+- 回顾上次的 Project，阅读范文，修改自己的季节日志，学习上台展示和评价的量规
+	- 上台之后眼睛看向观众
+	- 声音洪亮清晰
+	- 动作辅助表达
+	- 相关开场和结束用语
+		- Hello / Good evening, everyone. I’m … Today, I’m going to talk about my seasons journal.
+		- Thank you, everyone.
+- 学习自然拼读 Magic *e* + long *u*
+	- 这个字母组合比较多，有的大家并不是很熟悉，需要经常复习
+- 阅读之前两个单元主题相关绘本，复习相关词汇：
+	- [*What Color is Bear's Underwear?*](https://getepic.com/book/43025699/what-color-is-bears-underwear?utm_source=t2t&utm_medium=link&utm_campaign=content&share=43031509754)
+	- [*The Family Photo*](https://getepic.com/book/52821386/the-family-photo?utm_source=t2t&utm_medium=link&utm_campaign=content&share=43031509754)
+- 学习 Spelling Bee 拼词技巧并练习
+	1. Look 👀 观察单词，记住单词的整体形状和样子（而不是记每个字母）
+	2. Say 🗣️ 读单词，可以使用自然拼读方式拼出单词（拼读多次，直至熟悉单词结构）
+	3. Cover 🤚 遮住单词，脑海中回忆两秒
+	4. Write ✍️ 拼写单词，根据刚刚的记忆拼写单词（期间不能再查看遮住的单词）
+	5. Check ✅ 检查单词，是否拼写正确，若拼写错误，请重复步骤 1，直到正确拼写
+
+Molly 的任务展示视频：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0474.mp4" type="video/mp4">
+</video>
+
+Molly 在做任务展示的时候，准备得很认真，台风也不错，声音稍稍有点小，因为想分享的内容有点多，所以语速放得比较慢。整体的讲述很完整，只是眼睛比较习惯望着远处没有人的地方，下来提醒她说人少的时候直接跟观众交流效果会更好。
 
 ## D20, 2024年12月8日
 
@@ -109,7 +89,7 @@ updated: 2024-12-09
 
 #### 自然拼读
 
-- 每天复习两个视频，坚持三天，注意，哪些字母组合发 long *i*
+- 每天复习两个视频，坚持三天，注意，哪些字母组合发 long *o*
 - Magic *e* + long *o*
 	- [*o_e*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u03_o_e.mp4?cc=cn&selLanguage=zh)
 - 复习同样发 long *i* 的两个字母组合

@@ -1,7 +1,7 @@
 ---
 title: 向惜妍学习档案
 created: 2024-09-11
-updated: 2024-12-09
+updated: 2024-12-13
 ---
 
 - 学生姓名：向惜妍
@@ -10,6 +10,78 @@ updated: 2024-12-09
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D21, 2024年12月12日
+
+### 学习任务
+
+#### 自然拼读
+
+- 每天复习两个视频，坚持三天，注意，哪些字母组合发 long *u*
+- Magic *e* + long *u*
+	- [*u_e*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u03_u_e.mp4?cc=cn&selLanguage=zh)
+	- [*ube*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u03_ube.mp4?cc=cn&selLanguage=zh)
+- 复习同样发 long *u* 的字母组合
+	- [*ue*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u08_ue.mp4?cc=cn&selLanguage=zh)
+	- [*ew*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u08_ew.mp4?cc=cn&selLanguage=zh)
+	- [*ui*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u08_ui.mp4?cc=cn&selLanguage=zh)
+	- [*oo*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u08_oo.mp4?cc=cn&selLanguage=zh)
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *u* 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/14/learn-to-read-phonics-for-kids-long-u-vowels.mp4" type="video/mp4">
+</video>
+
+#### Spelling Bee 拼词练习
+
+- 完成 Unit 3–4 拼词练习，记得使用课堂上学习的拼词方法：
+1. Look 👀 观察单词，记住单词的整体形状和样子（而不是记每个字母）
+2. Say 🗣️ 读单词，可以使用自然拼读方式拼出单词（拼读多次，直至熟悉单词结构）
+3. Cover 🤚 遮住单词，脑海中回忆两秒
+4. Write ✍️ 拼写单词，根据刚刚的记忆拼写单词（期间不能再查看遮住的单词）
+5. Check ✅ 检查单词，是否拼写正确，若拼写错误，请重复步骤 1，直到正确拼写
+
+#### 复习 Unit 1–6
+
+- 复习 1–6 单元的学习内容，准备周日的阶段性测试
+	- 复习每个单元的词汇，跟读
+	- 不熟悉的词汇请观察图片，并在课文中找到相应位置，猜测意思
+	- 找到之前的音频学习资料，回顾跟读每个单元的文本
+
+### 课堂学习内容及反馈
+
+- 检查订正练习册（本次的完成质量很高）
+- 回顾上次的 Project，阅读范文，修改自己的季节日志，学习上台展示和评价的量规
+	- 上台之后眼睛看向观众
+	- 声音洪亮清晰
+	- 动作辅助表达
+	- 相关开场和结束用语
+		- Hello / Good evening, everyone. I’m … Today, I’m going to talk about my seasons journal.
+		- Thank you, everyone.
+- 学习自然拼读 Magic *e* + long *u*
+	- 这个字母组合比较多，有的大家并不是很熟悉，需要经常复习
+- 阅读之前两个单元主题相关绘本，复习相关词汇：
+	- [*What Color is Bear's Underwear?*](https://getepic.com/book/43025699/what-color-is-bears-underwear?utm_source=t2t&utm_medium=link&utm_campaign=content&share=43031509754)
+	- [*The Family Photo*](https://getepic.com/book/52821386/the-family-photo?utm_source=t2t&utm_medium=link&utm_campaign=content&share=43031509754)
+- 学习 Spelling Bee 拼词技巧并练习
+	1. Look 👀 观察单词，记住单词的整体形状和样子（而不是记每个字母）
+	2. Say 🗣️ 读单词，可以使用自然拼读方式拼出单词（拼读多次，直至熟悉单词结构）
+	3. Cover 🤚 遮住单词，脑海中回忆两秒
+	4. Write ✍️ 拼写单词，根据刚刚的记忆拼写单词（期间不能再查看遮住的单词）
+	5. Check ✅ 检查单词，是否拼写正确，若拼写错误，请重复步骤 1，直到正确拼写
+
+Anna 的任务展示视频：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0475.mp4" type="video/mp4">
+</video>
+
+妍妍这次任务在家没有完成，在课堂上补完了后面的活动部分，所以没有太多的时间来操练，整个过程除了前面新学习的句型部分需要老师提示完成，后面都能够自己讲述完整。唯一的问题就是没有做到跟观众的眼神交流，还需要再多多熟练之后，再慢慢尝试，加强与听众的沟通感。
 
 ## D20, 2024年12月8日
 
