@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chenruochun.md",
+                "file": "wuzimo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "chenruochun"
+              "title": "wuzimo"
             }
           },
           {
@@ -177,10 +177,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chenruochun.md"
+                "file": "wuzimo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of chenruochun"
+              "title": "Outline of wuzimo"
             }
           },
           {
@@ -229,9 +229,9 @@
   },
   "active": "dad151b2da307362",
   "lastOpenFiles": [
+    "chenruochun.md",
     "xiangxiyan.md",
     "daichaoxun.md",
-    "chenruochun.md",
     "wuzimo.md",
     "zhuxuanyu.md",
     "liaopeiyan.md",
