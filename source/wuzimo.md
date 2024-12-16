@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2024-12-13
+updated: 2024-12-16
 ---
 
 - 学生姓名：武子墨
@@ -10,6 +10,109 @@ updated: 2024-12-13
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D22, 2024年12月15日
+
+### 学习任务
+
+#### 自然拼读
+
+- 复习[牛津拼读世界网站 Level 2](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) short *u*
+	- [*u*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb2_u07_u.mp4?cc=cn&selLanguage=zh)
+	- [*ud*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb2_u07_ud.mp4?cc=cn&selLanguage=zh)
+	- [*ug*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb2_u07_ug.mp4?cc=cn&selLanguage=zh)
+	- [*un*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb2_u08_un.mp4?cc=cn&selLanguage=zh)
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Short *u* 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/23/alphablocks-short-u.mp4" type="video/mp4">
+</video>
+
+#### 数字视频
+
+{% note info %}
+学习小贴士：
+- 每天学习一个视频
+- 听一遍，暂停跟唱两遍
+- 注意 twelve, fifteen, nineteen 等发音
+{% endnote %}
+
+- 1–20 数字歌曲，听录音，纠正自己对常见数字的读音
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/number-song-120-for-children-counting-numbers-the-singing-walrus.mp4" type="video/mp4">
+</video>
+
+- 20–1 倒数熟练数字，练习，提高自己对数字的反应
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/the-counting-down-from-20-song-counting-songs-scratch-garden.mp4" type="video/mp4">
+</video>
+
+- 双数（两两数数）练习，提高自己对数字的反应
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/the-counting-by-twos-song-counting-songs-scratch-garden.mp4" type="video/mp4">
+</video>
+
+#### 词汇
+
+复习书上 P88 词汇
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.02.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+- P74–75
+
+#### 课文预习
+
+{% note info %}
+- P90–91
+- 阅读小标题 Headings，看图片，看看这篇文章讲了你学过的哪几个数学概念？
+- 听录音，圈一圈除了本课的新词之外，你不熟悉的词汇；
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.03.mp3" type="audio/mp3">
+</audio>
+
+### 课堂学习内容及反馈
+
+- 复习第一阶段词汇（闪卡）
+- <mark>完成第一阶段测试（Unit 1–6）</mark>
+	- ✅ Molly 的词汇掌握熟练
+	- ❌ 语法部分最后一题估计以为是 We’re friends 粗心选错
+	- ✅ 连词成句的做题习惯很好，也很细心地把标点符号补充上了
+	- ❌ 阅读部分第一题，没有把 parents 和 mom and dad 联系起来，判断错误
+	- 写作部分第一个句子没有写完整，一起写到第二句上了
+	- 口语表达基本能用完整句子回答，只有一两句单复数没有反应过来
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Molly-OD1-review-test-1-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Molly-OD1-review-test-1-2.jpeg)
+{% endgrouppicture %}
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Molly-OD1-review-test-1-3.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Molly-OD1-review-test-1-4.jpeg)
+{% endgrouppicture %}
+
+- 简单订正测试内容
+- 开启第5个大问题：数字如何帮助我们？
+- 通过图片数字活动，操练句型 There are … 同时回顾已经了解的数字及其读音
+- 引入数学的英文概念，包括加号、等号、算式、加法、单双数的词汇表达
+- 拼写游戏，加强巩固词汇
+- 学习阅读策略，通过小标题预测文本 Predicting from Headings
+- 感知关于数学的文本，学习如何使用双数来数数
+
+<mark>Molly 对于数字的反应很快，可以在五秒内用双数数到20，拼写练习上表现也不错，可以将 addition 等有挑战的词完成！</mark>
 
 ## D21, 2024年12月12日
 
@@ -1110,14 +1213,10 @@ Molly 在做任务展示的时候，准备得很认真，台风也不错，声�
 #### Oxford Phonics 自然拼读
 
 - [牛津拼读世界网站 Level 2](https://elt.oup.com/student/oxfordphonicsworld/level03/watch?cc=cn&selLanguage=zh) short *u*
-	- *u* 
-	- *ub*
-	- *ud*
-	- *ug*
-	- *um*
-	- *un*
-	- *up*
-	- *ut*
+	- [*u*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb2_u07_u.mp4?cc=cn&selLanguage=zh)
+	- [*ud*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb2_u07_ud.mp4?cc=cn&selLanguage=zh)
+	- [*ug*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb2_u07_ug.mp4?cc=cn&selLanguage=zh)
+	- [*un*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb2_u08_un.mp4?cc=cn&selLanguage=zh)
 
 #### Alphablocks 拼读动画
 

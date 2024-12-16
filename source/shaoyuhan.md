@@ -1,7 +1,7 @@
 ---
 title: 邵雨涵学习档案
 created: 2024-10-19
-updated: 2024-12-10
+updated: 2024-12-16
 ---
 
 - 学生姓名：邵雨涵
@@ -10,6 +10,66 @@ updated: 2024-12-10
 - 开始学习日期：2024 年 9 月 18 日
 
 ---
+
+## D7, 2024年12月15日
+
+### 学习资料和学习任务
+
+#### Vocabulary
+
+复习 P54 词汇，听录音，跟读两遍
+
+**P54**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.35.mp3" type="audio/mp3">
+</audio>
+
+**P56**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+#### 大问题视频
+
+复习大问题视频，总结自己的回答：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_03_Wrapup3.mp4" type="video/mp4">
+</video>
+
+#### Reading
+
+预习 P58–59 文本，听录音跟读两遍，每两天跟读一页；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook
+
+练习册 Workbook P40–43
+
+### 学习内容
+
+- 练习册改错
+	- 错误有点多，对过去式的变化还不习惯，肯定句忘记变化，否定句反而变化了动词，需要多做口头练习，并在书面练习时注意
+- 课前口语练习
+	- 学习如何描述图片
+	- <mark>Anna在口语表达上还是有些混乱，需要思考很久才能用简单的句子来描述，需要在今后加强口语表达的操练</mark>
+- Unit 3 小测试
+	 - <mark>词汇和阅读都没有问题，主要是在写作上，会习惯性地犯一些语法小错误</mark>
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/AnnaS-OD2U3-test-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/AnnaS-OD2U3-test-2.jpeg)
+{% endgrouppicture %}
+- 学习更多交通工具，练习完成听力
+	- <mark>Anna听力对于细节的把控还需要提高，很多细节需要听第三遍才能找到或修正答案。</mark>
+- 口语交际练习
+	- 来到新的国家应该如何对话
+	- 在听不清楚的时候如何用英文回应 <mark>实际练习的时候 Anna 在听不懂的时候习惯性地愣在那里，学习了反问之后知道如何让对方复述</mark>
+- 学习词典的排布规则（按字母顺序排列）
+- 学习阅读策略：故事的顺序 Sequence of Event
+- 完成练习
 
 ## D7, 2024年12月8日
 
