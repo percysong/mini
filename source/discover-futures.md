@@ -1,8 +1,71 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2024-12-11
+updated: 2024-12-17
 ---
+
+## 2024年11月17日
+
+### 学习资料和学习任务
+
+- Review *Unit 1 Reflect Video*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_Reflect_Unit_1.mp4" type="video/mp4">
+</video>
+
+- Review *Unit 3 Factflix Video*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_Level_1_Factflix_Unit_3_final.mp4" type="video/mp4">
+</video>
+
+- Student book P116 **Prizes: 1 & 2** 
+- Workbook P36 **Prizes: 1 & 2**
+
+### 课堂学习内容及反馈
+
+- 检查订正作文和练习册
+	- Jason 的写作反馈：
+		- <img src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Jason-ODF1-U1-Writing.png" style="width:auto;height:auto;">
+		- 基本回答了楼主的问题，语序通畅，但是没有提出自己对一日三餐的观点，自己的作息时间显得有些多余，请参考练习册 P10 的例文再修改；
+	- Ryan 的写作反馈
+		- <img src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Ryan-ODF1-U1-Writing.png" style="width:50%;height:auto;">
+		- 基本回答了楼主的问题（没有提到 snacks），语序相对通畅（把用餐时间写到前面更简洁），注意标点符号的使用（本该使用句号的地方误用了逗号）；用到了 because, so 等连词来描述自己的观点，分段和表述也比之前的写作清晰许多。
+- 回顾本单元大问题 *What is the value of TIME?* 「什么是时间的价值？」，观看总结视频，大家也提出了自己的认识：
+	- **Ryan**
+		- Time is like sponge.
+		- We can make more time to study.
+	- **Jason**
+		- Time can make money.
+	- **Joyce**
+		- Money can make our time happier.
+- 开启第三单元大问题 *How do we know what’s the best?* 「我们如何知道什么是最好的？」并说说自己的理解
+	- **Joyce** 很快理解到了问题，也回答到了重点
+		- 1st prize（提到了 prize 这个关键词）
+		- competition
+		- archeologist (to know what’s the best in the past)
+	- **Ryan**
+		- watch someone practice
+		- from the country (e.g. China is the best at Pingpong…)
+	- **Jason**
+		- from the race (competition)
+		- ask the expert
+		- things that the best players use
+- 猜测问题，观看 Factflix 视频，检验自己的猜想是否正确
+	- 我们讨论了为什么学校要给学生颁发证书和奖项？
+	- 奖项和奖励的设置是否让我们更努力？
+		- Jason 提到了 sometimes people get **greedy**, so they work hard. 
+	- 哪一项运动的奖金最丰厚？
+	- 人们更想要奖金还是奖杯？
+	- 你觉得奥运会金牌和奥斯卡奖杯值多少钱？
+		- 大家的估价都远远超过了实际的价值
+	- 有的人已经有了金钱和名誉，为什么还想要获得某个奖项？
+		- 向大家介绍了小李子的奥斯卡之路
+- 根据提示，提名一个自己最认同的奖项
+	- Ryan 颁给了最有趣的乒乓球运动员——许昕，讲述了他的创业经历和他的招牌击球动作
+	- Jason 颁给了最有天赋的足球运动员C罗
+	- Joyce 颁给了最棒的电影《肖申克的救赎》，尝试描述了自己的观影经历
 
 ## 2024年12月9日
 
