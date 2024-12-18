@@ -11,10 +11,15 @@
             "id": "0188a01ea3909f76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "daichaoxun.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "daichaoxun"
             }
           }
         ]
@@ -141,9 +146,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "daichaoxun.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of daichaoxun"
             }
           },
           {

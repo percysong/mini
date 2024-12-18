@@ -9,6 +9,61 @@ updated: 2024-12-13
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
 
+## D11, 2024年12月17日
+
+### 学习资料和学习任务
+
+- P128 词汇音频，跟读并复习
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.30.mp3" type="audio/mp3">
+</audio>
+
+- P130 课文音频，跟读并复习
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.31.mp3" type="audio/mp3">
+</audio>
+
+- 复习 BrainPop 关于 simple machines 的视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-simple-machines.mp4" type="video/mp4">
+</video>
+
+- Song about simple machines by [Scratch Garden](https://www.youtube.com/@ScratchGarden)
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/the-simple-machines-song-science-songs-scratch-garden.mp4" type="video/mp4">
+</video>
+
+- 完成练习册 P116–119 下次记得带过来
+
+### 学习内容及反馈
+
+- 介绍 Wordle 猜词游戏，激活英语思维
+- 进入新的大问题 How do inventions change our lives? 「创新如何改变我们的生活」
+- 对创新进行了辩证性探讨：
+	- Ben 先提到 Inventions can make our life better
+	- 随后又联想到他们这个 UOI 单元学习的内容，修正为 Inventions change our lives in different ways. 他提到说，invention 不一定变得更好，有的创造也可能给人类带来破坏；
+- 随后我们又通过视频发现了几个观点，了解到
+	- 发明可以帮我们解决问题
+	- 发明可以让生活更容易
+- 通过 Moby 打不开油漆盖的生活小问题，引入本节课探究的重点：Simple machines 简单机械
+	- Ben 很快就想到了可以使用来帮助 Moby 解决问题的工具，虽然不知道如何称呼，但能在黑板上大致画出来形状
+	- 引入 level（杠杆）
+	- 随后分别介绍了五种简单机械，并思考他们的运用实例
+		- ramp
+		- wedge
+		- screw
+		- wheel and axle
+	- 找到教室中和生活中常用的工具，并说一说他们运用的简单机械原理
+- 学习阅读策略：Classify and Categorize 分类
+- 阅读文本，学习五种简单机械，并找到文中提到的运用实例
+- 观看视频总结，完成线上练习
+
+<mark>Ben 对这次的课题有自己的经验，对于杠杆原理的了解已经达到初中物理的水平。但这六种简单机械原理的命名都是新的词汇，同时涉及到力学方面的表达应用需要一定时间消化。对于新的词汇和概念 Ben 都掌握得很快，大部分问题都能准确地回答出其背后的机械原理。</mark>
+
 ## D11, 2024年12月10日
 
 ### 学习内容及反馈
