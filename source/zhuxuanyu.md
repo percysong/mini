@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-12-12
+updated: 2024-12-19
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,98 @@ updated: 2024-12-12
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D23&24, 2024年12月16&18日
+
+### 学习资料和学习任务
+
+#### Video
+
+复习单元大问题视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_06_Wrapup6.mp4" type="video/mp4">
+</video>
+
+#### Vocabulary
+
+复习 P116 词汇，听录音，跟读两遍，每天一页
+
+**P116**
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.32.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读打卡 *A Juice Carton’s Diary*
+
+复习 P110–111 文本，听录音跟读两遍，每两天跟读一页，注意 Juice Carton 的语气和情绪，完成打卡；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.33.mp3" type="audio/mp3">
+  </audio>
+
+#### Song
+
+复习 P121–D 歌曲 *Where is Charlie*，跟唱两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.34.mp3" type="audio/mp3">
+  </audio>
+
+#### Workbook
+
+练习册 Workbook P100–106
+
+### 学习内容
+
+#### 12月16日
+
+- 开课口语练习：Talking about your favorite game
+	- Rocky 聊了自己最喜欢的游戏 Minecraft, 运用英语表达在游戏中做的事情
+		- farm for woods and rocks.
+		- look for foods and animals
+		- build weapons and tools
+	- The best things of this game
+		- we can do different things
+		- we can play with friends
+- 学习 Oxford Phonics U2, 关于字母 s 及组合的 blending
+	- *sc, sk, sm, sn, sp, st, sw, squ, str*
+	- 其中 Rocky 对 <mark><i>sn, squ, str</i></mark> 三个组合还不是很熟悉
+	- 一起举例，关联自己熟悉的词汇
+- 学习元音 vowels: *a, e, i, o, u, y*
+- 复习了方位介词，描述图片，口语操练巩固
+	- Rocky 在作业中反应出来对于部分方位词还不是很熟悉，尤其是 across from 和 in front of 的区别
+- 学习 Unit 12 词汇
+	- 有一些生词
+- 学习阅读策略：故事的场景 Setting
+	- 三年级英语课学过，不过 Rocky 没有什么印象了
+
+#### 12月18日
+
+- 完成 Unit 1–6 阶段性测试
+	- <mark>Rocky对第一阶段的学习整体词汇掌握情况不错，语法部分只有不可数名词单复数be动词搭配一个错误</mark>
+	- <mark>抄写单词抄漏字母，连词成句也漏掉单词和标点</mark>
+	- <mark>阅读理两道题解判断错误，实在不应该，完全是不细心造成的</mark>
+	- <mark>写作存在很大问题，首先是不情愿，一遇到写作就非常抗拒，之后便带他梳理了一下对于这个题材常见写作步骤</mark>
+	- <mark>听力口语都很不错，口语表达非常清晰流畅，表述也很完整，只有个别语法错误</mark>
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-18-2024-16-32-rocky-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-18-2024-16-32-rocky-2.jpeg)
+{% endgrouppicture %}
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-18-2024-16-32-rocky-3.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-18-2024-16-32-rocky-4.jpeg)
+{% endgrouppicture %}
+
+- 进入 *A Juice Carton‘s Diary* 日记故事的学习
+	- 看图片，猜测故事，并用自己的语言描述图片
+	- 听故事，检验自己的猜测
+	- 分段学习，跟读模仿，问题检测
+	- 完成课后习题
+	- <mark>Rocky 的阅读理解不错，能够很快地找到答案并且回答理解性问题，只是细节上需要更注意</mark>
+- 学习歌曲 *Where is Charlie*, 复习方位词
 
 ## D20&21, 2024年12月9&11日
 

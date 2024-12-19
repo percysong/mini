@@ -1,13 +1,66 @@
 ---
 title: 廖培焱学习档案
 created: 2024-09-11
-updated: 2024-12-12
+updated: 2024-12-19
 ---
 
 - 学生姓名：廖培焱
 - English Name: Jerry
 - 年级：四年级
 - 开始学习日期：2024 年 10 月 9 日
+
+## D20&21, 2024年12月16&18日
+
+### 学习资料和学习任务
+
+#### 复习 P58–59 课文
+
+听录音，分两页，继续每页暂停跟读三遍，坚持两天；注意逗号、句号停顿，模仿语调，找到读句子的感觉。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P61 歌曲
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.41.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P62 词汇
+
+- 跟读两遍，注意拼写
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.42.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+完成练习册 P48–51 内容
+
+### 课堂学习内容和反馈
+
+#### 12月16日
+
+- 复习故事，加强跟读语音语调训练
+- 学习歌曲，操练句型 What / Who 的特殊疑问句
+- 完成重组句子练习
+- 学习一天中不同的时间词汇，并说说你在不同的时间完成什么事
+- 完成听力练习
+
+#### 12月18日
+
+- 复习自然拼读 Magic *e*
+- 运用学过的句型来描述动物，猜一猜它是什么
+	- It’s …
+	- It lives in …
+	- It’s …
+- 学习问号 question marks 和句号 period 的名称和使用，完成练习
+- 看动画，说说 Gus 在哪里，完成跟读
+- 完成单元互动练习题
+	- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0504.jpeg)
+
+<mark>本周 Jerry 的状态不错，能更快地进入状态，并且认真完成跟读同时回答问题，同时能用不同的方位词来描述事物。Jerry 的阅读和听力理解都还不错，主要就是操练拼读、朗读和口头表达。回家之后要完成阅读练习，同时听录音复习跟读之前的课文，提升语感。</mark>
 
 ## D18&19, 2024年12月9&11日
 
