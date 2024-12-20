@@ -11,6 +11,32 @@ updated: 2024-12-06
 
 ---
 
+## D10, 2024年12月19日
+
+### Why Are These Frogs So Colorful? 扩展视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/why-are-these-frogs-so-colorful-scishow-kids.mp4" type="video/mp4">
+</video>
+
+### 课堂学习内容及反馈
+
+- 继续上周的问题探究 *Why do frogs say “ribbit”?*
+	- 变身科学家，用自创拟声词和声音特质的形容词记录不同种类的 frog 的声音，并探索池塘中有哪些种类的 frog
+	- 挑战听声音，辨别不同的青蛙物种
+	- 听听池塘和湖泊，两个栖息地都有哪些种类的青蛙，哪里的青蛙要多一些
+	- 复习栖息地的表达：*habitats* are places that animals live
+	- 思考为什么湖泊的青蛙种类会多一些
+		- Henry 观察思考后回答到 “Because it has more water, and the water is fresh.”
+		- 观看总结视频，我们还发现了湖泊里一直有水，还有不同植物；但是 pond 里只有春夏有水，冬天就干涸了。
+	- 学习青蛙喜欢的栖息地的表达
+		- swampy
+		- shallow
+		- muddy
+
+<mark>Henry 昨天的学习比较主动，有认真在思考问题并完成任务，同时还给老师分享了自己对于 Titanic 的了解和见闻。继续保持哟！</mark>
+
+
 ## D8, 2024年12月5日
 
 ### 课堂学习内容及反馈
