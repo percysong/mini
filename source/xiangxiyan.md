@@ -1,7 +1,7 @@
 ---
 title: 向惜妍学习档案
 created: 2024-09-11
-updated: 2024-12-16
+updated: 2024-12-20
 ---
 
 - 学生姓名：向惜妍
@@ -10,6 +10,71 @@ updated: 2024-12-16
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D23, 2024年12月19日
+
+### 学习任务
+
+#### Oxford Phonics 自然拼读
+
+- 复习 牛津拼读世界网站 Level 2: short *o* 
+	- [*o* ](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb2_u06_o.mp4?cc=cn&selLanguage=zh)
+	- [*op*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb2_u06_op.mp4?cc=cn&selLanguage=zh)
+	- [*ot*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb2_u06_ot.mp4?cc=cn&selLanguage=zh)
+
+#### Alphablocks 拼读视频
+
+复习拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Short *o*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/29/alphablocks-volume-2-episode-17-odd-short-vowel-o.mp4" type="video/mp4">
+</video>
+
+#### 词汇
+
+继续复习书上 P88 词汇，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.02.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册及练习题单
+
+- P76–79
+- have 的练习题单
+
+#### 课文复习
+
+{% note info %}
+- 这篇课文的语言难度较大，但概念因为数学都学习过，所以理解起来相对容易，句子有点长，大家只需要听录音尽量跟读，不要求自主朗读
+- 听录音，快进到后半部分，先跟读 P91，注意算式的语言表达，每天跟读两遍。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.03.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P93 *How Many?* 歌曲
+
+听录音，跟唱，巩固 I have, I don’t have 的语法表达；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.04.mp3" type="audio/mp3">
+</audio>
+
+### 课堂学习内容及反馈
+
+- 复习自然拼读 short *o*, 区分 odd 和 old 的读音
+- 本节课我们继续探究了 Numbers 相关学科知识和表达方法
+	- 认识数轴 number line, counting 数数的表达并数数挑战
+	- 认识加法等式的符号及表达方式，a+b=c 如何用英语表达
+	- 学习加法的简单应用题 word problem 表达，并自己创造应用题，列出等式
+	- 完成课后练习
+- 学习语法 I/You/They have, don’t have 的表达，说一说自己有的东西
+- 扩展了 he/she has … 语法部分总体来说很简单，三个小朋友都很熟悉，主要是复习，课堂上也没有花费太多时间来讲解。
+
+<mark>Anna 对数字反应不错，之前学习过，但是发音不够准确，容易把十几 -teen 读成几十 -ty，还需要多跟着上次的视频操练。注意 short *o* 的发音，容易把 odd number 读成 old number 闹笑话啦。能用不同的符号来表达数学等式，同时创编自己的应用题。课文 P90 如果跟读难度，部分长句子可以先跳过，把 P90 简单的短句子读清楚就行。</mark>
 
 ## D22, 2024年12月15日
 
