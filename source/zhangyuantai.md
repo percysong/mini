@@ -34,6 +34,11 @@ updated: 2024-12-06
 		- shallow
 		- muddy
 
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-19-2024-17-33-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-19-2024-17-33-2.jpeg)
+{% endgrouppicture %}
+
 <mark>Henry 昨天的学习比较主动，有认真在思考问题并完成任务，同时还给老师分享了自己对于 Titanic 的了解和见闻。继续保持哟！</mark>
 
 
