@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2024-12-20
+updated: 2024-12-23
 ---
 
 - 学生姓名：武子墨
@@ -10,6 +10,77 @@ updated: 2024-12-20
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D24, 2024年12月22日
+
+### 学习任务
+
+#### Oxford Phonics 自然拼读
+
+- 学习自然拼读组合 *ar* 
+	- [ar](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb5_u01_ar.mp4?cc=cn&selLanguage=zh)
+- 复习自然拼读组合 *o_e* 
+	- [o_e](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u03_o_e.mp4?cc=cn&selLanguage=zh)
+
+#### Alphablocks 拼读视频
+
+复习拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- short *a* and long *ar*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/letter-team-ar-and-pirate-alphablocks-learn-to-read.mp4" type="video/mp4">
+</video>
+
+#### 词汇
+
+继续复习书上 P94 词汇，跟读两遍，注意 notebook 中 *o_e* 的读音
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.05.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册及练习题单
+
+- P80–81
+- 语法阅读题单 Unit 7 A Year in the Wild: P34–37
+
+#### 课文复习
+
+{% note info %}
+- 这篇课文的语言难度较大，但概念因为数学都学习过，所以理解起来相对容易，句子有点长，大家只需要听录音尽量跟读，不要求自主朗读
+- 听录音，如P91已熟练，可以尝试跟读 P90，听录音，每天读两遍。解释加号➕等号🟰的长句子可以跳过。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.03.mp3" type="audio/mp3">
+</audio>
+
+### 课堂学习内容及反馈
+
+- 复习 Unit 7 Seasons and weathers 词汇和课文
+- 完成 Unit 7 小测试
+	- 学习了选词填空的答题技巧
+	- 写作训练讲解
+- 学习自然拼读 *ar* 尤其是 warm 的读音
+- 巩固自然拼读 *o_e* 的发音（notebook）
+- 快速复习 Numbers 相关学科知识和表达方法
+- 学习教室文具相关词汇
+	- 猜图片小游戏
+	- 学习词汇，完成听力练习
+- 口语交际
+	- 复习年龄问答
+	- 反问的方法 *How about you?* 及其语调模仿
+- 完成数字的拼写练习和 *I have …* 句型的写作练习
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-22-2024-U7-Test-1-Molly.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-22-2024-U7-Test-2-Molly.jpeg)
+{% endgrouppicture %}
+
+- ✅ Molly 对天气描述的词汇非常熟悉，也能够熟练地选择一般现在时第三人称单数相关陈述句、疑问句和否定句的表达。
+- ⚠️ 阅读部分有些时候换一种方式表达可能不太能理解到意思，比如这里的第二题和第六题；
+- 写作练习有用到学过的表达，也有直接摘抄上面阅读中的句子，能准确表达题意。
+- Molly 对于有的长元音和短元音的区分还不是很敏感，比如 notebook 的 *o_e*，需要听的时候多注意；*warm* 容易读成 *worm*，所以特别学习了一下 *ar* 的拼读。
 
 ## D23, 2024年12月19日
 

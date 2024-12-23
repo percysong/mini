@@ -1,7 +1,7 @@
 ---
 title: 向惜妍学习档案
 created: 2024-09-11
-updated: 2024-12-20
+updated: 2024-12-23
 ---
 
 - 学生姓名：向惜妍
@@ -10,6 +10,78 @@ updated: 2024-12-20
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D24, 2024年12月22日
+
+### 学习任务
+
+#### Oxford Phonics 自然拼读
+
+- 学习自然拼读组合 *ar* 
+	- [ar](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb5_u01_ar.mp4?cc=cn&selLanguage=zh)
+- 复习自然拼读组合 *o_e* 
+	- [o_e](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u03_o_e.mp4?cc=cn&selLanguage=zh)
+
+#### Alphablocks 拼读视频
+
+复习拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- short *a* and long *ar*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/letter-team-ar-and-pirate-alphablocks-learn-to-read.mp4" type="video/mp4">
+</video>
+
+#### 词汇
+
+继续复习书上 P94 词汇，跟读两遍，注意 notebook 中 *o_e* 的读音
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.05.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册及练习题单
+
+- P80–81
+- 语法阅读题单 Unit 7 A Year in the Wild: P34–37
+
+#### 课文复习
+
+{% note info %}
+- 这篇课文的语言难度较大，但概念因为数学都学习过，所以理解起来相对容易，句子有点长，大家只需要听录音尽量跟读，不要求自主朗读
+- 听录音，如P91已熟练，可以尝试跟读 P90，听录音，每天读两遍。解释加号➕等号🟰的长句子可以跳过。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.03.mp3" type="audio/mp3">
+</audio>
+
+### 课堂学习内容及反馈
+
+- 复习 Unit 7 Seasons and weathers 词汇和课文
+- 完成 Unit 7 小测试
+	- 学习了选词填空的答题技巧
+	- 写作训练讲解
+- 学习自然拼读 *ar* 尤其是 warm 的读音
+- 巩固自然拼读 *o_e* 的发音（notebook）
+- 快速复习 Numbers 相关学科知识和表达方法
+- 学习教室文具相关词汇
+	- 猜图片小游戏
+	- 学习词汇，完成听力练习
+- 口语交际
+	- 复习年龄问答
+	- 反问的方法 *How about you?* 及其语调模仿
+- 完成数字的拼写练习和 *I have …* 句型的写作练习
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-22-2024-U7-Test-1-Molly.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-22-2024-U7-Test-2-Molly.jpeg)
+{% endgrouppicture %}
+
+- ✅ Anna 对天气描述的词汇比较熟悉，只是粗心抄错了一个字母；
+- ⚠️ 对于一般现在时第三人称单数相关陈述句、和否定句的表达比较了解，但是对于问句还不熟悉。
+- ⚠️ 阅读部分中题目换一种方式表达可能不太能理解到意思，比如这里的第六题；第一题和第四题没有细心找到原文。
+- 👍 写作练习基本都是用自己学过的表达，通过自己的记忆把很长句子也写了出来，能基本表达题意，只有少部分语法错误，值得鼓励。
+- Anna 在今天的课堂上反应很快，说出了很多之前自己积累的教室文具词汇，状态不错！下来之后继续加强阅读和跟读哟！
 
 ## D23, 2024年12月19日
 
