@@ -4,6 +4,49 @@ created: 2024-09-11
 updated: 2024-12-17
 ---
 
+## 2024年12月23日
+
+### 学习资料和学习任务
+
+- BrainPOP Video about suffix
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-er-or-ist.mp4" type="video/mp4">
+</video>
+
+- Discover vocabulary **Suffixes: people**
+	- Student book P116
+	- Workbook P26
+
+### 课堂学习内容及反馈
+
+- 订正练习册作业，注意复习一些生词和表达
+	- **certificate**: It's a special piece of paper with your name on it.
+	- **reward**: You might receive one for doing good work, finding a lost pet, or helping the police to solve a crime.
+	- **competitor**: a person who ***participates in*** a **competition**.
+	- **participate**: join or take part in an activity or competition.
+	- 关于获奖的表达：
+		- I *got* the first place.
+		- I *came* in second.
+		- I *was awarded* second place.
+		- I *ranked* the top of this game.
+- 举例你了解的顶级足球运动员和乒乓球运动员，你能选出最好的吗？为什么？
+	- **Ryan**
+		- 选择王楚钦是因为排行榜
+	- **Jason**
+		- 选择C罗也是因为积分
+	- 总结：选择谁是最好的并不容易，可能每个运动员都有自己的优势和弱势（strength and weakness），每个人也有自己的判断标准
+- 学习网页的阅读：讨论问题 *How can we judge things fairly?* 「我们如何公平地评价事物？」
+	- 学习阅读策略：阅读网站文章
+	- 随着科技的发展，我们今后可能更多会在网络上阅读和查找信息，而在英文世界，所有的讯息都在网页上。如何阅读网页也是一个在未来时代更迫切需要的技能。
+	- 学习了网页的布局 layout (title, headings, different sections)
+	- 学习了浏览网页的动词短语 (scroll down, click on a link)
+	- 阅读书上的网页，找到关键信息
+- 学习语法：Suffix 词缀（如何将动词变化成人，如 play–player）
+- 讨论四个奖项，你觉得他们公平吗？
+	- 了解每一个奖项的 award, judge, criteria, winner
+	- 选择自己认为最公平的奖项并给出理由
+
 ## 2024年12月16日
 
 ### 学习资料和学习任务
