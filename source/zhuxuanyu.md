@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-12-19
+updated: 2024-12-30
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,96 @@ updated: 2024-12-19
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D25&26, 2024年12月23&30日
+
+### 学习资料和学习任务
+
+#### Video
+
+#### Vocabulary
+
+复习 P128 词汇，听录音，跟读两遍，每天一页
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.40.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读打卡 *How Music Makes Us Feel*
+
+复习 P130–131 文本，听录音跟读两遍，每两天练习跟读一页，完成打卡；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.41.mp3" type="audio/mp3">
+  </audio>
+
+#### Song
+
+复习 P133–D 歌曲 *Music Day!*，跟唱两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.34.mp3" type="audio/mp3">
+  </audio>
+
+#### Workbook
+
+练习册 Workbook P100–106
+
+### 学习内容
+
+#### 12月16日
+
+- 开课口语练习：Talking about the Art Festival at school
+	- Rocky 聊了今天学校的合唱艺术节，学习和复习了音乐和情绪相关的表达
+	- Music
+		- choir 合唱
+		- sing–sang
+		- It sounds nice.
+	- Emotions
+		- happy
+		- upset, sad
+		- angry
+		- excited
+		- bored
+		- sleepy
+- 由此引入到本课的音乐主题，听声音，猜测不同乐器
+- 学习描述音乐的词汇
+	- high–low
+	- strong–soft
+	- fast–slow
+- 学习阅读策略：Summarize 总结概述
+	- 如何使用最重要的句子去总结概述一段文本
+- 学习课文 *How Music Makes Us Feel*
+	- 了解不同的音乐会给我们带来不同的情绪
+	- 了解音乐可以给我们带来不同的想象
+	- 没有正确和错误的情绪或者想象，每个人都有自己不同的感受
+- 完成课后练习题
+
+#### 12月18日
+
+- 完成 Unit 1–6 阶段性测试
+	- <mark>Rocky对第一阶段的学习整体词汇掌握情况不错，语法部分只有不可数名词单复数be动词搭配一个错误</mark>
+	- <mark>抄写单词抄漏字母，连词成句也漏掉单词和标点</mark>
+	- <mark>阅读理两道题解判断错误，实在不应该，完全是不细心造成的</mark>
+	- <mark>写作存在很大问题，首先是不情愿，一遇到写作就非常抗拒，之后便带他梳理了一下对于这个题材常见写作步骤</mark>
+	- <mark>听力口语都很不错，口语表达非常清晰流畅，表述也很完整，只有个别语法错误</mark>
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-18-2024-16-32-rocky-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-18-2024-16-32-rocky-2.jpeg)
+{% endgrouppicture %}
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-18-2024-16-32-rocky-3.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-18-2024-16-32-rocky-4.jpeg)
+{% endgrouppicture %}
+
+- 进入 *A Juice Carton‘s Diary* 日记故事的学习
+	- 看图片，猜测故事，并用自己的语言描述图片
+	- 听故事，检验自己的猜测
+	- 分段学习，跟读模仿，问题检测
+	- 完成课后习题
+	- <mark>Rocky 的阅读理解不错，能够很快地找到答案并且回答理解性问题，只是细节上需要更注意</mark>
+- 学习歌曲 *Where is Charlie*, 复习方位词
 
 ## D23&24, 2024年12月16&18日
 

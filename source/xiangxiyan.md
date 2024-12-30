@@ -1,7 +1,7 @@
 ---
 title: 向惜妍学习档案
 created: 2024-09-11
-updated: 2024-12-23
+updated: 2024-12-30
 ---
 
 - 学生姓名：向惜妍
@@ -40,6 +40,21 @@ updated: 2024-12-23
 - P82–83
 - 语法阅读题单 **Unit 8 A Year in the Wild: P38–41**
 - <mark>妍妍上次的语法练习 Unit 7 A Year in the Wild: P34–37 没有完成，记得这次补完哟！</mark>
+- Unit 7
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Grammar_Book_Audio_15.mp3" type="audio/mp3">
+</audio>
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Grammar_Book_Audio_16.mp3" type="audio/mp3">
+</audio>
+
+- Unit 8
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Grammar_Book_Audio_17.mp3" type="audio/mp3">
+</audio>
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Grammar_Book_Audio_18.mp3" type="audio/mp3">
+</audio>
 
 ### 课堂学习内容及反馈
 
