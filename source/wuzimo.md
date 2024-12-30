@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2024-12-23
+updated: 2024-12-30
 ---
 
 - 学生姓名：武子墨
@@ -10,6 +10,47 @@ updated: 2024-12-23
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D25, 2024年12月30日
+
+### 学习任务
+
+#### 词汇
+
+继续复习书上 P96 词汇，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.09.mp3" type="audio/mp3">
+</audio>
+
+#### 课文预习
+
+{% note info %}
+- 听录音，看图片，找找故事的 B, M, E (beginning 起因, middle 经过, end 结果)
+- 圈出自己不熟悉的生词
+- 尝试听录音跟读 P98 部分
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.10.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册及练习题单
+
+- P82–83
+- 语法阅读题单 **Unit 8 A Year in the Wild: P38–41**
+
+### 课堂学习内容及反馈
+
+- 复习 Unit 6 *My Friend Anak* 故事题材
+	- 引入故事要素 characters, settings, beginning 起因, middle 经过, end 结果
+	- 用关键简洁的句子总结故事
+- 通过看图猜词游戏学习和扩展食物的词汇，聊聊自己的 favorite food
+- 学习 P96 词汇，并用句型 there be 描述数量
+- 学习 Beginning, Middle, and End 完成练习
+- 预习 *Stone Soup*, 找到文章的 characters 及 setting, 看图片猜测故事
+
+子墨对于故事要素有一定的了解，能够很快地找到故事的 characters, settings, plot 则需要用自己的语言来总结，子墨经过思考之后也能很快对之前学习的故事总结出起因和结果，经过则需要用更精简的句子提炼。P97 关于BME的排序也有一定难度，子墨开始也粗心选错了，需要仔细阅读，了解大意才行。因为在学校正好学习了不同版本的*Stone Soup*, 所以本课的词汇和故事情节子墨都很熟悉。
 
 ## D24, 2024年12月22日
 

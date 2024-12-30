@@ -1,7 +1,7 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2024-12-17
+updated: 2024-12-24
 ---
 
 ## 2024年12月23日
@@ -21,7 +21,7 @@ updated: 2024-12-17
 ### 课堂学习内容及反馈
 
 - 订正练习册作业，注意复习一些生词和表达
-	- **certificate**: It's a special piece of paper with your name on it.
+	- **certificate**: It’s a special piece of paper with your name on it.
 	- **reward**: You might receive one for doing good work, finding a lost pet, or helping the police to solve a crime.
 	- **competitor**: a person who ***participates in*** a **competition**.
 	- **participate**: join or take part in an activity or competition.
