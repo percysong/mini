@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2024-12-30
+updated: 2024-12-31
 ---
 
 - 学生姓名：朱宣宇
@@ -15,6 +15,26 @@ updated: 2024-12-30
 ### 学习资料和学习任务
 
 #### Video
+
+- **Synonyms**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-synonyms.mp4" type="video/mp4">
+</video>
+
+#### Big Question 6 Wrap Up
+
+看动画，听录音，复习并跟读两遍
+
+- Video
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_06_Story6.mp4" type="video/mp4">
+</video>
+
+- Audio
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.39.mp3" type="audio/mp3">
+</audio>
 
 #### Vocabulary
 
@@ -42,7 +62,7 @@ updated: 2024-12-30
 
 #### Workbook
 
-练习册 Workbook P100–106
+练习册 Workbook P110–117
 
 ### 学习内容
 
@@ -74,31 +94,19 @@ updated: 2024-12-30
 	- 没有正确和错误的情绪或者想象，每个人都有自己不同的感受
 - 完成课后练习题
 
-#### 12月18日
+#### 12月30日
 
-- 完成 Unit 1–6 阶段性测试
-	- <mark>Rocky对第一阶段的学习整体词汇掌握情况不错，语法部分只有不可数名词单复数be动词搭配一个错误</mark>
-	- <mark>抄写单词抄漏字母，连词成句也漏掉单词和标点</mark>
-	- <mark>阅读理两道题解判断错误，实在不应该，完全是不细心造成的</mark>
-	- <mark>写作存在很大问题，首先是不情愿，一遇到写作就非常抗拒，之后便带他梳理了一下对于这个题材常见写作步骤</mark>
-	- <mark>听力口语都很不错，口语表达非常清晰流畅，表述也很完整，只有个别语法错误</mark>
+- 口语练习：通过猜测图片引入，扩展食物词汇，聊聊食物的原料 ingredients 和制作方法及步骤；
+- 回顾上节课学习的音乐相关词汇，宣宇掌握得不错；
+- 复习阅读策略 Summarize，回顾上周学习的课文，title 及 headings，并用关键句 Summarize 文章的不同部分
+- 学习歌曲，了解不同乐器，引入时间介词相关语法
+- 学习语法 Prepositions of Time 时间介词相关表达和提问方式
+- 学习更多情绪相关形容词和动词
+- 完成 P134 听力练习
+- 完成 P135 口语交际练习
+- 学习近义词 Synonyms 的概念并完成练习
 
-{% grouppicture 2-2 %}
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-18-2024-16-32-rocky-1.jpeg)
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-18-2024-16-32-rocky-2.jpeg)
-{% endgrouppicture %}
-{% grouppicture 2-2 %}
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-18-2024-16-32-rocky-3.jpeg)
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-18-2024-16-32-rocky-4.jpeg)
-{% endgrouppicture %}
-
-- 进入 *A Juice Carton‘s Diary* 日记故事的学习
-	- 看图片，猜测故事，并用自己的语言描述图片
-	- 听故事，检验自己的猜测
-	- 分段学习，跟读模仿，问题检测
-	- 完成课后习题
-	- <mark>Rocky 的阅读理解不错，能够很快地找到答案并且回答理解性问题，只是细节上需要更注意</mark>
-- 学习歌曲 *Where is Charlie*, 复习方位词
+Rocky 这两次的学习状态稳定，上周因为表演节目比较疲惫，在完成笔头练习部分有些情绪；本周状态不错，随着上课状态也越来越好，表达积极，希望继续保持。
 
 ## D23&24, 2024年12月16&18日
 

@@ -1,11 +1,12 @@
 {
-  "accentColor": "#f08c19",
-  "cssTheme": "Minimal",
-  "interfaceFontFamily": "SF Pro",
-  "textFontFamily": "SF Pro Text",
+  "accentColor": "#ffcc85",
+  "cssTheme": "Cupertino",
+  "interfaceFontFamily": "Inter,SF Pro",
+  "textFontFamily": "Inter,SF Pro Text",
   "monospaceFontFamily": "SF Mono",
   "baseFontSize": 16,
   "baseFontSizeAction": false,
   "theme": "system",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "translucency": true
 }

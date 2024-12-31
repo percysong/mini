@@ -39,7 +39,6 @@ updated: 2024-12-30
 
 - P82–83
 - 语法阅读题单 **Unit 8 A Year in the Wild: P38–41**
-
 - Unit 7
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Grammar_Book_Audio_15.mp3" type="audio/mp3">
@@ -55,7 +54,6 @@ updated: 2024-12-30
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Grammar_Book_Audio_18.mp3" type="audio/mp3">
 </audio>
-
 
 ### 课堂学习内容及反馈
 

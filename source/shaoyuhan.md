@@ -1,7 +1,7 @@
 ---
 title: 邵雨涵学习档案
 created: 2024-10-19
-updated: 2024-12-16
+updated: 2024-12-31
 ---
 
 - 学生姓名：邵雨涵
@@ -11,7 +11,56 @@ updated: 2024-12-16
 
 ---
 
-## D7, 2024年12月15日
+## D9, 2024年12月29日
+
+#### 自然拼读 Phonics
+
+- 牛津自然拼读视频链接 🔗
+	- [short *e*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb2_u03_e.mp4?cc=cn&selLanguage=zh)
+- AlphaBlocks
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/alphablocks-volume-1-episode-9-pen-short-vowel-e.mp4" type="video/mp4">
+</video>
+
+#### Vocabulary
+
+复习 P56, P62 词汇，听录音，跟读两遍，每天一页
+
+**P56**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读打卡 *Tell me a story Grandpa!*
+
+复习 P58–59 文本，听录音跟读两遍，每两天跟读一页，完成打卡；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook and Student Book
+
+- 练习册 Workbook P46–49
+- 学生用书 Student Book P60 A–C 
+
+### 学习内容
+
+- 完成 Unit 4 小测试：<mark>词汇部分都认识并了解意思，只是没有认出图片来；阅读部分这次完成得很细心，细节部分把握很好；写作基本把各个方面都写到了，只是语法和表达的小问题居多，需要多多练习，慢慢找到英语思维表达。</mark>
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-29-2024-Anna-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/12-29-2024-Anna-2.jpeg)
+{% endgrouppicture %}
+- 检查 Unit 5 课文朗读情况：<mark>语音语调有很大进步，还是 letter 的元音部分 short e 发音需要再多多操练</mark>
+- 学习 Unit 6 旅行相关的词汇，注意以下不太熟悉的词汇表达
+	- enter
+	- crowded
+	- clerk
+- 学习阅读策略：Sequence of Events 中心句和支持论点
+- 学习美国初代移民的故事和历史，了解并探讨当时交通、移民政策等等历史背景
+
+## D8, 2024年12月15日
 
 ### 学习资料和学习任务
 

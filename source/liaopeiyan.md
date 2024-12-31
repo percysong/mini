@@ -1,13 +1,97 @@
 ---
 title: 廖培焱学习档案
 created: 2024-09-11
-updated: 2024-12-19
+updated: 2024-12-31
 ---
 
 - 学生姓名：廖培焱
 - English Name: Jerry
 - 年级：四年级
 - 开始学习日期：2024 年 10 月 9 日
+
+---
+
+## D25&26, 2024年12月23&30日
+
+### 学习资料和学习任务
+
+- 牛津拼读世界网站 Level 3 Long *o*
+	- [*ow*](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u07_ow.mp4?cc=cn&selLanguage=zh)
+- 牛津拼读世界网站 Level 2 short *u* 
+	- [*u* ](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb2_u07_u.mp4?cc=cn&selLanguage=zh)
+- 听一遍，暂停跟读两遍
+
+#### 复习 P68 词汇
+
+{% note info %}
+- 难度 ★☆☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.47.mp3" type="audio/mp3">
+</audio>
+
+#### 复习季节 Seasons 词汇
+
+{% note info %}
+- 难度 ★☆☆
+- 看视频，跟读两遍季节相关词汇。
+{% endnote %}
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/kids-vocabulary-four-seasons-4-seasons-in-a-year-english-educational-video-for-kids.mp4" type="video/mp4">
+</video>
+
+#### BrainPop 关于四季的视频
+
+- 看视频，复习每个季节的特点
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/17/BrainPOP-JR-seasons.mp4" type="video/mp4">
+</video>
+
+#### *Four Seasons* 课文阅读预习
+
+{% note info %}
+- 难度 ★★☆
+- 每天听录音，暂停跟读跟读一个季节文本，跟读至少两遍；
+- 思考每个季节有哪些特别的地方，你能尝试说说看吗？
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook
+
+练习册 Workbook P56–57
+
+### 学习内容
+
+#### 12月16日
+
+- 开启新的大单元，「四季如何变化」*How do seasons change?*
+- 回顾之前学习的季节相关词汇，加强语感和口语表达
+	- What are the four seasons?
+	- What is your favorite season and why?
+	- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0531.jpeg)
+- 学习季节和天气相关词汇
+- 学习阅读策略 Captions
+	- captions 这个概念在中文中很少被提及，指的是图片下方的注释和说明文字；在语文中也少有被提起，但在当代多媒介信息时代，阅读 caption 是一项很重要的技能了。
+
+#### 12月30日
+
+- 复习季节相关词汇和表达
+- 复习阅读策略
+- 进入阅读文本的学习，初步了解不同季节的不同特点；
+- 阅读文本的 title, heading 及 captions
+- 阅读 Spring 部分文本，学习生词和拼读
+	- 规范 long *o* (ow) 和 short *u* 的发音
+	- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.002.jpeg)
+	- 请根据提示卡，尝试复述春季的文本
+
+Jerry 这两周的课状态稳定，在课前的口语练习非常积极地表达：My favorite season is winter, because I can play with fireworks. 在课堂中仍然是专注力的问题，很多问题还是需要提问两三次才能够回答。需要通过在语言的环境中慢慢改善。
 
 ## D20&21, 2024年12月16&18日
 
