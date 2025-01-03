@@ -49,7 +49,7 @@
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
   "minimal-style@@list-indent": 2.1,
-  "cupertino@@accented-frame-opacity": 30,
+  "cupertino@@accented-frame-opacity": 0,
   "cupertino@@center-tabs-off": true,
   "cupertino@@alt-font-off": true,
   "cupertino@@active-line-off": true,

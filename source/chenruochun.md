@@ -1,7 +1,7 @@
 ---
 title: 陈若淳学习档案
 created: 2024-09-11
-updated: 2024-12-30
+updated: 2025-01-03
 ---
 
 - 学生姓名：陈若淳
@@ -10,6 +10,65 @@ updated: 2024-12-30
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D26, 2025年1月2日
+
+### 学习任务
+
+#### Oxford Phonics 自然拼读
+
+- 学习自然拼读 soft *c* 
+	- [c](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb4_u08_c.mp4?cc=cn&selLanguage=zh)
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-to-read-consonant-letter-sound-soft-c-phonics-for-kids-science-of-reading.mp4" type="video/mp4">
+</video>
+
+#### 食物词汇歌曲
+
+复习食物相关歌曲，跟唱两遍
+
+- *Vegetable Song* by The Singing Walrus
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/vegetable-song-songs-for-kids-the-singing-walrus.mp4" type="video/mp4">
+</video>
+
+- *Do You Like Spaghetti Yogurt* by Super Simple Songs
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/do-you-like-spaghetti-yogurt-super-simple-songs.mp4" type="video/mp4">
+</video>
+
+#### 课文跟读
+
+{% note info %}
+- 听录音复习跟读 P98 部分，完成打卡
+- 继续跟读 P99 部分，下周完成打卡
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.10.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册及练习题单
+
+- P84–85
+
+### 课堂学习内容及反馈
+
+- 订正上次语法练习的作业
+- 学习歌曲 *Vegetable Song* 扩展更多蔬菜词汇，口语热身，聊聊自己喜欢的蔬菜
+- 复习 Story Elements
+	- 故事人物 Characters
+	- 故事场景 Setting
+	- 故事的 Beginning 起因, Middle 经过, End 结果
+	- 通过大家熟悉的不同故事来确认理解
+- 继续学习故事 Stone Soup，找到其中的故事要素
+	- 场景跟读
+	- 完成课后练习
+
+Danny 作业完成的正确率很高，完全理解四季的相关表达和活动；学习跟读新的词汇很积极，相较于上次课能理解更多故事要素相关文学知识，只是难一点的问题需要更努力的思考。
 
 ## D25, 2024年12月30日
 
@@ -2063,7 +2122,7 @@ P23-D: 选择一个押韵的词填空
 {% endnote %}
 
 <video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD1_M1_story.mp4" type="video/mp4">
+ <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/21/OD1_M1_story.mp4" type="video/mp4">
 </video>
 <!-- endtab -->
 
