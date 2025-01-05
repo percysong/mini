@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2025-01-03
+updated: 2025-01-04
 ---
 
 - 学生姓名：武子墨
@@ -10,6 +10,58 @@ updated: 2025-01-03
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D27, 2025年1月5日
+
+### 学习任务
+
+#### Oxford Phonics 自然拼读
+
+- 学习自然拼读 
+
+#### 食物词汇歌曲
+
+复习水果相关歌曲，跟唱两遍
+
+- *Fruit Song* by The Singing Walrus
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/fruit-song-for-kids-the-singing-walrus.mp4" type="video/mp4">
+</video>
+
+- *Do You Like Broccoli Ice Cream* by Super Simple Songs
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/do-you-like-broccoli-ice-cream-food-song-for-kids-super-simple-songs.mp4" type="video/mp4">
+</video>
+
+#### 课文跟读打卡
+
+{% note info %}
+- 复习课文 P98–99, 熟悉情绪、语调，完成跟读打卡
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.10.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册及练习题单
+
+- P86–87
+- 语法题单 **Module 4 Review** P42–43
+
+### 课堂学习内容及反馈
+
+- 订正练习册的作业
+- 学习歌曲 *Fruit Song* 扩展更多蔬菜词汇，口语热身，聊聊自己喜欢的水果
+- 复习故事 *Stone Soup* 及故事要素
+- 学习 P188 *Stone Soup* 的 剧本 Playscript
+	- 了解剧本的元素和布局
+	- 学习 Stage direction 舞台指导
+	- 分角色朗读表演
+- 学习语法 *have* 相关的肯定、否定、疑问句的表达
+	- 通过猜谜游戏完成语法练习
+- 
 
 ## D26, 2025年1月2日
 
@@ -68,7 +120,7 @@ updated: 2025-01-03
 	- 场景跟读
 	- 完成课后练习
 
-## D25, 2024年12月30日
+## D25, 2024年12月29日
 
 ### 学习任务
 

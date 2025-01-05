@@ -57,7 +57,7 @@ updated: 2024-12-31
 复习 P133–D 歌曲 *Music Day!*，跟唱两遍
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.34.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.42.mp3" type="audio/mp3">
   </audio>
 
 #### Workbook

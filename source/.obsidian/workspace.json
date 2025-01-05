@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8a6fd23957aac560",
+        "id": "1a398f2ebb22bd16",
         "type": "tabs",
         "children": [
           {
-            "id": "7778cc9b988980b3",
+            "id": "33c4583469c278e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wuzimo.md",
+                "file": "zhuxuanyu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "wuzimo"
-            }
-          },
-          {
-            "id": "8aa9c41d6c739440",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chenruochun.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "chenruochun"
-            }
-          },
-          {
-            "id": "066253ec5a252f5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xiangxiyan.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "xiangxiyan"
+              "title": "zhuxuanyu"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,10 +101,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xiangxiyan.md"
+                "file": "zhuxuanyu.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of xiangxiyan"
+              "title": "Outline of zhuxuanyu"
             }
           },
           {
@@ -227,18 +196,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "066253ec5a252f5d",
+  "active": "33c4583469c278e5",
   "lastOpenFiles": [
-    "chenruochun.md",
-    "wuzimo.md",
-    "xiangxiyan.md",
-    "zhuxuanyu.md",
-    "shaoyuhan.md",
     "Untitled.md",
-    "liaopeiyan.md",
-    "discover-futures.md",
-    "zhangyuantai.md",
+    "wuzimo.md",
+    "shaoyuhan.md",
     "daichaoxun.md",
+    "lib/pdf/web/images/toolbarButton-menuArrow.svg",
+    "zhuxuanyu.md",
+    "discover-futures.md",
+    "chenruochun.md",
+    "xiangxiyan.md",
+    "liaopeiyan.md",
+    "zhangyuantai.md",
     "niehaochen.md",
     "wangwanyan.md",
     "zhangqiming.md",
@@ -271,9 +241,7 @@
     "lib/pdf/web/images/treeitem-expanded.svg",
     "lib/pdf/web/images/treeitem-expanded.png",
     "lib/pdf/web/images/treeitem-collapsed@2x.png",
-    "lib/pdf/web/images/treeitem-collapsed.svg",
     "lib/pdf/README.md",
-    "math.md",
-    "english-course.md"
+    "math.md"
   ]
 }
