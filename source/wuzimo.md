@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2025-01-04
+updated: 2025-01-06
 ---
 
 - 学生姓名：武子墨
@@ -35,6 +35,14 @@ updated: 2025-01-04
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/do-you-like-broccoli-ice-cream-food-song-for-kids-super-simple-songs.mp4" type="video/mp4">
 </video>
 
+#### 词汇
+
+复习书上 P102 词汇，跟读两遍，注意 avocado 的读音和重音
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.12.mp3" type="audio/mp3">
+</audio>
+
 #### 课文跟读打卡
 
 {% note info %}
@@ -53,15 +61,27 @@ updated: 2025-01-04
 ### 课堂学习内容及反馈
 
 - 订正练习册的作业
+- 复习巩固自然拼读
 - 学习歌曲 *Fruit Song* 扩展更多蔬菜词汇，口语热身，聊聊自己喜欢的水果
 - 复习故事 *Stone Soup* 及故事要素
-- 学习 P188 *Stone Soup* 的 剧本 Playscript
+	- 强调不同句型语调的走向，使文本朗读更自然并富有感情
+- 学习 P188 *Stone Soup* 的剧本 Play Script
 	- 了解剧本的元素和布局
-	- 学习 Stage direction 舞台指导
+	- 初步了解 Stage direction 舞台指导
 	- 分角色朗读表演
 - 学习语法 *have* 相关的肯定、否定、疑问句的表达
+	- 通过视频巩固句型表达，完成句子重组游戏
 	- 通过猜谜游戏完成语法练习
-- 
+- 学习更多蔬果的词汇（大家基本都比较熟悉，新的词汇只有cucumber和avocado）
+	- 通过猜图游戏巩固词汇
+	- 自然学科：判断哪些蔬果有 pit, 哪些有 seeds
+- 完成听力，巩固数字和蔬果相关的表达
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0567.mp4" type="video/mp4">
+</video>
+
+子墨对于这个句型已经很熟练，本节课上给了更多语境来练习表达。对于课文理解没有问题，注意 P99 *We didn’t have enough food.* 中 *enough* 的读音和运用。
 
 ## D26, 2025年1月2日
 
