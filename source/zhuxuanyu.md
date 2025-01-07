@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-01-05
+updated: 2025-01-07
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,70 @@ updated: 2025-01-05
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D27&28, 2025年1月6 & 8日
+
+### 学习资料和学习任务
+
+#### Video
+
+观看视频，复习常见的西洋乐器名称
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-musical-instruments.mp4" type="video/mp4">
+</video>
+
+#### Vocabulary
+
+复习 P136 词汇，听录音，跟读两遍，每天一页，注意以下不熟悉的词汇：
+- notes
+- the flu
+- tears
+- solo
+- record
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.02.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读打卡 *Olga’s Flute*
+
+复习 P138–139 文本，听录音跟读两遍，每两天练习跟读一页，完成打卡；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.41.mp3" type="audio/mp3">
+  </audio>
+
+#### Song
+
+复习 P141–D 歌曲 *The Concert*，跟唱两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.04.mp3" type="audio/mp3">
+  </audio>
+
+#### Workbook
+
+练习册 Workbook P110–117
+
+### 学习内容
+
+#### 1月6日
+
+- 学习常见乐器的名称和种类
+	- percussion: instruments you hit
+	- woodwind and brass: instruments you blow
+	- strings: instruments with strings
+- 学习更多音乐相关词汇
+- 学习阅读策略：Characters
+	- Main characters 主角
+	- Secondary characters 配角
+	- 阅读故事，判断主角和配角
+- 阅读 *Olga’s Flute* 回答问题
+
+#### 1月8日
+
+- 
 
 ## D25&26, 2024年12月23&30日
 

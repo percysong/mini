@@ -36,7 +36,10 @@ updated: 2025-01-07
 		- 用 as…as 来表示二者事物相当
 - 运用比较级来阅读、描述以前的网球运动和自行车运动
 
-大家对比较级和最高级都已经比较熟悉，
+大家对比较级和最高级都已经比较熟悉，主要注意一下几点：
+1. 在表达的时候，容易习惯将已经变化的形容词前面多加上 more/most，如 more higher.
+2. 大家对形容词的比较比较熟悉，对于副词的比较级还有些陌生，如 *They ran more slowly…*
+3. 对于 less, the least 的用法还不太熟悉，如 *They played less skillfully.* *It’s the least expensive one.*
 
 ## 2024年12月23日
 
