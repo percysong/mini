@@ -1,8 +1,42 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2024-12-24
+updated: 2025-01-07
 ---
+
+## 2025年1月6日
+
+### 学习资料和学习任务
+
+- BrainPOP Video about Comparative and Superlative 观看视频，复习比较级和最高级表达规则
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-comparative-and-superlative.mp4" type="video/mp4">
+</video>
+
+- **Vocabulary and Grammar**
+	- Student book P117 复习比较级和最高级的表达，完成练习
+	- Workbook P27–28
+
+### 课堂学习内容及反馈
+
+- 通过比较常见水果的不同特性来引导学生认识比较不同事物很困难，学习谚语表达
+	- apples and oranges: *It’s like comparing apples and oranges.*
+	- 英语用「苹果」和「橙子」来说明两种事物有本质区别，不适合拿来做比较。
+- 了解田径运动百米赛跑的历史最高记录，引入今天的大问题：*Can we always say what’s the best?*
+	- 了解不同历史时期的百米世界记录
+	- 以前的赛跑与现在在哪些方面有不同
+	- 讨论本文的结论
+	- 语言点学习
+		- record 作名词和动词的不同读音
+		- professionally
+		- diet
+		- equipment
+		- 用 much, a lot 强调比较级的程度
+		- 用 as…as 来表示二者事物相当
+- 运用比较级来阅读、描述以前的网球运动和自行车运动
+
+大家对比较级和最高级都已经比较熟悉，
 
 ## 2024年12月23日
 
