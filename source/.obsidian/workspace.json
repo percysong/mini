@@ -23,18 +23,18 @@
             }
           },
           {
-            "id": "c86ed066bbf15de5",
+            "id": "51e5b119555debb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "discover-futures.md",
+                "file": "liaopeiyan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "discover-futures"
+              "title": "liaopeiyan"
             }
           }
         ],
@@ -117,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "discover-futures.md"
+                "file": "liaopeiyan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of discover-futures"
+              "title": "Outline of liaopeiyan"
             }
           },
           {
@@ -129,10 +129,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "discover-futures.md"
+                "file": "liaopeiyan.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for discover-futures"
+              "title": "File properties for liaopeiyan"
             }
           },
           {
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discover-futures.md",
+                "file": "liaopeiyan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for discover-futures"
+              "title": "Backlinks for liaopeiyan"
             }
           },
           {
@@ -195,13 +195,11 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,13 +212,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c86ed066bbf15de5",
+  "active": "51e5b119555debb7",
   "lastOpenFiles": [
+    "wuzimo.md",
+    "liaopeiyan.md",
     "zhuxuanyu.md",
     "discover-futures.md",
     "discover-futures (from backup).md",
-    "liaopeiyan.md",
-    "wuzimo.md",
     "chenruochun.md",
     "xiangxiyan.md",
     "Untitled.md",

@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-01-07
+updated: 2025-01-09
 ---
 
 - 学生姓名：朱宣宇
@@ -13,6 +13,10 @@ updated: 2025-01-07
 ## D27&28, 2025年1月6 & 8日
 
 ### 学习资料和学习任务
+
+#### 自然拼读
+
+- [ou](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb5_u02_ou.mp4?cc=cn&selLanguage=zh)
 
 #### Video
 
@@ -53,7 +57,7 @@ updated: 2025-01-07
 
 #### Workbook
 
-练习册 Workbook P110–117
+练习册 Workbook P118–124
 
 ### 学习内容
 
@@ -69,10 +73,32 @@ updated: 2025-01-07
 	- Secondary characters 配角
 	- 阅读故事，判断主角和配角
 - 阅读 *Olga’s Flute* 回答问题
+	- 宣宇能够运用该阅读策略判断主角和配角
+	- 能够通过图片猜测故事
+	- 能快速找到信息并回答问题
+- 学习歌曲 *The Concert* 熟悉更多乐器和关于时间的语法表达
 
 #### 1月8日
 
-- 
+- 复习朗文 Leap 5A
+	- 复习 1–5 单元的词汇和句型
+	- 复习 1–7 单元的 Phonics 
+	- 形容词变副词的语法
+	- 动词短语的介词搭配语法
+- <mark>Rocky 对每个单元的词汇和短语搭配记忆都很熟练，能够根据图片反应出绝大部分词汇短语。抽查了部分拼写，有的拼写还是会出现一些小错误，需要再熟练一下。对于副词的使用和变化也已经掌握熟练。</mark>
+- 复习拼读规则 *ou*
+- 复习乐器名称，操练时间副词语法
+	- *Did he practice the piano last week?*
+	- *Yes, he did. / No, he didn’t.*
+- 学习更多关于 popstar 的词汇，完成听力练习
+- 学习巩固 *and* 和 *but* 的用法
+- 听音乐，了解不同音乐的表达
+	- 古典乐 Classical Music
+	- 摇滚乐 Rock Music
+	- 流行乐 Pop Music
+	- 爵士乐 Jazz Music (<mark>Rocky 最喜欢的音乐类型</mark>)
+	- 布鲁斯 Blues Music
+- 聊聊最喜欢的音乐，说说听到了哪些乐器
 
 ## D25&26, 2024年12月23&30日
 

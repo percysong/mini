@@ -1,7 +1,7 @@
 ---
 title: 廖培焱学习档案
 created: 2024-09-11
-updated: 2024-12-31
+updated: 2025-01-09
 ---
 
 - 学生姓名：廖培焱
@@ -11,7 +11,45 @@ updated: 2024-12-31
 
 ---
 
-## D25&26, 2024年12月23&30日
+## D24&25, 2025年1月6 & 8日
+
+### 学习资料和学习任务
+
+#### *Four Seasons* 课文阅读复习
+
+{% note info %}
+- 听录音，继续暂停跟读跟读一个季节文本，跟读至少两遍；
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+</audio>
+
+#### 课文复述
+
+- 根据提示词卡，尝试复述每个季节的特点，注意加 *s* 的地方。
+
+{% grouppicture 4-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.002.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.003.jpeg) 
+{% endgrouppicture %}
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.004.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.005.jpeg)
+{% endgrouppicture %}
+
+### 学习内容
+
+这两节课我们完成了四季单元的第一篇课文学习，巩固了相关表达词汇，同时复习了学校朗文的词汇和句型表达。
+
+- 复习 Spring 部分文本，继续学习剩下的季节
+- 复习朗文 Leap 4A 学校学习的内容
+	- 课后 P90–93 词汇及相应句型
+- <mark>Jerry 对于 P90 Hobbies, P91 Adjectives 词汇比较熟悉，对于 P92 词汇稍微有些陌生，尤其是家电部分，需要在考试前加强复习。P93 动作短语因为是学期初学的，也有些遗忘；食物部分才开始学习，还不是很熟悉。 </mark>
+- <mark>对于比较级和最高级的变化规则掌握得不错，句型表达有时候会遗忘 than</mark>
+- 继续回顾上节课关于四季的课文，尝试根据提示词卡复述
+
+## D22&23, 2024年12月23&30日
 
 ### 学习资料和学习任务
 
