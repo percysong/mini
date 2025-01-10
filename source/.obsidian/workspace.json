@@ -4,41 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "9231185b5d4922d0",
+        "id": "a0f151bed0f1253e",
         "type": "tabs",
         "children": [
           {
-            "id": "8acce2bfa8b588c7",
+            "id": "76d33ca972b09b3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zhuxuanyu.md",
+                "file": "chenruochun.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "zhuxuanyu"
+              "title": "chenruochun"
             }
           },
           {
-            "id": "51e5b119555debb7",
+            "id": "2e3b9a6b1f322e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "liaopeiyan.md",
+                "file": "xiangxiyan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "liaopeiyan"
+              "title": "xiangxiyan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,10 +116,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "liaopeiyan.md"
+                "file": "chenruochun.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of liaopeiyan"
+              "title": "Outline of chenruochun"
             }
           },
           {
@@ -212,15 +211,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51e5b119555debb7",
+  "active": "76d33ca972b09b3f",
   "lastOpenFiles": [
+    "xiangxiyan.md",
+    "chenruochun.md",
     "wuzimo.md",
-    "liaopeiyan.md",
     "zhuxuanyu.md",
+    "liaopeiyan.md",
     "discover-futures.md",
     "discover-futures (from backup).md",
-    "chenruochun.md",
-    "xiangxiyan.md",
     "Untitled.md",
     "shaoyuhan.md",
     "daichaoxun.md",

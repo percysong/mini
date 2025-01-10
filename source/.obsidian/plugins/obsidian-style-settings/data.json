@@ -52,5 +52,7 @@
   "cupertino@@accented-frame-opacity": 0,
   "cupertino@@center-tabs-off": true,
   "cupertino@@active-line-off": true,
-  "cupertino@@hide-frontmatter-off": false
+  "cupertino@@hide-frontmatter-off": false,
+  "cupertino@@compact-mode": true,
+  "cupertino@@hide-nav-header-off": true
 }

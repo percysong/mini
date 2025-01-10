@@ -1,7 +1,7 @@
 ---
 title: 武子墨学习档案
 created: 2024-09-11
-updated: 2025-01-06
+updated: 2025-01-10
 ---
 
 - 学生姓名：武子墨
@@ -10,6 +10,68 @@ updated: 2025-01-06
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D28, 2025年1月9日
+
+### 学习任务
+
+#### Saalin 自然拼读：短元音
+
+检测自己发音，跟读视频例句，每天跟读3–5个视频。
+
+- 点击链接复习自然拼读 [Short Vowels 音频 🔗](https://apptballbug3417.h5.xiaoeknow.com/p/course/column/p_5dd4b19f7ab47_MGL2RuHv?product_id=p_5f472a0fe4b0118787339efe)
+- 点击链接复习自然拼读 [Short Vowels 视频 🔗](https://apptballbug3417.h5.xiaoeknow.com/p/course/column/p_5dd5ef87e9030_Qb3darFK?product_id=p_5f472a0fe4b0118787339efe)
+
+#### Saalin 高频词 Sight Words Level 1
+
+检测自己发音，跟读视频例句，每天跟读3–5个视频。
+
+- 点击链接复习 [Sight Words Level 1 音频 🔗](https://apptballbug3417.h5.xiaoeknow.com/p/course/column/p_5e5d06af18e93_D4FubdJt?product_id=p_5e5db0de3e491_BPQFlrvm)
+- 点击链接复习 [Sight Words Level 1 视频 🔗](https://apptballbug3417.h5.xiaoeknow.com/p/course/column/p_5fbcd78ae4b0231ba8888653?product_id=p_5e5db0de3e491_BPQFlrvm)
+
+#### 继续复习课文
+
+{% note info %}
+- 继续复习课文 *Stone Soup* P98–99, 强化熟悉情绪、语调
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.10.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册及练习题单
+
+- P89–91
+
+### 课堂学习内容及反馈
+
+- 学习/复习第一级别的高频词 Sight Words Level 1 
+- 复习 Short Vowel 自然拼读
+- 学习阅读其它版本的 *[Stone Soup](https://www.getepic.com/app/read/28947)*，扩展词汇，表演感知并尝试跟读。
+
+Steam 科学课程：*Why would a wild animal visit a playground?* 为什么野生动物要来游乐场玩？
+
+本节课虽然是对表美国 NGSS 科学课程标准小学二年级的难度，对于较轻视自然科学的国内课程来说三年级相当。
+
+通过大角绵羊在美国拉斯维加斯沙漠地区游乐园玩耍的问题引入，探究一群野生大角羊为何会离开它们通常居住的沙漠栖息地，而前往一个完全不同的地方——当地的游乐场。
+
+**课程活动：栖息地寻宝游戏**：学生将在沙漠和游乐场两地进行观察，学习科学记录生物种类的分布和差异。
+
+通过本课程，我们学习了：
+
+1. **栖息地的概念 Habitat**: a safe place where animals live
+	- 复习之前学习并扩展不同的栖息地：
+		- rainforest
+		- grassland
+		- ocean
+		- desert
+	- 说说分别什么动物住在这些地方：
+		- Monkeys live in the rainforest …
+2. **生物多样性 Diversity**: 了解不同环境中的生物种类和数量，以及它们如何适应各自的栖息地。
+3. **环境适应性**: 通过观察不同栖息地的特征，理解动物为何选择特定环境以满足它们的生存需求（如食物、水源、庇护所等）。
+4. **科学观察与记录 Habitat Journal**: 学生通过实地观察、记录数据，培养科学思维能力，学会用证据支持推理和结论。
+
+子墨在本节课参与很积极，无论是语言难度还是认知难度都很适合。在第一次提问 Why bighorn sheep come to the playground every day? 便能回答 Because they like to eat grass. 第二个问题有些难度 Why do they go back to the mountains every evening? 通过探究，我们一起找到了答案，子墨也尝试用全英文回答了最后的问题，并记录在了自己的探究日志上。
 
 ## D27, 2025年1月5日
 
