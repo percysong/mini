@@ -1,7 +1,7 @@
 ---
 title: 邵雨涵学习档案
 created: 2024-10-19
-updated: 2024-12-31
+updated: 2025-01-14
 ---
 
 - 学生姓名：邵雨涵
@@ -10,6 +10,37 @@ updated: 2024-12-31
 - 开始学习日期：2024 年 9 月 18 日
 
 ---
+
+## D10, 2025年1月12日
+
+#### BrainPOP Sequence 复习
+
+回顾视频，思考「顺序」如何帮助我们理解文本。
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-sequence.mp4" type="video/mp4">
+</video>
+
+#### P61–D *What Did You Do Yesterday?*
+
+回顾歌曲，跟唱两遍，强化语法
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.41.mp3" type="audio/mp3">
+</audio>
+
+### 学习内容
+
+- 口语热身：讨论上周的舞蹈比赛，描述自己的心情和取得的成绩
+- 完成 Unit 5 小测试
+- 订正练习册和测试的错误
+- 复习 P58 文本 *Tell Me a Story, Grandpa* 尝试复述故事
+- 完成 P60 课后练习
+- 复习一般过去时态的语法，看图操练
+	- Anna 总体了解语法点，只是在表达和
+- 复习学校新飞跃教材的知识点
+	- 复习动词过去式和过去分词（整体掌握得不错）
+	- 看图复习词汇（有的短语看图片可能一下反应不过来，需要再练习一下）
 
 ## D9, 2024年12月29日
 

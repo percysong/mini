@@ -1,7 +1,7 @@
 ---
 title: 陈若淳学习档案
 created: 2024-09-11
-updated: 2025-01-10
+updated: 2025-01-13
 ---
 
 - 学生姓名：陈若淳
@@ -10,6 +10,56 @@ updated: 2025-01-10
 - 学习教材：Oxford Discovery 1
 - 开始学习日期：2024 年 9 月 19 日
 ---
+
+## D29, 2025年1月12日
+
+### 学习任务
+
+本周因为学校测试，暂不布置书面作业。
+
+#### Saalin 自然拼读：短元音
+
+检测自己发音，跟读视频例句，继续跟读3–5个视频。
+
+- 点击链接复习自然拼读 [Short Vowels 音频 🔗](https://apptballbug3417.h5.xiaoeknow.com/p/course/column/p_5dd4b19f7ab47_MGL2RuHv?product_id=p_5f472a0fe4b0118787339efe)
+- 点击链接复习自然拼读 [Short Vowels 视频 🔗](https://apptballbug3417.h5.xiaoeknow.com/p/course/column/p_5dd5ef87e9030_Qb3darFK?product_id=p_5f472a0fe4b0118787339efe)
+
+#### Saalin 高频词 Sight Words Level 1
+
+检测自己发音，跟读视频例句，每天跟读3–5个视频。
+
+- 点击链接复习 [Sight Words Level 1 音频 🔗](https://apptballbug3417.h5.xiaoeknow.com/p/course/column/p_5e5d06af18e93_D4FubdJt?product_id=p_5e5db0de3e491_BPQFlrvm)
+- 点击链接复习 [Sight Words Level 1 视频 🔗](https://apptballbug3417.h5.xiaoeknow.com/p/course/column/p_5fbcd78ae4b0231ba8888653?product_id=p_5e5db0de3e491_BPQFlrvm)
+
+#### 跟读 P104 动画
+
+听录音，跟读两遍，注意模仿角色情绪和语调
+
+**Audio**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.16.mp3" type="audio/mp3">
+</audio>
+
+**Video**
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M5_story.mp4" type="video/mp4">
+</video>
+
+### 课堂学习内容及反馈
+
+- 检查订正练习作业
+- 学习/复习第二级别的高频词 Sight Words Level 2 
+- 复习 Vowel Combination 自然拼读
+- 进行 Unit 8 复习和测试
+- 学习回顾动画视频，跟读并使用道具表演，操练句型
+- 学习制作条形统计图，并解读其数据
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/01-12-2025-U8-Test-1-Danny.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/01-12-2025-U8-Test-2-Danny.jpeg)
+{% endgrouppicture %}
+
+这次 Danny 完成得不够仔细，阅读部分判断题错得有点多，写作部分也有些偷懒，三个季节写同一个活动。
 
 ## D28, 2025年1月9日
 
