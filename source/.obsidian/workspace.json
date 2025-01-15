@@ -6,6 +6,7 @@
       {
         "id": "a0f151bed0f1253e",
         "type": "tabs",
+        "dimension": 49.05149051490515,
         "children": [
           {
             "id": "485b5f8223267e6a",
@@ -13,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wuzimo.md",
+                "file": "gaoshengyu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "wuzimo"
+              "title": "gaoshengyu"
             }
           },
           {
@@ -50,6 +51,28 @@
               },
               "icon": "lucide-file",
               "title": "chenruochun"
+            }
+          }
+        ]
+      },
+      {
+        "id": "28492c91665fd892",
+        "type": "tabs",
+        "dimension": 50.94850948509485,
+        "children": [
+          {
+            "id": "184873959da93cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wuzimo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "wuzimo"
             }
           }
         ]
@@ -131,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wuzimo.md"
+                "file": "gaoshengyu.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of wuzimo"
+              "title": "Outline of gaoshengyu"
             }
           },
           {
@@ -213,7 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 220.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,10 +251,11 @@
   },
   "active": "485b5f8223267e6a",
   "lastOpenFiles": [
+    "wuzimo.md",
+    "gaoshengyu.md",
     "shaoyuhan.md",
     "chenruochun.md",
     "xiangxiyan.md",
-    "wuzimo.md",
     "zhuxuanyu.md",
     "liaopeiyan.md",
     "discover-futures.md",
@@ -245,7 +269,6 @@
     "zhangqiming.md",
     "jerry.md",
     "rock.md",
-    "gaoshengyu.md",
     "Music/Songs",
     "Music",
     "CleanShot X 2024-10-10 18.43.43.png",
@@ -272,7 +295,6 @@
     "lib/pdf/web/images/treeitem-expanded.svg",
     "lib/pdf/web/images/treeitem-expanded.png",
     "lib/pdf/web/images/treeitem-collapsed@2x.png",
-    "lib/pdf/README.md",
-    "math.md"
+    "lib/pdf/README.md"
   ]
 }
