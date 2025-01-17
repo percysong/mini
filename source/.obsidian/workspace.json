@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a58056688bdb84dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ms-li.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ms-li"
-            }
-          },
-          {
             "id": "0d60cb6da1c64432",
             "type": "leaf",
             "state": {
@@ -36,9 +21,23 @@
               "icon": "lucide-file",
               "title": "AnnaXiang-2025-spring"
             }
+          },
+          {
+            "id": "01629faa1c571ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xiangxiyan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "xiangxiyan"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,13 +212,13 @@
   },
   "active": "0d60cb6da1c64432",
   "lastOpenFiles": [
-    "chenruochun.md",
-    "DannyChen-2024-fall.md",
+    "AnnaXiang-2024-fall.md",
+    "ms-li.md",
     "xiangxiyan.md",
     "AnnaXiang-2025-spring.md",
-    "AnnaXiang-2024-fall.md",
+    "chenruochun.md",
+    "DannyChen-2024-fall.md",
     "gaoshengyu.md",
-    "ms-li.md",
     "wuzimo.md",
     "winter-2025.md",
     "shaoyuhan.md",

@@ -4,6 +4,77 @@ created: 2024-09-11
 updated: 2025-01-17
 ---
 
+## No. 2 学习任务
+
+### 牛津自然拼读 Long *e*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+{% endnote %}
+
+- *ea*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_05_ea.mp4" type="video/mp4">
+</video>
+
+- *ee*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_05_ee.mp4" type="video/mp4">
+</video>
+
+- *y*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_05_y.mp4" type="video/mp4">
+</video>
+
+- *ey*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_05_ey.mp4" type="video/mp4">
+</video>
+
+### Alphablocks 拼读视频
+
+进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *e*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/phonics-learn-to-read-fun-with-long-e-sounds-alphablocks.mp4" type="video/mp4">
+</video>
+
+### 复习 P48 词汇
+
+{% note info %}
+- 难度 ★★☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+</audio>
+
+### 预习阅读 *Animal Homes*
+
+{% note info %}
+- 听录音，听两遍，圈出自己不熟悉的单词
+- 暂停跟读两遍，注意模仿语调，找到断句停顿的位置
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-51-52-1.jpeg)
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-51-52-2.jpeg)
+{% endgrouppicture %}
+
 ## No. 1 学习任务
 
 {% note info %}
@@ -102,46 +173,3 @@ updated: 2025-01-17
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.03.mp3" type="audio/mp3">
 </audio>
-
-## No. 2 学习任务
-
-### 牛津自然拼读 Long *e*
-
-{% note info %}
-学习小贴士：
-- 每天复习两个视频
-- 听一遍，暂停跟读两遍
-{% endnote %}
-
-- *ea*
-
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_05_ea.mp4" type="video/mp4">
-</video>
-
-- *ee*
-
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_05_ee.mp4" type="video/mp4">
-</video>
-
-- *y*
-
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_05_y.mp4" type="video/mp4">
-</video>
-
-- *ey*
-
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_05_ey.mp4" type="video/mp4">
-</video>
-
-### Alphablocks 拼读视频
-
-进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
-
-- Long *e*
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/phonics-learn-to-read-fun-with-long-e-sounds-alphablocks.mp4" type="video/mp4">
-</video>
