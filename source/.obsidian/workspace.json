@@ -213,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,9 +228,9 @@
   },
   "active": "1d2d80175467add7",
   "lastOpenFiles": [
-    "gaoshengyu.md",
-    "winter-2025.md",
     "ms-li.md",
+    "winter-2025.md",
+    "gaoshengyu.md",
     "chenruochun.md",
     "wuzimo.md",
     "xiangxiyan.md",

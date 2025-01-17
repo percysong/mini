@@ -24,19 +24,19 @@ updated: 2025-01-17
 - Learn *ar*
 
 <video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/U_01_ar.mp4" type="video/mp4">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_01_ar.mp4" type="video/mp4">
 </video>
 
 - Review *[ai](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u04_ai.mp4?cc=cn&selLanguage=zh)*
 
 <video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/Unit_04_ai.mp4" type="video/mp4">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_04_ai.mp4" type="video/mp4">
 </video>
 
 - Review *[ay](https://elt.oup.com/elt/students/oxfordphonicsworld/video/opw_sb3_u04_ay.mp4?cc=cn&selLanguage=zh)*
 
 <video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/Unit_04_ay.mp4" type="video/mp4">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_04_ay.mp4" type="video/mp4">
 </video>
 
 #### Alphablocks 拼读视频
