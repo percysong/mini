@@ -1,7 +1,7 @@
 ---
 title: Ms Li 英语拓展课程
 created: 2024-09-11
-updated: 2025-01-16
+updated: 2025-01-17
 ---
 
 ## No. 1 学习任务
@@ -102,3 +102,46 @@ updated: 2025-01-16
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.03.mp3" type="audio/mp3">
 </audio>
+
+## No. 2 学习任务
+
+### 牛津自然拼读 Long *e*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+{% endnote %}
+
+- *ea*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_05_ea.mp4" type="video/mp4">
+</video>
+
+- *ee*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_05_ee.mp4" type="video/mp4">
+</video>
+
+- *y*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_05_y.mp4" type="video/mp4">
+</video>
+
+- *ey*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_05_ey.mp4" type="video/mp4">
+</video>
+
+### Alphablocks 拼读视频
+
+进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *e*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/phonics-learn-to-read-fun-with-long-e-sounds-alphablocks.mp4" type="video/mp4">
+</video>

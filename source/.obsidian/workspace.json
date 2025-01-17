@@ -28,32 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chenruochun.md",
+                "file": "AnnaXiang-2025-spring.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "chenruochun"
-            }
-          },
-          {
-            "id": "1d2d80175467add7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "winter-2025.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "winter-2025"
+              "title": "AnnaXiang-2025-spring"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,10 +116,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "winter-2025.md"
+                "file": "AnnaXiang-2025-spring.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of winter-2025"
+              "title": "Outline of AnnaXiang-2025-spring"
             }
           },
           {
@@ -226,14 +211,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d2d80175467add7",
+  "active": "0d60cb6da1c64432",
   "lastOpenFiles": [
-    "ms-li.md",
-    "winter-2025.md",
-    "gaoshengyu.md",
     "chenruochun.md",
-    "wuzimo.md",
+    "DannyChen-2024-fall.md",
     "xiangxiyan.md",
+    "AnnaXiang-2025-spring.md",
+    "AnnaXiang-2024-fall.md",
+    "gaoshengyu.md",
+    "ms-li.md",
+    "wuzimo.md",
+    "winter-2025.md",
     "shaoyuhan.md",
     "zhuxuanyu.md",
     "liaopeiyan.md",
@@ -264,15 +252,12 @@
     "embeds",
     "OD1-U1-Reading.pdf",
     "OD1-U1-Grammar.pdf",
-    "student-demo.md",
     "_embeds/OD1-U1-Grammar.pdf",
     "_embeds/OD1-U1-Reading.pdf",
-    "clil-a.md",
     "lib/pdf/web/viewer.mjs.map",
     "lib/pdf/web/images/treeitem-expanded@2x.png",
     "lib/pdf/web/images/treeitem-expanded.svg",
     "lib/pdf/web/images/treeitem-expanded.png",
-    "lib/pdf/web/images/treeitem-collapsed@2x.png",
-    "lib/pdf/README.md"
+    "lib/pdf/web/images/treeitem-collapsed@2x.png"
   ]
 }
