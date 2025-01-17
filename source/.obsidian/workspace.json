@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-winter-2025.md",
+                "file": "winter-2025.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "mini-winter-2025"
+              "title": "winter-2025"
             }
           }
         ],
@@ -131,10 +131,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mini-winter-2025.md"
+                "file": "winter-2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of mini-winter-2025"
+              "title": "Outline of winter-2025"
             }
           },
           {
@@ -228,12 +228,12 @@
   },
   "active": "1d2d80175467add7",
   "lastOpenFiles": [
+    "gaoshengyu.md",
+    "winter-2025.md",
     "ms-li.md",
-    "mini-winter-2025.md",
     "chenruochun.md",
     "wuzimo.md",
     "xiangxiyan.md",
-    "gaoshengyu.md",
     "shaoyuhan.md",
     "zhuxuanyu.md",
     "liaopeiyan.md",
