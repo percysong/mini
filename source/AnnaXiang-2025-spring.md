@@ -9,7 +9,7 @@ updated: 2025-01-17
 ## Biscuit 绘本阅读
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/bathtime-for-biscuit.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Biscuit.mp3" type="audio/mp3">
 </audio>
 
 <script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
@@ -17,8 +17,20 @@ updated: 2025-01-17
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "f16cb4016d094ec1a85759fcc14b4224"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Bathtime for Biscuit.pdf"}},
-			metaData:{fileName: "Bathtime for Biscuit.pdf"}
+			content:{location: {url: "https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Biscuit.pdf"}},
+			metaData:{fileName: "Biscuit.pdf"}
 		}, {embedMode: "LIGHT_BOX"});
+	});
+</script>
+
+<div id="adobe-dc-view" style="width: 100%;"></div>
+<script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+		var adobeDCView = new AdobeDC.View({clientId: "f16cb4016d094ec1a85759fcc14b4224", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Biscuit.pdf"}},
+			metaData:{fileName: "Biscuit.pdf"}
+		}, {embedMode: "SIZED_CONTAINER"});
 	});
 </script>
