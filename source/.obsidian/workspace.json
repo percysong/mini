@@ -6,36 +6,20 @@
       {
         "id": "a0f151bed0f1253e",
         "type": "tabs",
-        "dimension": 49.05149051490515,
         "children": [
-          {
-            "id": "485b5f8223267e6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gaoshengyu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "gaoshengyu"
-            }
-          },
           {
             "id": "a58056688bdb84dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xiangxiyan.md",
+                "file": "ms-li.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "xiangxiyan"
+              "title": "ms-li"
             }
           },
           {
@@ -52,30 +36,24 @@
               "icon": "lucide-file",
               "title": "chenruochun"
             }
-          }
-        ]
-      },
-      {
-        "id": "28492c91665fd892",
-        "type": "tabs",
-        "dimension": 50.94850948509485,
-        "children": [
+          },
           {
-            "id": "184873959da93cdc",
+            "id": "1d2d80175467add7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wuzimo.md",
+                "file": "mini-winter-2025.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "wuzimo"
+              "title": "mini-winter-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -154,10 +131,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gaoshengyu.md"
+                "file": "mini-winter-2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of gaoshengyu"
+              "title": "Outline of mini-winter-2025"
             }
           },
           {
@@ -249,18 +226,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "485b5f8223267e6a",
+  "active": "1d2d80175467add7",
   "lastOpenFiles": [
+    "ms-li.md",
+    "mini-winter-2025.md",
+    "chenruochun.md",
     "wuzimo.md",
+    "xiangxiyan.md",
     "gaoshengyu.md",
     "shaoyuhan.md",
-    "chenruochun.md",
-    "xiangxiyan.md",
     "zhuxuanyu.md",
     "liaopeiyan.md",
     "discover-futures.md",
     "discover-futures (from backup).md",
-    "Untitled.md",
     "daichaoxun.md",
     "lib/pdf/web/images/toolbarButton-menuArrow.svg",
     "zhangyuantai.md",
