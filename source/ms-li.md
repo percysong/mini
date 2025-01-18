@@ -1,7 +1,7 @@
 ---
 title: Ms Li 英语拓展课程
 created: 2024-09-11
-updated: 2025-01-17
+updated: 2025-01-18
 ---
 
 ## No. 2 学习任务
@@ -59,7 +59,7 @@ updated: 2025-01-17
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.32.mp3" type="audio/mp3">
 </audio>
 
-### 预习阅读 *Animal Homes*
+### 阅读 *Animal Homes*
 
 {% note info %}
 - 听录音，听两遍，圈出自己不熟悉的单词
