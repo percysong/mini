@@ -1,8 +1,45 @@
 ---
 title: 小象寒假课程
 created: 2024-09-11
-updated: 2025-01-18
+updated: 2025-01-19
 ---
+
+## D3, 2025年1月19日
+
+### 课堂回顾
+
+- 学习自然拼读辅音组合 *sk sc spr str spl squ*
+- 通过描述小动物猜谜游戏复习句型：
+	- It is … (color/size)
+	- It has … (fur/hair/scales/skin)
+	- It can …
+	- It lives … (on land / in water / …)
+	- It eats …
+	- …
+- 总结昨天的分类，扩展学习了脊椎动物和无脊椎动物
+	- vertebrate
+	- invertebrate
+- 学习语法 Object Pronouns，并完成题单练习
+- 学习合成词 Compound Words
+
+### 学习任务
+
+#### 复习 BrainPop 关于 Classifying Animals 的视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-classifying-animals.mp4" type="video/mp4">
+</video>
+
+Choose a group of animals you like, watch the extended video, and tell about it:
+选择自己喜欢的动物类型，点击链接观看扩展视频：
+- [fish 🐟](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-fish.mp4)
+- [insects 🐞](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-insects.mp4)
+- [mammals 🐼](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-mammals.mp4)
+- [reptiles 🦎](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-reptiles.mp4)
+
+#### 阅读题单
+
+完成练习册阅读部分
 
 ## D2, 2025年1月18日
 
