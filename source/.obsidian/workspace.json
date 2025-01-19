@@ -6,6 +6,7 @@
       {
         "id": "77ee8f5bb4375d7e",
         "type": "tabs",
+        "dimension": 49.287169042769854,
         "children": [
           {
             "id": "d7d80c0c78175b01",
@@ -37,11 +38,13 @@
               "title": "KET-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1045d26ce9291e2a",
         "type": "tabs",
+        "dimension": 50.71283095723014,
         "children": [
           {
             "id": "3b6195ff4409ccb7",
@@ -152,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "winter-2025.md"
+                "file": "KET-2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of winter-2025"
+              "title": "Outline of KET-2025"
             }
           },
           {
@@ -234,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,20 +250,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7d80c0c78175b01",
+  "active": "dbdc7b38fd36c33a",
   "lastOpenFiles": [
-    "KET-2025.md",
-    "ms-li.md",
     "winter-2025.md",
     "zhuxuanyu.md",
-    "zhangyuantai.md",
-    "AnnaXiang-2025-spring.md",
-    "xiangxiyan.md",
-    "AnnaXiang-2024-fall.md",
     "chenruochun.md",
-    "DannyChen-2024-fall.md",
     "gaoshengyu.md",
     "wuzimo.md",
+    "xiangxiyan.md",
+    "AnnaXiang-2025-spring.md",
+    "KET-2025.md",
+    "ms-li.md",
+    "zhangyuantai.md",
+    "AnnaXiang-2024-fall.md",
+    "DannyChen-2024-fall.md",
     "shaoyuhan.md",
     "liaopeiyan.md",
     "discover-futures.md",
