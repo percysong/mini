@@ -20,6 +20,7 @@ updated: 2025-01-19
 	- vertebrate
 	- invertebrate
 - 学习语法 Object Pronouns，并完成题单练习
+- 完成听力练习，了解更多有趣动物的 Fun Facts，训练细节的把控和复述能力
 - 学习合成词 Compound Words
 
 ### 学习任务
