@@ -41,7 +41,7 @@ updated: 2025-01-20
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/29/alphablocks-volume-2-episode-17-odd-short-vowel-o.mp4" type="video/mp4">
 </video>
 
-#### 复习 P53–C 歌曲
+### 复习 P53–C 歌曲
 
 - 每天跟唱两遍，持续两天，注意目标句型
 
@@ -49,7 +49,7 @@ updated: 2025-01-20
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/OD2e_L1_Student_Book_Audio_1.34.mp3" type="audio/mp3">
 </audio>
 
-#### 复习 P54 词汇
+### 复习 P54 词汇
 
 {% note info %}
 - 难度 ★★☆
@@ -61,7 +61,7 @@ updated: 2025-01-20
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.35.mp3" type="audio/mp3">
 </audio>
 
-#### 继续跟读 P51 阅读 *Animal Homes*
+### 继续跟读 P51 阅读 *Animal Homes*
 
 {% note info %}
 - 难度 ★★☆
