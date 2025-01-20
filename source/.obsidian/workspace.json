@@ -6,7 +6,7 @@
       {
         "id": "77ee8f5bb4375d7e",
         "type": "tabs",
-        "dimension": 46.35818337617824,
+        "dimension": 48.757396449704146,
         "children": [
           {
             "id": "d7d80c0c78175b01",
@@ -22,13 +22,29 @@
               "icon": "lucide-file",
               "title": "winter-2025"
             }
+          },
+          {
+            "id": "c7fa0c53cba3951a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ms-li.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ms-li"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1045d26ce9291e2a",
         "type": "tabs",
-        "dimension": 53.64181662382177,
+        "dimension": 51.24260355029586,
         "children": [
           {
             "id": "3b6195ff4409ccb7",
@@ -36,13 +52,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zhangyuantai.md",
+                "file": "wuzimo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "zhangyuantai"
+              "title": "wuzimo"
             }
           },
           {
@@ -60,8 +76,7 @@
               "title": "zhuxuanyu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -221,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,24 +251,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7d80c0c78175b01",
+  "active": "c7fa0c53cba3951a",
   "lastOpenFiles": [
-    "Attachments/brainpop-jr-mammals.mp4",
+    "wuzimo.md",
+    "ms-li.md",
+    "zhangyuantai.md",
+    "zhuxuanyu.md",
     "winter-2025.md",
+    "Attachments/brainpop-jr-mammals.mp4",
     "Attachments/brainpop-jr-insects.mp4",
     "Attachments/brainpop-jr-fish.mp4",
     "Attachments/brainpop-jr-frogs.mp4",
     "Attachments/brainpop-jr-reptiles.mp4",
     "Attachments",
-    "zhuxuanyu.md",
     "KET-2025.md",
     "chenruochun.md",
     "gaoshengyu.md",
-    "wuzimo.md",
     "xiangxiyan.md",
     "AnnaXiang-2025-spring.md",
-    "ms-li.md",
-    "zhangyuantai.md",
     "AnnaXiang-2024-fall.md",
     "DannyChen-2024-fall.md",
     "shaoyuhan.md",

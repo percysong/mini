@@ -1,8 +1,69 @@
 ---
 title: 小象寒假课程
 created: 2024-09-11
-updated: 2025-01-19
+updated: 2025-01-20
 ---
+
+## D3, 2025年1月19日
+
+### 课堂回顾
+
+- 学习自然拼读辅音组合 *bl, cl, br, cr, fl, gl*
+- 复习动物分类，回顾总结
+- 订正阅读小练习
+- 学习关于动物动作和食物的词汇
+- 复习阅读策略 Compare and Contrast
+	- 运用该阅读策略分析简单的文本
+- 阅读故事 *Leo and Lily’s Adventure*
+- 复习 Story Element，并根据图片预测故事
+	1. characters
+	2. scene (setting)
+	3. BME (beginning, middle, end)
+	4. problem and solution
+
+### 学习任务
+
+#### 复习 P16 词汇
+
+- 听录音，跟读两遍
+- 想一想这些动作，自己模仿一下(不要翻译中文)
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/OD2e_L2_Student_Book_Audio_1.09.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P18 故事 *Leo and Lily’s Adventure*
+
+- 听录音，跟读分成两页，每两天熟练跟读一页
+- 逐句暂停跟读两遍，模仿语音语调，找到读句子的感觉
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/OD2e_L2_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+</audio>
+
+#### 观看视频，复习 Object Pronouns
+
+- **Story**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-ell-scary-stories-movie.mp4" type="video/mp4">
+</video>
+
+- **Vocabulary**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-ell-scary-stories-vocabulary.mp4" type="video/mp4">
+</video>
+ 
+- **Grammar**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-ell-scary-stories-grammar.mp4" type="video/mp4">
+</video>
+
+#### 练习册
+
+P10–11 词汇练习
 
 ## D3, 2025年1月19日
 
