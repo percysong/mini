@@ -1,8 +1,56 @@
 ---
 title: 小象寒假课程
 created: 2024-09-11
-updated: 2025-01-20
+updated: 2025-01-21
 ---
+
+## D5, 2025年1月21日
+
+### 课堂回顾
+
+- 复习自然拼读辅音组合 *sm, sn, sp, sw, sh, ch, tch, ph, wh*
+- 回顾故事 *Leo and Lily’s Adventure* 用自己的语言复述故事的 B, M, E
+	- 解决生词和新的表达
+- 学习频率副词，完成口语问答操练
+	- What do you usually do? How often do you …?
+	- I always / usually / sometimes / hardly ever / never …
+- 学习歌曲 *Cats and Birds* 熟练语法点
+- 学习描述动物的形容词
+- 完成描述动物性格的听力练习
+- 完成写作训练 My Favorite Animal Group
+
+### 学习任务
+
+#### 复习 P21 歌曲
+
+- 听录音，跟唱两遍，注意频率副词的使用
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.11.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P22 词汇
+
+- 听录音，跟读两遍
+- 思考还有哪些动物具有以下特质
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.12.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P18 故事 *Leo and Lily’s Adventure*
+
+- 听录音，跟读分成两页，每两天熟练跟读一页
+- 逐句暂停跟读两遍，模仿语音语调，找到读句子的感觉
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/26/OD2e_L2_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+- P12–19 阅读、语法和总结练习
+- 点击链接查看答案 [🔗 P11–14](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/od-2-tg-page-226.jpeg)、[🔗 P15–19](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/od-2-tg-page-227.jpeg)
 
 ## D4, 2025年1月20日
 
