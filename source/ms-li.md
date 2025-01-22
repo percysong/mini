@@ -1,8 +1,82 @@
 ---
 title: Ms Li 英语拓展课程
 created: 2024-09-11
-updated: 2025-01-20
+updated: 2025-01-22
 ---
+
+## No. 4 学习任务
+
+### 牛津自然拼读 Short *e*& *i*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+{% endnote %}
+
+- *e*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u03_e.mp4" type="video/mp4">
+</video>
+
+- *i*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u04_i.mp4" type="video/mp4">
+</video>
+
+#### Alphablocks 拼读视频
+
+复习拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Short *e*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-letter-e-with-the-alphablocks-magic-words-cbeebies.mp4" type="video/mp4">
+</video>
+
+- short *i*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-letter-e-with-the-alphablocks-magic-words-cbeebies.mp4" type="video/mp4">
+</video>
+
+#### P16 词汇音频
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.09.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-1.jpeg)
+
+#### P18–19 Elliot’s New Friend 课文
+
+- 老师指导视频
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/08/IMG_0761_Percy.mp4" type="video/mp4">
+</video>
+
+{% note info %}
+- 参考老师的指导视频，听录音，逐句暂停跟读，模仿情绪和语音语调
+- 每天模仿两遍，连续跟读三天
+- 在熟练模仿之后，指读并打卡
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-2.jpeg)
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-3.jpeg)
+{% endgrouppicture %}
 
 ## No. 3 学习任务
 
