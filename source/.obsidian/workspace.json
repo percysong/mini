@@ -6,7 +6,6 @@
       {
         "id": "77ee8f5bb4375d7e",
         "type": "tabs",
-        "dimension": 48.757396449704146,
         "children": [
           {
             "id": "d7d80c0c78175b01",
@@ -14,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "winter-2025.md",
+                "file": "student-demo.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "winter-2025"
+              "title": "student-demo"
             }
           },
           {
@@ -31,31 +39,47 @@
               "state": {
                 "file": "ms-li.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "ms-li"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "1045d26ce9291e2a",
+        "id": "f1cb8ed558f08d31",
         "type": "tabs",
-        "dimension": 51.24260355029586,
         "children": [
           {
-            "id": "37aa511ca76d166d",
+            "id": "16e5917186fdc8d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "wuzimo.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "wuzimo"
@@ -80,7 +104,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -123,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -140,10 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ms-li.md"
+                "file": "student-demo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ms-li"
+              "title": "Outline of student-demo"
             }
           },
           {
@@ -235,12 +262,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7fa0c53cba3951a",
+  "active": "d7d80c0c78175b01",
   "lastOpenFiles": [
     "wuzimo.md",
+    "student-demo.md",
     "ms-li.md",
-    "zhuxuanyu.md",
     "winter-2025.md",
+    "wuzimo 1.md",
+    "AnnaXiang-2025-spring.md",
+    "daichaoxun.md",
+    "zhuxuanyu.md",
     "zhangyuantai.md",
     "Attachments/brainpop-jr-mammals.mp4",
     "Attachments/brainpop-jr-insects.mp4",
@@ -252,14 +283,12 @@
     "chenruochun.md",
     "gaoshengyu.md",
     "xiangxiyan.md",
-    "AnnaXiang-2025-spring.md",
     "AnnaXiang-2024-fall.md",
     "DannyChen-2024-fall.md",
     "shaoyuhan.md",
     "liaopeiyan.md",
     "discover-futures.md",
     "discover-futures (from backup).md",
-    "daichaoxun.md",
     "lib/pdf/web/images/toolbarButton-menuArrow.svg",
     "niehaochen.md",
     "wangwanyan.md",
@@ -273,7 +302,6 @@
     "embeds/OD1-U1-Grammar.pdf",
     "for-parents.md",
     "chinese.md",
-    "calligraphy.md",
     "embeds/raising-hand-bro.svg",
     "embeds/parents-animate.svg",
     "embeds/kindergarten-student-animate.svg",

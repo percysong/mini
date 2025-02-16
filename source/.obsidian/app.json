@@ -41,6 +41,5 @@
   },
   "livePreview": false,
   "attachmentFolderPath": "Attachments",
-  "defaultViewMode": "source",
-  "showRibbon": false
+  "defaultViewMode": "source"
 }

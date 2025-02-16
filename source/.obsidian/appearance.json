@@ -8,5 +8,6 @@
   "baseFontSizeAction": false,
   "theme": "system",
   "enabledCssSnippets": [],
-  "translucency": true
+  "translucency": true,
+  "showRibbon": false
 }
