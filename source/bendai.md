@@ -9,6 +9,45 @@ updated: 2025-02-16
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
 
+## D13, 2024年12月17日
+
+### 学习资料和学习任务
+
+1. 复习生词：
+	- dome
+		- ![](https://ekodome.com/wp-content/uploads/2024/11/IMG_2581-800x600.jpg)
+	- experiment
+	- sphere
+		- a globe
+	- bio-
+		- biology, relating to life
+	- sealed off (from the outside world)
+		- nothing could come in or out
+	- survive
+		- continue to live or keep alive in difficult environment
+	-  run out … = be used up
+		- our food is about to run out
+	- organisms
+		- living things
+2. 下载[应用](https://apps.apple.com/us/app/biosphere-2-k-12/id6477727262)了解更多关于 Biosphere 2 这个项目
+3. 观看Biosphere 2 介绍视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/inside-biosphere-2-the-worlds-largest-earth-science-experiment.mp4" type="video/mp4">
+</video>
+
+### 学习内容
+
+- 口语对话探讨寒假生活，打开英语思维，进入语言环境
+- 复习上学期学习的 Simple Machines
+	- 复习词汇
+	- 使用简单句子描述它们的工作方式，并举例说明其应用场景
+- 进入新话题 *Web of Life* 的探究
+- 通过人造 Dome（穹顶/方舱）来模拟地外行星上，人类隔绝外部环境创造一个生态系统来生存的可能
+	- 人类生存需要什么？
+	- 在一个隔绝外界的环境我们有什么挑战？
+	- 作为一个科学家负责来负责方舱食物
+
 ## D12, 2024年12月17日
 
 ### 学习资料和学习任务
