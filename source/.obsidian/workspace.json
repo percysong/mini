@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7d80c0c78175b01",
+            "id": "c73f9435cee39878",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bendai.md",
+                "file": "rockyzhu-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bendai"
+              "title": "rockyzhu-2025"
             }
           }
         ]
@@ -43,6 +43,7 @@
       {
         "id": "5664ce15974ae7f8",
         "type": "tabs",
+        "dimension": 62.031558185404336,
         "children": [
           {
             "id": "bc8cc1c27d7c573f",
@@ -72,6 +73,7 @@
       {
         "id": "ade25a4f692d4080",
         "type": "tabs",
+        "dimension": 37.96844181459566,
         "children": [
           {
             "id": "f75dd7f80a5ccfc0",
@@ -94,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -110,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bendai.md",
+                "file": "rockyzhu-2025.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bendai"
+              "title": "Outline of rockyzhu-2025"
             }
           },
           {
@@ -195,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,21 +211,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7d80c0c78175b01",
+  "active": "c73f9435cee39878",
   "lastOpenFiles": [
+    "zhuxuanyu.md",
+    "rockyzhu-2025.md",
+    "winter-2025.md",
+    "ms-li.md",
+    "wuzimo.md",
+    "student-demo.md",
+    "bendai.md",
+    "od1a.md",
+    "dannychen-2025.md",
+    "annaxiang-2025.md",
     "xiangxiyan.md",
     "chenruochun.md",
-    "AnnaXiang-2025-spring.md",
-    "discover-futures.md",
-    "wuzimo.md",
-    "bendai.md",
-    "ms-li.md",
-    "student-demo.md",
+    "for-parents.md",
+    "english-notes.md",
+    "for-teachers.md",
+    "chinese.md",
     "math.md",
     "clil-a.md",
-    "winter-2025.md",
+    "discover-futures.md",
+    "dannychen-2024.md",
+    "annaxiang-2024.md",
+    "liaopeiyan.md",
+    "shaoyuhan.md",
+    "stevengao.md",
     "wuzimo 1.md",
-    "zhuxuanyu.md",
     "zhangyuantai.md",
     "Attachments/brainpop-jr-mammals.mp4",
     "Attachments/brainpop-jr-insects.mp4",
@@ -230,19 +245,7 @@
     "Attachments/brainpop-jr-frogs.mp4",
     "Attachments/brainpop-jr-reptiles.mp4",
     "Attachments",
-    "KET-2025.md",
-    "gaoshengyu.md",
-    "AnnaXiang-2024-fall.md",
-    "DannyChen-2024-fall.md",
-    "shaoyuhan.md",
-    "liaopeiyan.md",
-    "discover-futures (from backup).md",
     "lib/pdf/web/images/toolbarButton-menuArrow.svg",
-    "niehaochen.md",
-    "wangwanyan.md",
-    "zhangqiming.md",
-    "jerry.md",
-    "rock.md",
     "Music/Songs",
     "Music",
     "CleanShot X 2024-10-10 18.43.43.png",
