@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-01-09
+updated: 2025-02-22
 ---
 
 - 学生姓名：朱宣宇
@@ -13,7 +13,6 @@ updated: 2025-01-09
 ## D1, 2025年2月20日
 
 ### 学习资料和学习任务
-
 
 #### Video
 
@@ -30,7 +29,6 @@ updated: 2025-01-09
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.10.mp3" type="audio/mp3">
 </audio>
-
 
 #### 复习阅读 *Forces and Movement*
 
