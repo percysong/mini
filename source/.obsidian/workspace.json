@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dannychen-2025.md",
+                "file": "odf1.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dannychen-2025"
+              "title": "odf1"
             }
           }
         ]
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dannychen-2025.md",
+                "file": "odf1.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dannychen-2025"
+              "title": "Outline of odf1"
             }
           },
           {
@@ -197,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,17 +212,17 @@
   },
   "active": "4e1f4f607c165bf8",
   "lastOpenFiles": [
+    "rockyzhu-2025.md",
     "annaxiang-2025.md",
     "od2b.md",
-    "winter-2025.md",
+    "ms-li.md",
     "dannychen-2025.md",
+    "winter-2025.md",
     "wuzimo.md",
     "dannychen-2024.md",
     "Untitled.md",
-    "ms-li.md",
     "od1a.md",
     "zhuxuanyu.md",
-    "rockyzhu-2025.md",
     "for-teachers.md",
     "stevengao.md",
     "shaoyuhan.md",
@@ -235,7 +235,7 @@
     "chinese.md",
     "math.md",
     "clil-a.md",
-    "discover-futures.md",
+    "odf1.md",
     "annaxiang-2024.md",
     "liaopeiyan.md",
     "Attachments/brainpop-jr-mammals.mp4",

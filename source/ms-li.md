@@ -1,7 +1,7 @@
 ---
 title: Ms Li 英语拓展课程
 created: 2024-09-11
-updated: 2025-02-23
+updated: 2025-02-25
 ---
 
 ## No. 5 学习任务
@@ -28,6 +28,14 @@ updated: 2025-02-23
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-letter-e-with-the-alphablocks-magic-words-cbeebies.mp4" type="video/mp4">
+</video>
+
+#### 拼读绘本操练 *A Big Mud Mess*
+
+复习拼读绘本，听录音，暂停跟读。注意 *sid*, *napkin*, *dolls* 的发音。
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/tk-phonics-a-big-mud-mess.mp4" type="video/mp4">
 </video>
 
 #### P16 词汇音频

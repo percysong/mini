@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-02-22
+updated: 2025-02-25
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,66 @@ updated: 2025-02-22
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D2, 2025年2月24日
+
+### 学习资料和学习任务
+
+#### Video
+
+- 观看视频，复习 Synonym and Antonym 近义词和反义词：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-synonyms-and-antonyms.mp4" type="video/mp4">
+</video>
+
+#### Grammar Song
+
+P153-D: 听录音，跟唱歌曲两遍，注意复习比较级的使用
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.12.mp3" type="audio/mp3">
+</audio>
+
+#### Vocabulary
+
+复习 P154 词汇，听录音，跟读两遍：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.13.mp3" type="audio/mp3">
+</audio>
+
+#### Speaking
+
+复习 P155 口语交际，听录音，暂停跟读两遍。用右边不同颜色的提示词替换至句子中再说一说。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.16.mp3" type="audio/mp3">
+</audio>
+
+#### 复习阅读 *Forces and Movement*
+
+继续复习 P150–151 文本，听录音跟读两遍，每两天练习跟读一页；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.11.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 练习册 Workbook P130–133
+
+### 学习内容
+
+- 复习自然拼读短元音并听写（<mark>10个拼错了2个</mark>）
+- 复习 *Forces and Movement*，快速问答
+	- 力可以改变物体什么？
+	- 如何定义推力和拉力？
+	- 什么是Speed?
+- 复习语法比较级的使用
+- 学习日常生活中常用物品词汇，完成听力练习
+- 口语交际：如何寻求帮助
+- 学习反义词：Antonyms
 
 ## D1, 2025年2月20日
 
@@ -44,8 +104,6 @@ updated: 2025-02-22
 - 练习册 Workbook P126–129
 
 ### 学习内容
-
-#### 1月6日
 
 - 课前口语练习 Talking about winter holiday
 	- Where did you go?

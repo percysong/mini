@@ -4,6 +4,56 @@ created: 2024-09-11
 updated: 2025-01-07
 ---
 
+## 2025年2月25日
+
+### 学习资料和学习任务
+
+
+- **Writing**
+	- Student book P33-6
+	- 选择自己喜欢的一个 product, 用语言框中的句型模版，写一段你对该产品的 review。
+
+- **Vocabulary and Grammar**
+	- Student book P116 Consumer information
+	- Workbook P27–28
+
+- compare
+	- compare information
+	- comparison website
+	- compare like with like: compare things of the same kind
+- product
+	- things produced by people for sell
+- fair and reliable (information)
+- review
+	- reviewer
+- positive
+	- good
+- negative
+	- bad
+- special offer
+	- be on sale (be sold at a lower price than normal)
+- delivery
+- guarantee
+	- if a product is broken, you can send it back to repair
+- battery life
+- water resistant
+	- waterproof
+- sleep/heart monitor
+
+### 课堂学习内容及反馈
+
+今天我们学习了**Life Skills 生活技能**，关于如何做一个**聪明的消费者**。通过比较不同的产品来做出选择。我们听力练习了产品评论，学习了如何根据价格、质量等因素进行比较，并讨论了他们最喜欢的产品。还练习了如何用**积极**或**消极**的语言来描述评论，从而提高了他们清晰表达自己观点的能力。
+
+- **课前口语练习**：聊聊自己的寒假生活
+	- Ryan介绍了自己去海南的生活，但并没有聚焦在海南的地方特色，而着重聊了他赢得的游戏皮肤；
+	- Jason介绍了自己去四川几个地方的游玩经历，同时很好地运用了连接词串联几个地方；
+- **生活技能词汇**：如何根据**质量**、**价格**和**价值**比较产品
+- **评论表达**：学会用**positive**（积极的）和**negative**（消极的）描述评论
+- **听力技巧**：听取评论并识别哪些评论是最有热情或最容易理解的
+- **说话技巧**：如何用热情的语气吸引听众，避免单调
+
+可能因为刚从假期回来，大家都还没有进入英文思维，有时还是习惯性地使用中文来替换，或者使用中文的语序。需要慢慢适应，更多使用英文思维来表达。本课的内容也有些难度，生词和新的概念很多，需要大家复习 P32 书上的笔记和 P116 的生词造句。
+
 ## 2025年1月6日
 
 ### 学习资料和学习任务
