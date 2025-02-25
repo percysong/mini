@@ -8,37 +8,35 @@ updated: 2025-01-07
 
 ### 学习资料和学习任务
 
-
 - **Writing**
 	- Student book P33-6
 	- 选择自己喜欢的一个 product, 用语言框中的句型模版，写一段你对该产品的 review。
-
 - **Vocabulary and Grammar**
 	- Student book P116 Consumer information
 	- Workbook P27–28
-
-- compare
-	- compare information
-	- comparison website
-	- compare like with like: compare things of the same kind
-- product
-	- things produced by people for sell
-- fair and reliable (information)
-- review
-	- reviewer
-- positive
-	- good
-- negative
-	- bad
-- special offer
-	- be on sale (be sold at a lower price than normal)
-- delivery
-- guarantee
-	- if a product is broken, you can send it back to repair
-- battery life
-- water resistant
-	- waterproof
-- sleep/heart monitor
+- 复习词汇
+	- compare
+		- compare information
+		- comparison website
+		- compare like with like: compare things of the same kind
+	- product
+		- things produced by people for sell
+	- fair and reliable (information)
+	- review
+		- reviewer
+	- positive
+		- good
+	- negative
+		- bad
+	- special offer
+		- be on sale (be sold at a lower price than normal)
+	- delivery
+	- guarantee
+		- if a product is broken, you can send it back to repair
+	- battery life
+	- water resistant
+		- waterproof
+	- sleep/heart monitor
 
 ### 课堂学习内容及反馈
 
