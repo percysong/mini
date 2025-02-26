@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "77ee8f5bb4375d7e",
+        "id": "cbf45dd6cd4793b5",
         "type": "tabs",
         "children": [
           {
-            "id": "4e1f4f607c165bf8",
+            "id": "74aa6ad8133e333b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "odf1.md",
+                "file": "bendai.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "odf1"
+              "title": "bendai"
             }
           }
         ]
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "odf1.md",
+                "file": "bendai.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of odf1"
+              "title": "Outline of bendai"
             }
           },
           {
@@ -210,8 +210,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e1f4f607c165bf8",
+  "active": "74aa6ad8133e333b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "odf1.md",
     "rockyzhu-2025.md",
     "annaxiang-2025.md",
     "od2b.md",
@@ -220,7 +222,6 @@
     "winter-2025.md",
     "wuzimo.md",
     "dannychen-2024.md",
-    "Untitled.md",
     "od1a.md",
     "zhuxuanyu.md",
     "for-teachers.md",
@@ -235,7 +236,6 @@
     "chinese.md",
     "math.md",
     "clil-a.md",
-    "odf1.md",
     "annaxiang-2024.md",
     "liaopeiyan.md",
     "Attachments/brainpop-jr-mammals.mp4",

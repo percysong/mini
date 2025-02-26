@@ -9,7 +9,53 @@ updated: 2025-02-20
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
 
-## D13, 2024年12月17日
+## D13, 2025年2月18日
+
+### 学习资料和学习任务
+
+**复习生词**
+- Animals
+	- hawk
+	- falcon (隼sǔn)
+	- beetle 甲壳虫
+	- caterpillar
+	- moth
+	- salamander 蝾螈
+- predator
+	- an animal that naturally *preys* on others
+- prey (n.)
+	- an animal that is caught and killed by another for food
+- food chain
+
+**Grammar: passive**
+
+- A lion eats an antelope.
+- An antelope is eaten by a lion.
+
+- 复习食物链的视频 1 Easy
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/what-is-a-food-chain-the-dr-binocs-show-educational-videos-for-kids.mp4" type="video/mp4">
+</video>
+
+- 复习食物链的视频 2 Hard
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/fabulous-food-chains-crash-course-kids-7-1.mp4" type="video/mp4">
+</video>
+
+- 介绍 Ecosystem 的视频
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ecosystem-the-dr-binocs-show-best-learning-videos-for-kids-peekaboo-kidz.mp4" type="video/mp4">
+</video>
+
+**书面作业**
+
+完成食物链练习题单的情景任务问答。下次课记得把本单元的工作纸带过来装好。
+
+### 学习内容
+
+我们学习了**生态系统和食物链**的相关知识，帮助孩子理解自然界中生物之间的关系。通过城市中鸽子和老鹰的关系，来认识食物链系统。之后在进行食物链游戏的过程中，阅读了解不同动物的饮食，并拼接组成食物链。
+
+## D13, 2025年2月18日
 
 ### 学习资料和学习任务
 
