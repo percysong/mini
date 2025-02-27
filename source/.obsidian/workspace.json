@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cbf45dd6cd4793b5",
+        "id": "c744a7bb92bbfefb",
         "type": "tabs",
         "children": [
           {
-            "id": "74aa6ad8133e333b",
+            "id": "eb7a5f770b095de9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bendai.md",
+                "file": "od1a.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,61 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bendai"
+              "title": "od1a"
+            }
+          }
+        ]
+      },
+      {
+        "id": "28e0f0ddf38d1f19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df6aab3a54cae7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ms-li.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ms-li"
+            }
+          },
+          {
+            "id": "7aa6b3480acbb753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wuzimo.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "wuzimo"
             }
           }
         ]
@@ -112,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bendai.md",
+                "file": "od1a.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bendai"
+              "title": "Outline of od1a"
             }
           },
           {
@@ -210,25 +264,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74aa6ad8133e333b",
+  "active": "eb7a5f770b095de9",
   "lastOpenFiles": [
-    "Untitled.md",
+    "ms-li.md",
+    "od1a.md",
+    "wuzimo.md",
+    "od2b.md",
     "odf1.md",
+    "bendai.md",
+    "Untitled.md",
     "rockyzhu-2025.md",
     "annaxiang-2025.md",
-    "od2b.md",
-    "ms-li.md",
     "dannychen-2025.md",
     "winter-2025.md",
-    "wuzimo.md",
     "dannychen-2024.md",
-    "od1a.md",
     "zhuxuanyu.md",
     "for-teachers.md",
     "stevengao.md",
     "shaoyuhan.md",
     "student-demo.md",
-    "bendai.md",
     "english-notes.md",
     "xiangxiyan.md",
     "chenruochun.md",

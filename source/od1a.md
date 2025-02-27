@@ -1,10 +1,92 @@
 ---
 title: Oxford Discover 1 Class A
 created: 2024-09-11
-updated: 2025-02-21
+updated: 2025-02-27
 ---
 
-## Day 1, 2025-02-19
+## D2, 2025-02-26
+
+### 本周学习任务
+
+#### 牛津自然拼读 Short *i*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+{% endnote %}
+
+- *i*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u04_i.mp4" type="video/mp4">
+</video>
+
+#### Alphablocks 拼读视频
+
+复习拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- short *i*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-letter-e-with-the-alphablocks-magic-words-cbeebies.mp4" type="video/mp4">
+</video>
+
+#### 阅读打卡 *Animal Homes*
+
+{% note info %}
+- 难度 ★★☆
+- 暂停跟读两遍，注意模仿语调，找到断句停顿的位置
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+</audio>
+
+
+#### 复习 P53–C 歌曲
+
+- 跟唱两遍，持续两天，注意目标句型
+- Where is / Where are
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/OD2e_L1_Student_Book_Audio_1.34.mp3" type="audio/mp3">
+</audio>
+
+#### 复习歌曲 *Where Is It?*
+
+- 跟唱一遍，注意方位介词
+- in / on / under / next to
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/where-is-it-3.mp4" type="video/mp4">
+</video>
+
+#### 练习册 Workbook
+
+完成 P40–43 练习
+
+### 课堂学习内容
+
+- 开课基础拼读预热
+- 熟悉拼读 short *i*
+- 复习句型 “A … lives in/on/under the …” 来描述动物生活的栖息地
+- 阅读精读，处理生词和句型
+- 通过歌曲引入本节课的语法 Where is / Where are
+- 复习学过的方位介词，学习 next to
+- 通过情景游戏和活动问答描述物体和动物所在的位置
+
+### 课堂反馈
+
+三位小朋友对上节课学习的词汇和句型都掌握得不错，其中 tree hollow 比较难记，大家都回忆了一会。对于 Where is / Where are 句式大家都有所了解，但是在单复数的运用上都还是会有小的错误，是正常的现象，但还需要加强操练。in / on / under 基本方位词大家都熟悉，next to 是新学习的，还需一些操练。
+
+跑跑开课抢答得分最高，拼读和词汇的积累很不错，保持积极的学习状态，对问题反应很快；后半节课最后练习部分注意力稍有分散，需提醒后方能回应。
+
+牛牛保持了回答的准确性，整堂课思考积极。即便在精读讲解时有些小分神，对于老师的提问也能很快地反应并准确回答。
+
+育育作为大哥哥，专注度一直很高，整堂课都在专注回应。对语言慢慢积累了一定的感觉，继续加油！
+
+## D1, 2025-02-19
 
 ### 本周学习任务
 
