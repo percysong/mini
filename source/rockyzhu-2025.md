@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-02-25
+updated: 2025-02-28
 ---
 
 - 学生姓名：朱宣宇
@@ -10,7 +10,62 @@ updated: 2025-02-25
 - 开始学习日期：2024 年 9 月 23 日
 ---
 
-## D2, 2025年2月24日
+## D3, 2025-02-27
+
+### 学习资料和学习任务
+
+#### Video
+
+- 观看视频，复习大问题 *What Make Things Move* 相关总结：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_01_Wrapup1.mp4" type="video/mp4">
+</video>
+
+- 观看 BrainPop，复习什么是 Theme
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-theme-1.mp4" type="video/mp4">
+</video>
+
+#### Vocabulary
+
+复习 P156 词汇，听录音，跟读两遍：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.17.mp3" type="audio/mp3">
+</audio>
+
+#### 复习阅读 *Two Stubborn Little Goats*
+
+复习 P158–159 文本，听录音跟读两遍，注意人物的性格和朗读故事的语气，每两天练习跟读一页；并在下周尝试打卡。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.18.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 练习册 Workbook P134–137
+
+### 学习内容
+
+- 复习自然拼读短元音朗读
+- 学习生词
+- 复习故事要素（<mark>这部分宣宇遗忘得有点多，需要再复习一下这几个概念</mark>）
+	- Character
+	- Setting
+	- Plot
+		- Beginning
+		- Middle
+		- End
+- 学习阅读策略：Theme
+	- The lesson we learn from a story.
+- 复习文体 Fable 寓言故事
+- 进入寓言故事*Two Stubborn Little Goats*的精读理解
+- 完成课后练习
+
+## D2, 2025-02-24
 
 ### 学习资料和学习任务
 
@@ -70,7 +125,7 @@ P153-D: 听录音，跟唱歌曲两遍，注意复习比较级的使用
 - 口语交际：如何寻求帮助
 - 学习反义词：Antonyms
 
-## D1, 2025年2月20日
+## D1, 2025-02-20
 
 ### 学习资料和学习任务
 

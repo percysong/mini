@@ -1,8 +1,67 @@
 ---
 title: Danny 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-02-24
+updated: 2025-02-28
 ---
+
+## D3, 2025-02-27
+
+### 学习任务
+
+- 复习拼读故事 *The Ants*, *A Day with Dad* 每天跟读两遍，第三天打卡，发送朗读视频给老师。现在大家发音都比较熟悉了，需要注意熟练度。
+- *The Ants*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB2_Disc1_Track16.mp3" type="audio/mp3">
+</audio>
+
+- *A Day with Dad*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB2_Disc1_Track31.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_2_Stories-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_2_Stories-2.jpeg)
+{% endgrouppicture %}
+
+- 复习歌曲 *In Front of, Behind, Between*，跟唱两遍
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/in-front-of-behind-between-prepositions-song-for-kids.mp4" type="video/mp4">
+</video>
+
+完成练习题单
+
+- 一页正反面彩色练习
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/pu-1-u-8-2-2-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/pu-1-u-8-2-2-2.jpeg)
+{% endgrouppicture %}
+听录音，检查填空答案
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/pec-l-1-power-up-cd-3-track-22.mp3" type="audio/mp3">
+</audio>
+
+- 黑白练习册 P98–99
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/pu-1-ab-pages-1-2-1.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/pu-1-ab-pages-1-2-2.jpeg)
+{% endgrouppicture %}
+
+- 听录音，跟唱彩色学习材料 P98 歌曲，复习新词汇
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/pec-l-1-power-up-cd-3-track-20.mp3" type="audio/mp3">
+</audio>
+
+### 课堂学习内容和课堂反馈
+
+- 阅读了原版拼读故事绘本，操练短元音拼读
+- 通过闪卡复习房间和房间里的事物，使用句型 There be 来做口头描述
+- 学习关于房间事物的新词汇，并描述它们的位置
+- 通过猜谜游戏判断位置，复习之前学过的方位词
+- 学习新的方位词 in front of, behind, between
+- 了解不同国家的不同房子类型，聊一聊你最喜欢的房子和房间
+
+Danny对于拼读练习能够较准确拼出，但是熟练度有待提升；对于之前的词汇复习到位，能很快反应出不同的房间。房间的事物基本都是新词，需要更多练习。能够熟练使用句型来描述房间的事物，并表达自己的喜好。
 
 ## D2, 2025-02-23
 

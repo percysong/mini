@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od1a.md",
+                "file": "annaxiang-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,46 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od1a"
-            }
-          }
-        ]
-      },
-      {
-        "id": "28e0f0ddf38d1f19",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df6aab3a54cae7f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ms-li.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ms-li"
+              "title": "annaxiang-2025"
             }
           },
           {
-            "id": "7aa6b3480acbb753",
+            "id": "30fcbb01ad13540d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wuzimo.md",
+                "file": "dannychen-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -82,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "wuzimo"
+              "title": "dannychen-2025"
             }
           }
         ]
@@ -150,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -166,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od1a.md",
+                "file": "annaxiang-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od1a"
+              "title": "Outline of annaxiang-2025"
             }
           },
           {
@@ -266,16 +237,16 @@
   },
   "active": "eb7a5f770b095de9",
   "lastOpenFiles": [
-    "ms-li.md",
+    "dannychen-2025.md",
+    "annaxiang-2025.md",
+    "rockyzhu-2025.md",
     "od1a.md",
+    "ms-li.md",
     "wuzimo.md",
     "od2b.md",
     "odf1.md",
     "bendai.md",
     "Untitled.md",
-    "rockyzhu-2025.md",
-    "annaxiang-2025.md",
-    "dannychen-2025.md",
     "winter-2025.md",
     "dannychen-2024.md",
     "zhuxuanyu.md",

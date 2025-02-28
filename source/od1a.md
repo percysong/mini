@@ -1,7 +1,7 @@
 ---
 title: Oxford Discover 1 Class A
 created: 2024-09-11
-updated: 2025-02-27
+updated: 2025-02-28
 ---
 
 ## D2, 2025-02-26
@@ -42,7 +42,6 @@ updated: 2025-02-27
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.33.mp3" type="audio/mp3">
 </audio>
-
 
 #### 复习 P53–C 歌曲
 
