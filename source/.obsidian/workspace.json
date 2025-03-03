@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "annaxiang-2025.md",
+                "file": "od2b.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "annaxiang-2025"
+              "title": "od2b"
             }
           }
         ],
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "annaxiang-2025.md",
+                "file": "od2b.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of annaxiang-2025"
+              "title": "Outline of od2b"
             }
           },
           {
@@ -267,11 +267,11 @@
   },
   "active": "eede12302776b20b",
   "lastOpenFiles": [
+    "annaxiang-2025.md",
+    "winter-2025.md",
     "ms-li.md",
     "od2b.md",
-    "winter-2025.md",
     "dannychen-2025.md",
-    "annaxiang-2025.md",
     "dannychen-2024.md",
     "liaopeiyan.md",
     "rockyzhu-2025.md",
