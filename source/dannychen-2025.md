@@ -1,8 +1,56 @@
 ---
 title: Danny 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-02-28
+updated: 2025-03-03
 ---
+
+## D4, 2025-03-02
+
+### 学习任务
+
+- 复习拼读故事 *My Pet Hen*, *The Kid* 每天跟读两遍，第三天打卡，发送朗读视频给老师。现在大家发音都比较熟悉了，需要注意熟练度。
+- *My Pet Hen*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB2_Disc1_Track48.mp3" type="audio/mp3">
+</audio>
+
+- *The Kid*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB2_Disc1_Track62.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_2_Stories-3.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_2_Stories-4.jpeg)
+{% endgrouppicture %}
+
+- 复习世界上不同的房屋视频，想一想每一个都有哪些特别之处
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/P100-U8-CC.mp4" type="video/mp4">
+</video>
+
+- 观看视频，边看边回答，复习方位介词
+<video width="100%" height="auto" controls>
+  <source src="prepositions-of-place-for-kids-english-grammar-for-kids-with-novakid-0" type="video/mp4">
+</video>
+
+- 完成练习题单
+	- 一页正面彩色练习
+		- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/PU1-U8-CC-1.jpeg)
+	- 黑白练习册 P100–101
+		- P101-3: 画一画自己梦想的房屋，并用书上 P101 的句型写一写
+			- My dream house is a … house. There are … rooms, …, …, … and …. / There is … in the …room. We can … in the house. I like it because …
+
+### 课堂学习内容和课堂反馈
+
+- 继续阅读了原版拼读故事绘本，操练短元音拼读
+	- 学习拼读故事 *My Pet Hen*, *The Kid* 
+- 回顾方位词，并用准确的方位词来描述物体的位置
+- 继续学习世界上不同的房屋，完成听力练习
+- 阅读外国小朋友的房屋，了解其特点，回答问题
+- 完成写作练习，如何描写自己的家
+
+Danny 的听力练习完成起来比较简单容易，阅读练习稍需要思考反应。写作练习完成起来有一定的难度，思路需要更多打开一些哟。
 
 ## D3, 2025-02-27
 

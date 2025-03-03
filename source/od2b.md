@@ -1,8 +1,74 @@
 ---
 title: 牛津探索2 周日班
 created: 2024-10-19
-updated: 2025-02-24
+updated: 2025-03-03
 ---
+
+## D2, 2025-03-02
+
+### 课堂回顾
+
+- 复习自然拼读 long *e*, ee, ea, ey, y
+- 复习阅读策略 Compare and contrast 来比较异同
+- 用句型 They both have/are/can … 来比较事物
+- 进入课文阅读 *Amazing Animals*
+	- 打板 Birds 和 Fish，学习勾画关键词，并用目标句型来比较和对比
+	- 用同样的方法完成后面的阅读
+	- 解决生词
+	- 完成课后练习题
+
+### 学习任务
+
+#### 词汇
+
+复习书上 P8 词汇，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.02.mp3" type="audio/mp3">
+</audio>
+
+- 复习阅读中的生词
+	- breathe
+		- take in air
+		- *The fish use gills to help them breathe.*
+	- cover
+		- if something covers the body, that thing is **all over the body**
+	- move
+		- go from place to place
+	- **lay** egg
+	- hard shells
+	- bite
+		- use teeth to cut into something
+	- on land
+	- in water
+	- wet
+		- covered with water, not dry
+
+#### 练习册
+
+完成练习册 P4–5
+
+#### 复习阅读
+
+阅读 P10–11 文本，听录音，每两天跟读一页
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+</audio>
+
+#### 视频扩展
+
+- 回顾 compare 和 contrast 的不同特点，熟悉关键词。
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-compare-and-contrast.mp4" type="video/mp4">
+</video>
+
+- Choose a group of animals you like, watch the extended video. 选择自己喜欢的动物类型，点击链接观看扩展视频：
+	- [fish 🐟](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-fish.mp4)
+	- [insects 🐞](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-insects.mp4)
+	- [mammals 🐼](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-mammals.mp4)
+	- [reptiles 🦎](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-reptiles.mp4)
 
 ## D1, 2025-02-23
 
