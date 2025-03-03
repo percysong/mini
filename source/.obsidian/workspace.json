@@ -55,7 +55,8 @@
               "title": "annaxiang-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1aead723d7bc033f",
@@ -166,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ms-li.md",
+                "file": "annaxiang-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ms-li"
+              "title": "Outline of annaxiang-2025"
             }
           },
           {
@@ -264,8 +265,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30fcbb01ad13540d",
+  "active": "eede12302776b20b",
   "lastOpenFiles": [
+    "ms-li.md",
     "od2b.md",
     "winter-2025.md",
     "dannychen-2025.md",
@@ -274,7 +276,6 @@
     "liaopeiyan.md",
     "rockyzhu-2025.md",
     "od1a.md",
-    "ms-li.md",
     "wuzimo.md",
     "odf1.md",
     "bendai.md",
