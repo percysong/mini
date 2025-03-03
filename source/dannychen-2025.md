@@ -31,7 +31,7 @@ updated: 2025-03-03
 
 - 观看视频，边看边回答，复习方位介词
 <video width="100%" height="auto" controls>
-  <source src="prepositions-of-place-for-kids-english-grammar-for-kids-with-novakid-0" type="video/mp4">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/prepositions-of-place-for-kids-english-grammar-for-kids-with-novakid-0.mp4" type="video/mp4">
 </video>
 
 - 完成练习题单

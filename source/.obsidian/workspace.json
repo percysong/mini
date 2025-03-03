@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ms-li.md",
+                "file": "dannychen-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ms-li"
-            }
-          },
-          {
-            "id": "eede12302776b20b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "od2b.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "od2b"
+              "title": "dannychen-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1aead723d7bc033f",
@@ -167,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2b.md",
+                "file": "dannychen-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2b"
+              "title": "Outline of dannychen-2025"
             }
           },
           {
@@ -265,13 +240,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eede12302776b20b",
+  "active": "30fcbb01ad13540d",
   "lastOpenFiles": [
     "annaxiang-2025.md",
-    "winter-2025.md",
+    "dannychen-2025.md",
     "ms-li.md",
     "od2b.md",
-    "dannychen-2025.md",
+    "winter-2025.md",
     "dannychen-2024.md",
     "liaopeiyan.md",
     "rockyzhu-2025.md",
