@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-02-28
+updated: 2025-03-05
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,60 @@ updated: 2025-02-28
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D4, 2025-03-03
+
+### 学习资料和学习任务
+
+#### Video
+
+- 观看 BrainPop，复习 Story Elements
+	- Character
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-character.mp4" type="video/mp4">
+	</video>
+	- Setting
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-setting.mp4" type="video/mp4">
+	</video>
+
+#### Song
+
+复习 P161 歌曲，跟唱一遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.19.mp3" type="audio/mp3">
+</audio>
+
+#### Vocabulary
+
+复习 P162 词汇，听录音，跟读两遍：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.20.mp3" type="audio/mp3">
+</audio>
+
+#### 复习阅读 *Two Stubborn Little Goats*
+
+复习 P158–159 文本，听录音跟读两遍，注意人物的性格和朗读故事的语气，完成打卡。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.18.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 练习册 Workbook P138–143
+
+### 学习内容
+
+- 复习自然拼读短元音故事
+- 复习寓言故事*Two Stubborn Little Goats* 并尝试复述故事
+- 学习歌曲，复习比较级和最高级
+- 谈论最喜欢的运动，并加入动作的描述
+- 完成听力练习和口语交际练习，更细致地描述自己喜欢的运动
+- 学习动画
+- 完成写作练习册草稿 P143
 
 ## D3, 2025-02-27
 

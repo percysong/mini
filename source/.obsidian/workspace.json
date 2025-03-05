@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c744a7bb92bbfefb",
+        "id": "71a211007652acf4",
         "type": "tabs",
         "children": [
           {
-            "id": "30fcbb01ad13540d",
+            "id": "bc8ac74f782a4f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dannychen-2025.md",
+                "file": "ms-li.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,22 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dannychen-2025"
+              "title": "ms-li"
             }
-          }
-        ]
-      },
-      {
-        "id": "1aead723d7bc033f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "2d994f1ad2938d0e",
+            "id": "761cd2cff0eb9902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "winter-2025.md",
+                "file": "bendai.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -58,10 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "winter-2025"
+              "title": "bendai"
+            }
+          },
+          {
+            "id": "379d67b938e53a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaoyuhan.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "shaoyuhan"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -142,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dannychen-2025.md",
+                "file": "bendai.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dannychen-2025"
+              "title": "Outline of bendai"
             }
           },
           {
@@ -240,25 +260,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30fcbb01ad13540d",
+  "active": "761cd2cff0eb9902",
   "lastOpenFiles": [
-    "annaxiang-2025.md",
-    "dannychen-2025.md",
+    "shaoyuhan.md",
+    "bendai.md",
+    "od2a.md",
     "ms-li.md",
-    "od2b.md",
+    "rockyzhu-2025.md",
+    "odf1.md",
+    "wuzimo.md",
     "winter-2025.md",
+    "dannychen-2025.md",
+    "annaxiang-2025.md",
+    "od2b.md",
     "dannychen-2024.md",
     "liaopeiyan.md",
-    "rockyzhu-2025.md",
     "od1a.md",
-    "wuzimo.md",
-    "odf1.md",
-    "bendai.md",
     "Untitled.md",
     "zhuxuanyu.md",
     "for-teachers.md",
     "stevengao.md",
-    "shaoyuhan.md",
     "student-demo.md",
     "english-notes.md",
     "xiangxiyan.md",
@@ -267,7 +288,6 @@
     "chinese.md",
     "math.md",
     "clil-a.md",
-    "annaxiang-2024.md",
     "Attachments/brainpop-jr-mammals.mp4",
     "Attachments/brainpop-jr-insects.mp4",
     "Attachments/brainpop-jr-fish.mp4",

@@ -9,7 +9,69 @@ updated: 2025-02-26
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
 
-## D13, 2025年2月18日
+## D3, 2025-03-04
+
+### 学习资料和学习任务
+
+**复习生词**
+- soil
+	- covers the Earth’s surface; made of tiny rocks and material from dead plants and animals.
+- oxygen (O₂)
+- carbon dioxide (CO₂)
+	- a type of gas that plants sometimes take in and that animals release when they breathe
+- stomata
+	- the tiny openings on plant leaves that take in carbon dioxide and release oxygen
+- producer
+	- a living thing that makes its own food
+- investigate
+	- to figure out the answer to a question or to understand how something works
+- measure
+	- to describe something using numbers that can be compared
+	- e.g. *a tree weighed 160 pounds*
+- container
+	- an object that can be used to hold gases, liquids and solids.
+- balance scale
+	- a tool that weighs two items and compares them to see which one is heavier
+- experiment
+	- a test used to discover new information about a question
+
+#### Video
+
+- What do plants eat?
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/nova-photosynthesis-science-video-pbs-learning-media.mp4" type="video/mp4">
+</video>
+
+- Photosynthesis 光合作用
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/photosynthesis-the-dr-binocs-show-learn-videos-for-kids.mp4" type="video/mp4">
+</video>
+
+**书面作业**
+
+完成本节课练习题单
+
+### 学习内容
+
+本节课，我们探索了植物的生长过程，特别是植物所需的物质来源。通过实验和讨论，我们理解了植物如何从环境中获取生长所需的物质。
+
+科学知识点：
+	•	植物的物质来源：我们了解到植物主要通过光合作用，将二氧化碳和水转化为自身所需要的「食物」，以支持自身的生长。
+
+
+实验活动：
+	•	测量空气的重量：我们设计并进行了实验，证明空气具有重量，从而理解空气中的二氧化碳是植物生长的重要物质来源。
+
+语言点：
+	•	科学术语：我们学习并使用了如「二氧化碳」、「气孔」等科学术语。
+	•	表达假设和推理：我们练习了如何提出科学假设，并通过实验验证这些假设。
+	•	描述实验过程：我们学会了如何清晰地描述实验步骤和观察结果。
+
+通过这节课，我们不仅掌握了植物生长的基本科学概念，还提高了科学探究能力和相关的语言表达能力。Ben 通过自己的思考用不同的方式进行了实验，因为数量不够，很难有直观的判断，不过思路非常值得鼓励。
+
+## D2, 2025年2月25日
 
 ### 学习资料和学习任务
 
@@ -54,7 +116,7 @@ updated: 2025-02-26
 
 我们学习了**生态系统和食物链**的相关知识，帮助孩子理解自然界中生物之间的关系。通过城市中鸽子和老鹰的关系，来认识食物链系统。之后在进行食物链游戏的过程中，阅读了解不同动物的饮食，并拼接组成食物链。
 
-## D13, 2025年2月18日
+## D1, 2025年2月18日
 
 ### 学习资料和学习任务
 

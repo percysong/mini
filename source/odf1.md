@@ -1,8 +1,54 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2025-02-25
+updated: 2025-03-05
 ---
+
+## 2025年3月4日
+
+### 学习资料和学习任务
+
+- **Writing**
+	- Student book P35
+		- 写作初稿：使用合适的表达方式引入观点、对比不同自己选择的两个运动。检查内容、结构和语言表达，确保逻辑清晰，语言自然。
+- Workbook P29–30
+- Audio 听力录音
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_WB1_3.01.mp3" type="audio/mp3">
+</audio>
+- 自主回顾本单元复习总结视频
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_Reflect_Unit_3.mp4" type="video/mp4">
+</video>
+- 回顾对比与比较的视频：Compare and Contrast
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-compare-and-contrast.mp4" type="video/mp4">
+</video>
+
+### 课堂学习内容及反馈
+
+学习任务检查：
+	•	如何用热情的语气吸引听众，避免单调
+	•	使用engaging的语气来review自己的产品
+本节课学习内容：
+	•	写作任务：比较两种运动方式，并表达自己的观点
+	•	理解任务：分析题目要求，确定需要讨论的两种运动方式
+	•	学习比较与对比的方法和策略 Compare and contrast
+	•	头脑风暴与规划：使用对比图表（comparison diagram）列出两种运动的优缺点 (positive & negative) 
+	•	组织段落：
+	1.	第一段：介绍两种运动方式的相似点，并表明自己的偏好
+	2.	第二段：比较两者的不同之处，列举优缺点 
+	3.	第三段：总结观点，说明自己更喜欢哪一种运动及理由
+
+语言点：
+	•	表达个人观点的短语：
+	•	I think that…
+	•	In my opinion,…
+	•	I believe that…
+	•	对比和总结的表达：
+	•	On the other hand,…
+	•	All in all,…
+	•	Finally,…
 
 ## 2025年2月25日
 
