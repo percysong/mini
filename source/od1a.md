@@ -1,8 +1,112 @@
 ---
 title: Oxford Discover 1 Class A
 created: 2024-09-11
-updated: 2025-02-28
+updated: 2025-03-06
 ---
+
+## D3, 2025-03-05
+
+### 本周学习任务
+
+#### 牛津自然拼读巩固 magic e with *a*
+
+{% note info %}
+学习小贴士：
+- 每天复习一个视频
+- 听一遍，跟读两遍
+{% endnote %}
+
+- *_a_e*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_01_a_e.mp4" type="video/mp4">
+</video>
+- *_ake*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_01_ake.mp4" type="video/mp4">
+</video>
+- *_ame*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_01_ame.mp4" type="video/mp4">
+</video>
+- *_ate*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_01_ate.mp4" type="video/mp4">
+</video>
+- *_ave*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_01_ave.mp4" type="video/mp4">
+</video>
+
+#### Alphablocks 拼读视频
+
+复习拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Magic *e* Introduction 介绍视频
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/alphablocks-changing-sounds-with-magic-e-learn-to-read-phonics-for-kids-learning-blocks.mp4" type="video/mp4">
+</video>
+
+#### 拼读绘本操练 *Kate’s Skates*
+
+复习拼读绘本，听录音，暂停跟读两遍。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track18.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-1.jpeg)
+
+#### 复习 P54 词汇
+
+{% note info %}
+- 难度 ★☆☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/OD2e_L1_Student_Book_Audio_1.35.mp3" type="audio/mp3">
+</audio>
+
+#### 口语交际
+
+P55-E 复习遇到危险情况的口语交际语言表达。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/OD2e_L1_Student_Book_Audio_1.38.mp3" type="audio/mp3">
+</audio>
+
+#### 特殊的复数变化
+
+跟读两遍，注意名次的特殊变化。
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/irregular-plurals.mp4" type="video/mp4">
+</video>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/irregular-plural-nouns-poster.jpeg)
+
+#### 练习册 Workbook
+
+完成 P44–45 练习
+
+### 课堂学习内容
+
+- *Old MacDonald* 歌曲预热，熟悉动物叫声的英文表达
+- 开课自然拼读 Magic *e* 巩固，学习更多例词
+	- 阅读拼读绘本 *Kate’s Skates*
+- 阅读动物描述，根据动物特点猜测动物
+- 学习更多的动物及其栖息地词汇
+- 完成关于动物的听力练习
+- 口语交际，学习遇到危险的提示语言
+- 总结语法复数的规则和不规则的复数变化
+- 口语表达：描述自己最喜欢的动物，它们住在哪里，有什么特点
+
+### 课堂反馈
+
+- 大家对 Magic *e* 的拼读规则基本了解，我们主要强化双元音发音，扩充更多词汇。
+- 对词汇掌握得都不错，我们加入了拼写的训练，squirrel和field拼写很难，大家在练习中记住大概形状即可，慢慢重复加深印象。
+- 对复数变化有一定的了解，比如 fox 加 es 变成 foxes；但是特殊的名次变化大家都不熟悉，需要注意复习。
 
 ## D2, 2025-02-26
 
