@@ -1,8 +1,51 @@
 ---
 title: Danny 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-03-03
+updated: 2025-03-07
 ---
+
+## D5, 2025-03-06
+
+### 学习任务
+
+- 复习拼读故事 *Help!*, *The Fox* 每天跟读两遍，第三天打卡，发送朗读视频给老师。
+- *Help!*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB2_Disc2_Track16.mp3" type="audio/mp3">
+</audio>
+
+- *The Fox*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB2_Disc2_Track30.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_2_Stories-5.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_2_Stories-6.jpeg)
+{% endgrouppicture %}
+
+- 彩色学习材料 P102–103 课文 *The clock on the wall* 跟读，每天一页，跟读两遍。
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/PEC L1 Power Up CD3 Track 26.mp3" type="audio/mp3">
+</audio>
+
+- 黑白练习册 P102–104
+- P104 听力
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/PEC L1 Power Up CD4 Track 49.mp3" type="audio/mp3">
+</audio>
+
+### 课堂学习内容和课堂反馈
+
+- 复习星期的说法（大家对于 Thursday 还不太熟，其它都很熟练）
+- 学习月份的表达
+- 继续阅读了原版拼读故事绘本，操练短元音拼读
+	- 学习拼读故事 *Help!*, *The Fox*
+- 复习世界上不同的房屋，检查作业完成情况
+- 学习故事 *The clock on the wall*, 尝试描述图片，复习动作词汇、房间名称以及屋内的物体。
+- 完成课后练习和方位词的听力练习。
+
+Danny 拼读的速度有一定提升，仍然保持着良好的准确度。作业完成得非常认真，值得表扬！本节课专注有一定提升，继续保持哟。
 
 ## D4, 2025-03-02
 

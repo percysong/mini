@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-03-05
+updated: 2025-03-07
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,62 @@ updated: 2025-03-05
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D5, 2025-03-06
+
+### 学习资料和学习任务
+
+#### 自然拼读绘本
+
+听录音跟读两遍，自主拼读一遍。持续两天。
+
+- *The Club*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB4_Disc1_Track17.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_4_SB_Story-1.jpeg)
+
+#### Video
+
+- 观看 BrainPop，复习 Story Elements
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-character.mp4" type="video/mp4">
+	</video>
+
+#### Vocabulary
+
+复习 P168 词汇，听录音，跟读两遍：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.25.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读 *Shapes In Art*
+
+复习 P170–171 文本，听录音，圈出自己不熟悉的词汇，尝试根据上下文和图片理解。完成 P172 课后练习 B, C
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.26.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 练习册 Workbook P144–147
+
+### 学习内容
+
+- 复习自然拼读并完成听写练习
+	- <mark>宣宇拼写还需要加强，很多基础的词汇都还是会拼错</mark>
+- 阅读自然拼读绘本
+- 开启第二册最后一个单元 *How do we make art?* 的学习
+	- 探究什么是 art
+	- 怎么制作 art
+	- 熟悉图形词汇，我们能在哪里看到这些图形
+	- <mark>本课的图形除了 star 之外都不是很熟悉</mark>
+- 学习阅读策略，如何在阅读过程中与自己的个人经历相关联
+- 阅读文本，初步认识不同的图形，已经「边」sides 和「角」corner 的英文表达
+
 
 ## D4, 2025-03-03
 
