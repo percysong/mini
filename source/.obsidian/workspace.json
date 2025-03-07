@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rockyzhu-2025.md",
+                "file": "od2c.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rockyzhu-2025"
+              "title": "od2c"
             }
           },
           {
-            "id": "0ad6cfca7d17c8df",
+            "id": "69165c49cef81f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "annaxiang-2025.md",
+                "file": "od2b.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "annaxiang-2025"
+              "title": "od2b"
             }
           }
         ]
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -137,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rockyzhu-2025.md",
+                "file": "od2c.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of rockyzhu-2025"
+              "title": "Outline of od2c"
             }
           },
           {
@@ -237,18 +236,20 @@
   },
   "active": "aa91e1daf1a8d64c",
   "lastOpenFiles": [
-    "annaxiang-2025.md",
+    "od2b.md",
+    "od2c.md",
+    "od2a.md",
+    "od1a.md",
     "rockyzhu-2025.md",
+    "annaxiang-2025.md",
+    "xiangxiyan.md",
     "ms-li.md",
     "dannychen-2025.md",
-    "od1a.md",
     "wuzimo.md",
     "shaoyuhan.md",
     "bendai.md",
-    "od2a.md",
     "odf1.md",
     "winter-2025.md",
-    "od2b.md",
     "dannychen-2024.md",
     "liaopeiyan.md",
     "Untitled.md",
@@ -257,12 +258,10 @@
     "stevengao.md",
     "student-demo.md",
     "english-notes.md",
-    "xiangxiyan.md",
     "chenruochun.md",
     "for-parents.md",
     "chinese.md",
     "math.md",
-    "clil-a.md",
     "Attachments/brainpop-jr-mammals.mp4",
     "Attachments/brainpop-jr-insects.mp4",
     "Attachments/brainpop-jr-fish.mp4",
