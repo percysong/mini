@@ -1,10 +1,10 @@
 ---
 title: Ms Li 英语拓展课程
 created: 2024-09-11
-updated: 2025-03-08
+updated: 2025-03-10
 ---
 
-## D7, 2025-03-09
+## D3, 2025-03-09
 
 ### 牛津自然拼读 long *u*
 
@@ -52,7 +52,7 @@ updated: 2025-03-08
 - *_i_e*
 	<video width="100%" height="auto" controls>
 	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_02_i_e.mp4" type="video/mp4">
-</video>
+	</video>
 - *_ike*
 	<video width="100%" height="auto" controls>
 	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_02_ike.mp4" type="video/mp4">
@@ -107,7 +107,7 @@ updated: 2025-03-08
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
 </audio>
 
-## D6, 2025-03-03
+## D2, 2025-03-03
 
 ### 牛津自然拼读 magic e with *a*
 
