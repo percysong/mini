@@ -1,8 +1,61 @@
 ---
 title: Anna 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-03-07
+updated: 2025-03-10
 ---
+
+## D6, 2025-03-09
+
+### 学习任务
+
+#### 自然拼读
+
+- 复习拼读故事 *The Mud*, *Friends* 每天暂停跟读两遍，第三天打卡，发送朗读视频给老师。
+- *The Mud*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB2_Disc2_Track47.mp3" type="audio/mp3">
+</audio>
+
+- *Friends*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB2_Disc2_Track62.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_2_Stories-7.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_2_Stories-8.jpeg)
+{% endgrouppicture %}
+
+#### 词汇
+
+复习红色书上 P108 词汇，跟读两遍。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.17.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读故事
+
+复习 P110–111 故事，听录音，跟读两遍，注意故事发生的顺序。不清楚的词汇结合图片猜测。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.18.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+红色练习册 P92–93
+
+### 课堂学习内容和课堂反馈
+
+- 复习星期和月份的表达
+- 继续阅读短元音拼读绘本，完成所有短元音的拼读练习
+- 复习红色书 Unit 9 完成单元测试
+- 复习寒假课程关于「需要」和「想要」的主题单元
+- 复习阅读策略：Sequence 在阅读故事的时候，要考虑到故事发生的顺序
+- 复习故事 *The Farmer and the Hat*，看图片，尝试描述表达
+
+Anna 对之前学习的关于数字的词汇有些遗忘，句型掌握得不错。回到之前的教材还没有适应，描述图片和故事还是有很大的难度，需要多多尝试。
 
 ## D5, 2025-03-06
 

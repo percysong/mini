@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71a211007652acf4",
+        "id": "dd0e70cd5fe2906f",
         "type": "tabs",
         "children": [
           {
-            "id": "aa91e1daf1a8d64c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "od2c.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "od2c"
-            }
-          },
-          {
-            "id": "69165c49cef81f72",
+            "id": "5e897f5e16fe3ac6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -136,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2c.md",
+                "file": "od2b.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2c"
+              "title": "Outline of od2b"
             }
           },
           {
@@ -221,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,25 +212,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa91e1daf1a8d64c",
+  "active": "5e897f5e16fe3ac6",
   "lastOpenFiles": [
+    "winter-2025.md",
     "od2b.md",
+    "shaoyuhan.md",
+    "annaxiang-2025.md",
+    "dannychen-2025.md",
+    "Untitled.md",
+    "ms-li.md",
+    "wuzimo.md",
     "od2c.md",
     "od2a.md",
     "od1a.md",
     "rockyzhu-2025.md",
-    "annaxiang-2025.md",
     "xiangxiyan.md",
-    "ms-li.md",
-    "dannychen-2025.md",
-    "wuzimo.md",
-    "shaoyuhan.md",
     "bendai.md",
     "odf1.md",
-    "winter-2025.md",
     "dannychen-2024.md",
     "liaopeiyan.md",
-    "Untitled.md",
     "zhuxuanyu.md",
     "for-teachers.md",
     "stevengao.md",

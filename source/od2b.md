@@ -1,8 +1,61 @@
 ---
 title: 牛津探索2 周日班
 created: 2024-10-19
-updated: 2025-03-03
+updated: 2025-03-10
 ---
+
+## D3, 2025-03-09
+
+### 课堂回顾
+
+- 复习自然拼读
+- 通过描述小动物猜谜游戏复习句型：
+	- It is … (color/size)
+	- It has … (fur/hair/scales/skin)
+	- It can …
+	- It lives … (on land / in water / …)
+	- It eats …
+	- …
+- 学习语法 Object Pronouns 并口头操练
+- 学习在受伤时候的口语交际
+- 完成听力练习，了解更多有趣动物的 Fun Facts，训练细节的把控和复述能力
+- 学习合成词 Compound Words
+
+### 学习任务
+
+#### 歌曲
+
+复习书上 P13 歌曲，注意目标句型 **A**s have **B** to help them …
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.04.mp3" type="audio/mp3">
+</audio>
+
+#### 词汇
+
+复习书上 P14 词汇，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.02.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+完成练习册 P6–9
+
+#### 视频扩展
+
+- 观看视频，复习第一单元的大问题总结
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_01_Wrapup1.mp4" type="video/mp4">
+</video>
+
+- 观看视频，学习更多的 Compound Words 合成词
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-compound-words.mp4" type="video/mp4">
+</video>
 
 ## D2, 2025-03-02
 
