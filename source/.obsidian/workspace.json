@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "odf1.md",
+                "file": "ms-li.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "odf1"
+              "title": "ms-li"
             }
           }
         ]
@@ -113,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "odf1.md",
+                "file": "ms-li.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of odf1"
+              "title": "Outline of ms-li"
             }
           },
           {
@@ -214,6 +214,7 @@
   },
   "active": "8d70e8a4b6160986",
   "lastOpenFiles": [
+    "odf1.md",
     "rockyzhu-2025.md",
     "ms-li.md",
     "od2b.md",
@@ -228,7 +229,6 @@
     "od1a.md",
     "xiangxiyan.md",
     "bendai.md",
-    "odf1.md",
     "dannychen-2024.md",
     "liaopeiyan.md",
     "zhuxuanyu.md",

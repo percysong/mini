@@ -1,7 +1,7 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2025-03-05
+updated: 2025-03-11
 ---
 
 ## 2025年3月10日
@@ -66,8 +66,6 @@ updated: 2025-03-05
 • _I’m a (big) fan of…_
 • _I joined to…_
 • _I’m thinking of joining…_
-
-
 
 ## 2025年3月4日
 

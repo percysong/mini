@@ -8,6 +8,12 @@ updated: 2025-03-10
 
 ### 牛津自然拼读 long *u*
 
+{% note info %}
+学习小贴士：
+- 每天复习两个视频和一个拼读故事
+- 听一遍，跟读一遍
+{% endnote %}
+
 - *ew*
 	<video width="100%" height="auto" controls>
 	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_08_ew.mp4" type="video/mp4">
@@ -46,7 +52,7 @@ updated: 2025-03-10
 {% note info %}
 学习小贴士：
 - 每天复习一个视频
-- 听一遍，暂停跟读两遍
+- 听一遍，跟读一遍
 {% endnote %}
 
 - *_i_e*
@@ -89,7 +95,7 @@ updated: 2025-03-10
 {% endnote %}
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
 </audio>
 
 ### 课文
