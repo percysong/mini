@@ -4,6 +4,71 @@ created: 2024-09-11
 updated: 2025-03-05
 ---
 
+## 2025年3月10日
+
+### 学习资料和学习任务
+
+- Workbook P30–31, P36–Groups
+
+复习 Student Book P118 Groups 词汇
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_SB1_1.28.mp3" type="audio/mp3">
+</audio>
+
+复习 P116–117 Unit 3 词汇，听录音，跟读两遍，参考例句，回顾其使用语境
+
+- Prizes
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_SB1_1.25.mp3" type="audio/mp3">
+	</audio>
+- Consumer information
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_SB1_1.27.mp3" type="audio/mp3">
+	</audio>
+
+回顾 Factflix 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_Level_1_Factflix_Unit_4_final.mp4" type="video/mp4">
+</video>
+
+### 课堂学习内容及反馈
+
+学习任务检查：
+	•	互相评价写作，是否达到了要求
+	•	修改其不清晰的表达和中式表达
+	•	回顾第三单元大问题，说说我们印象最为深刻和有趣的理解
+
+开启新的单元，「群体如何一同运作」，讨论群体相关的话题：
+
+**讨论与活动：**
+
+• **讨论问题**：
+
+1. **我们作为群体是否更强大**？
+2. 哪些人群在社交媒体上拥有最多的关注者？
+3. 最受欢迎的群组聊天应用是什么？
+4. 志愿者群体做什么工作？
+5. 为什么人们喜欢加入群体？
+6. 为什么一些动物是群居生活？
+
+• **观看视频**：
+
+观看Factilix视频，回答与群体相关的问题，并讨论为什么人们加入群体。
+
+**语言学习：**
+
+• **谈论群体活动的常用短语**：
+
+• _I’m/ I was a member of…_
+• _I follow/support because…_
+• _I’m a (big) fan of…_
+• _I joined to…_
+• _I’m thinking of joining…_
+
+
+
 ## 2025年3月4日
 
 ### 学习资料和学习任务

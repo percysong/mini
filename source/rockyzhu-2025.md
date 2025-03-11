@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-03-07
+updated: 2025-03-11
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,59 @@ updated: 2025-03-07
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D6, 2025-03-10
+
+### 学习资料和学习任务
+
+#### 自然拼读绘本
+
+听录音跟读两遍，自主拼读一遍。持续两天。
+
+- *Happy Frogs*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB4_Disc1_Track32.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_4_SB_Story-2.jpeg)
+
+#### Song 歌曲
+
+P173–D 歌曲，听录音，跟唱两遍，注意目标句型。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.27.mp3" type="audio/mp3">
+</audio>
+
+#### Vocabulary
+
+复习 P174 词汇，听录音，跟读两遍：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.28.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读 *Shapes In Art*
+
+复习 P170–171 文本，听录音，跟读两遍，每两天跟读一页。注意形状的描述和表达。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.26.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 练习册 Workbook P148–151
+- 注意可数名词和不可数名词的不同限定词区分
+
+### 学习内容
+
+- 复习自然拼读
+- 阅读自然拼读绘本
+- 检查作业 <mark>没有使用最高级；拼写错误有点多，需要更仔细</mark>
+- 复习关于不同形状的定义，检查课后练习
+- 学习语法，可数名词和不可数名词以及其限定词的使用
+- 学习更多的艺术形式词汇表达
 
 ## D5, 2025-03-06
 
