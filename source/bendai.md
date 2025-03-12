@@ -1,13 +1,82 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2025-03-05
+updated: 2025-03-12
 ---
 
 - 学生姓名：代超巡
 - English Name: Ben
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
+
+## D4, 2025-03-11
+
+### 学习资料和学习任务
+
+**复习生词**
+- fungus *sing.* (fungi *pl*)
+	- a living thing that is a decomposer and has spores, such as a mold or mushroom
+- mushroom
+	- a type of fungus that usually has a stalk and cap
+- mold
+	- a type of fungus that often decomposes food
+- spore
+	- a part of a fungus that contains the offspring, similar to the seed of a plant
+- rot
+	- To _rot_ is to decompose, or break down into smaller parts. When old food at the back of your refrigerator _rots_, you should throw it away
+- preserve
+	- prevent (food) from rotting
+- decompose
+	- the process of **breaking down** dead living things
+- decomposer
+	- a living thing that can break down dead living things
+- predict
+	- to guess what will happen based on things you know
+- experiment
+	- a test used to discover new information about a question
+- control
+	- something in an experiment that you do not change
+- variable
+	- something that you can change in an experiment in order to test an idea
+
+#### Video
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/the-dirt-on-decomposers-crash-course-kids-7-2.mp4" type="video/mp4">
+</video>
+
+**书面作业**
+
+完成本节课练习题单
+
+### 学习内容
+
+**课程主题：分解者与物质循环**
+
+在这节课中，我们探讨了**分解者**在生态系统中的关键作用，特别是它们如何分解有机物并将养分返回土壤，维持物质循环。
+
+**科学知识点：**
+
+• **分解者的角色**：我们了解到真菌和其他分解者如何分解死去的植物和动物，将有机物转化为无机物，释放养分供植物再利用。
+• **物质循环**：通过分解过程，物质在生态系统中不断循环，确保养分的持续供应，支持新的生命形式的生长。
+
+
+**实验活动：**
+
+• **霉菌生态包**：我们设计并进行实验，探究不同食物类型和环境条件对霉菌生长的影响。
+• **实验步骤**：
+
+1. 将不同类型的食物（如面包、果片）放入密封袋中。
+2. 改变环境变量，如温度、湿度等。
+3. 在两周内定期观察并记录霉菌的生长情况。
+  
+**语言点：**
+
+• **科学术语**：我们学习并使用了如“分解者”、“物质循环”、“真菌”、“霉菌”等术语。
+• **描述实验过程**：我们练习了如何详细描述实验步骤、观察结果，并进行数据记录和分析；理解了实验组对照组的意义。
+• **提出假设与结论**：我们学会了如何根据实验设计提出假设，并根据观察结果得出结论，理解科学探究的基本方法。
+  
+通过这节课，我们深入理解了分解者在生态系统中的重要性，掌握了物质循环的基本概念，并培养了科学探究和实验设计的能力。
 
 ## D3, 2025-03-04
 
@@ -71,7 +140,7 @@ updated: 2025-03-05
 
 通过这节课，我们不仅掌握了植物生长的基本科学概念，还提高了科学探究能力和相关的语言表达能力。Ben 通过自己的思考用不同的方式进行了实验，因为数量不够，很难有直观的判断，不过思路非常值得鼓励。
 
-## D2, 2025年2月25日
+## D2, 2025-02-25
 
 ### 学习资料和学习任务
 
@@ -116,7 +185,7 @@ updated: 2025-03-05
 
 我们学习了**生态系统和食物链**的相关知识，帮助孩子理解自然界中生物之间的关系。通过城市中鸽子和老鹰的关系，来认识食物链系统。之后在进行食物链游戏的过程中，阅读了解不同动物的饮食，并拼接组成食物链。
 
-## D1, 2025年2月18日
+## D1, 2025-02-18
 
 ### 学习资料和学习任务
 

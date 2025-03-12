@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd0e70cd5fe2906f",
+        "id": "e732453eb5ee8887",
         "type": "tabs",
         "children": [
           {
-            "id": "8d70e8a4b6160986",
+            "id": "3326838eca2f556d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ms-li.md",
+                "file": "od2a.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ms-li"
+              "title": "od2a"
+            }
+          },
+          {
+            "id": "885f911d3244c1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bendai.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bendai"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,23 +237,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d70e8a4b6160986",
+  "active": "885f911d3244c1e7",
   "lastOpenFiles": [
+    "od2a.md",
+    "bendai.md",
+    "shaoyuhan.md",
+    "ms-li.md",
     "odf1.md",
     "rockyzhu-2025.md",
-    "ms-li.md",
     "od2b.md",
     "winter-2025.md",
-    "shaoyuhan.md",
     "annaxiang-2025.md",
     "dannychen-2025.md",
     "Untitled.md",
     "wuzimo.md",
     "od2c.md",
-    "od2a.md",
     "od1a.md",
     "xiangxiyan.md",
-    "bendai.md",
     "dannychen-2024.md",
     "liaopeiyan.md",
     "zhuxuanyu.md",
