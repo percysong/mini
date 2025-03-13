@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "885f911d3244c1e7",
+            "id": "ff9e3ddcf09b3db0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bendai.md",
+                "file": "od1a.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +52,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bendai"
+              "title": "od1a"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "43d9a249c09b845f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3a6fb987ac7646a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wuzimo.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "wuzimo"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ms-li.md",
+                "file": "od1a.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ms-li"
+              "title": "Outline of od1a"
             }
           },
           {
@@ -223,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,8 +266,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "885f911d3244c1e7",
+  "active": "ff9e3ddcf09b3db0",
   "lastOpenFiles": [
+    "wuzimo.md",
+    "od1a.md",
     "od2a.md",
     "bendai.md",
     "shaoyuhan.md",
@@ -250,9 +281,7 @@
     "annaxiang-2025.md",
     "dannychen-2025.md",
     "Untitled.md",
-    "wuzimo.md",
     "od2c.md",
-    "od1a.md",
     "xiangxiyan.md",
     "dannychen-2024.md",
     "liaopeiyan.md",

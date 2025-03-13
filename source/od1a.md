@@ -1,8 +1,91 @@
 ---
 title: Oxford Discover 1 Class A
 created: 2024-09-11
-updated: 2025-03-06
+updated: 2025-03-13
 ---
+
+## D4, 2025-03-12
+
+### 本周学习任务
+
+#### 牛津自然拼读巩固 long *a*
+
+{% note info %}
+学习小贴士：
+- 每天复习一个视频
+- 听一遍，跟读两遍
+{% endnote %}
+
+- *ai*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_04_ai.mp4" type="video/mp4">
+	</video>
+- *ay*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_04_ay.mp4" type="video/mp4">
+	</video>
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *a*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/03/alphablocks-level-five-long-vowels-long-a-full-episodes-learn-how-to-read.mp4" type="video/mp4">
+</video>
+
+#### 拼读绘本操练 *Bees in the Sea*
+
+复习拼读绘本，听录音，暂停跟读两遍。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc2_Track16.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-5.jpeg)
+
+#### 复习 P56 词汇
+
+{% note info %}
+- 难度 ★★☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍；自主阅读例句。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+#### 预习 P58–59 阅读 *My Friend Anak*
+
+{% note info %}
+- 难度 ★★★
+- Day 1: Read the titles, look at the pictures, guess what is the story about. Listen to the audio two times, talk about what you learned.
+  第一天：阅读标题，看图片，猜一猜故事是关于什么的；听两遍录音，说一说你听到了什么
+- Day 2: 暂停跟读第一、二自然段，跟读两遍，注意生词的发音，模仿语音语调；
+- Day 3: 复习第一自然段，跟读一遍；暂停跟读第二、三自然段，跟读两遍注意生词的发音，模仿语音语调；
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook
+
+完成 P46–47 练习
+
+### 课堂学习内容
+
+- 开课自然拼读复习 Magic *e* ，学习 long *a*
+	- 阅读拼读绘本 *Bees in the Sea*
+- 学习 P56 词汇，关于在动物保护区里的动物、栖息地、以及动作词汇
+- 学习阅读策略：识别故事人物 Identifying Characters
+	- 观看小红帽的故事 *Little Red Riding Hood*，识别人物
+	- 阅读书上的小故事，找到人物
+- 初步感知故事 *My Friend Anak*，运用阅读策略识别任务，预测故事
+
+- 大家对自然拼读掌握得都不错，能准确发出 long *a* 的读音
+- 本节课的词汇部分稍有难度，包括 orangutan 的读音，reserve 的重音，以及三个动词短语容易混淆
 
 ## D3, 2025-03-05
 
