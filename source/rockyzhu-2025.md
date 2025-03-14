@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-03-11
+updated: 2025-03-14
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,63 @@ updated: 2025-03-11
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D7, 2025-03-13
+
+### 学习资料和学习任务
+
+#### 自然拼读绘本
+
+听录音跟读两遍，自主拼读一遍。持续两天。
+
+- *Seasons*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB4_Disc1_Track48.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_4_SB_Story-3.jpeg)
+
+#### Song 歌曲
+
+P173–D 歌曲，听录音，跟唱两遍，注意目标句型。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.27.mp3" type="audio/mp3">
+</audio>
+
+#### Vocabulary
+
+- 复习 P174 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.28.mp3" type="audio/mp3">
+	</audio>
+- 复习 P176 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.32.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读 *Origami*
+
+预习 P178–179 文本，看图片猜测故事，听录音，勾画出自己不熟悉的生词。第三天尝试跟读一遍。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.33.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 练习册 Workbook P148–155
+- 注意可数名词和不可数名词的不同限定词区分
+
+### 学习内容
+
+- 复习自然拼读
+- 阅读自然拼读绘本 *Seasons*
+- 复习更多的艺术形式及词汇表达，完成听力练习，判断不同形式
+- 口语交际，学习如何赞赏他人的作品并回应
+- 学习语法 Homophones 同音词
+- 学习更多的折纸艺术相关形式词汇表达
+- 复习阅读策略：联系自己的经历
 
 ## D6, 2025-03-10
 

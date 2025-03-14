@@ -1,8 +1,105 @@
 ---
 title: Anna 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-03-10
+updated: 2025-03-14
 ---
+
+## D7, 2025-03-13
+
+### 学习任务
+
+#### 牛津自然拼读 magic e with *a*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *_a_e*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_01_a_e.mp4" type="video/mp4">
+</video>
+- *_ake*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_01_ake.mp4" type="video/mp4">
+</video>
+- *_ame*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_01_ame.mp4" type="video/mp4">
+</video>
+- *_ate*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_01_ate.mp4" type="video/mp4">
+</video>
+- *_ave*
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_01_ave.mp4" type="video/mp4">
+</video>
+
+#### 拼读绘本操练 *Kate’s Skates*
+
+复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track18.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-1.jpeg)
+
+#### 歌曲
+
+- 复习红色书上 P113–C 歌曲，跟唱两遍。
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.19.mp3" type="audio/mp3">
+	</audio>
+
+#### 词汇
+
+- 复习红色书上 P108 词汇，跟读两遍。
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.17.mp3" type="audio/mp3">
+	</audio>
+- 复习红色书上 P114 词汇，跟读两遍。
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.20.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读故事
+
+- 继续复习 P110–111 故事，听录音，跟读两遍，注意故事发生的顺序。
+- 连续复习两天，第三天请参考老师的提示词卡，尝试复述故事。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.18.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 9-7 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.001.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.002.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.003.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.004.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.005.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.006.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.007.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.008.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.009.jpeg)
+{% endgrouppicture %}
+
+#### 练习册
+
+红色练习册 P94–97
+
+### 课堂学习内容和课堂反馈
+
+- 阅读学习长元音 magic *e* with long *a* 拼读绘本
+- 复习故事 *The Farmer and the Hat*，看图片，根据提示词复述部分课文
+- 学习语法：一般现在时的第三人称单数表达
+- 完成歌曲跟唱及书面练习
+- 互相用第三人称单数描述对方有、想要和需要的事物
+- 学习更多游戏物品词汇
+
+Anna 因为课文没有复习，所以在回顾故事上有一些困难，包括 P108 的词汇也不是很熟悉，下来要加强跟读复习哟。语法部分有意识到第三人称单数的变化，但在表达上还是容易遗忘，需要更多练习。
 
 ## D6, 2025-03-09
 
