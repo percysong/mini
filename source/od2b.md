@@ -1,8 +1,66 @@
 ---
 title: 牛津探索2 周日班
 created: 2024-10-19
-updated: 2025-03-10
+updated: 2025-03-17
 ---
+
+## D4, 2025-03-16
+
+### 课堂回顾
+
+- 检查作业完成情况
+	- 大家对 compound word 合成词那道题没有太理解，其它完成得都不错
+- 学习自然拼读字母组合 blending
+	- *sc sk sm sn sp st sw squ str*
+	- 大家对这些拼读都很熟悉，主要是扩展词汇，复习巩固拼读
+- 学习更多关于动物和动作的词汇
+	-  注意 *worm* (w-er-m), *squawk* (skw-o-k) 的读音
+- 复习阅读策略：比较和对比，运用该策略来分析虚构文本中的角色
+- 复习故事要素：
+	- character
+	- setting
+	- problem
+	- solution
+- 学习故事 *Leo and Lily’s Adventure*
+	- 根据图片标题预测故事
+	- 用英文描述自己对故事的猜测
+	- 听录音，找到故事中的 problem
+	- 找到 solution
+	- 对比角色的特点，完成课后练习
+
+### 学习任务
+
+#### 复习故事
+
+阅读 P18–19 文本，听录音，每两天跟读一页
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+</audio>
+
+#### 词汇
+
+复习书上 P16 词汇，跟读两遍；同时代入练习B的句子中朗读熟悉
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.09.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+完成练习册 P10–13
+
+#### 视频扩展
+
+- 观看 BrainPop，复习 Story Elements
+	- Character
+		<video width="100%" height="auto" controls>
+		  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-character.mp4" type="video/mp4">
+		</video>
+	- Setting
+		<video width="100%" height="auto" controls>
+		  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-setting.mp4" type="video/mp4">
+		</video>
 
 ## D3, 2025-03-09
 

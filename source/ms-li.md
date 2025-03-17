@@ -1,8 +1,68 @@
 ---
 title: Ms Li 英语拓展课程
 created: 2024-09-11
-updated: 2025-03-12
+updated: 2025-03-15
 ---
+
+## D4, 2025-03-16
+
+### 牛津自然拼读 magic e with *o* & *u*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *_o_e*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_03_o_e.mp4" type="video/mp4">
+	</video>
+- *_u_e*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_03_u_e.mp4" type="video/mp4">
+	</video>
+- *_ube*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_03_ube.mp4" type="video/mp4">
+	</video>
+
+### 拼读绘本操练 *Luke and the Bone*
+
+复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track50.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-3.jpeg)
+
+### P56 词汇音频
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+### 课文
+
+{% note info %}
+- 预习 P58–59 阅读 *My Friend Anak*
+- 难度 ★★☆
+- Day 1: Read the titles, look at the pictures, guess what is the story about. Listen to the audio two times, talk about what you learned.
+  第一天：阅读标题，看图片，猜一猜故事是关于什么的；听两遍录音，说一说你听到了什么
+- Day 2: 暂停跟读第一、二自然段，跟读两遍，注意生词的发音，模仿语音语调；
+- Day 3: 复习第一自然段，跟读一遍；暂停跟读第二、三自然段，跟读两遍注意生词的发音，模仿语音语调；
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
 
 ## D3, 2025-03-09
 
