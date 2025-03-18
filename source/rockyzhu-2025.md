@@ -10,6 +10,63 @@ updated: 2025-03-14
 - 开始学习日期：2024 年 9 月 23 日
 ---
 
+## D8, 2025-03-17
+
+### 学习资料和学习任务
+
+#### 自然拼读绘本
+
+听录音跟读两遍，自主拼读一遍。持续两天。
+
+- *Dolphin Bay*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB4_Disc1_Track64.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_4_SB_Story-4.jpeg)
+
+#### Song 歌曲
+
+P181–D 歌曲，听录音，跟唱两遍，注意目标句型。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.34.mp3" type="audio/mp3">
+</audio>
+
+#### Vocabulary
+
+- 复习 P182 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.35.mp3" type="audio/mp3">
+	</audio>
+
+- 听写拼词练习
+	- P168 词汇
+	- 注意 nature, sculpture 的 *-ture* 发音
+	- 注意 sculpture 和 oval, spiral 中 *l* 的发音
+
+#### 阅读 *Origami*
+
+复习 P178–179 文本，跟读两遍，每两天跟读一页。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_3.33.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 练习册 Workbook P156–161
+- 注意可数名词和不可数名词的不同限定词区分
+
+### 学习内容
+
+- 复习自然拼读 nd, nk, nt, ck, qu, 完成拼写练习
+- 学习故事，解决生词并完成课后练习
+- 学习歌曲，复习可数不可数名词的语法表达
+- 学习更多的文具用品，完成听力练习
+- 口语交际：如何描述一件艺术作品
+- 写作：学习逗号 comma 的使用
+
 ## D7, 2025-03-13
 
 ### 学习资料和学习任务
