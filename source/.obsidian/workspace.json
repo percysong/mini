@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rockyzhu-2025.md",
+                "file": "ms-li.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rockyzhu-2025"
+              "title": "ms-li"
             }
           }
         ],
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rockyzhu-2025.md",
+                "file": "ms-li.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of rockyzhu-2025"
+              "title": "Outline of ms-li"
             }
           },
           {
@@ -238,9 +238,9 @@
   },
   "active": "c88c74792c79ed5a",
   "lastOpenFiles": [
+    "rockyzhu-2025.md",
     "odf1.md",
     "ms-li.md",
-    "rockyzhu-2025.md",
     "park-english.md",
     "annaxiang-2025.md",
     "dannychen-2025.md",

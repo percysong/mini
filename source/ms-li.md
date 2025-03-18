@@ -52,12 +52,9 @@ updated: 2025-03-15
 ### 课文
 
 {% note info %}
-- 预习 P58–59 阅读 *My Friend Anak*
+- 复习 P58–59 阅读 *My Friend Anak*
 - 难度 ★★☆
-- Day 1: Read the titles, look at the pictures, guess what is the story about. Listen to the audio two times, talk about what you learned.
-  第一天：阅读标题，看图片，猜一猜故事是关于什么的；听两遍录音，说一说你听到了什么
-- Day 2: 暂停跟读第一、二自然段，跟读两遍，注意生词的发音，模仿语音语调；
-- Day 3: 复习第一自然段，跟读一遍；暂停跟读第二、三自然段，跟读两遍注意生词的发音，模仿语音语调；
+- 跟读文本两遍，每两天跟读一页，注意语音语调和情绪
 {% endnote %}
 
 <audio controls>
