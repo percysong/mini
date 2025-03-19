@@ -55,7 +55,8 @@
               "title": "bendai"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2a.md",
+                "file": "bendai.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2a"
+              "title": "Outline of bendai"
             }
           },
           {
@@ -235,10 +236,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b51ab7718bc619d",
+  "active": "c88c74792c79ed5a",
   "lastOpenFiles": [
-    "bendai.md",
     "od2a.md",
+    "bendai.md",
     "odf1.md",
     "ms-li.md",
     "rockyzhu-2025.md",

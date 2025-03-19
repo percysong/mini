@@ -4,7 +4,7 @@ created: 2024-10-19
 updated: 2025-03-19
 ---
 
-## D3, 2025-03-11
+## D3, 2025-03-18
 
 ### 学习资料和学习任务
 
@@ -17,7 +17,6 @@ updated: 2025-03-19
 	- renewable
 	- nonrenewable
 	- conserve
-
 - 复习 BrainPop 关于 Natural Resources 的视频：
 
 <video width="100%" height="auto" controls>
