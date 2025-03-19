@@ -1,13 +1,98 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2025-03-12
+updated: 2025-03-19
 ---
 
 - 学生姓名：代超巡
 - English Name: Ben
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
+
+## D4, 2025-03-11
+
+### 学习资料和学习任务
+
+**复习生词**
+- mold
+	- a type of fungus that often decomposes food
+- spore
+	- a part of a fungus that contains the offspring, similar to the seed of a plant
+- organism
+	- any living thing
+- nutrient
+	- a substance that living things need to grow and stay healthy
+- producer
+	- a living thing that makes its own food
+- consumer
+	- a living thing that eats other living things
+- decomposer
+	- a living thing that can break down dead living things
+- bacteria
+	- an organism that is usually a decomposer; some cause illness
+- fungus *sing.* (fungi *pl*)
+	- a living thing that is a decomposer and has spores, such as a mold or mushroom
+- algae
+	- tiny living things in water that produce their own food, like plants do
+- phytoplankton
+	- tiny, floating living things in water that are smaller than algae and produce their own food, like plants do
+- system
+	- a group of things that affect each other and function as a whole
+- ecosystem
+	- all the living things that interact with each other and their environment in one place
+- cycle
+	- a set of events that repeats in the same order over and over
+- carbon cycle
+	- the process of carbon moving through living things and the environment
+- atmosphere
+	- the air that surrounds a planet
+
+#### Video
+
+- 介绍 Ecosystem 的视频
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ecosystem-the-dr-binocs-show-best-learning-videos-for-kids-peekaboo-kidz.mp4" type="video/mp4">
+</video>
+
+**书面作业**
+
+完成本节课练习题单
+
+### 学习内容
+
+#### 主题：生态系统中的物质循环
+
+「为什么需要清洁鱼缸而不需要清洁池塘？」
+
+#### 主要内容
+
+• **生态系统的自我维持**：学生们探讨了自然池塘如何通过植物、动物和分解者之间的相互作用，维持自身的清洁和健康。
+
+• **鱼缸与池塘的比较**：理解了鱼缸作为一个封闭系统，缺乏自然的物质循环，因此需要人工干预来保持水质。
+
+
+**科学知识点**：
+
+• **物质循环**：在生态系统中，植物通过光合作用吸收二氧化碳并释放氧气；动物呼吸氧气并释放二氧化碳；分解者将有机废物分解，释放出养分供植物吸收。
+
+• **生态平衡**：池塘等自然生态系统通过上述循环，保持水体的清洁和生态平衡。
+
+  
+**实验活动**：
+
+• **池塘生态系统游戏**：学生们模拟构建一个支持太阳鱼生存的池塘生态系统，确保二氧化碳和氧气水平适宜，并理解各组成部分的相互依赖关系。
+  
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0909.jpeg)
+
+**语言点**：
+
+• **生态系统相关术语**：如“物质循环”、“分解者”、“光合作用”、“生态平衡”等。
+
+• **描述生态过程**：练习用英语描述生态系统中物质和能量的流动，以及各组成部分的功能。
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0910.jpeg)
+
+通过这节课，学生们加深了对生态系统自我维持机制的理解，认识到自然环境中各元素的相互作用，以及人类在人工环境中需要采取的维护措施。
 
 ## D4, 2025-03-11
 
@@ -170,11 +255,6 @@ updated: 2025-03-12
 - 复习食物链的视频 2 Hard
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/fabulous-food-chains-crash-course-kids-7-1.mp4" type="video/mp4">
-</video>
-
-- 介绍 Ecosystem 的视频
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ecosystem-the-dr-binocs-show-best-learning-videos-for-kids-peekaboo-kidz.mp4" type="video/mp4">
 </video>
 
 **书面作业**

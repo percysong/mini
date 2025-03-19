@@ -1,8 +1,44 @@
 ---
 title: 牛津探索周二班
 created: 2024-10-19
-updated: 2025-03-12
+updated: 2025-03-19
 ---
+
+## D3, 2025-03-11
+
+### 学习资料和学习任务
+
+- 阅读课外绘本 *Our Natural Resources* ([PDF 链接 🔗](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/our-natural-resources.pdf) )，回顾本堂课学习的概念和新词汇
+	- natural resources
+	- fuel
+	- oxygen
+	- oil
+	- coal
+	- renewable
+	- nonrenewable
+	- conserve
+
+- 复习 BrainPop 关于 Natural Resources 的视频：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/brain-pop-jr-natural-resources.mp4" type="video/mp4">
+</video>
+
+### 学习内容及反馈
+
+- 课前英文猜谜游戏和绕口令热身，进入语言环境
+- 观看视频 [*One Earth - Environmental Short Film*](https://www.youtube.com/watch?v=QQYgCxu988s)进入本堂课课题，说一说，写一写：
+	- 看到了地球上有什么
+	- 地球给人类带来了什么
+	- 地球有什么问题
+	- 我们为什么以及如何保护地球
+- 进入课题：Natural Resources
+- 学习了不同关于自然资源和地球保护相关的词汇
+- 了解不同的自然资源，并写出它们的用途
+- 了解可再生和不可再生资源，认识化石燃料
+- 观看 BrainPOP 视频总结，完成练习
+
+大家对绝大多数的自然资源都有认识和了解，本节课我们加深了对部分资源的认识，如化石燃料的定义和形成，岩石和矿物可以用来制作瓷器，石油用来制作塑料等等。扩阔了学生的知识面。
 
 ## D2, 2025-03-11
 
