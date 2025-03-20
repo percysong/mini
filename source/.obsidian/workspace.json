@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od2a.md",
+                "file": "od1a.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od2a"
+              "title": "od1a"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bendai.md",
+                "file": "dannychen-2024.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bendai"
+              "title": "dannychen-2024"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bendai.md",
+                "file": "od1a.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bendai"
+              "title": "Outline of od1a"
             }
           },
           {
@@ -236,20 +235,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c88c74792c79ed5a",
+  "active": "2b51ab7718bc619d",
   "lastOpenFiles": [
-    "od2a.md",
-    "bendai.md",
-    "odf1.md",
+    "dannychen-2024.md",
     "ms-li.md",
+    "od1a.md",
+    "bendai.md",
+    "od2a.md",
+    "odf1.md",
     "rockyzhu-2025.md",
     "park-english.md",
     "annaxiang-2025.md",
     "dannychen-2025.md",
     "od2b.md",
     "shaoyuhan.md",
-    "od1a.md",
-    "dannychen-2024.md",
     "wuzimo.md",
     "winter-2025.md",
     "od2c.md",

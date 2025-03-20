@@ -1,8 +1,86 @@
 ---
 title: Oxford Discover 1 Class A
 created: 2024-09-11
-updated: 2025-03-13
+updated: 2025-03-19
 ---
+
+## D5, 2025-03-19
+
+### 本周学习任务
+
+#### 牛津自然拼读巩固 long *u*
+
+{% note info %}
+学习小贴士：
+- 每天复习一个视频
+- 听一遍，跟读两遍
+{% endnote %}
+
+- *oo*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_08_oo.mp4" type="video/mp4">
+	</video>
+- *ew
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_08_ew.mp4" type="video/mp4">
+	</video>
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *u*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/14/learn-to-read-phonics-for-kids-long-u-vowels.mp4" type="video/mp4">
+</video>
+
+#### 拼读绘本操练 *Sail on the Bay*
+
+- 复习 long *a*，*ai*, *ay*
+- 阅读拼读绘本，听录音，暂停跟读两遍，注意节奏
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track64.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-4.jpeg)
+
+#### 复习 P56 词汇
+
+{% note info %}
+- 难度 ★★☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍；自主阅读例句。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P58–59 阅读 *My Friend Anak*
+
+{% note info %}
+- 难度 ★★☆
+- 跟读文本两遍，每两天跟读一页，注意语音语调和情绪
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook
+
+完成 P48–49 阅读练习
+
+### 课堂学习内容
+
+- 开课自然拼读复习 long *a*, 学习 long *u*
+	- 阅读拼读绘本 *Sail on the Bay*
+- 复习阅读策略：识别故事人物 Identifying Characters
+	- 举例自己熟悉的故事人物
+- 学习故事 *My Friend Anak*，找到不同时期 Anak 所做的事情
+- 完成课后练习
 
 ## D4, 2025-03-12
 
