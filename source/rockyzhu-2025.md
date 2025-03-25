@@ -10,6 +10,64 @@ updated: 2025-03-18
 - 开始学习日期：2024 年 9 月 23 日
 ---
 
+## D9, 2025-03-24
+
+### 学习资料和学习任务
+
+#### 自然拼读绘本
+
+听录音跟读两遍，自主拼读一遍。持续两天。
+
+- *Meet My Family*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB4_Disc2_Track16.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_4_SB_Story-5.jpeg)
+
+#### 动画视频
+
+P184 视频，跟唱两遍，复习艺术相关词汇，注意语音语调。
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_09_Story9.mp4" type="video/mp4">
+</video>
+
+#### Vocabulary
+
+- 复习 OD3 P8 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读预习
+
+预习OD3 P10–11 文本，听录音，圈出不认识的单词，借助图片和上下文猜测以下单词意思：
+- envelopes
+- championship
+- athletes
+- bands
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 练习册OD3 Workbook P2–3
+- 复习蓝色教材，周四测试
+
+### 学习内容
+
+- 复习自然拼读，阅读绘本
+- 学习 P184 单元动画
+- 复习 U11–13 单元核心词汇和语法
+- 开启新的教材，进入问题 How do people have fun.
+- 口语练习，说说在不同时间，跟不同人玩耍的方式
+- 学习不同体育运动和事件相关词汇，了解不同人 having fun 的方式
+- 阅读策略：学习区分 Facts and Opinions
+- 完成相关练习
+
 ## D8, 2025-03-17
 
 ### 学习资料和学习任务

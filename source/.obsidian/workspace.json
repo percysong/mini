@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od1a.md",
+                "file": "od2c.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od1a"
+              "title": "od2c"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dannychen-2024.md",
+                "file": "rockyzhu-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dannychen-2024"
+              "title": "rockyzhu-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od1a.md",
+                "file": "rockyzhu-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od1a"
+              "title": "Outline of rockyzhu-2025"
             }
           },
           {
@@ -235,11 +236,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b51ab7718bc619d",
+  "active": "c88c74792c79ed5a",
   "lastOpenFiles": [
+    "od2b.md",
+    "od2c.md",
     "dannychen-2024.md",
-    "ms-li.md",
     "od1a.md",
+    "ms-li.md",
     "bendai.md",
     "od2a.md",
     "odf1.md",
@@ -247,11 +250,9 @@
     "park-english.md",
     "annaxiang-2025.md",
     "dannychen-2025.md",
-    "od2b.md",
     "shaoyuhan.md",
     "wuzimo.md",
     "winter-2025.md",
-    "od2c.md",
     "xiangxiyan.md",
     "liaopeiyan.md",
     "zhuxuanyu.md",
