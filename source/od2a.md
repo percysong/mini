@@ -1,8 +1,35 @@
 ---
 title: 牛津探索周二班
 created: 2024-10-19
-updated: 2025-03-19
+updated: 2025-03-26
 ---
+
+## D4, 2025-03-25
+
+### 学习资料和学习任务
+
+- 复习阅读策略的视频 Main idea and details
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-main-idea.mp4" type="video/mp4">
+</video>
+
+- 自学 BrainPop 关于 Reduce, Reuse, Recycle 的视频：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-reduce-reuse-recycle.mp4" type="video/mp4">
+</video>
+
+### 学习内容及反馈
+
+- 课前英文猜谜游戏和绕口令热身，进入语言环境
+- 回顾自然资源话题和词汇
+- 学习阅读策略：中心句和支撑细节 main idea and details
+- 进入自然资源文本的学习
+- 通过图片和标题（title, heading）来猜测文本大意
+- 讨论自然环境和保护相关问题
+
+本节课阅读策略告诉大家如何通过中心句快速了解文章内容，中心句一般位于段落首句，细节在段落中来支持中心论点。
 
 ## D3, 2025-03-18
 

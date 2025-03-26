@@ -1,7 +1,7 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2025-03-19
+updated: 2025-03-26
 ---
 
 - 学生姓名：代超巡
@@ -9,7 +9,82 @@ updated: 2025-03-19
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
 
-## D4, 2025-03-18
+## D6, 2025-03-25
+
+### 学习资料和学习任务
+
+**复习生词**
+
+- nutrient
+	- a substance that living things need to grow and stay healthy
+- producer
+	- a living thing that makes its own food
+- consumer
+	- a living thing that eats other living things
+- decomposer
+	- a living thing that can break down dead living things
+- bacteria
+	- an organism that is usually a decomposer; some cause illness
+- fungus *sing.* (fungi *pl*)
+	- a living thing that is a decomposer and has spores, such as a mold or mushroom
+- algae
+	- tiny living things in water that produce their own food, like plants do
+- algae bloom
+	- a quick increase in the amount of algae growing in an area
+- fertilizer
+	- a material that contains nutrients to help plants grow
+- runoff
+	- water that moves across a surface, often carrying materials with it
+- environment
+	- all the living and nonliving things in a particular place
+- disadvantage (con)
+	- something that is bad or reduces the chances of success
+- advantage (pro)
+	- something that is good or increase the chances of success
+
+#### Video
+
+- 介绍 algae bloom 的视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/toxic-algae-blooms.mp4" type="video/mp4">
+</video>
+
+**书面作业**
+
+完成本节课练习题单和课外阅读
+
+### 学习内容
+
+**课程总结：如何保护地球环境？**
+**主题**：人类活动对环境的影响及其保护措施
+
+**主要内容**：
+
+• **环境污染问题**：我们了解了过量使用化肥如何导致水体富营养化，进而引发有害的藻华现象，影响水质和生态系统健康。
+
+• **污染源识别**：探讨了化肥从陆地流入湖泊的途径，以及这种污染对水生生物和人类健康的潜在危害。
+
+• **保护措施**：讨论了社区和个人可以采取的行动，如减少化肥使用、采用环保农业实践，以及加强对水源地的保护，以维护环境质量。
+
+
+**科学知识点**：
+
+• **富营养化**：水体中过多的营养物质（如氮、磷）引发藻类过度生长，导致氧气耗尽，水生生物死亡。
+
+• **非点源污染**：化肥和农药通过雨水径流进入水体，难以追踪和控制的污染源。
+
+  
+**活动与讨论**：
+
+• **小组活动**：我们分组讨论并制定减少环境污染的策略，鼓励团队合作和创新思维。
+
+• **案例研究**：分析受污染影响的水体案例，探讨其原因和可能的解决方案。
+ 
+  
+通过本节课，我们深入理解了人类活动对环境的影响，认识到保护环境的重要性，并学习了采取积极行动的方法。
+
+## D5, 2025-03-18
 
 ### 学习资料和学习任务
 
