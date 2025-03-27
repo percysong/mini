@@ -20,7 +20,7 @@ updated: 2025-03-25
 	<video width="100%" height="auto" controls>
 	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_08_ue.mp4" type="video/mp4">
 	</video>
-- *ui
+- *ui*
 	<video width="100%" height="auto" controls>
 	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_08_ui.mp4" type="video/mp4">
 	</video>
