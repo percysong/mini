@@ -48,9 +48,9 @@ updated: 2025-03-25
 
 #### 复习 P61 歌曲 *Two Birds*
 
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track41.mp3" type="video/mp4">
-</video>
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track41.mp3" type="audio/mp3">
+</audio>
 
 #### 复习 P62 词汇
 
