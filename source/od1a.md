@@ -4,6 +4,102 @@ created: 2024-09-11
 updated: 2025-03-25
 ---
 
+## D6, 2025-03-26
+
+### 本周学习任务
+
+#### 牛津自然拼读巩固 long *u*
+
+{% note info %}
+学习小贴士：
+- 每天复习一个视频
+- 听一遍，跟读两遍
+{% endnote %}
+
+- *ue*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_08_ue.mp4" type="video/mp4">
+	</video>
+- *ui
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_08_ui.mp4" type="video/mp4">
+	</video>
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *u*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/14/learn-to-read-phonics-for-kids-long-u-vowels.mp4" type="video/mp4">
+</video>
+
+#### 拼读绘本操练 *Clues at the Zoo*
+
+- 复习 long *u*
+- 阅读拼读绘本，听录音，暂停跟读两遍，注意节奏
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc2_Track64.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-8.jpeg)
+
+#### 复习 P61 歌曲 *Two Birds*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track41.mp3" type="video/mp4">
+</video>
+
+#### 复习 P62 词汇
+
+{% note info %}
+- 难度 ★★☆
+- Listen and point to the words. Listen again and say the words.
+  听录音，跟读两遍。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.42.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P58–59 阅读 *My Friend Anak*
+
+{% note info %}
+- 难度 ★★☆
+- 继续跟读文本两遍，每两天跟读一页，注意语音语调和情绪
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+看提示卡，尝试复述故事。
+
+{% grouppicture 7-3 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.001.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.002.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.003.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.004.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.005.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.006.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.007.jpeg)
+{% endgrouppicture %}
+
+#### 练习册 Workbook
+
+完成 P48–49 阅读练习
+
+### 课堂学习内容
+
+- 开课自然拼读复习 long *u*
+	- 阅读拼读绘本 *Clues at the Zoo*
+- 复习词汇及文本的常用词
+- 看图片和提示卡，尝试复述课文
+- 学习歌曲，加强疑问词 What 和 Who 的使用及回答
+- 学习不同时间词汇的表达，说一说在不同的时间我们分别做些什么
+
 ## D5, 2025-03-19
 
 ### 本周学习任务

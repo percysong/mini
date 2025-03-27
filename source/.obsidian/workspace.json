@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od2a.md",
+                "file": "od1a.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,61 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od2a"
-            }
-          },
-          {
-            "id": "99be18c5876aebe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bendai.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "bendai"
-            }
-          }
-        ]
-      },
-      {
-        "id": "93f909f926db1cc8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2400f7a9e0449204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zhuxuanyu.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "zhuxuanyu"
+              "title": "od1a"
             }
           }
         ]
@@ -150,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -166,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2a.md",
+                "file": "od1a.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2a"
+              "title": "Outline of od1a"
             }
           },
           {
@@ -251,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,11 +214,11 @@
   },
   "active": "2b51ab7718bc619d",
   "lastOpenFiles": [
-    "zhuxuanyu.md",
-    "od2a.md",
     "bendai.md",
-    "rockyzhu-2025.md",
     "od1a.md",
+    "od2a.md",
+    "zhuxuanyu.md",
+    "rockyzhu-2025.md",
     "od2c.md",
     "Untitled.md",
     "od2b.md",
