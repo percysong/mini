@@ -1,8 +1,109 @@
 ---
 title: Anna 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-03-17
+updated: 2025-03-31
 ---
+
+## D9, 2025-03-30
+
+### 学习任务
+
+#### 牛津自然拼读 magic *e* with *a* and *i*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *_i_e*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_02_i_e.mp4" type="video/mp4">
+	</video>
+- *_ike*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_02_ike.mp4" type="video/mp4">
+	</video>
+- *_ime*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_02_ime.mp4" type="video/mp4">
+	</video>
+- *_ine*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_02_ine.mp4" type="video/mp4">
+	</video>
+- *_ive*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_02_ive.mp4" type="video/mp4">
+	</video>
+
+#### 拼读绘本操练 *Wake Up, Mike!*
+
+- *Wake Up, Mike!*
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track34.mp3" type="audio/mp3">
+	</audio>
+- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-2.jpeg)
+
+#### Jobs 视频
+
+看视频，学习不同工作的词汇和介绍。
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/jobs-song-for-kids-part-2-who-do-you-see-educational-learning-video-learn-english-children.mp4" type="video/mp4">
+</video>
+
+#### 歌曲
+
+- 书上 P121–C 歌曲，跟唱两遍，熟悉句型 What does he/she want; Does he/she want …
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.26.mp3" type="audio/mp3">
+	</audio>
+
+#### 词汇
+
+- 复习红色书上 P114 词汇，跟读两遍。
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.20.mp3" type="audio/mp3">
+	</audio>
+- 复习红色书上 P116 词汇，跟读两遍。
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.24.mp3" type="audio/mp3">
+	</audio>
+
+#### 口语交际
+
+P115 口语交际复习，如何向对方借东西并回答，听录音，跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.23.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读打卡
+
+- 继续熟悉课文 *Wants and Needs*，结合图片理解文本
+- 逐句暂停跟读两遍，每两天跟读一页
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.25.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+红色练习册 P102–P105
+
+### 课堂学习内容和课堂反馈
+
+- Jobs 歌曲预热
+- 复习自然拼读 magic e_a, 学习 magic e_i
+- 学习原版拼读绘本
+- 复习P114不同玩具，完成听力练习
+- 口语交际：学习如何向对方借东西并回答
+- 词汇学习：动词
+- 扩展关于职业的词汇
+- 复习阅读策略：小标题
+- 继续学习非虚构说明文 *Wants and Needs*
+- 完成课后练习，学习语法歌曲第三人称提问
 
 ## D8, 2025-03-16
 

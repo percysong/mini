@@ -1,8 +1,46 @@
 ---
 title: 牛津探索2 周日班
 created: 2024-10-19
-updated: 2025-03-17
+updated: 2025-03-31
 ---
+
+## D5, 2025-03-30
+
+### 课堂回顾
+
+- 回顾故事 *Leo and Lily’s Adventure*
+	- 复习 problem 和 solution
+	- 尝试复述故事
+- 讨论动物之间是否有互相帮助的情况
+- 复习频率副词（除了 hardly ever 之外大家基本都熟悉）
+- 学习更多关于动物性格的形容词，完成听力练习
+- 回顾整个单元学习的知识，描述动物，并猜测
+- 复习人称代词（主格、宾格）及形容词性物主代词
+	- 首先复习了基本的人称代词
+	- 在做替换练习的时候，大家在完成的时候忽略了单复数的代词选择，提醒之后很快更正
+- 通过动画视频，复习不同特点的词汇
+
+### 学习任务
+
+#### 词汇
+
+复习书上 P22 词汇，跟读两遍；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.12.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+完成练习册 P14–19
+
+#### 动画视频
+
+自主复习动画，根据视频，朗读一遍，复习相关形容词表达。
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_01_Story1.mp4" type="video/mp4">
+</video>
 
 ## D4, 2025-03-16
 

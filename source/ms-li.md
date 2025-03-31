@@ -1,8 +1,90 @@
 ---
 title: Ms Li 英语拓展课程
 created: 2024-09-11
-updated: 2025-03-18
+updated: 2025-03-31
 ---
+
+## D5, 2025-03-30
+
+### 牛津自然拼读 long *a*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *ai*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_04_ai.mp4" type="video/mp4">
+	</video>
+- *ay*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_04_ay.mp4" type="video/mp4">
+	</video>
+
+### 拼读绘本操练 *Sail on the Bay*
+
+复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track64.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-4.jpeg)
+
+### P62 词汇音频
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P61 歌曲 *Two Birds*
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track41.mp3" type="audio/mp3">
+</audio>
+
+### 课文
+
+{% note info %}
+- 复习 P58–59 阅读 *My Friend Anak*
+- 跟读文本两遍，每两天跟读一页，注意语音语调和情绪
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+看提示卡，尝试复述故事。
+
+{% grouppicture 7-3 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.001.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.002.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.003.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.004.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.005.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.006.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Park-OD1.007.jpeg)
+{% endgrouppicture %}
+
+### 动画视频
+
+观看视频，自学动画视频，跟读两遍。
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M1_story.mp4" type="video/mp4">
+</video>
+
+### 练习册
+
+P50–59
 
 ## D4, 2025-03-16
 
