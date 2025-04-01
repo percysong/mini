@@ -4,6 +4,62 @@ created: 2024-09-11
 updated: 2025-03-18
 ---
 
+## 2025年3月31日
+
+### 学习资料和学习任务
+
+- Workbook P46 – **Risk and danger**
+- Student Book P120–2
+
+### 词汇复习
+
+P120 Risk and danger, listen and repeat, read the three passages with the correct answer.
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_SB1_1.31.mp3" type="audio/mp3">
+</audio>
+
+### Factflix 视频回顾
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_Level_1_Factflix_Unit_5_final.mp4" type="video/mp4">
+</video>
+
+### 扩展视频
+
+What is Availability Heuristic? 了解人类的认知偏差
+
+<video width="100%" height="auto" controls>
+  <source src="Availability Heuristic" type="video/mp4">
+</video>
+ 
+
+
+### 课堂学习内容及反馈
+
+Big Question: What do we need to survive?
+
+主题：了解风险和危险
+
+主要内容：
+	•	讨论危险性：通过图片和问题讨论哪些事情或生物真正危险，例如鲨鱼是否比人类危险。
+	•	比较不同风险：学生们思考和比较现代生活中的各种风险，例如厨房事故与登山事故的对比。
+	•	观看视频：通过Factflix视频了解哪些事物看似危险但实际上较为安全，并验证自己的答案。
+	•	小组讨论：学生们分享自己认为的现实生活中真正的危险，包括动物、职业、运动和交通。
+
+语言知识点：
+	•	词汇：risk, danger, hurt, injure 等
+	•	表达风险和危险的短语：
+	•	Which are the most dangerous (jobs)?
+	•	… is a little/very risky.
+	•	How can you get hurt by …?
+	•	How can … hurt you?
+	•	Are you scared of …?
+	•	… scares me.
+
+本节课帮助学生辨别现实生活中的风险和危险，并培养他们批判性思维能力。了解 Availability heuristic（可得性认知偏差），为什么我们会更倾向于认为看起来更害怕的事物更危险。
+
+
 ## 2025年3月17日
 
 ### 学习资料和学习任务

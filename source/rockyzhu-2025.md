@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-03-25
+updated: 2025-04-01
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,52 @@ updated: 2025-03-25
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D10, 2025-03-31
+
+### 学习资料和学习任务
+
+#### 自然拼读绘本
+
+听录音跟读两遍，自主拼读一遍。持续两天。
+
+- *My Picture*
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB4_Disc2_Track31.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_4_SB_Story-6.jpeg)
+
+#### 动画视频
+
+#### Vocabulary
+
+- 复习 OD3 P8 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.02.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读
+
+复习OD3 P10–11 文本，听录音，跟读两遍，每两天跟读一页：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 练习册OD3 Workbook P4–5
+
+### 学习内容
+
+- 完成了第二册教材的总测试，宣宇对后半学期学习的词汇掌握得都不错。全部测试题目二十分钟完成，只有两三个错误。
+- 复习不同人 having fun 的方式
+- 复习词汇（因为上次发错了录音，没有在家复习）
+- 深入学习阅读，运用阅读策略来帮助理解，解决不熟悉的词汇
+- 完成阅读课后练习
+- 了解不同国家和地区特别的节日
 
 ## D9, 2025-03-24
 
@@ -37,7 +83,7 @@ P184 视频，跟唱两遍，复习艺术相关词汇，注意语音语调。
 
 - 复习 OD3 P8 词汇，听录音，跟读两遍：
 	<audio controls>
-	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.02.mp3" type="audio/mp3">
 	</audio>
 
 #### 阅读预习
