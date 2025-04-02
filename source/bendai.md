@@ -15,74 +15,84 @@ updated: 2025-04-02
 
 **复习生词**
 
-- nutrient
-	- a substance that living things need to grow and stay healthy
-- producer
-	- a living thing that makes its own food
-- consumer
-	- a living thing that eats other living things
-- decomposer
-	- a living thing that can break down dead living things
-- bacteria
-	- an organism that is usually a decomposer; some cause illness
-- fungus *sing.* (fungi *pl*)
-	- a living thing that is a decomposer and has spores, such as a mold or mushroom
-- algae
-	- tiny living things in water that produce their own food, like plants do
-- algae bloom
-	- a quick increase in the amount of algae growing in an area
-- fertilizer
-	- a material that contains nutrients to help plants grow
-- runoff
-	- water that moves across a surface, often carrying materials with it
-- environment
-	- all the living and nonliving things in a particular place
-- disadvantage (con)
-	- something that is bad or reduces the chances of success
-- advantage (pro)
-	- something that is good or increase the chances of success
+- **herbivore**
+	- an animal that only eats plants
+	- ![](https://cloud.mysteryscience.com/image/fetch/c_scale,f_auto,q_auto/http://asset.mystery.org/CqXcBKY79EXk.png)
+- **carnivore**
+	- an animal that eats only other animals
+	- ![](https://cloud.mysteryscience.com/image/fetch/c_scale,f_auto,q_auto/http://asset.mystery.org/ZVobsbrvzLzA.png)
+- **omnivore**
+	- an animal that eats both plants and animals
+	- ![](https://cloud.mysteryscience.com/image/fetch/c_scale,f_auto,q_auto/http://asset.mystery.org/DGZp94P854fo.png)
+- **food web**
+	- many different food chains found in one place
+	- ![](https://cloud.mysteryscience.com/image/fetch/c_scale,f_auto,q_auto/http://asset.mystery.org/rYf95Ji2Wy6Z.png)
+- **solar energy (solar power)**
+	- energy from the Sun that provides energy for plants and consumers that eat those plants
+	- ![](https://cloud.mysteryscience.com/image/fetch/c_scale,f_auto,q_auto/http://asset.mystery.org/qSJ7v7VjWswf.png)
+- **energy flow**
+	- the movement of energy through living things
+	- ![](https://cloud.mysteryscience.com/image/fetch/c_scale,f_auto,q_auto/http://asset.mystery.org/qSJ7v7VjWswf.png)
+- **extinct**: go extinct
+	- a type of living thing that once lived on Earth but no longer exists
+	- ![](https://cloud.mysteryscience.com/image/fetch/c_scale,f_auto,q_auto/http://asset.mystery.org/eMZ2aq36XHj6.png)
+- **fossil**
+	- the remains of a plant or animal that lived a very, very long time ago
+	- ![](https://cloud.mysteryscience.com/image/fetch/c_scale,f_auto,q_auto/http://asset.mystery.org/8PzAKjctRttC.png)
+- **coprolite**
+	- fossil poop
+	- ![](https://cloud.mysteryscience.com/image/fetch/c_scale,f_auto,q_auto/http://asset.mystery.org/1wwxgeLQ7Geq.png)
+- **asteroid**
+	- a rocky object in outer space
+	- ![](https://cloud.mysteryscience.com/image/fetch/c_scale,f_auto,q_auto/http://asset.mystery.org/bfioBFVMdbiy.png)
+- **evidence**
+	- information that can be used to support or reject an idea
+	- ![](https://cloud.mysteryscience.com/image/fetch/c_scale,f_auto,q_auto/http://asset.mystery.org/gCrcwbvak6k1.png)
+- 
 
 #### Video
 
-- 介绍 algae bloom 的视频
-
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/toxic-algae-blooms.mp4" type="video/mp4">
-</video>
-
-**书面作业**
-
-完成本节课练习题单和课外阅读
+- 介绍恐龙灭绝原因的视频
+- CBC Kids (Easy)
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/what-happened-to-the-dinosaurs-cbc-kids.mp4" type="video/mp4">
+	</video>
+- BBC Earth Science 
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/what-exactly-killed-the-dinosaurs-earth-bbc-earth-science.mp4" type="video/mp4">
+	</video>
+- Kurzgesagt (hard)
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/how-the-dinosaurs-actually-died.mp4" type="video/mp4">
+	</video>
 
 ### 学习内容
 
-**课程总结：如何保护地球环境？**
-**主题**：人类活动对环境的影响及其保护措施
+**主题**：恐龙灭绝的原因及其与食物网的关系
 
 **主要内容**：
 
-• **环境污染问题**：我们了解了过量使用化肥如何导致水体富营养化，进而引发有害的藻华现象，影响水质和生态系统健康。
+• **小行星撞击假说**：我们探讨了小行星撞击地球可能导致恐龙灭绝的假说，了解这种灾难性事件如何影响全球生态系统。 
 
-• **污染源识别**：探讨了化肥从陆地流入湖泊的途径，以及这种污染对水生生物和人类健康的潜在危害。
+• **创建恐龙时代的食物网**：通过使用卡片和连接线，我们构建了恐龙时代的食物网模型，追踪能量在其中的流动，理解各生物之间的相互依赖关系。 
 
-• **保护措施**：讨论了社区和个人可以采取的行动，如减少化肥使用、采用环保农业实践，以及加强对水源地的保护，以维护环境质量。
-
+ ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_0978.jpeg)
 
 **科学知识点**：
 
-• **富营养化**：水体中过多的营养物质（如氮、磷）引发藻类过度生长，导致氧气耗尽，水生生物死亡。
+• **食物网与能量流动**：认识到食物网中生产者、消费者和分解者的角色，以及能量如何在生物之间传递。
 
-• **非点源污染**：化肥和农药通过雨水径流进入水体，难以追踪和控制的污染源。
-
+• **生态系统的脆弱性**：了解生态系统如何对外部冲击（如小行星撞击）产生反应，以及这种冲击如何导致物种灭绝。
   
+
 **活动与讨论**：
 
-• **小组活动**：我们分组讨论并制定减少环境污染的策略，鼓励团队合作和创新思维。
+• **小组合作**：我们分组构建恐龙时代的食物网，讨论各生物的角色和相互关系。
 
-• **案例研究**：分析受污染影响的水体案例，探讨其原因和可能的解决方案。
- 
+• **假设检验**：探讨并评估小行星撞击导致恐龙灭绝的证据和其他可能的假说。
   
-通过本节课，我们深入理解了人类活动对环境的影响，认识到保护环境的重要性，并学习了采取积极行动的方法。
+
+通过本节课，我们深化了对食物网和生态系统相互关系的理解，并认识到外部环境变化对生物多样性的深远影响。
 
 ## D6, 2025-03-25
 

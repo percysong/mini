@@ -25,19 +25,12 @@ updated: 2025-04-02
 中国传统节日介绍：
 
 1. **Spring Festival (Chinese New Year)** – The most important festival in China, celebrating the lunar new year with family reunions, fireworks, red envelopes, and traditional feasts.
-
 2. **Lantern Festival** – Celebrated on the 15th day of the Lunar New Year, marking the end of Chinese New Year celebrations. People light lanterns, solve riddles, and eat sweet glutinous rice balls (**tangyuan**).
-
 3. **Qingming Festival (Tomb-Sweeping Day)** – A day for honoring ancestors by cleaning their tombs, making offerings, and enjoying outdoor activities like flying kites.
-
 4. **Dragon Boat Festival** – Held on the 5th day of the 5th lunar month, featuring dragon boat races and eating sticky rice dumplings (**zongzi**) in memory of the poet Qu Yuan.
-
 5. **Qixi Festival (Chinese Valentine’s Day)** – Based on the legend of the Cowherd and the Weaver Girl, this romantic festival falls on the 7th day of the 7th lunar month.
-
 6. **Mid-Autumn Festival (Moon Festival)** – Celebrated on the 15th day of the 8th lunar month with family gatherings, mooncake eating, and moon gazing.
-
 7. **Chongyang Festival (Double Ninth Festival)** – Held on the 9th day of the 9th lunar month, traditionally a day for honoring the elderly and climbing mountains.
-
 
 #### 阅读预习
 
