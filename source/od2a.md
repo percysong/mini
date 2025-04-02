@@ -1,8 +1,68 @@
 ---
 title: 牛津探索周二班
 created: 2024-10-19
-updated: 2025-03-28
+updated: 2025-04-02
 ---
+
+## D5, 2025-04-01
+
+### 学习资料和学习任务
+
+- 复习 BrainPop 关于 Facts and Opinion 的视频：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-facts-and-opinions.mp4" type="video/mp4">
+</video>
+
+#### Vocabulary
+
+复习 OD3 P8 词汇，听录音，跟读两遍：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.02.mp3" type="audio/mp3">
+</audio>
+
+中国传统节日介绍：
+
+1. **Spring Festival (Chinese New Year)** – The most important festival in China, celebrating the lunar new year with family reunions, fireworks, red envelopes, and traditional feasts.
+
+2. **Lantern Festival** – Celebrated on the 15th day of the Lunar New Year, marking the end of Chinese New Year celebrations. People light lanterns, solve riddles, and eat sweet glutinous rice balls (**tangyuan**).
+
+3. **Qingming Festival (Tomb-Sweeping Day)** – A day for honoring ancestors by cleaning their tombs, making offerings, and enjoying outdoor activities like flying kites.
+
+4. **Dragon Boat Festival** – Held on the 5th day of the 5th lunar month, featuring dragon boat races and eating sticky rice dumplings (**zongzi**) in memory of the poet Qu Yuan.
+
+5. **Qixi Festival (Chinese Valentine’s Day)** – Based on the legend of the Cowherd and the Weaver Girl, this romantic festival falls on the 7th day of the 7th lunar month.
+
+6. **Mid-Autumn Festival (Moon Festival)** – Celebrated on the 15th day of the 8th lunar month with family gatherings, mooncake eating, and moon gazing.
+
+7. **Chongyang Festival (Double Ninth Festival)** – Held on the 9th day of the 9th lunar month, traditionally a day for honoring the elderly and climbing mountains.
+
+
+#### 阅读预习
+
+预习OD3 P10–11 文本，听录音，圈出不认识的单词，借助图片和上下文猜测以下单词意思：
+- envelopes
+- championship
+- athletes
+- bands
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 练习册 OD3 Workbook P2–3
+
+### 学习内容
+
+- 开启新的教材，进入问题 How do people have fun.
+- 口语练习，说说在不同时间，跟不同人玩耍的方式
+- 学习不同体育运动和事件相关词汇，了解不同人 having fun 的方式
+- 阅读策略：学习区分 Facts and Opinions（区分事实与观点）
+
+大家对休闲玩乐的方式都有自己的理解，也能表达不同场合、不同时间与不同人群的不同休闲方式。本节课我们也扩充了部分中国节日及其活动的英文表达。
 
 ## D4, 2025-03-25
 
