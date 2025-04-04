@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a4b7826e177f7600",
+        "id": "5275b7ed098960e6",
         "type": "tabs",
         "children": [
           {
-            "id": "2b51ab7718bc619d",
+            "id": "c548a11666f92cf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "od2c.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "od2c"
+            }
+          },
+          {
+            "id": "bb62f3545707848d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +56,12 @@
             }
           },
           {
-            "id": "010e5335c35c8606",
+            "id": "dd49ad508f3c5eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bendai.md",
+                "file": "zhuxuanyu.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bendai"
+              "title": "zhuxuanyu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -137,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bendai.md",
+                "file": "od2c.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bendai"
+              "title": "Outline of od2c"
             }
           },
           {
@@ -222,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,8 +259,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "010e5335c35c8606",
+  "active": "c548a11666f92cf9",
   "lastOpenFiles": [
+    "zhuxuanyu.md",
+    "od2c.md",
     "od2a.md",
     "bendai.md",
     "rockyzhu-2025.md",
@@ -247,11 +272,9 @@
     "od2b.md",
     "Untitled.md",
     "ms-li.md",
-    "od2c.md",
     "dannychen-2024.md",
     "od1a.md",
     "shaoyuhan.md",
-    "zhuxuanyu.md",
     "park-english.md",
     "wuzimo.md",
     "winter-2025.md",
