@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-04-01
+updated: 2025-04-08
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,66 @@ updated: 2025-04-01
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D11, 2025-04-07
+
+### 学习资料和学习任务
+
+#### 自然拼读绘本
+
+听录音跟读两遍，自主拼读一遍。持续两天。
+
+- *A Bad Skunk*
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB4_Disc2_Track48.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_4_SB_Story-7.jpeg)
+
+#### 阅读
+
+复习OD3 P10–11 文本，听录音，跟读两遍，每两天跟读一页：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+  </audio>
+
+#### 听力材料
+
+复习 P14 听力材料，熟悉wedding相关的表达，注意加粗的词汇
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.05.mp3" type="audio/mp3">
+  </audio>
+
+We are here in Cairo, **Egypt** to show you how **joyful** and fun an **Egyptian** wedding can be. The happy **couple** is with me now. Their names are Ali and Nadia. **Congratulations**!
+
+Thank you!
+
+You just finished the **wedding ceremony**. Is that right?
+
+Yes, that’s right. Now we are going to the hotel to **celebrate**.
+
+At the hotel, Ali and Nadia walk in with their family and friends. Suddenly, a group of drummers begins playing and singing on each side of the couple. This is called a Zaffa. Ali and Nadia begin to dance. Their good friends dance in a circle around them. The dancing can **last up to an hour**!
+
+After the Zaffa, we all go to the dinner! It looks delicious, and of course everyone is very hungry. I see kebabs, grilled chicken, fish, and rice. And there is the beautiful wedding cake, which Ali and Nadia cut for dessert. After dinner, there is even more dancing!
+
+Ali and Nadia, thank you for inviting me to your wedding. It was exciting! You’re welcome. Thank you for coming!
+
+#### 书面作业
+
+- 练习册OD3 Workbook P4–7
+
+### 学习内容
+
+- 口语热身，聊了一下宣宇清明节的日本之行，复习一般过去时的口语表达
+- 完成基础词汇听写（<mark>宣宇今天的拼写有很大的进步，复习一遍后准确率很高</mark>）
+- 复习课文 Having Fun
+- 学习语法「以-ed和-ing结尾的形容词」的使用方法和语境
+- 了解不同国家婚礼的庆祝方式，完成听力和口语练习表达
+- 词汇学习：同一词汇的不同词性
+- 完成课堂练习（<mark>同样准确率很不错</mark>）
 
 ## D10, 2025-03-31
 

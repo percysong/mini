@@ -1,10 +1,68 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2025-04-02
+updated: 2025-04-08
 ---
 
-## 2025-3-31
+## 2025-04-07
+
+### 学习资料和学习任务
+
+- Workbook P44–46
+- Student Book P120–3 **Extreme adjectives**
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_SB1_1.32.mp3" type="audio/mp3">
+</audio>
+
+听P51文章录音，勾画不熟悉的词汇，把易读错生词的重音标注出来
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_SB1_1.13.mp3" type="audio/mp3">
+</audio>
+
+### 课堂学习内容及反馈
+
+本节课主题：How can animals help us to survive?
+
+首先，我们通过课前brainstorming，探讨两个陈述是否属实，让大家举例更多的事实来支持这两个陈述观点。大家都表达了很多，陈列了很多非常确切的事实来支持。比如Lucas提到的熊猫保护基地来支持第一个观点，Jason提到了人类从动物身上学习而研发的高科技（比如飞机）。
+- Animals need us.
+- We need animals.
+- 学习了几种动物如何帮助人类生存，包括：
+	- 水熊（tardigrades）：体积极小，但能在极端环境中生存，包括太空，是地球上最坚韧的生物之一。
+	- 青蛙（frogs）：皮肤上有可以杀死细菌的化学物质，可用于制造抗生素。
+	- 巴西蝰蛇（Brazilian pit viper）：虽然有毒，但它的毒液中提取出的成分可以治疗心血管疾病，救了数百万人的生命。
+	- 蜜蜂（bees）：对水果和蔬菜的授粉至关重要，但它们的数量正在急剧减少。
+- 科学知识点：
+	- 自然界中的动物可以帮助人类发明新药。
+	- 有些动物的能力启发人类思考如何在其他星球生存。
+	- 动物灭绝的速度令人担忧，人类活动是主要原因之一。
+	- 动物的消失可能会对人类自身产生严重影响。
+- **语言点（Language Points）**
+	- **阅读策略 Reading strategy**
+		- Identifying the main idea in each paragraph.
+	- **Extreme adjectives**:
+		- tiny → incredibly small
+		- hot → boiling
+		- cold → freezing
+		- dangerous → deadly
+		- interesting → fascinating
+		- sad → tragic
+		- big → huge
+	- **Useful expressions**
+		- “… have been around for…”
+		- “… can survive in…”
+		- “… help humans by…”
+		- “The effects on humans could be dramatic.”
+- **New Vocabulary**
+	- Tardigrade – a very small animal that can live in extreme places like space
+	- Venom – poison made by animals like snakes or spiders
+	- Antibiotic – medicine that kills bacteria and helps people get better
+	- Extinct – no more living members of a kind of animal or plant
+	- Cultivation – growing plants for food
+	- Dormant – not active, like sleeping
+
+## 2025-03-31
 
 ### 学习资料和学习任务
 
@@ -58,7 +116,7 @@ Big Question: What do we need to survive?
 
 本节课帮助学生辨别现实生活中的风险和危险，并培养他们批判性思维能力。了解 Availability heuristic（可得性认知偏差），为什么我们会更倾向于认为看起来更害怕的事物更危险。
 
-## 2025-3-17
+## 2025-03-17
 
 ### 学习资料和学习任务
 
@@ -93,7 +151,7 @@ Big Question: What do we need to survive?
 
 这节课我们了解了群体行为的心理学原理，并学习了如何使用新词汇描述群体行为的正面与负面影响。
 
-## 2025-3-10
+## 2025-03-10
 
 ### 学习资料和学习任务
 
@@ -156,7 +214,7 @@ Big Question: What do we need to survive?
 • _I joined to…_
 • _I’m thinking of joining…_
 
-## 2025-3-3
+## 2025-03-03
 
 ### 学习资料和学习任务
 
@@ -202,7 +260,7 @@ Big Question: What do we need to survive?
 	•	All in all,…
 	•	Finally,…
 
-## 2025-2-24
+## 2025-02-24
 
 ### 学习资料和学习任务
 
@@ -250,7 +308,7 @@ Big Question: What do we need to survive?
 
 可能因为刚从假期回来，大家都还没有进入英文思维，有时还是习惯性地使用中文来替换，或者使用中文的语序。需要慢慢适应，更多使用英文思维来表达。本课的内容也有些难度，生词和新的概念很多，需要大家复习 P32 书上的笔记和 P116 的生词造句。
 
-## 2025-1-6
+## 2025-01-06
 
 ### 学习资料和学习任务
 
@@ -393,7 +451,7 @@ Big Question: What do we need to survive?
 	- Jason 颁给了最有天赋的足球运动员C罗
 	- Joyce 颁给了最棒的电影《肖申克的救赎》，尝试描述了自己的观影经历
 
-## 2024-12-9
+## 2024-12-09
 
 ### 学习资料和学习任务
 
@@ -425,7 +483,7 @@ Big Question: What do we need to survive?
 
 Ryan 越来越能够专注在课堂本身的问题讨论上，回答也更有逻辑；Jason 和 Joyce 也总是能很快地反应，迅速找到文中的答案。在写作上，大家都能清晰表述并介绍自己的在校学习作息，只是在细节语法和表达上需要规范修正。
 
-## 2024-12-2
+## 2024-12-02
 
 ### 学习资料和学习任务
 
@@ -620,7 +678,7 @@ Ryan 越来越能够专注在课堂本身的问题讨论上，回答也更有逻
 	- 作文段落清晰，但注意时态。提到的两件事只详细描写了其中一件，还需要补充一下对 concert 的描写。
 	- 对话题有很多不一样的思考，比如，「时间给我的生活带来了规则」，口头表达清晰简洁。
 
-## 2024-11-4
+## 2024-11-04
 
 ### 学习资料和学习任务
 

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c548a11666f92cf9",
+            "id": "b6a599822e058ff7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od2c.md",
+                "file": "ms-li.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od2c"
+              "title": "ms-li"
             }
           },
           {
-            "id": "bb62f3545707848d",
+            "id": "0d22e88e6e803f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od2a.md",
+                "file": "wuzimo.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od2a"
-            }
-          },
-          {
-            "id": "dd49ad508f3c5eac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zhuxuanyu.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "zhuxuanyu"
+              "title": "wuzimo"
             }
           }
         ]
@@ -161,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2c.md",
+                "file": "ms-li.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2c"
+              "title": "Outline of ms-li"
             }
           },
           {
@@ -259,24 +235,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c548a11666f92cf9",
+  "active": "b6a599822e058ff7",
   "lastOpenFiles": [
-    "zhuxuanyu.md",
-    "od2c.md",
-    "od2a.md",
-    "bendai.md",
-    "rockyzhu-2025.md",
+    "wuzimo.md",
+    "ms-li.md",
     "odf1.md",
+    "rockyzhu-2025.md",
+    "zhuxuanyu.md",
+    "od2a.md",
+    "od2c.md",
+    "bendai.md",
     "dannychen-2025.md",
     "annaxiang-2025.md",
     "od2b.md",
     "Untitled.md",
-    "ms-li.md",
     "dannychen-2024.md",
     "od1a.md",
     "shaoyuhan.md",
     "park-english.md",
-    "wuzimo.md",
     "winter-2025.md",
     "xiangxiyan.md",
     "liaopeiyan.md",

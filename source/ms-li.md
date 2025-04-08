@@ -1,8 +1,73 @@
 ---
 title: Ms Li 英语拓展课程
 created: 2024-09-11
-updated: 2025-03-31
+updated: 2025-04-08
 ---
+
+## D6, 2025-04-06
+
+### 拼读绘本操练 *Luke and the Bone*
+
+复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track50.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-3.jpeg)
+
+#### 复习季节 Seasons 词汇
+
+{% note info %}
+- 难度 ★☆☆
+- 看视频，跟读两遍季节相关词汇。
+{% endnote %}
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/kids-vocabulary-four-seasons-4-seasons-in-a-year-english-educational-video-for-kids.mp4" type="video/mp4">
+</video>
+
+### P68 词汇音频
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.47.mp3" type="audio/mp3">
+</audio>
+
+#### 预习 P70–71 文本
+
+{% note info %}
+- 难度 ★★★
+- Day 1: 阅读标题，看图片，猜一猜故事是关于什么的；听两遍录音，说一说你听到了什么，圈出不熟悉的词汇；
+- Day 2: 暂停跟读第一自然段，跟读两遍，注意生词的发音，模仿语音语调；
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P56–57
+
+- 注意 P54 和 P56 左上角灰色部分需要回答
+- 四季的词汇拼写：
+	- spring
+	- summer
+	- fall
+	- winter
+
+本周开启新的大单元，「四季如何变化」*How do seasons change?*
+	- 通过图片和视频，学生观察自然界和生活中不同季节的事物和变化
+	- 学生说出相关词汇来分享自己的已知
+	- 老师引入四季及相关词汇
+	- 口语表达自己最喜欢的季节以及原因 “I like spring because it is warm…”
+- 学习阅读策略 Captions
+	- captions 这个概念在中文中很少被提及，指的是图片下方的注释和说明文字；在语文中也少有被提起，但在当代多媒介信息时代，阅读 caption 是一项很重要的技能了。
+- 初步感知文本，学习春天部分的介绍
 
 ## D5, 2025-03-30
 
