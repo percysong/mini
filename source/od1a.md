@@ -1,8 +1,101 @@
 ---
 title: Oxford Discover 1 Class A
 created: 2024-09-11
-updated: 2025-03-28
+updated: 2025-04-10
 ---
+
+## D7, 2025-04-09
+
+### 本周学习任务
+
+### 牛津自然拼读 long *o*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *oa*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_07_oa.mp4" type="video/mp4">
+	</video>
+- *ow*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_07_ow.mp4" type="video/mp4">
+	</video>
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *o* 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/home-animation-for-kids-alphablocks.mp4" type="video/mp4">
+</video>
+
+### 拼读绘本操练 *Ben and the Boat*
+
+- 复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc2_Track47.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-7.jpeg)
+
+#### 复习季节 Seasons 词汇
+
+{% note info %}
+- 难度 ★☆☆
+- 看视频，跟读两遍季节相关词汇。
+{% endnote %}
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/kids-vocabulary-four-seasons-4-seasons-in-a-year-english-educational-video-for-kids.mp4" type="video/mp4">
+</video>
+
+### P68 词汇音频
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.47.mp3" type="audio/mp3">
+</audio>
+
+#### 预习 P70–71 文本
+
+{% note info %}
+- 难度 ★★★
+- Day 1: 阅读标题，看图片，阅读图片的captions；听两遍录音，圈出不熟悉的词汇；
+- Day 2: 暂停跟读第一自然段，跟读两遍，注意生词的发音，模仿语音语调；
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P56–57
+
+- 注意 P54 和 P56 左上角灰色部分需要回答
+- 四季的词汇拼写：
+	- spring
+	- summer
+	- fall
+	- winter
+本周开启新的大单元，「四季如何变化」*How do seasons change?*
+	- 通过图片和视频，学生观察自然界和生活中不同季节的事物和变化
+	- 学生说出相关词汇来分享自己的已知
+	- 老师引入四季及相关词汇
+	- 口语表达自己最喜欢的季节以及原因 “I like spring because it is warm…”
+- 学习阅读策略 Captions
+	- captions 这个概念在中文中很少被提及，指的是图片下方的注释和说明文字；在语文中也少有被提起，但在当代多媒介信息时代，阅读 caption 是一项很重要的技能了。
+- 初步感知文本，学习春天部分的介绍
 
 ## D6, 2025-03-26
 
