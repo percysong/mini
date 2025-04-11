@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od1a.md",
+                "file": "od2b.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od1a"
+              "title": "od2b"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rockyzhu-2025.md",
+                "file": "od2c.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,35 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rockyzhu-2025"
-            }
-          },
-          {
-            "id": "6b25637b542029f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wuzimo.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "wuzimo"
+              "title": "od2c"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rockyzhu-2025.md",
+                "file": "od2b.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of rockyzhu-2025"
+              "title": "Outline of od2b"
             }
           },
           {
@@ -260,20 +235,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eccd496b696a6ceb",
+  "active": "782fcd46f67df75b",
   "lastOpenFiles": [
-    "ms-li.md",
+    "od2c.md",
+    "od2b.md",
+    "rockyzhu-2025.md",
     "wuzimo.md",
     "od1a.md",
+    "ms-li.md",
     "od2a.md",
     "bendai.md",
-    "rockyzhu-2025.md",
     "odf1.md",
     "zhuxuanyu.md",
-    "od2c.md",
     "dannychen-2025.md",
     "annaxiang-2025.md",
-    "od2b.md",
     "Untitled.md",
     "dannychen-2024.md",
     "shaoyuhan.md",
