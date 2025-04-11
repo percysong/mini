@@ -10,6 +10,50 @@ updated: 2025-04-08
 - 开始学习日期：2024 年 9 月 23 日
 ---
 
+## D12, 2025-04-10
+
+### 学习资料和学习任务
+
+#### 自然拼读绘本
+
+听录音跟读两遍，自主拼读一遍。持续两天。
+
+- *Jimmy Giant*
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB4_Disc2_Track63.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_4_SB_Story-8.jpeg)
+
+#### 词汇
+
+- 复习 P16 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.09.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读
+
+预习 P18–19 文本，听录音，圈划出自己不熟悉的词汇，猜测意思：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 练习册OD3 Workbook P8–11
+
+### 学习内容
+
+- 订正作业（<mark>阅读部分错误有点多，重新梳理阅读步骤，找到具体信息</mark>）
+- 完成基础词汇听写（<mark>仍然有字母镜像b/d, q/p写反的情况</mark>）
+- 词汇复习：使用同一词汇的不同词性造句
+- 开启第二单元的学习，熟悉动作和地点词汇
+- 学习阅读策略：中心思想以及如何找到每一段的中心思想
+- 开启新的故事 *The Red Rubber Ball* 的感知
+
 ## D11, 2025-04-07
 
 ### 学习资料和学习任务

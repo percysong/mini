@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ms-li.md",
+                "file": "rockyzhu-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ms-li"
+              "title": "rockyzhu-2025"
             }
           },
           {
@@ -79,7 +79,8 @@
               "title": "wuzimo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od1a.md",
+                "file": "rockyzhu-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od1a"
+              "title": "Outline of rockyzhu-2025"
             }
           },
           {
@@ -259,11 +260,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "782fcd46f67df75b",
+  "active": "eccd496b696a6ceb",
   "lastOpenFiles": [
     "ms-li.md",
-    "od1a.md",
     "wuzimo.md",
+    "od1a.md",
     "od2a.md",
     "bendai.md",
     "rockyzhu-2025.md",
