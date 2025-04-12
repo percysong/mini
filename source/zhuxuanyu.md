@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-02-21
+updated: 2025-04-11
 ---
 
 - 学生姓名：朱宣宇
@@ -568,7 +568,7 @@ Rocky 这两次的学习状态稳定，上周因为表演节目比较疲惫，�
 
 #### Vocabulary
 
-复习 P34, P36, P48 词汇，每天复习一页，听录音，跟读两遍
+复习 P34, P36, P42 词汇，每天复习一页，听录音，跟读两遍
 
 **P34**
 <audio controls>
@@ -580,9 +580,9 @@ Rocky 这两次的学习状态稳定，上周因为表演节目比较疲惫，�
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.24.mp3" type="audio/mp3">
 </audio>
 
-**P48**
+**P42**
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.27.mp3" type="audio/mp3">
 </audio>
 
 #### Play 阅读打卡

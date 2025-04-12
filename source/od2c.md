@@ -1,8 +1,66 @@
 ---
 title: 牛津探索周五班
 created: 2024-10-19
-updated: 2025-04-04
+updated: 2025-04-12
 ---
+
+## D5, 2025-04-10
+
+### 课堂回顾
+
+- 学习关于食物和烹饪动作相关词汇（其中一半的词汇是大家已经掌握的）
+- 复习阅读策略 Cause and Effect, 并运用它来理解虚构文本
+- 阅读故事，学习如何不用冰箱的情况下制作冰激凌，完成课后题
+- 开启第三个大单元 *How are things different now from long ago*
+- 探讨现在和以前的事物有哪些方面不一样
+	- 交通
+	- 交流
+	- 获取新闻
+- 学习阅读策略 Main idea and details 中心句和支持论点
+	- 如何找到中心句（一般在段落第一句）和支持论点
+
+### 学习任务
+
+#### 视频学习
+
+- 观看制作冰激凌的视频，有机会可以自己尝试在家不用冰箱制作冰激凌
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/homemade-ice-cream-without-a-machine-in-just-5-minutes.mp4" type="video/mp4">
+</video>
+
+- 自主学习 BrainPop 关于 Main idea and supporting details 的视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-main-idea.mp4" type="video/mp4">
+</video>
+
+#### 词汇
+
+- **P36**
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.24.mp3" type="audio/mp3">
+	</audio>
+- **P42**
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.27.mp3" type="audio/mp3">
+	</audio>
+- **P48**
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+	</audio>
+
+#### 练习册
+
+完成练习册 P28-31, P36-39
+
+#### 阅读
+
+- 复习 P38–39 剧本 *Let’s Make Ice Cream!* 听录音跟读两遍，每两天跟读一页，注意语气和情绪
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.25.mp3" type="audio/mp3">
+</audio>
 
 ## D4, 2025-04-03
 

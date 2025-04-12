@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od2b.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "od2b"
-            }
-          },
-          {
-            "id": "eccd496b696a6ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "od2c.md",
                 "mode": "source",
                 "source": true,
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "od2c"
+            }
+          },
+          {
+            "id": "eccd496b696a6ceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zhuxuanyu.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "zhuxuanyu"
             }
           }
         ]
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2b.md",
+                "file": "od2c.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2b"
+              "title": "Outline of od2c"
             }
           },
           {
@@ -237,8 +237,11 @@
   },
   "active": "782fcd46f67df75b",
   "lastOpenFiles": [
+    "zhuxuanyu.md",
     "od2c.md",
+    "dannychen-2025.md",
     "od2b.md",
+    "chenruochun.md",
     "rockyzhu-2025.md",
     "wuzimo.md",
     "od1a.md",
@@ -246,8 +249,6 @@
     "od2a.md",
     "bendai.md",
     "odf1.md",
-    "zhuxuanyu.md",
-    "dannychen-2025.md",
     "annaxiang-2025.md",
     "Untitled.md",
     "dannychen-2024.md",
@@ -260,7 +261,6 @@
     "stevengao.md",
     "student-demo.md",
     "english-notes.md",
-    "chenruochun.md",
     "for-parents.md",
     "chinese.md",
     "Attachments/brainpop-jr-mammals.mp4",
