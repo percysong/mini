@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "782fcd46f67df75b",
+            "id": "9a4a138b9f53248e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od2c.md",
+                "file": "od2a.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od2c"
-            }
-          },
-          {
-            "id": "eccd496b696a6ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zhuxuanyu.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "zhuxuanyu"
+              "title": "od2a"
             }
           }
         ]
@@ -137,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2c.md",
+                "file": "od2a.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2c"
+              "title": "Outline of od2a"
             }
           },
           {
@@ -235,21 +211,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "782fcd46f67df75b",
+  "active": "9a4a138b9f53248e",
   "lastOpenFiles": [
-    "zhuxuanyu.md",
-    "od2c.md",
-    "dannychen-2025.md",
-    "od2b.md",
-    "chenruochun.md",
     "rockyzhu-2025.md",
+    "od2a.md",
+    "zhuxuanyu.md",
+    "odf1.md",
+    "od2b.md",
     "wuzimo.md",
     "od1a.md",
     "ms-li.md",
-    "od2a.md",
-    "bendai.md",
-    "odf1.md",
     "annaxiang-2025.md",
+    "dannychen-2025.md",
+    "od2c.md",
+    "chenruochun.md",
+    "bendai.md",
     "Untitled.md",
     "dannychen-2024.md",
     "shaoyuhan.md",

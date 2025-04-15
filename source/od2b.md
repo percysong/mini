@@ -1,8 +1,52 @@
 ---
 title: 牛津探索2 周日班
 created: 2024-10-19
-updated: 2025-04-11
+updated: 2025-04-15
 ---
+
+## D7.5, 2025-04-13
+
+### 课堂回顾
+
+- 复习讨论物质三态的特点和相关词汇
+- 思考「我们的世界是由什么组成的」(*What is our world made of?*) 阅读文本
+	- 了解三态的性质，以及描述它们的不同词汇
+		- solids can be *hard* or *soft*
+		- liquids can be *thick* or *thin*
+	- 运用 cause and effect 阅读策略来解释三态之间的变化
+	- 画出物质三态转化图表来加深自己的理解
+- 扩展不同物质的词汇，通过阅读线索和听力来猜测物品
+- 词汇学习：同时作为名词和动词
+
+### 学习任务
+
+#### 词汇
+
+复习书上 P34 词汇，跟读两遍；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.20.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+完成练习册 P22–27
+
+#### 视频学习
+
+- 复习 BrainPop 关于物质三态的视频，回顾并深入理解物质三态的不同特点
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/05/brain-pop-jr-solids-liquids-and-gases.mp4" type="video/mp4">
+</video>
+
+#### 阅读
+
+- 复习 P30–31 课文 *What is our world made of?* 听录音，勾画自己不熟悉的词汇，思考物质三态如何变化。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.18.mp3" type="audio/mp3">
+</audio>
 
 ## D5.5, 2025-04-10
 

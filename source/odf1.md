@@ -1,8 +1,50 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2025-04-08
+updated: 2025-04-15
 ---
+
+## 2025-04-14
+
+### 学习资料和学习任务
+
+- Workbook P47 5–7 **Talking about possibility and probability**
+- Student Book P121–2 **Discover grammar**
+- 查询P51文章词汇表（已打印），用英文例句解释
+
+### 课堂学习内容及反馈
+
+**课程总结：How can we survive in the wild?**
+**主题：生存技能 & 表达可能性（Possibility & Probability）**
+
+- 先通过荒岛生存游戏来选择对于生存最重要的物品，并陈述理由（为什么重要，你可以用它来做什么）。最后揭示答案，检查哪些物品更重要。
+	- 两位小朋友都找到了获取水源和食物，以及保暖的物品，理由陈述也清晰且合乎逻辑。
+- 通过一篇关于“生存主义者（survivalists）”的文章，引导学生了解如果未来发生灾难，我们该如何准备。
+	- 生存主义者相信未来一定会发生灾难，他们提前准备好物资、食物和水源。
+	- 他们学习在野外如何寻找食物和水、如何打猎，并准备随时撤离城市。
+	- 一些人把食物和水藏在森林里，以备长期在野外生存的可能性。
+
+#### 语言点 Language in use
+
+  
+**语法重点：表达可能性与概率的情态动词（Modals for Possibility and Probability）**
+
+- **will** → 表示非常确定（一定会发生）
+     - _A disaster will definitely happen._            
+- **may / might / could** → 表示不确定（有可能发生）
+    - _We may need to leave in a hurry._
+    - _It could be dangerous in the city._
+    - _We might not have enough food._      
+
+学生练习识别哪些句子是“肯定”预测，哪些是“可能”预测。
+
+- 分析三部灾难电影的海报，讨论电影中事件是否 **可能（possible）** 或 **很可能（probable）** 发生。
+- 学习表达范式：
+    - _This could happen because…_
+    - _This definitely won’t happen because…_    
+- 理解在灾难或极端情况下如何生存
+- 学会用英语表达“可能性”和“确定性”的预测
+- 提高对灾难情境的批判性思维能力
 
 ## 2025-04-07
 

@@ -1,8 +1,81 @@
 ---
 title: Danny 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-03-31
+updated: 2025-04-15
 ---
+
+## D10, 2025-04-13
+
+### 学习任务
+
+#### 牛津自然拼读 magic e with *o* & *u*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *_o_e*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_03_o_e.mp4" type="video/mp4">
+	</video>
+- *_u_e*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_03_u_e.mp4" type="video/mp4">
+	</video>
+- *_ube*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_03_ube.mp4" type="video/mp4">
+	</video>
+
+#### 拼读绘本操练 *Luke and the Bone*
+
+复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track50.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-3.jpeg)
+
+#### 词汇
+
+- 复习书上 P122 词汇，跟读两遍。
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.20.mp3" type="audio/mp3">
+	</audio>
+
+#### 口语交际
+
+P123 口语交际复习，准备野餐用品，听录音，跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.30.mp3" type="audio/mp3">
+</audio>
+
+#### 故事动画
+
+- 预习动画，听录音，跟读两遍
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M6_story.mp4" type="video/mp4">
+</video>
+
+#### 练习册
+
+- 红色练习册 P104–P106
+- 练习题单（已打印）
+
+### 课堂学习内容和课堂反馈
+
+- 学习自然拼读 magic e with *o* and *u*
+- 学习原版拼读绘本
+- 复习歌曲，进入语法熟悉
+- 通过实景练习，复习语法第一二/第三人称疑问句问答（<mark>Danny对do和does使用的情景已经能够区分，但对于Do you have的提问，习惯于用Yes, I have.而不是Yes, I do.来回答。需要再多熟悉。</mark>）
+- 进入野餐的情景，学习更多关于食物和饮料的词汇。
+- 完成听力练习，说一说他们分别需要和想要什么（<mark>Danny在第一遍聆听时没有进入状态，第二遍单独回放的时候听懂大意。</mark>）
+- 口语交际，说一说去野餐会带些什么食物。
 
 ## D9, 2025-03-30
 

@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-04-11
+updated: 2025-04-15
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,42 @@ updated: 2025-04-11
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D13, 2025-04-14
+
+### 学习资料和学习任务
+
+#### 歌曲
+
+P21–D 歌曲 *Having Fun*，听录音，跟唱两遍，注意目标句型。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.11.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读
+
+复习 P18–19 文本，听录音，跟读两遍，每两天跟读一页：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 练习册OD3 Workbook P12–15
+
+### 学习内容
+
+- 复习新的词汇，用动作帮助记忆
+- 深度阅读故事 *The Red Rubber Ball*
+	- 熟悉文章结构，借助图片帮助理解
+	- 找到关键信息，理解段落主旨
+	- 完成课后练习，在语境中理解生词
+- 学习语法 Gerunds 动名词，完成课后练习
+- 完成基础词汇听写（<mark>宣宇这次即便使用词汇记忆法复习一遍后仍然错误很多，包括基础短元音混淆</mark>）
+
+本次课程宣宇状态不是很好，可能因为上完课辅之后整体感觉疲倦很多，思考明显没有之前积极。拼写正确率也很低。
 
 ## D12, 2025-04-10
 
@@ -38,7 +74,7 @@ updated: 2025-04-11
 预习 P18–19 文本，听录音，圈划出自己不熟悉的词汇，猜测意思：
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.10.mp3" type="audio/mp3">
   </audio>
 
 #### 书面作业

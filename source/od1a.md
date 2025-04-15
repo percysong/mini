@@ -1,7 +1,7 @@
 ---
 title: Oxford Discover 1 Class A
 created: 2024-09-11
-updated: 2025-04-10
+updated: 2025-04-15
 ---
 
 ## D7, 2025-04-09
@@ -142,7 +142,7 @@ updated: 2025-04-10
 #### 复习 P61 歌曲 *Two Birds*
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track41.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.41.mp3" type="audio/mp3">
 </audio>
 
 #### 复习 P62 词汇
