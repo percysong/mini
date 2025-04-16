@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9bc4e14b111ca9f5",
+        "id": "cb89073569475668",
         "type": "tabs",
         "children": [
           {
-            "id": "9a4a138b9f53248e",
+            "id": "28f1c087d987789f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bendai.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bendai"
+            }
+          },
+          {
+            "id": "ab5706780d410dc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +54,33 @@
               "icon": "lucide-file",
               "title": "od2a"
             }
+          },
+          {
+            "id": "48e3a124374bdc9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rockyzhu-2025.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "rockyzhu-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,12 +260,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a4a138b9f53248e",
+  "active": "ab5706780d410dc0",
   "lastOpenFiles": [
+    "bendai.md",
     "rockyzhu-2025.md",
     "od2a.md",
-    "zhuxuanyu.md",
     "odf1.md",
+    "zhuxuanyu.md",
     "od2b.md",
     "wuzimo.md",
     "od1a.md",
@@ -225,7 +275,6 @@
     "dannychen-2025.md",
     "od2c.md",
     "chenruochun.md",
-    "bendai.md",
     "Untitled.md",
     "dannychen-2024.md",
     "shaoyuhan.md",

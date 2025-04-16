@@ -1,13 +1,88 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2025-04-08
+updated: 2025-04-16
 ---
 
 - 学生姓名：代超巡
 - English Name: Ben
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
+
+## D9, 2025-04-15
+
+### 学习资料和学习任务
+
+#### Video
+
+- 复习 BrainPop 关于 Facts and Opinion 的视频：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-facts-and-opinions.mp4" type="video/mp4">
+</video>
+
+#### Vocabulary
+
+复习 OD3 P8 词汇：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.02.mp3" type="audio/mp3">
+</audio>
+
+中国传统节日介绍：
+
+1. **Spring Festival (Chinese New Year)** – The most important festival in China, celebrating the lunar new year with family reunions, fireworks, red envelopes, and traditional feasts.
+2. **Lantern Festival** – Celebrated on the 15th day of the Lunar New Year, marking the end of Chinese New Year celebrations. People light lanterns, solve riddles, and eat sweet glutinous rice balls (**tangyuan**).
+3. **Qingming Festival (Tomb-Sweeping Day)** – A day for honoring ancestors by cleaning their tombs, making offerings, and enjoying outdoor activities like flying kites.
+4. **Dragon Boat Festival** – Held on the 5th day of the 5th lunar month, featuring dragon boat races and eating sticky rice dumplings (**zongzi**) in memory of the poet Qu Yuan.
+5. **Qixi Festival (Chinese Valentine’s Day)** – Based on the legend of the Cowherd and the Weaver Girl, this romantic festival falls on the 7th day of the 7th lunar month.
+6. **Mid-Autumn Festival (Moon Festival)** – Celebrated on the 15th day of the 8th lunar month with family gatherings, mooncake eating, and moon gazing.
+7. **Chongyang Festival (Double Ninth Festival)** – Held on the 9th day of the 9th lunar month, traditionally a day for honoring the elderly and climbing mountains.
+
+#### 阅读
+
+复习OD3 P10–11 文本，听录音，跟读两遍：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+  </audio>
+
+#### 听力材料
+
+复习 P14 听力材料，熟悉wedding相关的表达，注意加粗的词汇。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.05.mp3" type="audio/mp3">
+  </audio>
+
+We are here in Cairo, **Egypt** to show you how **joyful** and fun an **Egyptian** wedding can be. The happy **couple** is with me now. Their names are Ali and Nadia. **Congratulations**!
+
+Thank you!
+
+You just finished the **wedding ceremony**. Is that right?
+
+Yes, that’s right. Now we are going to the hotel to **celebrate**.
+
+At the hotel, Ali and Nadia walk in with their family and friends. Suddenly, a group of drummers begins playing and singing on each side of the couple. This is called a Zaffa. Ali and Nadia begin to dance. Their good friends dance in a circle around them. The dancing can **last up to an hour**!
+
+After the Zaffa, we all go to the dinner! It looks delicious, and of course everyone is very hungry. I see kebabs, grilled chicken, fish, and rice. And there is the beautiful wedding cake, which Ali and Nadia cut for dessert. After dinner, there is even more dancing!
+
+Ali and Nadia, thank you for inviting me to your wedding. It was exciting! You’re welcome. Thank you for coming!
+
+### 学习内容
+
+- 开启新的教材，进入问题 How do people have fun.
+- 口语练习，说说在不同时间，跟不同人玩耍的方式
+- 学习不同体育运动和事件相关词汇，了解不同人 having fun 的方式
+- 阅读策略：学习区分 Facts and Opinions（区分事实与观点）
+- 深入学习阅读，运用阅读策略来帮助理解，解决不熟悉的词汇
+- 完成阅读课后练习
+- 学习语法「以-ed和-ing结尾的形容词」的使用方法和语境
+- 了解不同国家婚礼的庆祝方式，完成听力和口语练习表达
+- 词汇学习：同一词汇的不同词性
+- 完成课后练习
+
+<mark>Ben对这个话题思维敏捷，表达流利度和准确度都有所提高。能够在语境中尝试理解猜测生词的意义，阅读也能很快找到关键信息。</mark>
 
 ## D8, 2025-04-08
 

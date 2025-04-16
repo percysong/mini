@@ -1,8 +1,40 @@
 ---
 title: 牛津探索周二班
 created: 2024-10-19
-updated: 2025-04-08
+updated: 2025-04-16
 ---
+
+## D7, 2025-04-15
+
+#### 词汇
+
+- 复习 P16 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.09.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读
+
+复习 P18–19 文本，听录音，圈划出自己不熟悉的词汇，跟读两遍，每两天跟读一页：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 学生用书 P20
+- 练习册OD3 Workbook P8–11
+
+### 学习内容
+
+- 谜语猜测热身
+- 复习第一单元的词汇和不同人们having fun的方式
+- 开启第二单元的学习，熟悉动作和地点词汇
+- 学习阅读策略：中心思想以及如何找到每一段的中心思想
+- 开启新的故事 *The Red Rubber Ball* 的感知
+	- 熟悉文章结构，借助图片帮助理解
+	- 找到关键信息，理解段落主旨
 
 ## D6, 2025-04-08
 
@@ -37,10 +69,6 @@ At the hotel, Ali and Nadia walk in with their family and friends. Suddenly, a g
 After the Zaffa, we all go to the dinner! It looks delicious, and of course everyone is very hungry. I see kebabs, grilled chicken, fish, and rice. And there is the beautiful wedding cake, which Ali and Nadia cut for dessert. After dinner, there is even more dancing!
 
 Ali and Nadia, thank you for inviting me to your wedding. It was exciting! You’re welcome. Thank you for coming!
-
-#### 书面作业
-
-- 练习册OD3 Workbook P4–7
 
 ### 学习内容
 

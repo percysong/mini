@@ -125,15 +125,6 @@ P120 Risk and danger, listen and repeat, read the three passages with the correc
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_Level_1_Factflix_Unit_5_final.mp4" type="video/mp4">
 </video>
 
-### 扩展视频
-
-What is Availability Heuristic? 了解人类的认知偏差
-
-<video width="100%" height="auto" controls>
-  <source src="Availability Heuristic" type="video/mp4">
-</video>
- 
-
 ### 课堂学习内容及反馈
 
 Big Question: What do we need to survive?
