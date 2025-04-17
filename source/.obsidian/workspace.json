@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bendai.md",
+                "file": "od1a.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bendai"
+              "title": "od1a"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od2a.md",
+                "file": "wuzimo.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od2a"
+              "title": "wuzimo"
             }
           },
           {
@@ -79,8 +79,7 @@
               "title": "rockyzhu-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2a.md",
+                "file": "od1a.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2a"
+              "title": "Outline of od1a"
             }
           },
           {
@@ -260,17 +259,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab5706780d410dc0",
+  "active": "28f1c087d987789f",
   "lastOpenFiles": [
+    "wuzimo.md",
+    "ms-li.md",
+    "od1a.md",
+    "od2a.md",
     "bendai.md",
     "rockyzhu-2025.md",
-    "od2a.md",
     "odf1.md",
     "zhuxuanyu.md",
     "od2b.md",
-    "wuzimo.md",
-    "od1a.md",
-    "ms-li.md",
     "annaxiang-2025.md",
     "dannychen-2025.md",
     "od2c.md",

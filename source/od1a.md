@@ -1,8 +1,91 @@
 ---
 title: Oxford Discover 1 Class A
 created: 2024-09-11
-updated: 2025-04-15
+updated: 2025-04-17
 ---
+
+## D8, 2025-04-16
+
+### 本周学习任务
+
+#### 牛津自然拼读 long *o*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *oa*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_07_oa.mp4" type="video/mp4">
+	</video>
+- *ow*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_07_ow.mp4" type="video/mp4">
+	</video>
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *o* 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/home-animation-for-kids-alphablocks.mp4" type="video/mp4">
+</video>
+
+#### 拼读绘本操练 *Ben and the Boat*
+
+- 复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc2_Track47.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-7.jpeg)
+
+#### 复习 P70–71 文本
+
+{% note info %}
+- 难度 ★★☆
+- 每天听录音，暂停跟读跟读一个季节文本，跟读至少两遍；
+- 思考每个季节有哪些特别的地方，你能尝试说说看吗？
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+</audio>
+
+- 根据提示词卡，尝试复述每个季节的特点，注意加 *s* 的地方。
+
+{% grouppicture 4-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.002.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.003.jpeg) 
+{% endgrouppicture %}
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.004.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.005.jpeg)
+{% endgrouppicture %}
+
+#### P73 歌曲 *Different Seasons*
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.49.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P58–59
+
+### 课堂回顾
+
+- 复习自然拼读 long *o*
+- 回顾四季及描述四季的词汇
+- 复习阅读策略：Captions
+- 深度阅读四季的不同特点
+	- 解决生词
+	- 了解天气、植物、动物在不同季节的不同特点
+	- 加入动作帮助理解记忆，尝试复述每个季节特点
+	- 完成课后练习
 
 ## D7, 2025-04-09
 
