@@ -1,8 +1,110 @@
 ---
 title: 牛津探索周五班
 created: 2024-10-19
-updated: 2025-04-12
+updated: 2025-04-19
 ---
+
+## D6, 2025-04-18
+
+### 课堂回顾
+
+- 复习制作冰淇淋的步骤，复习英文表达
+- 复习阅读策略：Main Idea and Details 中心句和支持论点
+- 学习文本，对比过去和现在的沟通交流、新闻和旅游有什么不同
+- 找关键信息，完成椅子图（已完成粘贴到书上，并在引导下找到关于 Communication 部分的不同）
+- 深度阅读，了解图片如何帮助我们理解并加强中心思想的表达
+- 完成课后练习问题
+- 学习歌曲
+- 复习一般过去时态的变化
+- 学习规则动词 ed 在词尾的不同发音
+
+### 学习任务
+
+#### 歌曲
+
+复习P53–D歌曲，跟唱两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.34.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读 *Then and Now*
+
+复习 P50–51 文本，听录音跟读两遍，每两天跟读一页；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+</audio>
+
+#### 词汇
+
+- **P48**
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+	</audio>
+
+#### 练习册
+
+完成练习册 P40-43
+
+#### 规则动词 *-ed* 在词尾的发音
+
+Regular verbs ending in **-ed** are pronounced in **three different ways** in English: /t/, /d/, or /ɪd/. The pronunciation depends on the **final sound** (not the letter) of the verb **before** adding –ed. Here’s a simple summary with examples:
+
+1. **/t/ sound**
+  
+The **-ed** is pronounced **/t/** when the base verb ends in an **unvoiced sound**, **except** /t/ itself. 除 t 之外以清辅音（声带不振动）结尾的动词。
+  
+**Unvoiced sounds include:** /k/, /f/, /s/, /ʃ/ (sh), /tʃ/ (ch), /p/
+
+**Examples:**
+
+- **walk** → walked /wɔːkt/
+- **laugh** → laughed /læft/
+- **miss** → missed /mɪst/
+- **wash** → washed /wɒʃt/
+- **watch** → watched /wɒtʃt/
+- **help** → helped /helpt/
+
+---
+
+2.  **/d/ sound**
+
+The **-ed** is pronounced **/d/** when the verb ends in a **voiced sound**, **except** /d/ itself. 除 d 之外以浊辅音结尾（声带震动）的动词。
+
+**Voiced sounds include:** all vowels and voiced consonants like /n/, /m/, /l/, /v/, /z/, /b/, /g/, /ð/ (as in “this”)
+
+
+**Examples:**
+- **play** → played /pleɪd/
+- **clean** → cleaned /kliːnd/
+- **call** → called /kɔːld/
+- **love** → loved /lʌvd/
+- **rob** → robbed /rɒbd/
+- **beg** → begged /beɡd/
+
+---
+
+3. **/ɪd/ sound**
+  
+The **-ed** is pronounced **/ɪd/** (like “id”) **only** when the verb ends in **/t/** or **/d/** sounds. This is to make it easier to pronounce. 只以 /t/ 或 /d/ 结尾
+
+**Examples:**
+
+- **want** → wanted /ˈwɒntɪd/
+- **need** → needed /ˈniːdɪd/
+- **wait** → waited /ˈweɪtɪd/
+- **decide** → decided /dɪˈsaɪdɪd/
+- **start** → started /ˈstɑːtɪd/
+- **paint** → painted /ˈpeɪntɪd/
+
+---
+
+**📝 Quick Tip to Remember:**
+
+- If the verb ends in a **/t/ or /d/** sound → **/ɪd/**
+- If the verb ends in a **voiced** sound → **/d/**
+- If the verb ends in an **unvoiced** sound → **/t/**
 
 ## D5, 2025-04-10
 

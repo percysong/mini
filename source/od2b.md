@@ -1,8 +1,49 @@
 ---
 title: 牛津探索2 周日班
 created: 2024-10-19
-updated: 2025-04-15
+updated: 2025-04-19
 ---
+
+## D8, 2025-04-17
+
+### 课堂回顾
+
+- 复习巩固物质三态的变化
+- 了解碘的升华现象
+- 完成物质三态练习
+- 学习关于食物和烹饪动作相关词汇（其中部分的词汇是已经基本掌握的）
+- 复习阅读策略 Cause and Effect, 并运用它来理解虚构文本
+- 阅读故事，学习如何不用冰箱的情况下制作冰激凌，完成课后题
+
+### 学习任务
+
+#### 词汇
+
+复习书上 P36 词汇，跟读两遍；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.24.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+完成练习册 P28–31
+
+#### 视频学习
+
+- 观看制作冰激凌的视频，有机会可以自己尝试在家不用冰箱制作冰激凌
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/homemade-ice-cream-without-a-machine-in-just-5-minutes.mp4" type="video/mp4">
+</video>
+
+#### 阅读
+
+- 复习 P38–39 剧本 *Let’s Make Ice Cream!* 听录音跟读两遍，每两天跟读一页，注意语气和情绪
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.25.mp3" type="audio/mp3">
+</audio>
 
 ## D7.5, 2025-04-13
 

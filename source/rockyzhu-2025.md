@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-04-15
+updated: 2025-04-19
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,37 @@ updated: 2025-04-15
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D14, 2025-04-17
+
+### 学习资料和学习任务
+
+#### 听力材料
+
+复习 P22 听力材料，熟悉游戏规则相关的表达，注意加粗的词汇
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.12.mp3" type="audio/mp3">
+  </audio>
+
+> I’m Adam. My father taught me how to play chess. Two people can play. Each player has 16 **pieces** that you play on a board. Each piece is like a person. For example, you each have a king and a queen piece. You win the game when you are able to **catch** the other player’s king. That’s called “**checkmate**.” 
+
+> I’m Grace. My mother taught me how to play checkers. It’s a fun board game for two players. Each player gets 12 round pieces. You try to jump over and take as many of the other player’s pieces that you can. You win the game when you take all of the other player’s pieces, or they can’t move.
+
+> I’m Sandra. My grandfather taught me how to play backgammon. Two people play this game. Each person has 15 flat pieces to play with. You put the pieces on a board with triangles on it. You **shake two dice** to see how many spaces you can move. The winner is the one who gets all of his or her pieces off the board first.
+
+#### 书面作业
+
+- 练习册OD3 Workbook P12–17
+
+### 学习内容
+
+- 复习原版拼读绘本，熟悉拼读规则
+- 谈论他人教的游戏，完成听力练习，熟悉游戏规则的表达
+- 口语练习：如何给予他人鼓励
+- 词汇学习：get 的词组
+- 写作练习：如何用5W提问并回答
+- 单元写作任务：戏剧剧本的元素，如何写作剧本
 
 ## D13, 2025-04-14
 
