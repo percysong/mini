@@ -1,8 +1,90 @@
 ---
 title: Ms Li 英语拓展课程
 created: 2024-09-11
-updated: 2025-04-15
+updated: 2025-04-22
 ---
+
+## D8, 2025-04-20
+
+### 牛津自然拼读 long *o*
+
+{% note info %}
+学习小贴士：
+- 继续复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *oa*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_07_oa.mp4" type="video/mp4">
+	</video>
+- *ow*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_07_ow.mp4" type="video/mp4">
+	</video>
+
+### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *o* 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/home-animation-for-kids-alphablocks.mp4" type="video/mp4">
+</video>
+
+### 拼读绘本操练 *Ben and the Boat*
+
+- 复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc2_Track47.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-7.jpeg)
+
+### P74 词汇
+
+{% note info %}
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.50.mp3" type="audio/mp3">
+</audio>
+
+### P75 口语交际
+
+{% note info %}
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.54.mp3" type="audio/mp3">
+</audio>
+
+### P76 词汇
+
+{% note info %}
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.54.mp3" type="audio/mp3">
+</audio>
+
+### Compound Words 视频
+
+回顾视频，复习复合词 Compound Words
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/compound-words-for-kids.mp4" type="video/mp4">
+</video>
+
+### 练习册 Workbook P62–65
 
 ## D7, 2025-04-13
 
@@ -23,7 +105,7 @@ updated: 2025-04-15
 	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_07_ow.mp4" type="video/mp4">
 	</video>
 
-#### Alphablocks 拼读视频
+### Alphablocks 拼读视频
 
 观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
 
@@ -43,7 +125,7 @@ updated: 2025-04-15
 
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-7.jpeg)
 
-#### P73 歌曲 *Different Seasons*
+### P73 歌曲 *Different Seasons*
 
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.49.mp3" type="audio/mp3">
@@ -61,7 +143,7 @@ updated: 2025-04-15
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.50.mp3" type="audio/mp3">
 </audio>
 
-#### 复习 P70–71 文本
+### 复习 P70–71 文本
 
 {% note info %}
 - 难度 ★★☆
@@ -84,7 +166,7 @@ updated: 2025-04-15
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.005.jpeg)
 {% endgrouppicture %}
 
-#### 练习册 Workbook P58–62
+### 练习册 Workbook P58–62
 
 ## D6, 2025-04-06
 

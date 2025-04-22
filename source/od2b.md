@@ -1,8 +1,70 @@
 ---
 title: 牛津探索2 周日班
 created: 2024-10-19
-updated: 2025-04-19
+updated: 2025-04-22
 ---
+
+## D9, 2025-04-20
+
+### 课堂回顾
+
+- 复习制作冰淇淋的步骤，复习英文表达
+- 学习更多食物的词汇，训练听力，了解不同食物的食材（ingredients）（<mark>听力练习大家都没有听完整，对于细节的把控还需要提升</mark>）
+- 开启第三个大单元 *How are things different now from long ago*
+- 探讨现在和以前的事物有哪些方面不一样，举例
+	- 交通
+	- 交流
+	- 获取新闻
+- 学习关于这三个方面的词汇
+- 学习阅读策略 Main idea and details 中心句和支持论点
+	- 如何找到中心句（一般在段落第一句）和支持论点
+
+### 学习任务
+
+#### 词汇
+
+- **P42**
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.27.mp3" type="audio/mp3">
+	</audio>
+- **P48**
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读
+
+熟悉 P50–51 文本，听录音跟读两遍，每两天跟读一页，思考过去和现在在哪几个方面有不一样，有哪些不同；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+完成练习册 P34–39
+
+#### 视频学习
+
+- 自主学习 BrainPop 关于 Main idea and supporting details 的视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-main-idea.mp4" type="video/mp4">
+</video>
+
+- 复习第二单元动画对话视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_02_Story2.mp4" type="video/mp4">
+</video>
+ 
+#### 阅读
+
+- 复习 P38–39 剧本 *Let’s Make Ice Cream!* 听录音跟读两遍，每两天跟读一页，注意语气和情绪
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.25.mp3" type="audio/mp3">
+</audio>
 
 ## D8, 2025-04-17
 

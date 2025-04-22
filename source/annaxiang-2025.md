@@ -1,8 +1,73 @@
 ---
 title: Anna 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-04-15
+updated: 2025-04-22
 ---
+
+## D11, 2025-04-20
+
+### 学习任务
+
+#### 牛津自然拼读 long *a*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *ai*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_04_ai.mp4" type="video/mp4">
+	</video>
+- *ay*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_04_ay.mp4" type="video/mp4">
+	</video>
+
+### 拼读绘本操练 *Sail on the Bay*
+
+复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc1_Track64.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-4.jpeg)
+
+#### 词汇
+
+- 复习书上 P128 词汇，跟读两遍。
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.32.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读
+
+- 熟悉文本 *Where’s Your Home?*，结合图片及标签（labels）理解文本
+- 逐句暂停跟读两遍，每两天跟读一页
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.33.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+- 红色练习册 P110–P111
+
+### 课堂学习内容和课堂反馈
+
+- 学习自然拼读 long *a*
+- 学习原版拼读绘本
+- 进入第7个大问题的学习
+- 探讨关于住所的问题，说一说你喜欢住在哪里以及原因
+- 复习之前学习的词汇，学习新的地点的词汇，根据图片，理解其意义
+- 阅读策略：标签 labels，通过图片的标签来理解图片中的事物及文本
+- 进入文本 *Where’s Your Home?* 的学习，了解不同的人住在不同的环境
+- 初步认识英文地址的书写方式，了解中外地址的不同差异
+	- 中文从大到小，英文从小到大
+
+<mark>Anna 对于本堂课相关的词汇积累丰富，对新的词汇理解准确，对于口语问题的表达意愿很强，思考积极，回答准确。继续加油！</mark>
 
 ## D10, 2025-04-13
 
