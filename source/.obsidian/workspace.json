@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "rockyzhu-2025"
             }
-          },
-          {
-            "id": "14b028952049b6d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "od1a.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "od1a"
-            }
-          },
-          {
-            "id": "de6d827e650390b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wuzimo.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "wuzimo"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od1a.md",
+                "file": "rockyzhu-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od1a"
+              "title": "Outline of rockyzhu-2025"
             }
           },
           {
@@ -260,10 +211,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14b028952049b6d4",
+  "active": "5041b359b6532095",
   "lastOpenFiles": [
-    "rockyzhu-2025.md",
     "od1a.md",
+    "rockyzhu-2025.md",
     "wuzimo.md",
     "ms-li.md",
     "bendai.md",
