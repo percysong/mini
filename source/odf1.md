@@ -1,8 +1,70 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2025-04-15
+updated: 2025-04-24
 ---
+
+## 2025-04-21
+
+### 学习资料和学习任务
+
+- 复习 P121- **Talking about consequences**, 以及 First Conditional 语法规则
+- Workbook P47 8–9, P48 10 *City survival tips*
+
+#### Review: What is the *First Conditional*?
+
+The **first conditional** is used to talk about **real and possible future situations** — things that *can* actually happen.
+
+It describes a *likely* result based on a *real condition* in the future.
+
+**Structure:**
+
+> **If** + present simple, **will** + base verb
+
+Think of it like:
+
+> **If something happens**, **this will happen.**
+
+**Examples: Everyday (Casual) English:**
+
+- **If it rains, we’ll stay home.**
+    (We’re not sure if it’ll rain, but it’s possible. If it does, then we’ll stay in.)
+- **If I see her, I’ll say hi.**
+    (It’s possible I’ll see her. If I do, I’ll greet her.)
+- **If you study, you’ll pass the test.**
+    (Real possibility. Not guaranteed, but likely.)
+
+**Important Notes:**
+
+1. We use the **present simple** in the “if” part — not future tense.
+
+    > ❌ _If it will rain, we will stay home._
+    > ✅ _If it rains, we will stay home._
+
+2. “Will” can be replaced with **may**, **might**, or **can** to soften or vary the meaning:
+    
+    - **If you hurry, you might catch the train.**
+    - **If we finish early, we can watch a movie.**
+   
+
+### 学习内容回顾
+
+**语法重点：使用第一条件句（First Conditional）来表达结果**
+
+- 表达某个条件发生时可能带来的结果，结合上节课学习的可能性来判断其出现结果的可能：
+- 我们还分析了多个野外生存 tips，并用情态动词和条件句表达这些建议的后果。
+- 选择不同的灾难情景，用该说说你的生存tips
+
+第二部分围绕“**适应变化的能力**”展开，强调在面对突发情况时，积极应对与快速适应的重要性。
+
+**Life Skills 生活技能策略：如何在不确定中保持冷静和灵活**
+
+- 我们阅读并讨论了五条 “Adapt and Survive” 的建议，并说说在生活中运用到这些 tip 的情景
+    - **Be calm**（冷静）
+    - **Be smart**（冷静思考）
+    - **Be imaginative**（发挥想象）
+    - **Be cooperative**（合作）
+    - **Think of a happy ending**（积极思考）
 
 ## 2025-04-14
 
@@ -19,7 +81,7 @@ updated: 2025-04-15
 
 - 先通过荒岛生存游戏来选择对于生存最重要的物品，并陈述理由（为什么重要，你可以用它来做什么）。最后揭示答案，检查哪些物品更重要。
 	- 两位小朋友都找到了获取水源和食物，以及保暖的物品，理由陈述也清晰且合乎逻辑。
-- 通过一篇关于“生存主义者（survivalists）”的文章，引导学生了解如果未来发生灾难，我们该如何准备。
+- 通过一篇关于“生存主义者（survivalists）”的文章，引导我们了解如果未来发生灾难，我们该如何准备。
 	- 生存主义者相信未来一定会发生灾难，他们提前准备好物资、食物和水源。
 	- 他们学习在野外如何寻找食物和水、如何打猎，并准备随时撤离城市。
 	- 一些人把食物和水藏在森林里，以备长期在野外生存的可能性。
@@ -36,7 +98,7 @@ updated: 2025-04-15
     - _It could be dangerous in the city._
     - _We might not have enough food._      
 
-学生练习识别哪些句子是“肯定”预测，哪些是“可能”预测。
+我们练习识别哪些句子是“肯定”预测，哪些是“可能”预测。
 
 - 分析三部灾难电影的海报，讨论电影中事件是否 **可能（possible）** 或 **很可能（probable）** 发生。
 - 学习表达范式：
@@ -133,7 +195,7 @@ Big Question: What do we need to survive?
 
 主要内容：
 	•	讨论危险性：通过图片和问题讨论哪些事情或生物真正危险，例如鲨鱼是否比人类危险。
-	•	比较不同风险：学生们思考和比较现代生活中的各种风险，例如厨房事故与登山事故的对比。
+	•	比较不同风险：我们们思考和比较现代生活中的各种风险，例如厨房事故与登山事故的对比。
 	•	观看视频：通过Factflix视频了解哪些事物看似危险但实际上较为安全，并验证自己的答案。
 	•	小组讨论：学生们分享自己认为的现实生活中真正的危险，包括动物、职业、运动和交通。
 

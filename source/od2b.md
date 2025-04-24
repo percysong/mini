@@ -1,7 +1,7 @@
 ---
 title: 牛津探索2 周日班
 created: 2024-10-19
-updated: 2025-04-22
+updated: 2025-04-23
 ---
 
 ## D9, 2025-04-20
@@ -58,6 +58,7 @@ updated: 2025-04-22
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_02_Story2.mp4" type="video/mp4">
 </video>
  
+
 #### 阅读
 
 - 复习 P38–39 剧本 *Let’s Make Ice Cream!* 听录音跟读两遍，每两天跟读一页，注意语气和情绪

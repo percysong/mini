@@ -1,8 +1,93 @@
 ---
 title: Oxford Discover 1 Class A
 created: 2024-09-11
-updated: 2025-04-17
+updated: 2025-04-24
 ---
+
+## D9, 2025-04-23
+
+### 本周学习任务
+
+#### 牛津自然拼读 long *i*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *_ie*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_06_ie.mp4" type="video/mp4">
+	</video>
+
+- *_igh*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_06_igh.mp4" type="video/mp4">
+	</video>
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *i* 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/learn-to-read-phonics-for-kids-long-i-vowels.mp4" type="video/mp4">
+</video>
+
+#### 词汇
+
+- P74
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.50.mp3" type="audio/mp3">
+</audio>
+
+- P76
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.54.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P73 歌曲 *Different Seasons*
+
+复习歌曲，注意本节课的语法规则
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.49.mp3" type="audio/mp3">
+</audio>
+
+#### P75 口语交际
+
+{% note info %}
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.54.mp3" type="audio/mp3">
+</audio>
+
+#### Compound Words 视频
+
+回顾视频，复习复合词 Compound Words
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/compound-words-for-kids.mp4" type="video/mp4">
+</video>
+
+#### 练习册 Workbook P60–63
+
+### 课堂回顾
+
+- 复习季节词汇，通过提示词复述每个季节的特点
+- 通过描述图片来操练句型，熟悉一般现在时态第三人称单数语法
+- 学习天气词汇，描述公园不同季节的事物和气候
+- 完成听力练习
+- 口语交际训练：如何邀请对方一起玩耍
+- 学习合成词（Compound Words）
+- 回顾四季及描述四季的词汇
+- 复习天气词汇，回顾每个季节天气的不同
+- 学习 Unit 8 关于不同季节不同活动的词汇
 
 ## D8, 2025-04-16
 
