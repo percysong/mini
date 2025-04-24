@@ -46,6 +46,12 @@ Think of it like:
     - **If you hurry, you might catch the train.**
     - **If we finish early, we can watch a movie.**
    
+#### Video about first conditional
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/first-conditional-grammar-verb-tenses.mp4" type="video/mp4">
+</video>
+
 
 ### 学习内容回顾
 
