@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-04-19
+updated: 2025-04-25
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,53 @@ updated: 2025-04-19
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D15-16, 2025-04-17
+
+### 学习资料和学习任务
+
+#### 自然拼读绘本
+
+听录音跟读两遍，自主拼读一遍。持续两天。
+
+- *The Race*
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB5_Disc1_Track17.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_5_Story-1.jpeg)
+
+#### 视频材料
+
+回顾第一大单元总结，说说 How do people have fun?
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_BQ1_WU.mp4" type="video/mp4">
+</video>
+
+#### 词汇
+
+- 复习 P28 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.16.mp3" type="audio/mp3">
+	</audio>
+
+#### 书面作业
+
+- 练习册OD3 Workbook P19–22
+
+### 学习内容
+
+- 复习原版拼读绘本，熟悉拼读规则
+- 复习第一大单元的问题
+- 基础词汇拼写练习
+- 完成第一单元测试（<mark>宣宇对语序排列的语感还有欠缺</mark>）
+- 开启第二大单元 Why do people move to new places
+- 谈论我们出生地，曾经的搬家历史
+	- I was born in …
+	- I moved to …
+- 学习搬家和户内外活动相关词汇
 
 ## D14, 2025-04-17
 

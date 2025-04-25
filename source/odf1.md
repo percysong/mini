@@ -1,7 +1,7 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2025-04-24
+updated: 2025-04-25
 ---
 
 ## 2025-04-21
@@ -46,12 +46,12 @@ Think of it like:
     - **If you hurry, you might catch the train.**
     - **If we finish early, we can watch a movie.**
    
+
 #### Video about first conditional
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/first-conditional-grammar-verb-tenses.mp4" type="video/mp4">
 </video>
-
 
 ### 学习内容回顾
 
