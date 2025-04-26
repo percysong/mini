@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rockyzhu-2025.md",
+                "file": "od2c.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rockyzhu-2025"
+              "title": "od2c"
+            }
+          },
+          {
+            "id": "11ad4bdd847d7f3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaoyuhan.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "shaoyuhan"
             }
           }
         ]
@@ -113,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rockyzhu-2025.md",
+                "file": "od2c.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of rockyzhu-2025"
+              "title": "Outline of od2c"
             }
           },
           {
@@ -213,6 +237,7 @@
   },
   "active": "5041b359b6532095",
   "lastOpenFiles": [
+    "shaoyuhan.md",
     "od2c.md",
     "rockyzhu-2025.md",
     "leoyao.md",
@@ -224,7 +249,6 @@
     "od2a.md",
     "annaxiang-2025.md",
     "dannychen-2025.md",
-    "shaoyuhan.md",
     "od2b.md",
     "annaxiang-2024.md",
     "chenruochun.md",

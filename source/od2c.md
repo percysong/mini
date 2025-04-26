@@ -1,8 +1,63 @@
 ---
 title: 牛津探索周五班
 created: 2024-10-19
-updated: 2025-04-19
+updated: 2025-04-26
 ---
+
+## D7, 2025-04-25
+
+### 课堂回顾
+
+- 练习册改错
+- 学习更多交通工具，练习完成听力
+	- 注意常见交通工具词汇
+	- <mark>truck 的读音，子睿容易读成 trunk</mark>
+- 口语交际练习
+	- 来到新的国家应该如何对话
+	- 在听不清楚的时候如何用英文回应 
+		- Would you repeat that, please?
+		- Say that again please?
+- 学习词典的排布规则（按字母顺序排列）
+- 总结复习大问题，现在和以前的事物有哪些不同
+- 开启第二单元，学习词汇
+- 学习阅读策略：故事的顺序 Sequence of Event
+
+### 学习资料和学习任务
+
+#### Vocabulary
+
+复习 P54 词汇，听录音，跟读两遍
+
+**P54**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.35.mp3" type="audio/mp3">
+</audio>
+
+**P56**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+#### 大问题视频
+
+复习大问题视频，总结自己的回答：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_03_Wrapup3.mp4" type="video/mp4">
+</video>
+
+#### Reading
+
+预习 P58–59 文本，听录音跟读两遍，每两天跟读一页；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook
+
+- 阅读故事完成 Student Book P60 – B,C
+- Workbook P42–47
 
 ## D6, 2025-04-18
 
