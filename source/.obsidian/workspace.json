@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od2c.md",
+                "file": "rockyzhu-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od2c"
+              "title": "rockyzhu-2025"
             }
           },
           {
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2c.md",
+                "file": "rockyzhu-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2c"
+              "title": "Outline of rockyzhu-2025"
             }
           },
           {
@@ -237,8 +237,8 @@
   },
   "active": "5041b359b6532095",
   "lastOpenFiles": [
-    "shaoyuhan.md",
     "od2c.md",
+    "shaoyuhan.md",
     "rockyzhu-2025.md",
     "leoyao.md",
     "odf1.md",

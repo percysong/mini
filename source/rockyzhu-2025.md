@@ -10,7 +10,76 @@ updated: 2025-04-25
 - 开始学习日期：2024 年 9 月 23 日
 ---
 
-## D15-16, 2025-04-17
+
+## D17*, 2025-04-26
+
+### 学习资料和学习任务
+
+#### 自然拼读绘本
+
+听录音跟读两遍，自主拼读一遍。持续两天。
+
+- *A Cow in the House*
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB5_Disc1_Track32.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_5_Story-2.jpeg)
+
+#### 视频材料
+
+
+#### 阅读
+
+复习 P30–31 文本，听录音，跟读两遍，每两天跟读一页：
+第三册课文语速较快，需仔细聆听模仿。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.17.mp3" type="audio/mp3">
+  </audio>
+
+注意扩展新词汇的发音：
+
+- St.
+	- Saint (圣人，作地名一般翻译为「圣XX」)
+- Minnesota
+	- 明尼苏达州
+- Mumbai
+	- 孟买（印度第二大都市）
+- compared to …
+	- A … compared to B.
+- monsoon
+	- a rainy period in South and Southeast Asia between May and September
+- surgeon
+- lentil curry (小扁豆咖喱)
+- Bollywood (宝莱坞——印度的「好莱坞」)
+- canoe /kəˈnuː/ 重音在后面
+
+#### 歌曲
+
+自学 P33–D 歌曲 *I Can Ice Skate*，听录音，跟唱两遍，注意目标句型。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.11.mp3" type="audio/mp3">
+</audio>
+
+#### 书面作业
+
+- 练习册OD3 Workbook P23–24
+- 完成阅读练习题单
+
+### 学习内容
+
+- 复习原版拼读绘本，熟悉拼读规则
+- 深入阅读 Letters to a Friend
+- 说说我们为什么写信
+- 运用阅读策略，梳理信件中事件发生的顺序（Sequence）
+- 了解 Sati 移居至美国后自己的心情变化，说说原因
+- 完成课后练习题
+- 完成基础词汇听写，熟悉拼读规则（这次听写得准确率不错）
+
+## D15-16*, 2025-04-21/24
 
 ### 学习资料和学习任务
 
