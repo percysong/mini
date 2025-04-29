@@ -1,13 +1,69 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2025-04-24
+updated: 2025-04-29
 ---
 
 - 学生姓名：代超巡
 - English Name: Ben
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
+
+## D11, 2025-04-29
+
+#### 词汇
+
+- 复习 P48 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.30.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读
+
+复习 P47 诗歌，听录音自主阅读两遍，注意下面词汇：
+
+- adventure
+- invite
+- memory
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/a-poem-for-the-reader.m4a" type="audio/mp3">
+</audio>
+
+
+预习 P51 文本，听录音，圈划出自己不熟悉的词汇，说说你最喜欢哪一首诗歌：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.31.mp3" type="audio/mp3">
+  </audio>
+
+#### 视频
+
+自主学习 BrainPop 关于 Rhyme 的视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-rhyming-words.mp4" type="video/mp4">
+</video>
+
+复习 BrainPop 的阅读策略：主题 Theme，思考我们如何通过文本去找主题：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-theme.mp4" type="video/mp4">
+</video>
+
+### 学习内容
+
+- 开启诗歌单元 *Why do people write poems?*
+- 说说对诗歌的认识
+	- Ben 很快就提出了 easy to read / sounds good 的特点
+- 探究诗歌的其它特点，以及和其它文体的区别
+- 深入了解押韵 rhyme, 通过押韵游戏来判断两个词汇是否押韵
+- 学习本单元昆虫的词汇，谈论其特性
+- 通过混合搭配词组，发挥想象力，以表现不同的有趣画面
+- 学习阅读策略 Theme，通过文本来找到作者表达的主题
+- 预览关于三个诗人的简介，通过标题、图片预测，说说你觉得最有趣的一首诗是哪一首
+- 深度阅读，了解作者的简介，说一说每个诗歌的主题
+- 完成课后练习
 
 ## D10, 2025-04-22
 

@@ -1,8 +1,105 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2025-04-25
+updated: 2025-04-28
 ---
+
+## 2025-04-28
+
+### 学习资料和学习任务
+
+- Workbook P48–P49
+
+Listening Audio:
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_WB1_5.01.mp3" type="audio/mp3">
+</audio>
+
+#### 听力材料复习
+
+P54 *Real Stories*
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_SB1_1.14.mp3" type="audio/mp3">
+</audio>
+
+#### 词汇复习
+
+1. unexpectedly (adv.)
+	•	In a way that is not expected or planned.
+	•	*The rain started unexpectedly during our picnic.*
+
+2. circumstance (n.)
+	•	A fact or condition that affects a situation.
+	•	*We wanted to marry but circumstances didn’t permit.*
+
+3. panic (n.)
+	•	A sudden, strong feeling of fear that prevents clear thinking.
+	•	*There was panic in the crowd when the fire alarm rang.*
+
+4. tough (adj.)
+	•	Strong and not easily broken; also means difficult.
+	•	*He is a tough person who doesn’t give up easily.*
+
+5. alternative (n.)
+	•	Another choice or option.
+	•	*Taking the bus is a good alternative to driving.*
+
+6. adapt (v.)
+	•	To change something to suit a new situation.
+	•	*She had to adapt to the new school quickly.*
+	- adaptation (n.)
+		•	The process of changing to fit a new environment or situation.
+
+7. expedition (n.)
+	•	A journey made for a special purpose, often to explore.
+	•	*They went on an expedition to study the rainforest.*
+
+8. uninhabited (adj.)
+	•	A place where no people live.
+	•	*They discovered an uninhabited island in the ocean.*
+
+9. Arctic (n.)
+	•	The cold area around the North Pole.
+	•	*Polar bears live in the Arctic.*
+
+#### 视频
+
+*The Story of Juliane Koepcke*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/juliane-koepcke-and-the-lansa-disaster-a-short-documentary-fascinating-horror.mp4" type="video/mp4">
+</video>
+
+### 学习内容回顾
+
+**1. Life Skills 生活技能策略：如何在不确定中保持冷静和灵活**
+
+识别六个积极品质（positive qualities），如 calm, smart, imaginative, cooperative，并讨论了这些品质如何在生活中帮助自己。
+ 
+
+**2. 听力技能（Listening Strategy: Previewing）**
+
+在听真实故事 *Ada Blackjack* 之前，学习如何通过标题和图片预测听力内容。
+
+通过听力练习，分析Ada是如何体现出这些positive quality的。
+  
+
+**3. 活动：The Bike Trip Test（骑行旅行测试）**
+
+面对假想中的突发状况（如朋友迟到、迷路、自行车坏了、下雨、缺钱、手机无信号等），讨论最佳应对策略。
+
+使用的关键表达包括：
+
+- _If that happens, we could…_
+- _What’s our plan B?_
+- _What about if…?_
+
+**4. 反思与拓展（Reflect and Discover More）**
+
+- 线上搜索阅读另一个真实生存故事（Juliane Koepcke）并讨论她遇到的挑战以及什么特质帮助了她生存下来。
+- [BBC 对 Juliane Koepcke 的采访报道链接](https://www.bbc.co.uk/news/magazine-17476615)。
 
 ## 2025-04-21
 
@@ -66,11 +163,11 @@ Think of it like:
 **Life Skills 生活技能策略：如何在不确定中保持冷静和灵活**
 
 - 我们阅读并讨论了五条 “Adapt and Survive” 的建议，并说说在生活中运用到这些 tip 的情景
-    - **Be calm**（冷静）
-    - **Be smart**（冷静思考）
-    - **Be imaginative**（发挥想象）
-    - **Be cooperative**（合作）
-    - **Think of a happy ending**（积极思考）
+    - **Be calm**
+    - **Be smart**
+    - **Be imaginative**
+    - **Be cooperative**
+    - **Think of a happy ending**
 
 ## 2025-04-14
 
@@ -203,7 +300,7 @@ Big Question: What do we need to survive?
 	•	讨论危险性：通过图片和问题讨论哪些事情或生物真正危险，例如鲨鱼是否比人类危险。
 	•	比较不同风险：我们们思考和比较现代生活中的各种风险，例如厨房事故与登山事故的对比。
 	•	观看视频：通过Factflix视频了解哪些事物看似危险但实际上较为安全，并验证自己的答案。
-	•	小组讨论：学生们分享自己认为的现实生活中真正的危险，包括动物、职业、运动和交通。
+	•	小组讨论：分享自己认为的现实生活中真正的危险，包括动物、职业、运动和交通。
 
 语言知识点：
 	•	词汇：risk, danger, hurt, injure 等
