@@ -24,7 +24,7 @@ updated: 2025-04-30
 复习生词：
 
 
-- Britain (noun)
+- Britain (noun) 英国
 	- A country in Europe. It includes England, Scotland, and Wales.
 - British (adjective / noun)
 	- Adjective: Something from Britain.
@@ -67,7 +67,7 @@ updated: 2025-04-30
 - Scottish (adjective / noun)
 	- Adjective: Something from Scotland.
 	- Noun: A person from Scotland.
-- Scotland (noun)
+- Scotland (noun) 苏格兰
 	- A country in the north part of Britain.
 - grown-up (noun / adjective)
 	- Noun: An adult; not a child anymore.
