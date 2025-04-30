@@ -1,8 +1,116 @@
 ---
 title: 牛津探索周二班
 created: 2024-10-19
-updated: 2025-04-24
+updated: 2025-04-30
 ---
+
+## D9, 2025-04-29
+
+#### 词汇
+
+- 复习 P48 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.30.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读
+
+复习 P51 文本，听录音，每个诗歌跟读两遍，训练语音语调：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.31.mp3" type="audio/mp3">
+  </audio>
+
+复习生词：
+
+
+- Britain (noun)
+	- A country in Europe. It includes England, Scotland, and Wales.
+- British (adjective / noun)
+	- Adjective: Something from Britain.
+	- *Example: British food, British flag*
+	- Noun: A person from Britain.
+- escape (verb / noun)
+	- Verb: To get away from danger or a bad place.
+	- *Example: She escaped from the fire.*
+	- Noun: The act of getting away.
+	- *Example: His escape was quick and lucky.*
+- whooshing (verb – present participle / noun – sound)
+	- A fast, soft sound like air or wind moving quickly.
+	- *Example: The wind made a whooshing noise.*
+- shooting star (noun)
+	- A bright light in the sky that moves fast. It’s a rock from space burning as it falls.
+- leap (verb / noun)
+	- Verb: To jump high or far.
+	- Noun: A big jump.
+- encourage (verb)
+	- To say or do something that helps someone feel brave or confident.
+	- *Example: My teacher encouraged me to try again.*
+- silver (noun / adjective)
+	- Noun: A shiny grey-white metal.
+	- Adjective: The color of that metal.
+	- *Example: She wore a silver dress.*
+- America (noun)
+	- A large country in North America. Its full name is the United States of America (USA).
+- American (adjective / noun)
+	- Adjective: Something from America.
+	- Noun: A person from America.
+- insect (noun)
+	- A small animal with six legs, like a bee, ant, or butterfly.
+- get along (phrasal verb)
+	- To be friendly or not fight with someone.
+	- *Example: I get along well with my brother.*
+- sneeze (verb / noun)
+	- Verb: To suddenly blow air from your nose and mouth.
+	- Noun: The action or sound of sneezing.
+	- *Example: That was a loud sneeze!*
+- Scottish (adjective / noun)
+	- Adjective: Something from Scotland.
+	- Noun: A person from Scotland.
+- Scotland (noun)
+	- A country in the north part of Britain.
+- grown-up (noun / adjective)
+	- Noun: An adult; not a child anymore.
+	- Adjective: For adults.
+	- *Example: That movie is for grown-up people.*
+
+#### 视频
+
+Michael Rosen 作者的诗歌表演视频扩展：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/hot-food-poem-the-hypnotiser-kids-poems-and-stories-with-michael-rosen.mp4" type="video/mp4">
+</video>
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/fast-food-poem-the-hypnotiser-kids-poems-and-stories-with-michael-rosen.mp4" type="video/mp4">
+</video>
+
+Aileen Fisher 作者的诗歌作品扩展：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/upside-down-by-aileen-fisher-kids-learning-children-s-english-poem-recitation.mp4" type="video/mp4">
+</video>
+
+#### 书面作业
+
+- 学生用书 P54 听力 A–B
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+  </audio>
+
+- 练习册OD3 Workbook P40–45
+
+### 学习内容
+
+- 词汇游戏 Wordle 热身
+- 复习阅读策略 Theme，通过文本来找到作者表达的主题
+- 预览关于三个诗人的简介，通过标题、图片预测，说说你觉得最有趣的一首诗是哪一首
+- 深度阅读，了解作者的简介，说一说每个诗歌的主题
+- 完成课后练习
+- 扩展更多作者的诗歌作品
+- 学习语法：过去进行时态
 
 ## D8, 2025-04-22
 

@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "c7a0f2aa48bb4dca",
+            "id": "edc3749c350bffde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "odf1.md",
+                "file": "od2a.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "odf1"
+              "title": "od2a"
             }
           }
         ],
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "odf1.md",
+                "file": "od2a.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of odf1"
+              "title": "Outline of od2a"
             }
           },
           {
@@ -223,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,9 +237,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7a0f2aa48bb4dca",
+  "active": "edc3749c350bffde",
   "lastOpenFiles": [
     "bendai.md",
+    "od2a.md",
     "odf1.md",
     "shaoyuhan.md",
     "rockyzhu-2025.md",
@@ -247,7 +249,6 @@
     "wuzimo.md",
     "ms-li.md",
     "od1a.md",
-    "od2a.md",
     "annaxiang-2025.md",
     "dannychen-2025.md",
     "od2b.md",
