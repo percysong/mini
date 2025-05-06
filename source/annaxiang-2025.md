@@ -1,8 +1,94 @@
 ---
 title: Anna 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-04-22
+updated: 2025-05-06
 ---
+
+## D12, 2025-05-05
+
+### 学习任务
+
+#### 牛津自然拼读 long *i*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *_ie*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_06_ie.mp4" type="video/mp4">
+	</video>
+
+- *_igh*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_06_igh.mp4" type="video/mp4">
+	</video>
+
+#### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *i* 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/learn-to-read-phonics-for-kids-long-i-vowels.mp4" type="video/mp4">
+</video>
+
+#### 拼读绘本操练 *The Cub in the Night*
+
+- 复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc2_Track32.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-6.jpeg)
+
+#### 词汇
+
+- 复习书上 P128 词汇，跟读两遍。
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.32.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读
+
+- 复习文本 *Where’s Your Home?*，结合课堂上的思维导图加深理解
+	- 思维导图已在课堂上完成大部分，需要下来自己完善一下，可以用彩笔将不同信息区分，并完善自己的简笔画加深理解。
+- 逐句暂停跟读两遍，每两天跟读一页
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.33.mp3" type="audio/mp3">
+</audio>
+
+#### 扩展视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/lesson-6-where-do-you-live.mp4" type="video/mp4">
+</video>
+
+- 观看视频两遍，了解世界不同的人们都住在什么样的地方？说一说：
+- 观看后，不查词典，猜一猜这两个词是什么意思：
+	- quiet
+	- loud
+
+#### 练习册
+
+- 红色练习册 P112–P113
+- 完成阅读练习题单
+
+### 课堂学习内容和课堂反馈
+
+- 学习自然拼读 long *i*
+- 学习原版拼读绘本
+- 复习之前学习的词汇，学习新的地点的词汇，根据图片，理解其意义
+- 复习阅读策略：标签 labels，通过图片的标签来理解图片中的事物及文本
+- 学习如何使用思维导图（泡泡图）来整理信息，加深对文本的理解
+- 回答更多阅读理解问题，完成课后练习。
+
+<mark>Anna 拼读有一定的进步，但下来还可以更多练习模仿。本节课学习课文时专注度有所下降，可能因为没有做好复习，对于问题的思考反应也比之前要慢许多。希望下来之后继续好好复习哟。</mark>
 
 ## D11, 2025-04-20
 

@@ -1,8 +1,61 @@
 ---
 title: Ms Li 英语拓展课程
 created: 2024-09-11
-updated: 2025-04-22
+updated: 2025-05-06
 ---
+
+## D9, 2025-05-04
+
+### 牛津自然拼读 long *i*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *_ie*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_06_ie.mp4" type="video/mp4">
+	</video>
+
+- *_igh*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_06_igh.mp4" type="video/mp4">
+	</video>
+
+### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *i* 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/learn-to-read-phonics-for-kids-long-i-vowels.mp4" type="video/mp4">
+</video>
+
+### 拼读绘本操练 *The Cub in the Night*
+
+- 复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc2_Track32.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-6.jpeg)
+
+### P76 词汇
+
+{% note info %}
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.54.mp3" type="audio/mp3">
+</audio>
+
+### 练习册 Workbook P62–65
 
 ## D8, 2025-04-20
 
@@ -143,30 +196,34 @@ updated: 2025-04-22
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.50.mp3" type="audio/mp3">
 </audio>
 
-### 复习 P70–71 文本
+### 复习 P78–79 *Arnold’s Apple Tree* 课文
 
-{% note info %}
-- 难度 ★★☆
-- 每天听录音，暂停跟读跟读一个季节文本，跟读至少两遍；
-- 思考每个季节有哪些特别的地方，你能尝试说说看吗？
-{% endnote %}
+- 第一天：听录音，暂停跟读两遍 P78，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
+- 第二天：听录音，暂停跟读两遍 P79，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
+- 第三天：看老师的提示词图片，尝试复述课文：
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
 </audio>
 
-- 根据提示词卡，尝试复述每个季节的特点，注意加 *s* 的地方。
-
-{% grouppicture 4-2 %}
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.002.jpeg)
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.003.jpeg) 
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-001.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-002.jpeg)
 {% endgrouppicture %}
 {% grouppicture 2-2 %}
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.004.jpeg)
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U7.005.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-003.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-004.jpeg)
 {% endgrouppicture %}
 
-### 练习册 Workbook P58–62
+### 扩展绘本朗读视频
+
+聆听作者原版绘本（语言难度很大），尝试对比课文，根据图片猜测理解，复习课本上学习过的新的表达。
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/the-seasons-of-arnold-s-apple-tree-my-view-2-nd-grade-unit-2-week-3-read-along.mp4" type="video/mp4">
+</video>
+
+### 练习册 Workbook P66–68
 
 ## D6, 2025-04-06
 
