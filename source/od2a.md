@@ -1,8 +1,52 @@
 ---
 title: 牛津探索周二班
 created: 2024-10-19
-updated: 2025-04-30
+updated: 2025-05-08
 ---
+
+## D10, 2025-05-06
+
+#### 词汇
+
+- 复习 P56 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.37.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读
+
+预习 P58 You Can Be a Poet，听录音自主阅读两遍：
+- 勾画不熟悉的生词（不需要查词典）
+- 使用 Visualize 策略来深入理解阅读诗歌
+- 初步认识文中介绍的三种诗歌类型，找一找它们分别的特点和规则
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.38.mp3" type="audio/mp3">
+  </audio>
+
+#### 视频
+
+回顾大问题 Why do people write poems? 说说自己的看法
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_BQ3_TP.mp4" type="video/mp4">
+</video>
+
+#### 书面作业
+
+- 练习册OD3 Workbook P46–49
+	- P46 生词不熟悉请按照课上的方式在学生用书后面查找英文词典
+	- P47 使用过去进行时和一般过去时来描写一个场景
+
+### 学习内容
+
+- 词汇游戏 Wordle 热身
+- 听力练习，了解他人写诗的原因
+- 学习以 -le 结尾的词汇，学习查词典的方法
+- 学习形容词的顺序
+- 学习词性的词汇
+- 阅读策略：Visualize（将文字可视化）
+- 初步浏览文本，使用阅读策略来阅读诗歌，说说自己想象到的情景，加深对诗歌的理解
 
 ## D9, 2025-04-29
 
@@ -22,7 +66,6 @@ updated: 2025-04-30
   </audio>
 
 复习生词：
-
 
 - Britain (noun) 英国
 	- A country in Europe. It includes England, Scotland, and Wales.

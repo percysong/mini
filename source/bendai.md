@@ -1,13 +1,68 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2025-04-30
+updated: 2025-05-08
 ---
 
 - 学生姓名：代超巡
 - English Name: Ben
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
+
+## D12, 2025-05-06
+
+#### 阅读
+
+复习 P58 You Can Be a Poet，听录音自主阅读两遍，使用 Visualize 策略来帮助阅读诗歌。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.38.mp3" type="audio/mp3">
+  </audio>
+
+#### 视频
+
+自主学习 BrainPop 关于 Poem 的视频，复习 Acrostic 及 Haiku 两种类型的诗歌，扩展了解更多诗歌
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-poems.mp4" type="video/mp4">
+</video>
+
+自主学习诗歌写作策略视频：
+
+**1. What is it?**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/writing-poetry-for-kids-episode-1-what-is-it.mp4" type="video/mp4">
+</video>
+
+**2. Five Senses**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/writing-poetry-for-kids-episode-2-five-senses.mp4" type="video/mp4">
+</video>
+
+**3. A Poet’s Eyes**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/writing-poetry-for-kids-episode-3-a-poet-s-eye.mp4" type="video/mp4">
+</video>
+
+
+**4. Big Feelings and Line Breaks**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/writing-poetry-for-kids-episode-4-big-feelings-and-line-breaks.mp4" type="video/mp4">
+</video>
+
+### 学习内容
+
+- 复习不同的诗歌形式及其规则
+- 学习语法：过去进行时态与一般过去时态的区别，如何同时使用
+- 听力练习，找到押韵的词，判断诗歌主题
+- 复习 Syllables
+- 扩展更多多音节词汇
+- 写作：如何使用拟人手法来进行诗歌写作
+- 寻找主题，进行诗歌创作的尝试
 
 ## D11, 2025-04-29
 
