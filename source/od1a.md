@@ -1,10 +1,10 @@
 ---
 title: Oxford Discover 1 Class A
 created: 2024-09-11
-updated: 2025-04-24
+updated: 2025-05-09
 ---
 
-## D9, 2025-04-23
+## D10, 2025-05-08
 
 ### 本周学习任务
 
@@ -15,6 +15,11 @@ updated: 2025-04-24
 - 每天复习两个视频
 - 听视频中的老师领读，然后与学生一起跟读
 {% endnote %}
+
+- *_y*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_06_spy.mp4" type="video/mp4">
+	</video>
 
 - *_ie*
 	<video width="100%" height="auto" controls>
@@ -35,6 +40,56 @@ updated: 2025-04-24
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/learn-to-read-phonics-for-kids-long-i-vowels.mp4" type="video/mp4">
 </video>
+
+#### 拼读绘本操练 *The Cub in the Night*
+
+- 复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc2_Track32.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-6.jpeg)
+
+#### 词汇
+
+- P76
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.54.mp3" type="audio/mp3">
+</audio>
+
+#### 故事复习 P78–79 *Arnold’s Apple Tree*
+
+- 第一天：听录音，阅读图片和注释 captions，说一说每个季节 Arnold 都在干什么？Apple Tree 有什么变化？；
+- 第二天听录音，暂停跟读第一部分 **spring**，跟读两遍，注意模仿语调；
+- 第三天听录音，暂停跟读第二部分 **summer**
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/22/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P64–67
+
+### 课堂回顾
+
+- 复习学习自然拼读 long *i*
+- 阅读自然拼读绘本故事
+- 讨论每个季节你都会做什么特别的活动
+- 复习 Unit 8 关于不同季节不同活动的词汇
+- 学习阅读策略 Captions
+	- 回顾什么是 Captions, 它如何帮助我们理解文章内容
+- 学习认识作者，以及为什么要认识作者
+- 初步熟悉故事 *Arnold’s Apple Tree*，
+	- 阅读标题、图片和 captions 图片注释，预测故事内容
+	- 了解作者信息
+	- 简单说说每个季节 Arnold 做的事情和苹果树的变化
+	- 看图片，给做不同事情的 Arnold 标记不同的数字，并写在相应句子旁边，帮助理解
+	- 解决生词、跟读，说说 Arnold 在不同季节做了哪些事情
+	- 深度阅读学习春天和夏天的文本
+
+## D9, 2025-04-23
+
+### 本周学习任务
 
 #### 词汇
 

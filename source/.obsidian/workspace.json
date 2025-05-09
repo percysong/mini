@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leoyao.md",
+                "file": "od1a.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "leoyao"
+              "title": "od1a"
             }
           },
           {
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dannychen-2025.md",
+                "file": "od1a.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dannychen-2025"
+              "title": "Outline of od1a"
             }
           },
           {
@@ -262,14 +262,14 @@
   },
   "active": "b891275ce86d3e9d",
   "lastOpenFiles": [
-    "ms-li.md",
     "wuzimo.md",
-    "leoyao.md",
+    "od1a.md",
+    "ms-li.md",
     "od2a.md",
+    "leoyao.md",
     "bendai.md",
     "annaxiang-2025.md",
     "dannychen-2025.md",
-    "od1a.md",
     "odf1.md",
     "shaoyuhan.md",
     "rockyzhu-2025.md",

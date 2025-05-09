@@ -1,7 +1,7 @@
 ---
 title: Ms Li 英语拓展课程
 created: 2024-09-11
-updated: 2025-05-06
+updated: 2025-05-09
 ---
 
 ## D9, 2025-05-04
@@ -13,6 +13,12 @@ updated: 2025-05-06
 - 每天复习两个视频
 - 听视频中的老师领读，然后与学生一起跟读
 {% endnote %}
+
+
+- *_y*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_06_spy.mp4" type="video/mp4">
+	</video>
 
 - *_ie*
 	<video width="100%" height="auto" controls>
