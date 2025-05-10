@@ -9,55 +9,46 @@ updated: 2025-05-09
 ### 课堂回顾
 
 - 练习册改错
-- 学习更多交通工具，练习完成听力
-	- 注意常见交通工具词汇
-	- <mark>truck 的读音，子睿容易读成 trunk</mark>
-- 口语交际练习
-	- 来到新的国家应该如何对话
-	- 在听不清楚的时候如何用英文回应 
-		- Would you repeat that, please?
-		- Say that again please?
-- 学习词典的排布规则（按字母顺序排列）
-- 总结复习大问题，现在和以前的事物有哪些不同
-- 开启第二单元，学习词汇
-- 学习阅读策略：故事的顺序 Sequence of Event
+- 复习故事 Tell Me a Story, Grandpa，练习复述部分故事中的事件
+- 运用阅读策略梳理故事中事件发生的前后顺序
+- 讨论每个国家的移民及防疫政策
+- 完成课后练习
+- 学习歌曲，操练一般过去时语法
+- <mark>大家对于一般过去时都有一定了解，但是在表达过程中仍然需要更多的练习才能有意识地去使用过去时态来表达。</mark>
 
 ### 学习资料和学习任务
 
 #### Vocabulary
-
-复习 P54 词汇，听录音，跟读两遍
-
-**P54**
-<audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.35.mp3" type="audio/mp3">
-</audio>
 
 **P56**
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.39.mp3" type="audio/mp3">
 </audio>
 
-#### 大问题视频
-
-复习大问题视频，总结自己的回答：
-
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_03_Wrapup3.mp4" type="video/mp4">
-</video>
+**P62**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
 
 #### Reading
 
-预习 P58–59 文本，听录音跟读两遍，每两天跟读一页；
+复习 P58–59 文本，听录音跟读两遍，每两天跟读一页；
 
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.40.mp3" type="audio/mp3">
 </audio>
 
+#### 动画音频
+
+自学动画音频，自主跟读两遍，说说过去和现在交通工具的不同。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.46.mp3" type="audio/mp3">
+</audio>
+
 #### Workbook
 
-- 阅读故事完成 Student Book P60 – B,C
-- Workbook P42–47
+- Workbook P48–55
 
 ## D7, 2025-04-25
 

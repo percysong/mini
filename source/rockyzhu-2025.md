@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-05-09
+updated: 2025-05-10
 ---
 
 - 学生姓名：朱宣宇
@@ -34,30 +34,30 @@ updated: 2025-05-09
 
 对照听力文本，认真听两遍，熟悉不同口音的英语，注意以下词汇：
 
-- talented  *adj.*
-	- If you're really good at something, you're _talented_.
-- violinist  *n.*
+- talented *adj.*
+	- If you’re really good at something, you’re _talented_.
+- violinist *n.*
 	- a person who plays the violin
 - Seoul
 	- the capital city of Korea
 	- 首尔
-- Korea  *n.*
+- Korea *n.*
 	- 朝鲜半岛（特指 South Korea 韩国）
-- Korean  *adj. / n.*
-- Taekwondo  *n.*
+- Korean *adj. / n.*
+- Taekwondo *n.*
 	- 跆拳道
-- German  *adj. / n.*
-	- Germany  *n.*
-- string quartet  *n.*
+- German *adj. / n.*
+	- Germany *n.*
+- string quartet *n.*
 	- 弦乐四重奏
-- academy  *n.*
+- academy *n.*
 	- a place of study or training in a special field.
 	- e.g. *BI Academy*
 - Haydn
 	- 海顿（作曲家）
 - daily meals
 	- 一日三餐
-- light  *adj.*
+- light *adj.*
 	- not so strong, spicy in taste.
 	- *Korean food is a little lighter than German food.*
 
