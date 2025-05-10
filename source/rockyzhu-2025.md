@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-04-28
+updated: 2025-05-09
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,98 @@ updated: 2025-04-28
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D18*, 2025-05-08
+
+### 学习资料和学习任务
+
+#### 自然拼读绘本
+
+听录音跟读两遍，自主拼读一遍。持续两天。
+
+***The Prawn in the Water***
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB5_Disc1_Track48.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_5_Story-3.jpeg)
+
+#### 听力材料
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.19.mp3" type="audio/mp3">
+</audio>
+
+对照听力文本，认真听两遍，熟悉不同口音的英语，注意以下词汇：
+
+- talented  *adj.*
+	- If you're really good at something, you're _talented_.
+- violinist  *n.*
+	- a person who plays the violin
+- Seoul
+	- the capital city of Korea
+	- 首尔
+- Korea  *n.*
+	- 朝鲜半岛（特指 South Korea 韩国）
+- Korean  *adj. / n.*
+- Taekwondo  *n.*
+	- 跆拳道
+- German  *adj. / n.*
+	- Germany  *n.*
+- string quartet  *n.*
+	- 弦乐四重奏
+- academy  *n.*
+	- a place of study or training in a special field.
+	- e.g. *BI Academy*
+- Haydn
+	- 海顿（作曲家）
+- daily meals
+	- 一日三餐
+- light  *adj.*
+	- not so strong, spicy in taste.
+	- *Korean food is a little lighter than German food.*
+
+---
+
+Mina is a talented young violinist who grew up in Seoul, Korea. Mina’s mother is Korean, and her father is German. My father came to Korea thirty years ago to study Taekwondo. He met my mother in Seoul. My parents still live in Korea. When I return home I prefer to speak Korean to my mother and German to my father.
+
+After high school, Mina moved to Germany to study at a famous music academy there. Now she plays her violin in a well-known string quartet from Bonn, Germany.
+
+We play many works by Haydn, who really created the string quartet. However, I prefer to play works by Beethoven. He was born in Bonn, just like my father!
+
+Mina performs all around the world, including Asia. She is always traveling, but she considers Germany and Korea to be her two homes.
+
+When I’m in Germany, I often eat at my grandmother’s house in Bonn. She’s a wonderful cook! I really like German food, but I prefer Korean food for my daily meals. Korean food is a little lighter than German food.
+
+#### 口语交际
+
+P34 如何请求帮助，跟读两遍：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.21.mp3" type="audio/mp3">
+</audio>
+
+#### 词汇学习
+
+P35 听录音，跟读两遍，参考练习册 P27 完成，可以查询英文词典
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.22.mp3" type="audio/mp3">
+</audio>
+
+#### 书面作业
+
+- 练习册OD3 Workbook P25–27
+- 完成阅读练习题单
+
+### 学习内容
+
+- 复习原版拼读绘本，熟悉拼读规则
+- 完成基础词汇听写，熟悉拼读规则（这次听写比较容易，准确率不错）
+- 复习课文，巩固过去时态 Can, Could 的使用方法
+- 完成听力练习，学习不同国家的名称和跨文化交际
+- 学习词汇前缀 -un
 
 ## D17*, 2025-04-26
 
