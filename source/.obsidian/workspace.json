@@ -60,6 +60,30 @@
               "icon": "lucide-file",
               "title": "dannychen-2025"
             }
+          },
+          {
+            "id": "771b7ffe924d75e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "annaxiang-2025.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "annaxiang-2025"
+            }
           }
         ]
       }
@@ -243,8 +267,9 @@
   },
   "active": "96057748561d72b8",
   "lastOpenFiles": [
-    "ms-li.md",
+    "annaxiang-2025.md",
     "dannychen-2025.md",
+    "ms-li.md",
     "wuzimo.md",
     "od1a.md",
     "od2b.md",
@@ -253,7 +278,6 @@
     "od2a.md",
     "leoyao.md",
     "bendai.md",
-    "annaxiang-2025.md",
     "odf1.md",
     "shaoyuhan.md",
     "annaxiang-2024.md",

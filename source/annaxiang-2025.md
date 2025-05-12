@@ -1,8 +1,108 @@
 ---
 title: Anna 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-05-06
+updated: 2025-05-12
 ---
+
+## D13, 2025-05-11
+
+### 学习任务
+
+### 牛津自然拼读 long *o*
+
+{% note info %}
+学习小贴士：
+- 继续复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *oa*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_07_oa.mp4" type="video/mp4">
+	</video>
+- *ow*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_07_ow.mp4" type="video/mp4">
+	</video>
+
+### Alphablocks 拼读视频
+
+观看拼读动画，进入语言环境，学习模仿拼读方法，同时跟着视频一起拼读：
+
+- Long *o* 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/home-animation-for-kids-alphablocks.mp4" type="video/mp4">
+</video>
+
+### 拼读绘本操练 *Ben and the Boat*
+
+- 复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc2_Track47.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-7.jpeg)
+
+#### 歌曲
+
+- 书上 P133–D 歌曲 *Billy’s House*，跟唱两遍，熟悉语法句型
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.34.mp3" type="audio/mp3">
+</audio>
+
+#### 词汇
+
+- 复习书上 P134 词汇，跟读两遍。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.35.mp3" type="audio/mp3">
+</audio>
+
+#### 听力材料
+
+- 复习 P134 听力材料，对照文本，跟读两遍
+- 注意生词
+	- orchards
+		- a place planted with fruit trees
+	- hometown
+		- 故乡、家乡
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.36.mp3" type="audio/mp3">
+</audio>
+
+One.
+
+I’m here in King City. Look at all the cars and buses on the streets. I’m in front of a tall apartment building. It’s very noisy here and there are a lot of people and buildings. Many people live in the city. It’s very interesting here.
+
+Two.
+
+People live here and children go to school near their homes. This neighborhood is small but there’s a park, a school, and lots of houses. This is a very safe place to live.
+
+Three.
+
+It’s very quiet here on the farm. You can see fields and **orchards**. There are a lot of farms here in the country. Some people think the country is boring but a lot of people like it here.
+
+Four.
+
+I’m here on Center Street in Allentown. This place is like a small city, but it’s quiet. There are a lot of streets and homes, but the buildings aren’t very tall. I love it here. This town is my **hometown**!
+
+#### 练习册
+
+- 练习册 P114–P116
+
+### 课堂学习内容
+
+- 学习自然拼读 long *o*
+- 学习原版拼读绘本
+- 复习文本，用自己的话说说住在不同的地方有什么好和特别之处，你喜欢住在哪里，为什么
+- 学习歌曲 *Billy’s House*
+- 学习语法 Possessive *‘s*
+- 操练语法
+- 学习更多描述社区的形容词，完成听力练习
 
 ## D12, 2025-05-05
 

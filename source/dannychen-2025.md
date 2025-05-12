@@ -47,7 +47,7 @@ updated: 2025-05-12
 
 #### 歌曲
 
-- 书上 P133–D 歌曲 *Billy's House*，跟唱两遍，熟悉语法句型
+- 书上 P133–D 歌曲 *Billy’s House*，跟唱两遍，熟悉语法句型
 
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.34.mp3" type="audio/mp3">
@@ -99,8 +99,8 @@ I’m here on Center Street in Allentown. This place is like a small city, but i
 - 学习自然拼读 long *o*
 - 学习原版拼读绘本
 - 复习文本，用自己的话说说住在不同的地方有什么好和特别之处，你喜欢住在哪里，为什么
-- 学习歌曲 *Billy's House*
-- 学习语法 Possessive *'s*
+- 学习歌曲 *Billy’s House*
+- 学习语法 Possessive *‘s*
 - 操练语法
 - 学习更多描述社区的形容词，完成听力练习
 
