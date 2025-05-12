@@ -1,8 +1,90 @@
 ---
 title: Ms Li 英语拓展课程
 created: 2024-09-11
-updated: 2025-05-09
+updated: 2025-05-12
 ---
+
+## D10, 2025-05-11
+
+### 牛津自然拼读 long *i*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听视频中的老师领读，然后与学生一起跟读
+{% endnote %}
+
+- *_y*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_06_spy.mp4" type="video/mp4">
+	</video>
+
+- *_ie*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_06_ie.mp4" type="video/mp4">
+	</video>
+
+- *_igh*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Unit_06_igh.mp4" type="video/mp4">
+	</video>
+
+### 拼读绘本复习 *The Cub in the Night*
+
+- 复习拼读绘本，听录音，暂停跟读。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB3_Disc2_Track32.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-6.jpeg)
+
+### 复习 P82 词汇
+
+{% note info %}
+- 难度 ★★☆
+- 听录音，跟读两遍
+{% endnote %}
+
+- **P82**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.57.mp3" type="audio/mp3">
+</audio>
+
+### 复习 P78–79 *Arnold’s Apple Tree* 课文
+
+- 第一天：听录音，暂停跟读两遍 P78，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
+- 第二天：听录音，暂停跟读两遍 P79，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
+- 第三天：看老师的提示词图片，尝试复述课文：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-001.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-002.jpeg)
+{% endgrouppicture %}
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-003.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-004.jpeg)
+{% endgrouppicture %}
+
+#### 复习 P84 动画视频
+
+听录音，跟读两遍，注意模仿角色情绪和语调
+
+**Audio**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.61.mp3" type="audio/mp3">
+</audio>
+
+**Video**
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M4_story.mp4" type="video/mp4">
+</video>
+
+### 练习册 Workbook P66–71
 
 ## D9, 2025-05-04
 

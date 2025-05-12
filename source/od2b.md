@@ -1,8 +1,68 @@
 ---
 title: 牛津探索2 周日班
 created: 2024-10-19
-updated: 2025-04-23
+updated: 2025-05-12
 ---
+
+## D10, 2025-05-11
+
+### 课堂回顾
+
+- 课前口语表达练习热身（聊聊五一假期去了什么地方）
+- 复习词汇
+- 复习阅读策略 Main idea and details 中心句和支持论点
+	- 如何找到中心句（一般在段落第一句）和支持论点
+- 找关键信息，完成椅子图（已完成粘贴到书上，并在引导下找到关于 Communication 部分的不同）
+- 深度阅读，了解图片如何帮助我们理解并加强中心思想的表达
+- 完成课后练习问题
+- 学习歌曲 Great Grandma，熟悉一般过去时态的肯定、否定表达
+- 复习一般过去时态的变化
+- 学习更多交通工具，练习完成听力
+	- 注意常见交通工具词汇
+
+### 学习任务
+
+#### 词汇
+
+- **P48**
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+	</audio>
+
+复习 P54 词汇，听录音，跟读两遍
+
+**P54**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.35.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读 *Then and Now*
+
+复习 P50–51 文本，听录音跟读两遍，每两天跟读一页；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+</audio>
+
+#### 歌曲
+
+复习P53–D歌曲，跟唱两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.34.mp3" type="audio/mp3">
+</audio>
+
+#### 大问题视频
+
+复习大问题视频，总结自己的回答：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_03_Wrapup3.mp4" type="video/mp4">
+</video>
+
+#### 练习册
+
+完成练习册 P40-44
 
 ## D9, 2025-04-20
 
