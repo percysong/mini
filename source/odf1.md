@@ -4,6 +4,132 @@ created: 2024-09-11
 updated: 2025-04-29
 ---
 
+## 2025-05-12
+
+### 学习资料和学习任务
+
+完成关于 Rainforest 宣传页的写作，包括以下几个问题：
+
+- What is the problem?
+- Why does it happen?
+- What are the consequences of the problem?
+- What are the solutions to the problem?
+
+注意使用课堂上学习的事实写作（Factual Writing）要素：
+
+- 使用 **事实（facts）** 支持观点
+- **小标题（headings）** 来组织内容
+- 提供 **现实例子（real-life examples）**
+- 使用 **项目列表（bullet points）** 列举建议
+- 引用 **专家预测（predictions from experts）**
+
+可以参考书上 P56 例文格式和模式，每个问题选取一两个点来具体描写
+
+#### 写作文字资料
+
+Deforestation in the Amazon Rainforest
+
+The Amazon Rainforest is being destroyed. This is called deforestation. It means many trees are being cut down or burned. The Amazon is the largest tropical forest in the world. It is home to many animals, plants, and people. When trees are removed, the forest becomes smaller. This is a big problem for the environment. The forest helps clean the air and provides homes for wildlife. Losing the forest affects the whole planet. It changes the weather and harms nature. We need to protect the Amazon to keep the Earth healthy.
+
+Deforestation in the Amazon happens for several reasons:
+
+- **Farming**: People cut down trees to grow crops like soybeans. Soybeans are used for food and animal feed. This farming provides income but leads to forest loss.
+- **Cattle Ranching**: Forests are cleared to make space for cows. Beef is a major product from the Amazon region. This activity is a leading cause of deforestation.
+- **Logging**: Trees are cut down to sell wood for furniture and paper. Illegal logging is a big problem in the Amazon.
+- **Mining**: The forest is destroyed to find gold and other minerals. Mining activities pollute rivers and harm wildlife.
+- **Building Roads**: New roads are made through the forest, leading to more tree cutting. Roads allow more people to enter and exploit the forest.
+
+These activities provide money and jobs but harm the environment.
+
+Deforestation causes many problems:
+
+- **Loss of Animals and Plants**: Many species lose their homes and may die out. The Amazon has a rich biodiversity that is threatened.
+- **Climate Change**: Trees absorb carbon dioxide. Without them, more CO₂ stays in the air, warming the planet. This contributes to global climate change.
+- **Soil Problems**: Without trees, soil can wash away, making it hard to grow plants. This leads to poor land for farming.
+- **Harm to Indigenous People**: People who live in the forest lose their homes and way of life. Their cultures and traditions are at risk.
+- **Water Cycle Disruption**: Trees help make rain. Fewer trees mean less rain, leading to droughts. This affects agriculture and water supply.
+
+These effects are serious and affect the whole world.
+
+We can help stop deforestation by:
+
+- **Protecting Forests**: Making laws to stop cutting down trees. Governments can create protected areas.
+- **Sustainable Farming**: Growing food without harming the forest. Using methods that preserve trees and soil.
+- **Reforestation**: Planting new trees where forests were destroyed. This helps restore the environment.
+- **Supporting Indigenous Communities**: Helping people who live in the forest protect it. They have valuable knowledge about the land.
+- **Reducing Consumption**: Using less paper and eating less beef can reduce demand. This lessens the pressure to clear forests.
+
+Everyone can help by making small changes in their daily lives.
+
+#### 视频资料
+
+*Rainforest* 科普视频 by Sci Show Kids
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/explore-the-rainforest-ecology-for-kids.mp4" type="video/mp4">
+</video>
+
+*Rainforest* 科普视频 by National Geographic
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/rainforests-101-national-geographic.mp4" type="video/mp4">
+</video>
+
+Climate 101: Deforestation
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/climate-101-deforestation-national-geographic.mp4" type="video/mp4">
+</video>
+
+Deforestation Causes, Effects, and Solutions
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/deforestation-causes-effects-solutions-video-for-kids.mp4" type="video/mp4">
+</video>
+
+
+### 学习内容回顾
+
+- 主题：Writing – Why do we need to protect nature?
+- 写作任务：撰写信息宣传册（Information Leaflet）
+	- 学生们完成一项学校项目：为保护热带雨林（rainforest conservation）撰写一份宣传册，目的是让读者了解热带雨林为何对人类生存至关重要。
+
+- 口语表达练习引入 Rainforest，大家对于雨林都有一定的认识，都提到了它的许多特点。但是雨林近来又面临许多问题。引入雨林的去森林化问题。
+
+1. 理解宣传册类型文本的结构与功能
+学生通过阅读一篇关于“保护海洋鱼类”的范文，学习信息类文本的特点，包括：
+	•	使用 **事实（facts）** 支持观点
+	•	**小标题（headings）** 来组织内容
+	•	提供 **现实例子（real-life examples）**
+	•	使用 **项目列表（bullet points）** 列举建议
+	•	引用 **专家预测（predictions from experts）**
+
+2. 写作结构规划（段落计划）
+学生学习如何围绕以下四个问题组织内容：
+	•	What is the problem?（问题是什么？）
+	•	Why does it happen?（为什么会发生？）
+	•	What are the consequences?（后果是什么？）
+	•	What are the solutions?（解决方法是什么？）
+
+3. 语言点（Language Point）
+学生从范文中识别引出例子的表达方式，如：
+	•	For example,
+	•	Such as,
+	•	Including,
+这些表达帮助他们在写作中更清晰地举例说明观点。
+
+4. 撰写与修改过程
+	•	起草第一稿，注意围绕段落计划组织内容
+	•	自查写作内容是否完整、是否包含例子、是否具备信息宣传册的风格特征
+	•	修改润色后完成终稿
+
+技能训练：
+	•	阅读理解：识别信息文本结构和功能
+	•	写作技巧：撰写结构清晰、有说服力的说明文
+	•	批判性思维：分析自然问题的成因与后果，提出解决建议
+	•	语言运用：使用恰当的连接词和引例短语加强信息表达
+
+
 ## 2025-04-28
 
 ### 学习资料和学习任务
