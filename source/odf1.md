@@ -92,12 +92,12 @@ Deforestation Causes, Effects, and Solutions
 
 - 主题：Writing – Why do we need to protect nature?
 - 写作任务：撰写信息宣传册（Information Leaflet）
-	- 学生们完成一项学校项目：为保护热带雨林（rainforest conservation）撰写一份宣传册，目的是让读者了解热带雨林为何对人类生存至关重要。
+	- 完成一项学校项目：为保护热带雨林（rainforest conservation）撰写一份宣传册，目的是让读者了解热带雨林为何对人类生存至关重要。
 
 - 口语表达练习引入 Rainforest，大家对于雨林都有一定的认识，都提到了它的许多特点。但是雨林近来又面临许多问题。引入雨林的去森林化问题。
 
 1. 理解宣传册类型文本的结构与功能
-学生通过阅读一篇关于“保护海洋鱼类”的范文，学习信息类文本的特点，包括：
+通过阅读一篇关于“保护海洋鱼类”的范文，学习信息类文本的特点，包括：
 	•	使用 **事实（facts）** 支持观点
 	•	**小标题（headings）** 来组织内容
 	•	提供 **现实例子（real-life examples）**
@@ -105,23 +105,18 @@ Deforestation Causes, Effects, and Solutions
 	•	引用 **专家预测（predictions from experts）**
 
 2. 写作结构规划（段落计划）
-学生学习如何围绕以下四个问题组织内容：
+学习如何围绕以下四个问题组织内容：
 	•	What is the problem?（问题是什么？）
 	•	Why does it happen?（为什么会发生？）
 	•	What are the consequences?（后果是什么？）
 	•	What are the solutions?（解决方法是什么？）
 
 3. 语言点（Language Point）
-学生从范文中识别引出例子的表达方式，如：
+从范文中识别引出例子的表达方式，如：
 	•	For example,
 	•	Such as,
-	•	Including,
+	•	like,
 这些表达帮助他们在写作中更清晰地举例说明观点。
-
-4. 撰写与修改过程
-	•	起草第一稿，注意围绕段落计划组织内容
-	•	自查写作内容是否完整、是否包含例子、是否具备信息宣传册的风格特征
-	•	修改润色后完成终稿
 
 技能训练：
 	•	阅读理解：识别信息文本结构和功能
