@@ -1,13 +1,71 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2025-05-08
+updated: 2025-05-14
 ---
 
 - 学生姓名：代超巡
 - English Name: Ben
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
+
+## D13, 2025-05-13
+
+#### 词汇
+
+- 复习 P88 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.02.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读
+
+复习 P90 *Green Energy for Today … and Tomorrow*，听录音自主阅读两遍，使用 paraphrasing 策略来尝试复述，帮助记忆。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.03.mp3" type="audio/mp3">
+  </audio>
+
+#### 视频
+
+自主学习 BrainPop 关于 Energy Sources 的视频，复习不同的能量来源，用自己的话说说turbine的发电原理。
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/BrainPOP-energy-sources.mp4" type="video/mp4">
+</video>
+
+选取一项感兴趣的能源扩展视频观看：
+
+- [⛽️ Fossil Fuels](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/BrainPOP-fossil-fuels.mp4)
+- [🛢️ Gas and Oil](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/BrainPOP-gas-and-oil.mp4)
+- [💨 Wind Energy](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/BrainPOP-wind-energy.mp4)
+- [☀️ Solar Energy](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/BrainPOP-solar-energy.mp4)
+- [☢️ Nuclear Energy](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/BrainPOP-nuclear-energy.mp4)
+- [☣️ Biofuels](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/BrainPOP-biofuels.mp4)
+
+#### 练习册
+
+- Workbook P78–81
+
+### 学习内容
+
+- 本课我们学习了：
+	•	能源从哪里来：我们使用的大部分能源都来自太阳。
+	•	什么是化石燃料（如煤、石油、天然气）：它们会污染环境，而且有一天会用完。
+	•	绿色能源的好处：
+	•	它是清洁的（不会污染空气）
+	•	它是可再生的（不会用完）
+
+我们认识了几种绿色能源：
+	1.	水力发电（Hydropower）：用河水的流动来发电。
+	2.	风能（Wind Power）：用风力带动风车发电。
+	3.	太阳能（Solar Power）：用阳光照射太阳能板来发电。
+	4.	生物质能（Biomass）：烧植物、木头等来发电。
+	5.	新型绿色能源：如海浪能、地热能等。
+
+阅读策略：Paraphrasing（用自己的话来复述信息）
+	•	练习了如何把一段文章内容用自己的话说出来。
+	•	帮助我们更好地理解和记住新知识。
 
 ## D12, 2025-05-06
 

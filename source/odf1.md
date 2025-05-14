@@ -1,7 +1,7 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2025-04-29
+updated: 2025-05-13
 ---
 
 ## 2025-05-12
@@ -87,13 +87,11 @@ Deforestation Causes, Effects, and Solutions
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/deforestation-causes-effects-solutions-video-for-kids.mp4" type="video/mp4">
 </video>
 
-
 ### 学习内容回顾
 
 - 主题：Writing – Why do we need to protect nature?
 - 写作任务：撰写信息宣传册（Information Leaflet）
 	- 完成一项学校项目：为保护热带雨林（rainforest conservation）撰写一份宣传册，目的是让读者了解热带雨林为何对人类生存至关重要。
-
 - 口语表达练习引入 Rainforest，大家对于雨林都有一定的认识，都提到了它的许多特点。但是雨林近来又面临许多问题。引入雨林的去森林化问题。
 
 1. 理解宣传册类型文本的结构与功能
@@ -123,7 +121,6 @@ Deforestation Causes, Effects, and Solutions
 	•	写作技巧：撰写结构清晰、有说服力的说明文
 	•	批判性思维：分析自然问题的成因与后果，提出解决建议
 	•	语言运用：使用恰当的连接词和引例短语加强信息表达
-
 
 ## 2025-04-28
 

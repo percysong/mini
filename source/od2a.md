@@ -1,8 +1,59 @@
 ---
 title: 牛津探索周二班
 created: 2024-10-19
-updated: 2025-05-08
+updated: 2025-05-14
 ---
+
+## D11, 2025-05-13
+
+#### 阅读
+
+复习 P58 You Can Be a Poet，听录音自主阅读两遍，使用 Visualize 策略来帮助阅读诗歌。分两天跟读文章两遍。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.38.mp3" type="audio/mp3">
+  </audio>
+
+#### 视频
+
+自主学习 BrainPop 关于 Poem 的视频，复习 Acrostic 及 Haiku 两种类型的诗歌，扩展了解更多诗歌
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-poems.mp4" type="video/mp4">
+</video>
+
+#### 书面作业
+
+- 练习册OD3 Workbook P50–51
+
+### 学习内容
+
+- 词汇游戏 Wordle 热身
+- 复习阅读策略：Visualize（将文字可视化）
+- 深度学习文本，解决生词；
+- 了解成为诗人最重要的特质和步骤
+	- 对事物的仔细观察
+	- 富有想象力
+	- 运用五感和不同的词汇描述事物的能力
+- 了解不同的诗歌形式，并尝试自己创作
+
+ 帮助 Eden 一起创作的藏头诗（Acrostic）
+
+> Rain over the land
+> About (different) colors
+> In the sky
+> Next to the sun
+> Beside the clouds
+> Over the rain (可替换为 drizzle, sprinkle)
+> Wet
+
+帮助 Catherine 一起创作的 Cinquain（五行诗）
+
+> Flower
+> Colorful, beautiful
+> Dancing, shaking, wagging (Eden’s idea 🌟)
+> Little flowers (可替换为 blossoms, petals …) play in the sun.
+> Butterfly
 
 ## D10, 2025-05-06
 
