@@ -1,8 +1,65 @@
 ---
 title: Oxford Discover 1 Class A
 created: 2024-09-11
-updated: 2025-05-09
+updated: 2025-05-16
 ---
+
+## D11, 2025-05-14
+
+### 本周学习任务
+
+#### 复习 P82 词汇
+
+{% note info %}
+- 难度 ★★☆
+- 听录音，跟读两遍
+{% endnote %}
+
+- **P82**
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.57.mp3" type="audio/mp3">
+</audio>
+
+#### 复习 P78–79 *Arnold’s Apple Tree* 课文
+
+- 第一天：听录音，暂停跟读两遍 P78，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
+- 第二天：听录音，暂停跟读两遍 P79，注意 Arnold 在每个季节的不同活动，边读边指出相应图片；
+- 第三天：看老师的提示词图片，尝试复述课文：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.55.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-001.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-002.jpeg)
+{% endgrouppicture %}
+{% grouppicture 2-2 %}
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-003.jpeg)
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1-U8-004.jpeg)
+{% endgrouppicture %}
+
+#### 复习 P81 歌曲 *Do You Like The Summer*
+
+复习歌曲，注意本节课的语法规则
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.56.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P68–71
+
+### 课堂回顾
+
+- 继续学习 *Arnold’s Apple Tree*
+- 熟悉生词，sight words 训练，不同词汇的复数发音训练
+- 讨论每个季节你都会做什么特别的活动
+- 深度阅读学习秋天和冬天的文本
+- 完成课后练习
+- 学习一般现在时态相关语法（否定/肯定/疑问），对话和游戏操练
+- 探究更多的活动，说一说你在不同季节中最喜欢的活动
+- 完成听力练习，聆听他人的不同活动
+- 写作训练：学习逗号的使用
 
 ## D10, 2025-05-08
 
