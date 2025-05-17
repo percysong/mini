@@ -32,8 +32,6 @@ updated: 2025-05-17
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/OD2e_L1_Student_Book_Audio_1.12.mp3" type="audio/mp3">
 </audio>
 
-![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-1.jpeg)
-
 ### 继续复习 P18–19 Elliot’s New Friend 课文
 
 {% note info %}

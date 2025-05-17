@@ -4,11 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "dc308134721d57ab",
+        "id": "db110abfc191bce7",
         "type": "tabs",
         "children": [
           {
-            "id": "2d9f3a4e9c463608",
+            "id": "32dcbe420e6d8e6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dannychen-2025.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "dannychen-2025"
+            }
+          },
+          {
+            "id": "91140649df0f9116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ms-li.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ms-li"
+            }
+          },
+          {
+            "id": "c251b84894d54274",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,37 +79,8 @@
               "title": "leoyao"
             }
           }
-        ]
-      },
-      {
-        "id": "db110abfc191bce7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "32dcbe420e6d8e6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wuzimo.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "wuzimo"
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,14 +260,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d9f3a4e9c463608",
+  "active": "c251b84894d54274",
   "lastOpenFiles": [
-    "wuzimo.md",
-    "liaopeiyan.md",
-    "leoyao.md",
-    "ms-li.md",
-    "od1a.md",
     "dannychen-2025.md",
+    "ms-li.md",
+    "wuzimo.md",
+    "leoyao.md",
+    "liaopeiyan.md",
+    "od1a.md",
     "bendai.md",
     "od2a.md",
     "_posts/what-does-AI-mean-for-future-education.md",
