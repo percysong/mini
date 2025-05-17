@@ -1,8 +1,59 @@
 ---
 title: Leo Yao 牛津探索学习资料
 created: 2024-09-11
-updated: 2025-05-08
+updated: 2025-05-17
 ---
+
+## D4, 2025-05-15
+
+### P21 歌曲音频
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟唱两遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.11.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-4.jpeg)
+
+### P22 词汇音频
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/30/OD2e_L1_Student_Book_Audio_1.12.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-17-19-20-22-1.jpeg)
+
+### 继续复习 P18–19 Elliot’s New Friend 课文
+
+{% note info %}
+- 每天模仿两遍，连续跟读三天
+- 在熟练模仿之后，指读并打卡
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+</audio>
+
+### 动画预习
+
+观看动画，跟读两遍
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M1_story.mp4" type="video/mp4">
+</video>
+
+### 练习册 每两天一页
 
 ## D3, 2025-05-07
 
