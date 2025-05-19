@@ -1,7 +1,7 @@
 ---
 title: Danny 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-05-17
+updated: 2025-05-19
 ---
 
 ## D14, 2025-05-18
@@ -49,14 +49,6 @@ updated: 2025-05-17
 
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_3_SB_Story-8.jpeg)
 
-#### 歌曲
-
-- 书上 P133–D 歌曲 *Billy’s House*，跟唱两遍，熟悉语法句型
-
-<audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.34.mp3" type="audio/mp3">
-</audio>
-
 #### 词汇
 
 - 复习书上 P136 词汇，跟读两遍。
@@ -74,6 +66,14 @@ updated: 2025-05-17
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.33.mp3" type="audio/mp3">
 </audio>
 
+#### 视频扩展
+
+观看 Kids Vocabulary, 扩展更多社区地点词汇。隔天复习一遍。
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/town-introduction-of-my-town-village-kids-vocabulary-educational-video-for-kids.mp4" type="video/mp4">
+</video>
+
 #### 练习册
 
 - 完成语法练习题单
@@ -88,6 +88,8 @@ updated: 2025-05-17
 - 进入 Unit 14 的学习
 - 熟悉社区里不同地点的词汇
 - 学习阅读策略 Contrasting 对比
+
+<mark>Danny对本单元的知识掌握得不错，能够使用很多相关词汇来回答描述不同的生活地点。但在后半节课不太愿意开口操练，态度很不积极。希望之后能在正确快速完成笔头练习之后口头操练。</mark>
 
 ## D13, 2025-05-11
 

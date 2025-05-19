@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db110abfc191bce7",
+        "id": "7a53f9d19150dd4e",
         "type": "tabs",
         "children": [
           {
-            "id": "32dcbe420e6d8e6c",
+            "id": "714507e7ba365d21",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "91140649df0f9116",
+            "id": "7cb1709cfb142f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ms-li.md",
+                "file": "gal-gao-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ms-li"
-            }
-          },
-          {
-            "id": "c251b84894d54274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "leoyao.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "leoyao"
+              "title": "gal-gao-2025"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -162,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leoyao.md",
+                "file": "gal-gao-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of leoyao"
+              "title": "Outline of gal-gao-2025"
             }
           },
           {
@@ -260,19 +235,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c251b84894d54274",
+  "active": "7cb1709cfb142f69",
   "lastOpenFiles": [
     "dannychen-2025.md",
+    "gal-gao-2025.md",
+    "annaxiang-2025.md",
     "ms-li.md",
-    "wuzimo.md",
     "leoyao.md",
+    "wuzimo.md",
     "liaopeiyan.md",
     "od1a.md",
     "bendai.md",
     "od2a.md",
     "_posts/what-does-AI-mean-for-future-education.md",
     "odf1.md",
-    "annaxiang-2025.md",
     "od2b.md",
     "od2c.md",
     "rockyzhu-2025.md",
@@ -287,7 +263,6 @@
     "xiangxiyan.md",
     "for-teachers.md",
     "stevengao.md",
-    "student-demo.md",
     "Attachments/brainpop-jr-mammals.mp4",
     "Attachments/brainpop-jr-insects.mp4",
     "Attachments/brainpop-jr-fish.mp4",
