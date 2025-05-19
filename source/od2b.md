@@ -1,8 +1,58 @@
 ---
 title: 牛津探索2 周日班
 created: 2024-10-19
-updated: 2025-05-12
+updated: 2025-05-19
 ---
+
+## D11, 2025-05-18
+
+### 课堂回顾
+
+- 课前口语表达练习热身（使用过去时态来表达周末做的事）
+- 拼词游戏
+- 口语交际练习
+	- 来到新的国家应该如何对话
+	- 在听不清楚的时候如何用英文回应 
+		- Would you repeat that, please?
+		- Say that again please?
+- 学习词典的排布规则（按字母顺序排列）
+- 开启第二单元，学习词汇
+- 学习阅读策略：故事的顺序 Sequence of Event
+
+### 学习任务
+
+#### 词汇
+
+复习 P56 词汇，听录音，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+#### 口语交际
+
+P55 听录音，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.38.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读
+
+预习 P58–59 文本，听录音跟读两遍，每两天跟读一页；圈出自己不熟悉的单词，使用阅读策略梳理故事顺序，完成练习题单第一页。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### 书面作业
+
+- 阅读工作纸第一页
+	- A: 选词完成句子，按顺序排练事件
+	- B: 可以不做
+	- C: adventure (冒险)；historical (历史)
+- 完成练习册 P45-47 
+	- P45 写作小练笔注意过去时态
 
 ## D10, 2025-05-11
 
