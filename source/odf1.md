@@ -4,6 +4,41 @@ created: 2024-09-11
 updated: 2025-05-13
 ---
 
+## 2025-05-19
+
+### 学习资料和学习任务
+
+- Workbook P50-P51 – **Writing** (最后不用写练习册上的 leaflet 但写作步骤和策略要过一遍)
+- Student Book P122 **Waste and recycling**
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_SB1_1.34.mp3" type="audio/mp3">
+</audio>
+
+- 按照本节课的习作反馈，根据练习册上 P51 事实性写作的 features 和 Writing checklist，修改上周自己的第一稿写作。
+
+- 回顾第五个大问题的视频，自己说一说对这5个问题了解到的新知识：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_Reflect_Unit_5.mp4" type="video/mp4">
+</video>
+
+
+### 学习内容
+
+- 相互阅读对方的写作，提出修改意见
+	- Jason 的写作基本按照事实性写作要求来，但是误用了 logging 来以偏概全描写 deforestation 的问题。主要修改第一段的 problem，和后面关于 logging 的表述。可以使用练习册 P51 上更多事实性写作的 features 来丰富自己的写作。
+	- Lucas都有回答到几个问题，但更多在以自己的 opinion 在写作，而非基于 facts。注意参考书上和练习册上两篇习作的格式，包括小标题、举例、bullet points 等等；内容的 facts 可以参考上周发在网站上的文字和视频内容。
+- 复习第五个大问题，总结自己在本单元学习到的新知识。观看视频（无陈述版本猜测和有陈述版本的总结）
+- 开启新的单元 **How can we live with less?（我们怎样才能减少浪费？）**
+- 通过小调查意识到垃圾问题的重要性
+- 猜测问题，说说自己的理由，观看视频了解问题答案
+	- 每个人每天都会制造垃圾。我们扔掉太多食物和塑料。 
+	- 塑料特别对环境有害，因为它很难分解。
+	- 有些垃圾可以回收，但我们只回收了很小一部分。
+	- 我们每天使用和扔掉多少塑料瓶。
+	- 我们为什么浪费食物。
+
 ## 2025-05-12
 
 ### 学习资料和学习任务

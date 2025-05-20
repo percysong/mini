@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-05-10
+updated: 2025-05-20
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,41 @@ updated: 2025-05-10
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D19, 2025-05-19
+
+### 学习资料和学习任务
+
+#### 词汇学习
+
+P36 听录音，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.23.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读
+
+预习 P38–39 文本，听录音，勾画自己不熟悉的词汇：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.17.mp3" type="audio/mp3">
+  </audio>
+
+#### 书面作业
+
+- 练习册OD3 Workbook P25–27
+- 完成阅读练习题单
+
+### 学习内容
+
+- 复习原版拼读绘本
+- 完成基础词汇听写，熟悉拼读规则
+- 复习第三单元大问题，开启第四单元的学习
+- 了解人们移居至不同城市的原因
+- 复习阅读策略 Details 细节（支持论点），进一步熟悉论点如何支持中心思想的
+
+<mark>宣宇今天因为上午户外挑战加上下午体育课，很疲惫，状态不是很好。坚持完成了任务，但效率和准确率还有待提升。</mark>
 
 ## D18*, 2025-05-08
 
@@ -117,8 +152,6 @@ P35 听录音，跟读两遍，参考练习册 P27 完成，可以查询英文�
 </audio>
 
 ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_5_Story-2.jpeg)
-
-#### 视频材料
 
 #### 阅读
 

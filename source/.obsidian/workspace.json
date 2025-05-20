@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42addaa0c641a192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "od2b.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "od2b"
-            }
-          },
-          {
             "id": "7064f21ff28ff7b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od2c.md",
+                "file": "odf1.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od2c"
+              "title": "odf1"
+            }
+          },
+          {
+            "id": "5088bbdfae8edb86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rockyzhu-2025.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "rockyzhu-2025"
             }
           }
         ]
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -136,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2b.md",
+                "file": "odf1.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2b"
+              "title": "Outline of odf1"
             }
           },
           {
@@ -234,8 +235,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42addaa0c641a192",
+  "active": "7064f21ff28ff7b6",
   "lastOpenFiles": [
+    "rockyzhu-2025.md",
+    "odf1.md",
     "od2c.md",
     "od2b.md",
     "dannychen-2025.md",
@@ -249,8 +252,6 @@
     "bendai.md",
     "od2a.md",
     "_posts/what-does-AI-mean-for-future-education.md",
-    "odf1.md",
-    "rockyzhu-2025.md",
     "shaoyuhan.md",
     "annaxiang-2024.md",
     "chenruochun.md",
