@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od2a.md",
+                "file": "bendai.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od2a"
+              "title": "bendai"
             }
           }
         ]
@@ -113,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2a.md",
+                "file": "bendai.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2a"
+              "title": "Outline of bendai"
             }
           },
           {
@@ -213,8 +213,8 @@
   },
   "active": "558e327be5ae3450",
   "lastOpenFiles": [
-    "bendai.md",
     "od2a.md",
+    "bendai.md",
     "rockyzhu-2025.md",
     "dannychen-2025.md",
     "annaxiang-2025.md",
