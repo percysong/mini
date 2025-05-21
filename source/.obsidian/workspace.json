@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a53f9d19150dd4e",
+        "id": "917ee79a81b690f2",
         "type": "tabs",
         "children": [
           {
-            "id": "7064f21ff28ff7b6",
+            "id": "558e327be5ae3450",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bendai.md",
+                "file": "od2a.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bendai"
-            }
-          },
-          {
-            "id": "5088bbdfae8edb86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rockyzhu-2025.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "rockyzhu-2025"
+              "title": "od2a"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rockyzhu-2025.md",
+                "file": "od2a.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of rockyzhu-2025"
+              "title": "Outline of od2a"
             }
           },
           {
@@ -236,14 +211,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5088bbdfae8edb86",
+  "active": "558e327be5ae3450",
   "lastOpenFiles": [
+    "bendai.md",
+    "od2a.md",
+    "rockyzhu-2025.md",
     "dannychen-2025.md",
     "annaxiang-2025.md",
     "gal-gao-2025.md",
-    "bendai.md",
     "odf1.md",
-    "rockyzhu-2025.md",
     "od2c.md",
     "od2b.md",
     "ms-li.md",
@@ -251,7 +227,6 @@
     "wuzimo.md",
     "liaopeiyan.md",
     "od1a.md",
-    "od2a.md",
     "_posts/what-does-AI-mean-for-future-education.md",
     "shaoyuhan.md",
     "annaxiang-2024.md",

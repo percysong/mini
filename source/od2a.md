@@ -1,8 +1,106 @@
 ---
 title: 牛津探索周二班
 created: 2024-10-19
-updated: 2025-05-14
+updated: 2025-05-21
 ---
+
+## D12, 2025-05-20
+
+#### 歌曲
+
+复习 P61 歌曲，跟唱两遍，注意两种过去时态的使用
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+#### 听力材料
+
+复习 P62 听力材料，找找押韵的 rhyming words. 跟读两遍诗歌。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+I’m Miguel. I wrote this poem to talk about how I feel when I get something in the mail.
+
+> What do you think I got in the mail? Is it a kite, or a boat with a sail?
+> The package is big, it’s not very small, I’ll unwrap it. Wow—a new soccer ball! 
+
+Hello, I’m Amina. I wrote this poem because I love little things in nature. 
+
+> Listen to the birds and bees. You can hear so many.
+> Crickets make a chirping sound, but ants don’t make any.
+
+My name is Shannon. I wrote this poem to tell my best friend that she’s special to me.
+
+> Hana likes chocolate cookies. I like chocolate cake.
+> Hana drinks hot green tea. I drink a cool milk shake.
+> Hana eats fish and rice. I eat burgers and fries.
+> We’re both missing two front teeth. What a nice surprise!
+
+I’m Adem. I wrote this poem because I want to make people laugh.
+
+> Clean up now. It’s time for math.
+> Do your homework. Take a bath. Brush your teeth. Go to bed.
+> That’s all my mom and teacher said.
+
+#### 口语交际
+
+Asking for Opinions 如何询问他人的意见和观点
+
+听录音，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.42.mp3" type="audio/mp3">
+</audio>
+
+#### 词汇
+
+复习 P63 词汇，跟读两遍，注意每个词的音节 syllables
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.43.mp3" type="audio/mp3">
+</audio>
+
+#### 视频扩展
+
+自主学习诗歌写作策略视频：
+
+**1. What is it?**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/writing-poetry-for-kids-episode-1-what-is-it.mp4" type="video/mp4">
+</video>
+
+**2. Five Senses**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/writing-poetry-for-kids-episode-2-five-senses.mp4" type="video/mp4">
+</video>
+
+**3. A Poet’s Eyes**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/writing-poetry-for-kids-episode-3-a-poet-s-eye.mp4" type="video/mp4">
+</video>
+
+
+**4. Big Feelings and Line Breaks**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/writing-poetry-for-kids-episode-4-big-feelings-and-line-breaks.mp4" type="video/mp4">
+</video>
+
+### 学习内容
+
+- 学习语法：过去进行时态与一般过去时态的区别，如何同时使用
+- 听力练习，找到押韵的词，判断诗歌主题
+- 口语交际：如何询问他人的意见和观点
+- 复习 Syllables
+- 扩展更多多音节词汇
+- 写作：如何使用拟人手法来进行诗歌写作
+- 寻找主题，进行诗歌创作的尝试
 
 ## D11, 2025-05-13
 

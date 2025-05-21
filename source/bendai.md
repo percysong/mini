@@ -47,6 +47,90 @@ updated: 2025-05-21
 
 #### 阅读
 
+复习 P98-99 *Hector the Energy Saver!* 注意生词：
+
+- curtains
+- ordinary
+- whistle
+- pedal
+	- *n.*
+	- *v.*
+- masher
+	- mash *v.*
+	- mashed potato
+- ironing pad
+	- ironing board
+- speed off
+- stuck
+	- stick - stuck
+- blade
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.10.mp3" type="audio/mp3">
+  </audio>
+
+#### 视频扩展
+
+参见上周的扩展视频
+
+#### 练习册
+
+- Workbook P82–89
+
+### 学习内容
+
+节约能源的重要性
+	•	我们的生活中很多事情都需要电，例如灯、电脑、电梯等。
+	•	传统能源（如石油、煤）会污染环境，并且会用完。
+	•	绿色能源（如太阳能和风能）是更清洁、更可持续的选择。
+
+⸻
+
+阅读活动：故事 *Hector the Energy Saver*
+	•	Hector 是一个会节能的“超级英雄”小男孩，他用一辆特别的自行车帮助城市节省能源。
+	•	他解决了交通拥堵，建议公司使用太阳能，帮助医院和办公室节约电力。
+	•	故事是幻想类（fantasy），但内容让我们思考现实生活中如何节能。
+
+⸻
+
+阅读策略：Ask Questions（提问策略）
+	•	阅读时提问可以帮助我们更好地理解内容。
+	•	我们练习在阅读前、中、后提出问题，例如：
+	*•	Who is Hector helping?*
+	*•	How does Lightning (the bike) become a helicopter?*
+	*•	What can companies do to use less electricity?*
+
+⸻
+
+语法学习：
+	•	Will：表示将来一定会发生的事情。
+	•	I will go to school tomorrow.
+	•	May / Might：表示不确定的将来可能发生的事情。
+	•	We might see more solar panels in the future.
+
+⸻
+
+词汇学习：反义词（Antonyms）
+	•	如：waste – conserve, harm – shield, plant – harvest
+
+⸻
+
+整合练习：
+	•	听歌、朗读节能诗歌 *Wind Power*
+	•	对话练习：用 will 提问和回答关于未来的问题
+	•	写作练习：写关于可数/不可数名词的句子（如 electricity 是不可数）
+
+## D13, 2025-05-13
+
+#### 词汇
+
+- 复习 P88 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.02.mp3" type="audio/mp3">
+	</audio>
+
+#### 阅读
+
 复习 P90 *Green Energy for Today … and Tomorrow*，听录音自主阅读两遍，使用 paraphrasing 策略来尝试复述，帮助记忆。
 
 <audio controls>
