@@ -1,7 +1,7 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2025-05-14
+updated: 2025-05-21
 ---
 
 - 学生姓名：代超巡
@@ -11,11 +11,38 @@ updated: 2025-05-14
 
 ## D13, 2025-05-13
 
-#### 词汇
+#### Song
 
-- 复习 P88 词汇，听录音，跟读两遍：
+- 复习 P93 歌曲 *Wind Power*
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.04.mp3" type="audio/mp3">
+</audio>
+
+#### 听力材料
+
+复习 P94 听力材料，参考文字，熟悉能源相关的表达，注意加粗的词汇。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.05.mp3" type="audio/mp3">
+</audio>
+
+1. There are many different types of coal. Coal can be black or brown, hard or soft. We take it from the ground and use it as fuel in power plants. People use coal all over the world.
+2. Oil is a fuel like coal, but it is a liquid. We **pump** oil up from under the ground using oil **derricks**, which look like tall towers. We usually turn oil into other **products** such as **gasoline** for cars.
+3. Power plants turn fuel into electricity. The fuel can be coal or oil or something else. The power plant burns the fuel and makes power for us to use. That’s why it’s called a power plant.
+4. Electricity goes from the power plant to our homes through **wires**. We use the electricity to run many items such as lights, heaters, and computers.
+5. Wind turbines make electricity when the wind blows. Large turbines often have three blades. Some wind turbines are together in groups called wind farms.
+
+#### Vocabulary
+
+- 复习 P95 词汇，听录音，跟读两遍：
 	<audio controls>
-	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.02.mp3" type="audio/mp3">
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.08.mp3" type="audio/mp3">
+	</audio>
+
+- 复习 P96 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.09.mp3" type="audio/mp3">
 	</audio>
 
 #### 阅读

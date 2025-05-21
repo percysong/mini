@@ -1,7 +1,7 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2025-05-13
+updated: 2025-05-20
 ---
 
 ## 2025-05-19
@@ -16,13 +16,11 @@ updated: 2025-05-13
 </audio>
 
 - 按照本节课的习作反馈，根据练习册上 P51 事实性写作的 features 和 Writing checklist，修改上周自己的第一稿写作。
-
 - 回顾第五个大问题的视频，自己说一说对这5个问题了解到的新知识：
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_Reflect_Unit_5.mp4" type="video/mp4">
 </video>
-
 
 ### 学习内容
 

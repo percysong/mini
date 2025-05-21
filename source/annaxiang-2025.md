@@ -1,7 +1,7 @@
 ---
 title: Anna 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-05-19
+updated: 2025-05-21
 ---
 
 ## D14, 2025-05-18
@@ -63,7 +63,7 @@ updated: 2025-05-19
 - 勾画出自己不熟悉的词汇，结合图片理解文本
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.33.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.40.mp3" type="audio/mp3">
 </audio>
 
 #### 视频扩展
