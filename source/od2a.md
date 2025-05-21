@@ -42,7 +42,8 @@ My name is Shannon. I wrote this poem to tell my best friend that she’s specia
 I’m Adem. I wrote this poem because I want to make people laugh.
 
 > Clean up now. It’s time for math.
-> Do your homework. Take a bath. Brush your teeth. Go to bed.
+> Do your homework. Take a bath.
+> Brush your teeth. Go to bed.
 > That’s all my mom and teacher said.
 
 #### 口语交际

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "917ee79a81b690f2",
+        "id": "cfa8a407ae93d498",
         "type": "tabs",
         "children": [
           {
-            "id": "558e327be5ae3450",
+            "id": "0fc2c4b5b7c62962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bendai.md",
+                "file": "leoyao.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,61 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bendai"
+              "title": "leoyao"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7367a6c85ea5d7f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76ab2cf5a224a097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wuzimo.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "wuzimo"
+            }
+          },
+          {
+            "id": "198d0868b143e4cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ms-li.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ms-li"
             }
           }
         ]
@@ -113,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bendai.md",
+                "file": "leoyao.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bendai"
+              "title": "Outline of leoyao"
             }
           },
           {
@@ -211,8 +265,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "558e327be5ae3450",
+  "active": "0fc2c4b5b7c62962",
   "lastOpenFiles": [
+    "wuzimo.md",
+    "leoyao.md",
+    "ms-li.md",
     "od2a.md",
     "bendai.md",
     "rockyzhu-2025.md",
@@ -222,9 +279,6 @@
     "odf1.md",
     "od2c.md",
     "od2b.md",
-    "ms-li.md",
-    "leoyao.md",
-    "wuzimo.md",
     "liaopeiyan.md",
     "od1a.md",
     "_posts/what-does-AI-mean-for-future-education.md",

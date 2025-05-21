@@ -1,8 +1,93 @@
 ---
 title: Leo Yao 牛津探索学习资料
 created: 2024-09-11
-updated: 2025-05-17
+updated: 2025-05-21
 ---
+
+## D5, 2025-05-21
+
+### 牛津自然拼读 Short *e*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+{% endnote %}
+
+- *e*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u03_e.mp4" type="video/mp4">
+</video>
+
+- *ed*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u03_ed.mp4" type="video/mp4">
+</video>
+
+- *en*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u03_en.mp4" type="video/mp4">
+</video>
+
+- *et*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u03_et.mp4" type="video/mp4">
+</video>
+
+#### 拼读绘本操练 *My Pet Hen*
+
+复习拼读绘本，听录音，暂停跟读两遍。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB2_Disc1_Track48.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_2_Stories-3.jpeg)
+
+### P28 词汇音频
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.17.mp3" type="audio/mp3">
+</audio>
+
+#### Rainbow Colors Song
+
+{% note info %}
+聆听歌曲，每日跟唱一遍，熟悉各类颜色词汇。
+{% endnote %}
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/14/rainbow-colors-song-colors-song-for-kids-the-singing-walrus.mp4" type="video/mp4">
+</video>
+
+#### 诗歌预习 Who’s In the Tree | Colors of the Sky
+
+{% note info %}
+预习 P30 诗歌。听录音，暂停跟读三遍，连续跟读两日，注意模仿语调。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.18.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-1.jpeg)
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-2.jpeg)
+{% endgrouppicture %}
+
+### 练习册 每天做一页
+
+从 P14 开始完成
 
 ## D4, 2025-05-15
 
