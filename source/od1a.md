@@ -1,8 +1,57 @@
 ---
 title: Oxford Discover 1 Class A
 created: 2024-09-11
-updated: 2025-05-16
+updated: 2025-05-23
 ---
+
+## D12, 2025-05-22
+
+### 本周学习任务
+
+#### 视频学习
+
+复习 P84，说说他们在每个季节都做了哪些活动，注意模仿角色情绪和语调
+
+**Audio**
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.61.mp3" type="audio/mp3">
+</audio>
+
+**Video**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M4_story.mp4" type="video/mp4">
+</video>
+
+回顾大问题，How are seasons different, 通过本单元的学习，说说你有没有什么新的理解：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD1_M4_WU.mp4" type="video/mp4">
+</video>
+
+#### Project: A Seasons Journal
+
+完成在课堂上做了一半的季节日志，写一写自己最喜欢季节的特点，以及自己和家人在这个季节做的活动。用彩笔装饰着色。参考书上 P85
+
+#### 词汇
+
+复习 P88 词汇，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.02.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册 Workbook P72-74
+
+### 课堂回顾
+
+- 学习单元总结动画，角色扮演
+- 通过拼词游戏加强自然拼读和拼写
+- 开启第5个大问题：数字如何帮助我们？
+- 通过图片数字活动，回顾已经了解的数字及其读音，通过比赛来熟练数字（正着数和倒着数）
+- 引入数学的英文概念，包括加号、等号、算式、加法、单双数的词汇表达
+- 完成上一个单元的任务 My Seasonal Journal
 
 ## D11, 2025-05-14
 
