@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leoyao.md",
+                "file": "rockyzhu-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,61 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "leoyao"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7367a6c85ea5d7f2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "76ab2cf5a224a097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wuzimo.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "wuzimo"
-            }
-          },
-          {
-            "id": "198d0868b143e4cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ms-li.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ms-li"
+              "title": "rockyzhu-2025"
             }
           }
         ]
@@ -167,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leoyao.md",
+                "file": "rockyzhu-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of leoyao"
+              "title": "Outline of rockyzhu-2025"
             }
           },
           {
@@ -267,8 +213,8 @@
   },
   "active": "0fc2c4b5b7c62962",
   "lastOpenFiles": [
-    "wuzimo.md",
     "leoyao.md",
+    "wuzimo.md",
     "ms-li.md",
     "od2a.md",
     "bendai.md",

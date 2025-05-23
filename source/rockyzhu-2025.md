@@ -10,6 +10,53 @@ updated: 2025-05-20
 - 开始学习日期：2024 年 9 月 23 日
 ---
 
+## D20*, 2025-05-22
+
+### 学习资料和学习任务
+
+#### 阅读
+
+复习 P38–39 文本，听录音，跟读两遍，注意结合上下文再次理解生词：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.24.mp3" type="audio/mp3">
+</audio>
+
+- pack their belongings
+- a quarter of
+	- ¼
+- move abroad
+- immigrants
+- Europe
+	- 欧洲
+- Brazil
+	- 🇧🇷 巴西
+- service
+- Portugal
+	- 🇵🇹 葡萄牙
+- Stockholm
+	- 斯德哥尔摩（瑞典首都）
+
+#### 语法练习
+
+听录音，跟读两遍，注意条件式的使用
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.25.mp3" type="audio/mp3">
+</audio>
+
+#### 书面作业
+
+- 练习册OD3 Workbook P29–33
+
+### 学习内容
+
+- 复习原版拼读绘本
+- 深度阅读文本，解决生词
+- 完成课后练习
+- 学习语法：条件式 Present Real Conditional
+- 完成练习
+
 ## D19, 2025-05-19
 
 ### 学习资料和学习任务
@@ -27,7 +74,7 @@ P36 听录音，跟读两遍
 预习 P38–39 文本，听录音，勾画自己不熟悉的词汇：
 
 <audio controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.17.mp3" type="audio/mp3">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.24.mp3" type="audio/mp3">
   </audio>
 
 #### 书面作业
