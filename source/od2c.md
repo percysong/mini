@@ -1,8 +1,43 @@
 ---
 title: 牛津探索周五班
 created: 2024-10-19
-updated: 2025-05-11
+updated: 2025-05-26
 ---
+
+## D9, 2025-05-25
+
+### 课堂回顾
+
+- 练习册改错
+- 完成五六单元小测试（<mark>练习比较容易，大家对于词汇和阅读的把握都很准确，都是全对。</mark>）
+- 复习数学中的基础英文的表达，并结合实际例子来用英语解释。
+- 学习阅读策略 Reread，通过反复阅读来深刻理解文本。
+- 阅读文本 Subtraction，理解数学当中减法的表达。
+- 用英语创造减法相关的运用题（Word Problem）
+- 完成课后练习
+
+### 学习资料和学习任务
+
+#### Vocabulary
+
+复习 P68 词汇，跟读两遍，注意 minus 和 digit 的发音，大家都容易读错。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.47.mp3" type="audio/mp3">
+</audio>
+
+#### Reading
+
+复习 P70-71 文本，听录音跟读两遍，每两天跟读一页；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/29/OD2e_L2_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook
+
+- 完成课堂练习题单
+- Workbook P56–59
 
 ## D8, 2025-05-09
 

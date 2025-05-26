@@ -1,8 +1,68 @@
 ---
 title: 牛津探索2 周日班
 created: 2024-10-19
-updated: 2025-05-19
+updated: 2025-05-26
 ---
+
+## D12, 2025-05-25
+
+### 课堂回顾
+
+- 拼词游戏
+- 练习册改错
+- 学习故事 Tell Me a Story, Grandpa，练习复述部分故事中的事件
+- 运用阅读策略梳理故事中事件发生的前后顺序
+- 完成课后练习
+- 学习歌曲，操练一般过去时语法
+- 学习过去和现在家具的不同，完成听力练习
+
+<mark>George 这次在家复习/预习的效果很不错，对词汇和阅读文本都比较熟悉，口头表达和问题的回答积极准确，但后面的写作部分开始有些偷懒了。Tom 对上节课学习的词汇和阅读文本还有待熟悉，没有太完全理解；不过后面写作完成认真，回去之后要多复习跟读一下音频。</mark>
+
+### 学习任务
+
+#### 词汇
+
+复习 P56 词汇，听录音，跟读两遍。<mark>注意 arrive, crowded, clerk 这几个词</mark>
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读
+
+复习 P58–59 文本，听录音跟读两遍，每两天跟读一页。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+#### 歌曲
+
+复习P61–D歌曲，跟唱两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.41.mp3" type="audio/mp3">
+</audio>
+
+#### 动画音频
+
+自学动画 P64 音频，自主跟读两遍，说说过去和现在交通工具的不同。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.46.mp3" type="audio/mp3">
+</audio>
+
+#### 大问题视频
+
+复习大问题视频，总结自己的回答：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_03_Wrapup3.mp4" type="video/mp4">
+</video>
+
+#### 书面作业
+
+- 完成练习册 P48-53
 
 ## D11, 2025-05-18
 
