@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cfa8a407ae93d498",
+        "id": "101e0a502f196dfa",
         "type": "tabs",
         "children": [
           {
-            "id": "0fc2c4b5b7c62962",
+            "id": "6f1096ee217c9a8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od2b.md",
+                "file": "rockyzhu-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od2b"
+              "title": "rockyzhu-2025"
             }
           },
           {
-            "id": "ca28c9a68856f6a3",
+            "id": "b8d6f0c290f51c0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "annaxiang-2025.md",
+                "file": "odf1.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,61 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "annaxiang-2025"
-            }
-          },
-          {
-            "id": "e9717fd5768132e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zhuxuanyu.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "zhuxuanyu"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e11ba4165b9c5af4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1c72ec161e951c6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "od2c.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "od2c"
+              "title": "odf1"
             }
           }
         ]
@@ -191,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2b.md",
+                "file": "rockyzhu-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2b"
+              "title": "Outline of rockyzhu-2025"
             }
           },
           {
@@ -276,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,15 +235,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fc2c4b5b7c62962",
+  "active": "6f1096ee217c9a8a",
   "lastOpenFiles": [
-    "od2c.md",
+    "odf1.md",
     "od2b.md",
-    "dannychen-2025.md",
-    "zhuxuanyu.md",
     "rockyzhu-2025.md",
-    "gal-gao-2025.md",
+    "od2c.md",
+    "zhuxuanyu.md",
     "annaxiang-2025.md",
+    "dannychen-2025.md",
+    "gal-gao-2025.md",
     "Untitled.md",
     "wuzimo.md",
     "od1a.md",
@@ -306,7 +252,6 @@
     "ms-li.md",
     "od2a.md",
     "bendai.md",
-    "odf1.md",
     "liaopeiyan.md",
     "_posts/what-does-AI-mean-for-future-education.md",
     "shaoyuhan.md",

@@ -1,8 +1,47 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2025-05-20
+updated: 2025-05-27
 ---
+
+## 2025-05-26
+
+### 学习资料和学习任务
+
+- Student Book P60 - **5** Find the adjectives with the same meaning
+- Student Book P122 **Adjective suffixes 3-4**
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_SB1_1.35.mp3" type="audio/mp3">
+</audio>
+
+- Workbook P54-55 Reading
+
+视频学习 Great Pacific Garbage Patch
+
+- What’s the problem? 
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/how-big-the-great-pacific-garbage-patch-really-is.mp4" type="video/mp4">
+</video>
+
+- What can people do to solve the problem?
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/our-biggest-trash-catch-ever-more-the-ocean-cleanup-2024-in-review.mp4" type="video/mp4">
+</video>
+
+### 学习内容
+
+- 检查第二稿写作
+- 回顾第六单元大问题
+- 关于大问题口语热身交流
+- 了解 Great Pacific Garbage Patch，探讨环境面临巨大体量塑料垃圾的问题
+- 阅读学习：What can we live without?
+- 通过小标题 headings 预测相关内容
+- 回答问题，探讨不同极简主义的生活方式，人们改变的理由以及所做的改变
+- 阅读策略：理解代词所指事物
+- 完成练习
 
 ## 2025-05-19
 

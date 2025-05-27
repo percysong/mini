@@ -1,7 +1,7 @@
 ---
 title: 朱宣宇学习档案
 created: 2024-09-11
-updated: 2025-05-23
+updated: 2025-05-26
 ---
 
 - 学生姓名：朱宣宇
@@ -9,6 +9,79 @@ updated: 2025-05-23
 - 年级：五年级
 - 开始学习日期：2024 年 9 月 23 日
 ---
+
+## D21, 2025-05-26
+
+### 学习资料和学习任务
+
+#### 听力材料
+
+对照听力文本，认真听两遍，熟悉不同口音的英语，注意以下词汇：
+
+- Brazil *n.*
+	- 🇧🇷 巴西
+	- Brazilian *adj./n.*
+- Portugal
+	- 🇵🇹 葡萄牙
+	- Portuguese *adj./n.*
+- Italy
+	- Italian *adj./n.*
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.26.mp3" type="audio/mp3">
+</audio>
+
+Marta, you moved from Italy to Brazil fifty years ago.
+
+Yes, that’s right. I was four years old then. Did you come with your mother and father?
+
+Yes, and my older sister.
+
+And why did you come to Brazil?
+
+We came to Brazil because my father couldn’t find a good job in Italy. That was the **main reason**.
+
+Was it hard for you to live in a new country?
+
+It was easy for my sister and me. We learned to speak **Portuguese** quickly because we went to a **Brazilian** school. Do you still speak **Italian**?
+
+When I talk to my sister, I speak Italian. When I talk to my Brazilian friends, I speak Portuguese.
+
+Do you go back to Italy sometimes?
+
+I went back one time, with my sister. I was 20, and she was 22. My sister moved back to Italy after that.
+
+Why did she do that?
+
+She met a man there, and they got married. My husband is from Brazil, so we live here.
+
+#### 口语交际
+
+P42 说说你喜欢在哪里生活，听录音，跟读
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.28.mp3" type="audio/mp3">
+</audio>
+
+#### 词汇学习
+
+P43 听录音，跟读两遍，参考练习册 P35 完成，可以查询词典
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.29.mp3" type="audio/mp3">
+</audio>
+
+#### 书面作业
+
+- 练习册OD3 Workbook P29–35
+
+### 学习内容
+
+- 练习册改错
+- 完成关于移居和家庭迁徙的听力练习
+- 词汇学习：词尾后缀的学习（表示国家、人/语言）
+- 写作练习：学习连词 because 在写作中的使用
+- 完成听写，熟悉拼读字母组合
 
 ## D20*, 2025-05-22
 
