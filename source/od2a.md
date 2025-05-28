@@ -1,8 +1,53 @@
 ---
 title: 牛津探索周二班
 created: 2024-10-19
-updated: 2025-05-21
+updated: 2025-05-28
 ---
+
+## D13, 2025-05-27
+
+#### 词汇
+
+复习 P68 词汇，跟读两遍，注意新的词汇读音
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.44.mp3" type="audio/mp3">
+</audio>
+
+#### 阅读
+
+听录音，每两天听一页跟读两遍，勾画自己不熟悉的词汇，注意发音
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.45.mp3" type="audio/mp3">
+</audio>
+
+#### 视频扩展
+
+Watch the video *Why do places have different times?*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/why-do-places-have-different-times-mystery-science.mp4" type="video/mp4">
+</video>
+
+#### 书面作业
+
+- 阅读练习题单
+- 练习册 P57-60
+
+### 学习内容
+
+- Wordle 猜词游戏热身
+- 开启了新的大问题 *How do we measure time?* 「我们如何测量时间」
+- 通过太空中地球的照片引入话题，说一说、写一写你了解到的地理知识和时间相关的表达。
+- - 复习了时间的词汇，学习了地球自转公转相关词汇表达（<mark>大家对于时间的词汇都很熟悉</mark>）
+	- spin
+	- orbit
+	- time zone
+	- multiply
+- 学习阅读策略 Diagram
+	- 如何通过阅读图例来理解科学原理并获取知识
+- 阅读科普文本，初步了解地球的自转和公转，运用阅读策略来加深理解
 
 ## D12, 2025-05-20
 

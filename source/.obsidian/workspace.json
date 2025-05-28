@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rockyzhu-2025.md",
+                "file": "od2a.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rockyzhu-2025"
+              "title": "od2a"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "odf1.md",
+                "file": "bendai.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "odf1"
+              "title": "bendai"
             }
           }
         ]
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rockyzhu-2025.md",
+                "file": "od2a.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of rockyzhu-2025"
+              "title": "Outline of od2a"
             }
           },
           {
@@ -237,9 +237,11 @@
   },
   "active": "6f1096ee217c9a8a",
   "lastOpenFiles": [
+    "bendai.md",
+    "od2a.md",
     "odf1.md",
-    "od2b.md",
     "rockyzhu-2025.md",
+    "od2b.md",
     "od2c.md",
     "zhuxuanyu.md",
     "annaxiang-2025.md",
@@ -250,8 +252,6 @@
     "od1a.md",
     "leoyao.md",
     "ms-li.md",
-    "od2a.md",
-    "bendai.md",
     "liaopeiyan.md",
     "_posts/what-does-AI-mean-for-future-education.md",
     "shaoyuhan.md",

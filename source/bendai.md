@@ -1,13 +1,86 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2025-05-21
+updated: 2025-05-28
 ---
 
 - 学生姓名：代超巡
 - English Name: Ben
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
+
+## D15, 2025-05-27
+
+#### Grammar in Use
+
+- 复习对话，注意 Quantifier 的使用，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.11.mp3" type="audio/mp3">
+</audio>
+
+#### 听力材料
+
+复习 P102 听力材料，参考文字，熟悉能源相关的表达，注意加粗的词汇和短语。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.12.mp3" type="audio/mp3">
+</audio>
+
+My name is Dina. I have a simple way to save energy in our classroom. Our classroom has a large air conditioner to **keep** students **cool**. I think we could use a small **electric fan** *instead of* the air conditioner when it’s hot outside. Small electric fans don’t use much energy. 
+
+My name is Paul, and my idea is simple. Classrooms use a lot of lights so students can read and study. But we’re not always in our classrooms. Sometimes we go to lunch, or to the playground. We should always **shut off the lights** when our classroom is empty. This will save energy for our school. 
+
+Hello. My name is Talya. My idea for saving energy will take more time, but I think it’s a good idea for many schools. We should plant tall **leafy** trees around the school building. During the warm months, the leaves in the trees <mark>**keep** the sun **from** heating up</mark> the classroom. During the cold winter months, the leaves fall off and the sun shines in the classroom and keeps us warm.
+
+#### Speaking
+
+- 复习 P102 口语交际，听录音，跟读两遍（如何回应对方的观点并表达自己的观点）：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.14.mp3" type="audio/mp3">
+	</audio>
+
+#### Vocabulary
+
+- 复习 P103 词汇，听录音，跟读两遍：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.15.mp3" type="audio/mp3">
+	</audio>
+
+#### 练习册
+
+- Workbook P90-96
+- 选择一种能源，完成演讲稿的写作
+
+### 学习内容
+
+1. 阅读与语法：表达“数量”
+	•	学生学习了如何使用：
+	•	a little（用于不可数名词，如 energy）
+	•	a few（用于可数名词，如 nails）
+	•	a lot of / lots of（用于可数和不可数名词）
+
+2. 听力与口语练习
+	•	学生听取别人是如何在家和学校节能的。
+	•	他们讨论了哪些交通方式可以帮助节省能源（如公交车、步行、拼车）。
+
+3. 单词学习：前缀 re-
+	•	以 re- 开头的词，如：
+		•	recycle（再利用）
+		•	rewrite（重写）
+		•	repaint（重新粉刷）
+	•	这些词表示“再一次”的意思。
+
+4. 写作语法：不定冠词 a/an 和定冠词 the
+	•	第一次提到的事物用 a 或 an
+	•	再次提到同样的事物用 the
+
+5. 写作任务：写一篇关于风能的演讲稿
+	•	学生阅读了 Simon 的演讲作为范例。
+	•	学习如何组织一篇演讲稿：
+	•	用一个有趣的问题或句子开头
+	•	清晰表达三个主要观点
+	•	最后进行总结
 
 ## D14, 2025-05-20
 
@@ -1140,7 +1213,7 @@ Ali and Nadia, thank you for inviting me to your wedding. It was exciting! You�
 
 {% note info %}
 
-- Listen and read P71, for three days. (彩色打印学习资料)
+- Listen and read P71, for three days. 
 
 <audio controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.45.mp3" type="audio/mp3">
