@@ -4,6 +4,63 @@ created: 2024-09-11
 updated: 2025-05-21
 ---
 
+## D6, 2025-05-21
+
+### 牛津自然拼读 Short *a*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+{% endnote %}
+
+- *a*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u01_a.mp4" type="video/mp4">
+</video>
+
+- *am*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u01_am.mp4" type="video/mp4">
+</video>
+
+- *an*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u01_an.mp4" type="video/mp4">
+</video>
+
+#### 拼读绘本操练 *Ants*
+
+复习拼读绘本，听录音，暂停跟读两遍。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB2_Disc1_Track16.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_2_Stories-1.jpeg)
+
+#### 诗歌复习 Who’s In the Tree | Colors of the Sky
+
+{% note info %}
+预习 P30-P31 诗歌。听录音，暂停跟读三遍，连续跟读两日，注意模仿语调。
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/OD2e_L1_Student_Book_Audio_1.18.mp3" type="audio/mp3">
+</audio>
+
+{% grouppicture 2-2 %}
+![ODU1L1-Reading2](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-1.jpeg)
+![ODU1L1-Reading1](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/09/30/oxford-discover-1-student-book-2-nd-edition-pages-31-32-2.jpeg)
+{% endgrouppicture %}
+
+### 练习册 每天做一页
+
+P18-21
+
 ## D5, 2025-05-21
 
 ### 牛津自然拼读 Short *e*

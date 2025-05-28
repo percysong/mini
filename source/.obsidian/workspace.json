@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bendai.md",
+                "file": "leoyao.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bendai"
+              "title": "leoyao"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2a.md",
+                "file": "leoyao.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2a"
+              "title": "Outline of leoyao"
             }
           },
           {
@@ -235,10 +236,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f1096ee217c9a8a",
+  "active": "b8d6f0c290f51c0d",
   "lastOpenFiles": [
-    "bendai.md",
+    "ms-li.md",
+    "leoyao.md",
     "od2a.md",
+    "bendai.md",
     "odf1.md",
     "rockyzhu-2025.md",
     "od2b.md",
@@ -250,8 +253,6 @@
     "Untitled.md",
     "wuzimo.md",
     "od1a.md",
-    "leoyao.md",
-    "ms-li.md",
     "liaopeiyan.md",
     "_posts/what-does-AI-mean-for-future-education.md",
     "shaoyuhan.md",
