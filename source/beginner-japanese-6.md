@@ -1,11 +1,12 @@
 ---
 menu: no
 link: beginner-japanese/6
-created: 2024-03-24T03:01:37
+created: 2024-06-29
 modified: 2024-06-27T11:48:38
+updated: 2025-05-30
 ---
 
-# 日本語入门学习　第６課
+# 日本語入门学习 第６課
 
 ## 学习任务
 
@@ -69,4 +70,4 @@ modified: 2024-06-27T11:48:38
 <track src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/06/29/japanese-greetings.srt" kind="subtitles" srclang="cn" label="Chinese" />
 </video>
 
-<span class="caption">注意：以上视频直接点击播放即可，YouTube 链接可能无法访问，在此只作为视频来源出处的标注。</span>
+<span class="caption">注意：直接点击视频即可播放。根据您的网络环境，YouTube 链接可能在国内无法访问，在此只作为视频来源出处的标注。</span>

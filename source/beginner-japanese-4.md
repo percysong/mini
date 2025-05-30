@@ -1,16 +1,16 @@
 ---
 menu: no
 link: beginner-japanese/4
-created: 2024-03-24T03:01:37
+created: 1984-01-24
 modified: 2024-06-27T11:48:46
+updated: 2025-05-30
 ---
 
-# 日本語入门学习　第４課
+# 日本語入门学习 第４課
 
 ## Day 5–6 学习任务
 
 - 复习任务
-	- 复习 Sweet Dinos か行的**学习**视频，跟读两遍；
 	- 复习 Sweet Dinos か行的**练习**视频，快速回答问题，检查自己的掌握情况；
 	- 观看 MEWch あ行及か行吟唱视频，再次复习本周学习的假名；
 	- 复习常用日文口語短句 1–10 句，暂停跟读三遍，感受日语的节奏和发音；
@@ -22,16 +22,16 @@ modified: 2024-06-27T11:48:46
 
 ### 今日复习
 
-- か行**学习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://youtu.be/jlxNQ0G-YhY?si=1iDY3qeNaX-tD9BO)
-
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/06/23/learn-hiragana-alphabet-characters-lesson-2.mp4" type="video/mp4">
-</video>
-
 - か行**练习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://youtu.be/aiXez-IUcKA?si=MO8zs-zzvlUyK6cm)
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/06/25/learn-hiragana-alphabet-characters-practice-2.mp4" type="video/mp4">
+</video>
+
+- 浊音 が行**练习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://www.youtube.com/watch?v=FzXCSxO0JYQ)
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-hiragana-alphabet-characters-practice-11.mp4" type="video/mp4">
 </video>
 
 - あ行及か行吟唱视频 by [MEWch](https://www.youtube.com/@mewch3344)｜[YouTube 链接🔗](https://youtu.be/ecPVGGQ2GIM?si=uN0hHz9ZYEl2nAg4)

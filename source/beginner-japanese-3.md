@@ -1,17 +1,17 @@
 ---
 menu: no
 link: beginner-japanese/3
-created: 2024-03-24T03:01:37
+created: 2024-06-24
 modified: 2024-06-27T11:48:50
+updated: 2025-05-30
 ---
 
-# 日本語入门学习　第３課
+# 日本語入门学习 第３課
 
 ## Day 3–4 学习任务
 
 - 复习任务
 	- 再次跟唱 FunNihongo 平假名儿歌，熟悉发音，培养语感；
-	- 复习 Sweet Dinos あ行的**学习**视频，跟读两遍；
 	- 观看 Sweet Dinos あ行的**练习**视频，快速回答问题，检查自己的掌握情况；
 - 学习任务
 	- 学习常用日文口語短句 1–10 句，暂停跟读三遍，感受日语的节奏和发音；
@@ -25,12 +25,6 @@ modified: 2024-06-27T11:48:50
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/06/21/learn-japanese-hiragana-alphabet-aiueo-song-funnihongo.mp4" type="video/mp4">
-</video>
-
-- あ行**学习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://www.youtube.com/watch?v=5hYz3Kn08Oo)
-
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/06/21/learn-hiragana-alphabet-characters-lesson-1.mp4" type="video/mp4">
 </video>
 
 - あ行**练习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://youtu.be/aE3KFMJPmVk?si=bhTAXik2L6yC6xxm)
@@ -53,6 +47,12 @@ modified: 2024-06-27T11:48:50
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/06/23/ka-hiragana-kanji.mp4" type="video/mp4">
 </video>
 
+- 浊音 が行**学习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://youtu.be/hpJ2EvZopz8?si=4UujGRF4jHm4w_oE)
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-hiragana-alphabet-characters-lesson-11.mp4" type="video/mp4">
+</video>
+
 ---
 
 - 常用日语短句 100 句（1–10 句）by [Yunaty日本語](https://www.youtube.com/@yunaty7700)｜[YouTube 链接🔗](https://youtu.be/v22JJP1GBAI?si=pwQ8u15OKfqNQZpD)
@@ -61,4 +61,4 @@ modified: 2024-06-27T11:48:50
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/06/23/1-10-japanese-sentences.mp4" type="video/mp4">
 </video>
 
-<span class="caption">注意：以上视频直接点击播放即可，YouTube 链接可能无法访问，在此只作为视频来源出处的标注。</span>
+<span class="caption">注意：直接点击视频即可播放。根据您的网络环境，YouTube 链接可能在国内无法访问，在此只作为视频来源出处的标注。</span>

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beginner-japanese-4.md",
+                "file": "beginner-japanese-2.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "beginner-japanese-4"
+              "title": "beginner-japanese-2"
             }
           },
           {
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beginner-japanese-4.md",
+                "file": "beginner-japanese-2.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of beginner-japanese-4"
+              "title": "Outline of beginner-japanese-2"
             }
           },
           {
@@ -261,20 +261,20 @@
   },
   "active": "b8d6f0c290f51c0d",
   "lastOpenFiles": [
-    "beginner-japanese-2.md",
-    "beginner-japanese-1.md",
     "beginner-japanese.md",
-    "wuzimo.md",
-    "leoyao.md",
+    "beginner-japanese-1.md",
+    "beginner-japanese-2.md",
+    "beginner-japanese-3.md",
+    "beginner-japanese-4.md",
     "beginner-japanese-11.md",
+    "beginner-japanese-8.md",
     "beginner-japanese-10.md",
     "beginner-japanese-9.md",
-    "beginner-japanese-8.md",
     "beginner-japanese-7.md",
     "beginner-japanese-6.md",
     "beginner-japanese-5.md",
-    "beginner-japanese-4.md",
-    "beginner-japanese-3.md",
+    "wuzimo.md",
+    "leoyao.md",
     "ms-li.md",
     "od2a.md",
     "bendai.md",
