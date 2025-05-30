@@ -1,6 +1,5 @@
 ---
 menu: no
-link: beginner-japanese/3
 created: 2024-06-24
 modified: 2024-06-27T11:48:50
 updated: 2025-05-30

@@ -1,9 +1,8 @@
 ---
 menu: no
-link: beginner-japanese/10
-created: 2024-07-03
 modified: 2024-06-27T11:48:38
 updated: 2025-05-30
+created: 2024-07-03
 ---
 
 # 日本語入门学习 第 10 課

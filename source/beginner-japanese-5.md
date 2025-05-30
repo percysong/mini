@@ -1,7 +1,5 @@
 ---
 menu: no
-link: beginner-japanese/5
-created: 1984-01-24
 modified: 2024-06-27T11:48:38
 updated: 2025-05-30
 ---

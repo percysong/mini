@@ -1,9 +1,8 @@
 ---
 menu: no
-link: beginner-japanese/4
-created: 1984-01-24
 modified: 2024-06-27T11:48:46
 updated: 2025-05-30
+created: 2024-06-24
 ---
 
 # 日本語入门学习 第４課

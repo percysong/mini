@@ -1,9 +1,8 @@
 ---
 menu: no
-link: beginner-japanese/11
-created: 2024-07-09
 modified: 2024-06-27T11:48:38
 updated: 2025-05-30
+created: 2024-07-09
 ---
 
 # 日本語入门学习 第 11 課
