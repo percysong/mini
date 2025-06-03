@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d3123dc899917017",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0226ab6de8e1e85f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "beginner-japanese-2.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "beginner-japanese-2"
-            }
-          }
-        ]
-      },
-      {
         "id": "296ae2f2fb80476c",
         "type": "tabs",
         "children": [
@@ -43,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beginner-japanese-3.md",
+                "file": "beginner-japanese.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -58,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "beginner-japanese-3"
+              "title": "beginner-japanese"
             }
           },
           {
@@ -166,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beginner-japanese-3.md",
+                "file": "beginner-japanese.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of beginner-japanese-3"
+              "title": "Outline of beginner-japanese"
             }
           },
           {
@@ -266,8 +236,8 @@
   },
   "active": "4742cfc3055f59aa",
   "lastOpenFiles": [
-    "bendai.md",
     "beginner-japanese-3.md",
+    "bendai.md",
     "beginner-japanese-2.md",
     "beginner-japanese-1.md",
     "wuzimo.md",

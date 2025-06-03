@@ -12,7 +12,8 @@ updated: 2025-05-30
 | 课程链接                         | 学习内容              |
 | :--------------------------- | ----------------- |
 | [第１課](https://minielephant.net/beginner-japanese-1) | 假名介绍、学唱平假名歌曲 |
-| [第２課](https://minielephant.net/beginner-japanese-2)| あ行平假名学习、汉字来源 |
+| [第２課](https://minielephant.net/beginner-japanese-2)| あ・ア行假名学习 |
+| [第３課](https://minielephant.net/beginner-japanese-3)| か・カ行假名学习、常用日语 |
 
 ## 为什么学习日语
 
