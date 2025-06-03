@@ -1,7 +1,7 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2025-05-28
+updated: 2025-06-03
 ---
 
 - 学生姓名：代超巡
@@ -11,7 +11,7 @@ updated: 2025-05-28
 
 ## D15, 2025-05-27
 
-#### Grammar in Use
+### Grammar in Use
 
 - 复习对话，注意 Quantifier 的使用，跟读两遍
 
@@ -19,7 +19,7 @@ updated: 2025-05-28
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.11.mp3" type="audio/mp3">
 </audio>
 
-#### 听力材料
+### 听力材料
 
 复习 P102 听力材料，参考文字，熟悉能源相关的表达，注意加粗的词汇和短语。
 
@@ -33,21 +33,21 @@ My name is Paul, and my idea is simple. Classrooms use a lot of lights so studen
 
 Hello. My name is Talya. My idea for saving energy will take more time, but I think it’s a good idea for many schools. We should plant tall **leafy** trees around the school building. During the warm months, the leaves in the trees <mark>**keep** the sun **from** heating up</mark> the classroom. During the cold winter months, the leaves fall off and the sun shines in the classroom and keeps us warm.
 
-#### Speaking
+### Speaking
 
 - 复习 P102 口语交际，听录音，跟读两遍（如何回应对方的观点并表达自己的观点）：
 	<audio controls>
 	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.14.mp3" type="audio/mp3">
 	</audio>
 
-#### Vocabulary
+### Vocabulary
 
 - 复习 P103 词汇，听录音，跟读两遍：
 	<audio controls>
 	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.15.mp3" type="audio/mp3">
 	</audio>
 
-#### 练习册
+### 练习册
 
 - Workbook P90-96
 - 选择一种能源，完成演讲稿的写作
@@ -84,7 +84,7 @@ Hello. My name is Talya. My idea for saving energy will take more time, but I th
 
 ## D14, 2025-05-20
 
-#### Song
+### Song
 
 - 复习 P93 歌曲 *Wind Power*
 
@@ -92,7 +92,7 @@ Hello. My name is Talya. My idea for saving energy will take more time, but I th
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.04.mp3" type="audio/mp3">
 </audio>
 
-#### 听力材料
+### 听力材料
 
 复习 P94 听力材料，参考文字，熟悉能源相关的表达，注意加粗的词汇。
 
@@ -106,7 +106,7 @@ Hello. My name is Talya. My idea for saving energy will take more time, but I th
 4. Electricity goes from the power plant to our homes through **wires**. We use the electricity to run many items such as lights, heaters, and computers.
 5. Wind turbines make electricity when the wind blows. Large turbines often have three blades. Some wind turbines are together in groups called wind farms.
 
-#### Vocabulary
+### Vocabulary
 
 - 复习 P95 词汇，听录音，跟读两遍：
 	<audio controls>
@@ -118,7 +118,7 @@ Hello. My name is Talya. My idea for saving energy will take more time, but I th
 	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.09.mp3" type="audio/mp3">
 	</audio>
 
-#### 阅读
+### 阅读
 
 复习 P98-99 *Hector the Energy Saver!* 注意生词：
 
@@ -142,11 +142,11 @@ Hello. My name is Talya. My idea for saving energy will take more time, but I th
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.10.mp3" type="audio/mp3">
   </audio>
 
-#### 视频扩展
+### 视频扩展
 
 参见上周的扩展视频
 
-#### 练习册
+### 练习册
 
 - Workbook P82–89
 
