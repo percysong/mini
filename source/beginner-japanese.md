@@ -4,7 +4,7 @@ menu: no
 link: beginner-japanese
 created: 2024-06-21
 modified: 2024-03-26T03:48:12
-updated: 2025-05-30
+updated: 2025-06-03
 ---
 
 ## 每日学习任务
