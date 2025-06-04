@@ -55,7 +55,8 @@
               "title": "bendai"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -136,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beginner-japanese-3.md",
+                "file": "bendai.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of beginner-japanese-3"
+              "title": "Outline of bendai"
             }
           },
           {
@@ -234,10 +236,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4742cfc3055f59aa",
+  "active": "40f9218a12f76941",
   "lastOpenFiles": [
-    "beginner-japanese.md",
     "beginner-japanese-3.md",
+    "beginner-japanese.md",
     "bendai.md",
     "beginner-japanese-2.md",
     "beginner-japanese-1.md",

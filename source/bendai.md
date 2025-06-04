@@ -9,6 +9,103 @@ updated: 2025-06-03
 - 年级：四年级
 - 开始学习日期：2024 年 9 月 20 日
 
+## D16, 2025-06-03
+
+###  Vocabulary
+
+- 复习 P108 词汇，听录音，跟读两遍，注意不同词汇的重音：
+	<audio controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.16.mp3" type="audio/mp3">
+	</audio>
+
+###  Strategy 阅读策略
+
+- 复习阅读策略 *Making inferences* 阅读介绍，自主观看视频学习
+
+> When we read, we can make a good guess about something if we have enough information. This guess is called an inference. We use information from the story plus our own knowledge to make inferences.
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-make-inferences.mp4" type="video/mp4">
+</video>
+
+### Reading 
+
+- 复习 P98-99 *Mystery in the Gym*，听录音两遍，注意生词，结合上下文猜测词语意思，不使用中文翻译：
+	- poster
+	- mystery
+	- blow bubbles
+	- straw
+	- make a face
+	- cross one’s eyes
+	- find out
+	- deafening
+	- humming
+	- buzzing
+	- exclaim
+	- declare
+	- enormous
+	- giant
+	- noise
+	- take a deep breath
+	- argue
+	- gym
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.17.mp3" type="audio/mp3">
+</audio>
+
+### 视频学习
+
+- BrainPOP 介绍乐器相关视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-musical-instruments.mp4" type="video/mp4">
+</video>
+
+- Woodwind Instruments
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-woodwind-instruments.mp4" type="video/mp4">
+</video>
+
+- percussion Instruments
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-percussion-instruments.mp4" type="video/mp4">
+</video>
+
+### 练习册和视频打卡作业
+
+- Workbook P97-100
+- 选择一种能源，完成演讲稿，拍摄视频
+
+### 学习内容
+
+**1. 导入与思考**
+
+- 观看音乐的视频和图片，并回答以下问题：
+    - 音乐和噪音有什么不同？
+        - 不同的人对噪音和乐音的定义有所不同
+    - 你最喜欢听哪种乐器？
+    - 乐器分为哪几大类，是分别如何演奏的？
+      
+**2. 词汇学习：乐器与职业**
+
+- 学习更多小众西洋乐器和其它词汇
+    - 乐器：**cello, timpani, trombone, bassoon**
+    - 其他词汇：**orchestra, conductor, baton**
+    - 职业词汇对比：**astronaut, scientist, trainer**
+
+**3. 阅读策略：Making Inferences（推理）**
+
+- 学习如何根据故事中提供的信息，加上自己的知识，做出合理推测。
+- 阅读短篇故事 *Mystery in the Gym*，了解两位学生如何通过声音猜测“神秘嘉宾”的身份，最终发现是一位指挥家和乐队的表演。
+
+**4. 阅读理解练习 **
+
+- 填写表格，将「听到的声音 – 猜测 – 实际情况」进行对比。
+- 练习根据上下文理解新单词，如：**mystery, deafening, beekeeper**
+
 ## D15, 2025-05-27
 
 ### Grammar in Use

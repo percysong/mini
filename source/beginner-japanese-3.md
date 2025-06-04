@@ -56,13 +56,13 @@ updated: 2025-06-03
 
 ---
 
-- カ行**学习和练习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://www.youtube.com/watch?v=4CN0Rv7YqFw)
+- カ行**学习和练习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://www.youtube.com/watch?v=i6u2JBRvJiQ)
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-katakana-japanese-alphabet-characters-lesson-2.mp4" type="video/mp4">
 </video>
 
-- カ行**汉字来源** by [Yahoo!映像トピックス公式チャンネル](https://www.youtube.com/@yahoo4559)｜[YouTube 链接🔗]()
+- カ行**汉字来源** by [Yahoo!映像トピックス公式チャンネル](https://www.youtube.com/@yahoo4559)｜[YouTube 链接🔗](https://www.youtube.com/watch?v=rf-n_qI2occ)
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/japanese-katakana-were-born-from-chinese-characters-ka.mp4" type="video/mp4">
