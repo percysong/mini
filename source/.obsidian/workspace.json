@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "296ae2f2fb80476c",
+        "id": "dae379f97baed7d3",
         "type": "tabs",
         "children": [
           {
-            "id": "4742cfc3055f59aa",
+            "id": "7bb9d3559b699851",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "beginner-japanese-3.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "beginner-japanese-3"
-            }
-          },
-          {
-            "id": "40f9218a12f76941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bendai.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "bendai"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,13 +99,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bendai.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bendai"
+              "title": "Outline"
             }
           },
           {
@@ -236,11 +196,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40f9218a12f76941",
+  "active": "7bb9d3559b699851",
   "lastOpenFiles": [
+    "leoyao.md",
     "beginner-japanese-3.md",
-    "beginner-japanese.md",
     "bendai.md",
+    "beginner-japanese.md",
     "beginner-japanese-2.md",
     "beginner-japanese-1.md",
     "wuzimo.md",
@@ -253,7 +214,6 @@
     "beginner-japanese-11.md",
     "beginner-japanese-8.md",
     "beginner-japanese-4.md",
-    "leoyao.md",
     "ms-li.md",
     "odf1.md",
     "rockyzhu-2025.md",

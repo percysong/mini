@@ -1,10 +1,86 @@
 ---
 title: Leo Yao 牛津探索学习资料
 created: 2024-09-11
-updated: 2025-05-30
+updated: 2025-06-06
 ---
 
-## D6, 2025-05-21
+## D7, 2025-06-05
+
+### 牛津自然拼读 Short *a*
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频
+- 听一遍，暂停跟读两遍
+{% endnote %}
+
+- *ad*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u02_ad.mp4" type="video/mp4">
+</video>
+
+- *ag*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u02_ag.mp4" type="video/mp4">
+</video>
+
+- *ap*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u02_ap.mp4" type="video/mp4">
+</video>
+
+- *at*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/u02_at.mp4" type="video/mp4">
+</video>
+
+#### 拼读绘本操练
+
+复习拼读绘本，听录音，暂停跟读两遍。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB2_Disc1_Track31.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_2_Stories-2.jpeg)
+
+### 歌曲音频
+
+听一遍录音，一句一句跟唱两遍，注意目标句型 There be.
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.19.mp3" type="audio/mp3">
+</audio>
+
+### 语法练习
+
+观看视频，根据句型 There is … / There are … 操练描述图片
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/there-is-there-are-exercises-worksheet-in-the-description-young-learners-tefl-happy-street.mp4" type="video/mp4">
+</video>
+
+### P34 词汇音频
+
+{% note info %}
+- 难度 ★☆☆
+- Tips 学习小贴士
+	- 听一遍，跟读三遍
+{% endnote %}
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.20.mp3" type="audio/mp3">
+</audio>
+
+### 练习册 每天做一页
+
+P22–25
+
+## D6, 2025-05-28
 
 ### 牛津自然拼读 Short *a*
 

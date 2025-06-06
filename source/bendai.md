@@ -1,7 +1,7 @@
 ---
 title: 代超巡学习档案
 created: 2024-09-11
-updated: 2025-06-03
+updated: 2025-06-04
 ---
 
 - 学生姓名：代超巡
@@ -11,14 +11,14 @@ updated: 2025-06-03
 
 ## D16, 2025-06-03
 
-###  Vocabulary
+### Vocabulary
 
 - 复习 P108 词汇，听录音，跟读两遍，注意不同词汇的重音：
 	<audio controls>
 	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_2.16.mp3" type="audio/mp3">
 	</audio>
 
-###  Strategy 阅读策略
+### Strategy 阅读策略
 
 - 复习阅读策略 *Making inferences* 阅读介绍，自主观看视频学习
 
@@ -28,7 +28,7 @@ updated: 2025-06-03
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-make-inferences.mp4" type="video/mp4">
 </video>
 
-### Reading 
+### Reading
 
 - 复习 P98-99 *Mystery in the Gym*，听录音两遍，注意生词，结合上下文猜测词语意思，不使用中文翻译：
 	- poster
@@ -101,7 +101,7 @@ updated: 2025-06-03
 - 学习如何根据故事中提供的信息，加上自己的知识，做出合理推测。
 - 阅读短篇故事 *Mystery in the Gym*，了解两位学生如何通过声音猜测“神秘嘉宾”的身份，最终发现是一位指挥家和乐队的表演。
 
-**4. 阅读理解练习 **
+**4. 阅读理解练习**
 
 - 填写表格，将「听到的声音 – 猜测 – 实际情况」进行对比。
 - 练习根据上下文理解新单词，如：**mystery, deafening, beekeeper**
