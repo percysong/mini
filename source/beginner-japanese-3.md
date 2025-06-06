@@ -2,7 +2,7 @@
 menu: no
 created: 2024-06-24
 modified: 2024-06-27T11:48:50
-updated: 2025-06-03
+updated: 2025-06-06
 ---
 
 # 日本語入门学习 第３課
@@ -15,7 +15,7 @@ updated: 2025-06-03
 - 学习任务（分三天完成）
 	- 观看 Sweet Dinos か行的**学习**视频，跟读三遍并书空熟悉字型；
 	- 观看か行汉字来源，找找假名与汉字发音和书写方式的共同之处；
-	- 在 [日语学习软件](https://minielephant.net/beginner-japanese/#apps) 中学习「か行」的平假名；
+	- 在 [日语学习软件](https://minielephant.net/beginner-japanese#学习软件) 中学习「か行」的平假名；
 	- 观看 Sweet Dinos カ行片假名的**学习和练习**视频，找找部分片假名词汇对应的英文词汇；
 	- 观看カ行汉字来源，找找部分片假名词汇对应的英文词汇；
 	- 学习常用日文短语，暂停跟读三遍，感受日语的节奏和发音；
@@ -48,7 +48,7 @@ updated: 2025-06-03
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/06/23/ka-hiragana-kanji.mp4" type="video/mp4">
 </video>
 
-- 浊音 が行**学习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://youtu.be/hpJ2EvZopz8?si=4UujGRF4jHm4w_oE)
+- 浊音が行**学习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://youtu.be/hpJ2EvZopz8?si=4UujGRF4jHm4w_oE)
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-hiragana-alphabet-characters-lesson-11.mp4" type="video/mp4">

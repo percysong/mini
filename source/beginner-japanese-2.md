@@ -2,7 +2,7 @@
 menu: no
 created: 2024-06-24
 modified: 2024-03-26T03:48:12
-updated: 2025-05-30
+updated: 2025-06-06
 ---
 
 # 日本語入门学习 第２課
@@ -13,7 +13,7 @@ updated: 2025-05-30
 - 观看あ行汉字来源，找找假名与汉字发音和书写方式的共同之处；
 - 观看 Sweet Dinos 片假名ア行的学习视频，跟读三遍并书空熟悉字型；
 - 观看ア行汉字来源，找找部分片假名词汇对应的英文词汇；
-- 在[日语学习软件](https://minielephant.net/beginner-japanese/#apps)中学习あ行的假名（任选其一即可，其中多邻国是所有平假名乱序学习）；
+- 在[日语学习软件](https://minielephant.net/beginner-japanese#学习软件)中学习あ行的假名（任选其一即可，其中多邻国是所有平假名乱序学习）；
 
 {% grouppicture 3-3 %}
 ![50音起源](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/06/21/IMG_0322.jpeg)
