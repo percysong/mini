@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "dae379f97baed7d3",
+        "id": "f49e9dfe73e94702",
         "type": "tabs",
         "children": [
           {
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "872a804506b402a5",
+            "id": "4504256e89da0dae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beginner-japanese-4.md",
+                "file": "zhuxuanyu.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,38 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "beginner-japanese-4"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4a74b75fe67e5d6a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "67873ca5cf9bfd43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "beginner-japanese-3.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "beginner-japanese-3"
+              "title": "zhuxuanyu"
             }
           }
         ]
@@ -151,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -167,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beginner-japanese-4.md",
+                "file": "od2c.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of beginner-japanese-4"
+              "title": "Outline of od2c"
             }
           },
           {
@@ -265,13 +235,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "872a804506b402a5",
+  "active": "7bb9d3559b699851",
   "lastOpenFiles": [
+    "zhuxuanyu.md",
+    "od2c.md",
+    "beginner-japanese.md",
+    "beginner-japanese-4.md",
     "beginner-japanese-3.md",
     "beginner-japanese-2.md",
-    "beginner-japanese-4.md",
-    "beginner-japanese.md",
-    "od2c.md",
     "leoyao.md",
     "bendai.md",
     "beginner-japanese-1.md",
@@ -288,7 +259,6 @@
     "odf1.md",
     "rockyzhu-2025.md",
     "od2b.md",
-    "zhuxuanyu.md",
     "annaxiang-2025.md",
     "dannychen-2025.md",
     "gal-gao-2025.md",

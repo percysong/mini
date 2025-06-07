@@ -1,8 +1,63 @@
 ---
 title: 牛津探索周五班
 created: 2024-10-19
-updated: 2025-05-26
+updated: 2025-06-07
 ---
+
+## D10, 2025-06-06
+
+### 课堂回顾
+
+- 复习数学中的基础英文的表达，并结合实际例子来用英语解释。
+- 复习一般过去时态的不规则动词变化
+- 阅读莱特兄弟Invention的故事，复习不规则动词的使用
+- 完成口头练习和笔头
+- 复习数字和减法相关听力练习
+- 学习第8单元词汇
+- 复习 Text type 文本类型 fiction,以及 fiction 的特点
+	- characters
+	- scene (setting)
+	- **BME (beginning, middle, end)**
+- 具体学习如何判断故事的BME（起因、经过、结果）
+- 观看小红帽故事，找到故事的BME
+
+### 学习资料和学习任务
+
+#### Song
+
+复习P73–D歌曲，跟唱两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.49.mp3" type="audio/mp3">
+</audio>
+
+#### Grammar
+
+复习 Simple Past Irregular Verbs 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_U8_Mixed_Final.mp4" type="video/mp4">
+</video>
+
+#### Vocabulary
+
+复习 P76 词汇，听录音，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.02.mp3" type="audio/mp3">
+</audio>
+
+#### Reading
+
+预习 P78-79 文本，勾画出自己不熟悉的生词，不查词典，结合图片和上下文理解。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.03.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook
+
+- Workbook P60–65
 
 ## D9, 2025-05-25
 
