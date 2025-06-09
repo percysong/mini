@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beginner-japanese-4.md",
+                "file": "gal-gao-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "beginner-japanese-4"
+              "title": "gal-gao-2025"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beginner-japanese-5.md",
+                "file": "gal-gao-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of beginner-japanese-5"
+              "title": "Outline of gal-gao-2025"
             }
           },
           {
@@ -240,7 +240,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3b47bd44be111ec",
+  "active": "12dc46dfadeade2b",
   "lastOpenFiles": [
     "beginner-japanese-4.md",
     "beginner-japanese-5.md",

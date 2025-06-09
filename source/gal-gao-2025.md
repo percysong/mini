@@ -4,6 +4,152 @@ created: 2024-09-11
 updated: 2025-05-26
 ---
 
+## D3, 2025-06-08 (请假)
+
+### 学习任务
+
+#### 牛津自然拼读 Blending Sounds
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频和一个拼读故事
+- 听一遍，跟读一遍
+{% endnote %}
+
+- *dr*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_02_dr.mp4" type="video/mp4">
+	</video>
+- *fr*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_02_fr.mp4" type="video/mp4">
+	</video>
+- *gr*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_02_gr.mp4" type="video/mp4">
+	</video>
+- *pl*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_02_pl.mp4" type="video/mp4">
+	</video>
+- *sl*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_02_sl.mp4" type="video/mp4">
+	</video>
+- *tr*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_02_tr.mp4" type="video/mp4">
+	</video>
+
+#### 拼读绘本操练
+
+复习新发的拼读绘本，听录音，暂停跟读。
+
+- *Happy Frogs*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB4_Disc1_Track32.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_4_SB_Story-2.jpeg)
+
+#### 歌曲
+
+- 书上 P141–D 歌曲 *Our Grandma*，跟唱两遍，熟悉语法句型
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.41.mp3" type="audio/mp3">
+</audio>
+
+- 自学歌曲 Where In Town
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/guess-where-in-town-song-for-preschool-kids-pinkfong-kids-songs.mp4" type="video/mp4">
+</video>
+
+#### 语法
+
+观看语法 Possessive ’s 及 Possessive Adjectives 形容词性物主代词，自主学习。
+
+Possessive ’s
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Oxford_Discover_L1_Unit_13_FINAL_OUP_CPT_eBook.mp4" type="video/mp4">
+</video>
+
+Possessive Adjectives
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Oxford_Discover_L1_Unit_14_FINAL_OUP_CPT_eBook.mp4" type="video/mp4">
+</video>
+
+#### 词汇
+
+- 复习书上 P142 词汇，跟读两遍。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.42.mp3" type="audio/mp3">
+</audio>
+
+#### 听力材料
+
+- 复习 P142 听力材料，对照文本，跟读两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.43.mp3" type="audio/mp3">
+</audio>
+
+One.
+
+Department stores, restaurants, and museums – ugh! They’re so boring. There are too many cars and buses on the streets. And there are so many people everywhere. There’s no fresh air and I can’t see the sky. The buildings are too tall!
+
+Wow! This place is really beautiful. Look at those apple orchards. And it’s so quiet and the air is so fresh here.
+
+Look! Cows! Cows are cool!
+
+Two.
+
+Oh, this is a beautiful hotel! And I can go to a department store and a museum this afternoon, and a restaurant for dinner tonight! There are so many interesting places here! Oh, look at the plain farmhouses. They are so far apart. There aren’t many fancy buildings here. There aren’t many buildings or streets, and it’s too quiet. It’s boring, too.
+
+Ugh, cows! There aren’t many people and there are too many cows!
+
+Three.
+
+Oh! Look out!
+
+It’s dangerous in these streets. It’s noisy, too.
+
+It’s too quiet here. And it’s boring, too. There are too many cornfields! Aahh!
+
+Help! Honey bees! It’s not very safe here either.
+
+Four.
+
+Look at all the beautiful buildings. There are so many restaurants, hotels, and department stores! I love it here.
+
+It’s so safe and quiet here. There are a lot of beautiful trees and flowers. My grandfather and I watch the birds build their nests. It’s fun here!
+
+#### 口语交际
+
+跟读 P143 对话，学习如何询问社区周边地点。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.45.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+- 练习册 P122–P125（Writing部分可以先不做）
+
+### 课堂学习内容
+
+- 继续学习自然拼读 Blending
+- 学习原版拼读绘本
+- 角色扮演 City Mouse 和 Country Mouse
+- 学习语法：形容词性物主代词，
+- 完成练习和口语操练
+- 学习社区中更多的地点，完成听力练习
+- 学习什么组成完整的句子（需要一个动词和至少一个名词）。
+
 ## D2, 2025-05-25
 
 ### 学习任务
