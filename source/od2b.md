@@ -1,8 +1,65 @@
 ---
 title: 牛津探索2 周日班
 created: 2024-10-19
-updated: 2025-05-26
+updated: 2025-06-09
 ---
+
+## D13, 2025-06-08
+
+### 课堂回顾
+
+- 拼词游戏
+- 练习册改错
+- 回顾本单元大问题，说说自己了解的不同方面的不同
+- 观看视频，加深对问题的理解
+- 角色扮演动画视频
+- 开启数学新单元，并学习基础的数学概念英文表达
+	- 奇数 odd numbers
+	- 偶数 even numbers
+	- 加法 addition
+	- 加号 plus sign
+	- 加法算式 addition problem
+- 学习阅读策略 Reread，通过反复阅读来深刻理解文本。
+- 阅读文本 Subtraction，理解数学当中减法的表达。
+- 用英语创造减法相关的运用题（Word Problem）
+
+### 学习任务
+
+#### 词汇
+
+复习基础加法词汇，听录音，跟读两遍。
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/od-1-sb-page-89.jpeg)
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.02.mp3" type="audio/mp3">
+</audio>
+
+复习 P68 词汇，跟读两遍，注意 minus 和 digit 的发音，大家都容易读错。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.47.mp3" type="audio/mp3">
+</audio>
+
+#### Reading
+
+复习 P70-71 文本，听录音跟读两遍，每两天跟读一页；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/29/OD2e_L2_Student_Book_Audio_1.48.mp3" type="audio/mp3">
+</audio>
+
+#### 动画音频
+
+复习动画 P64 音频，自主跟读两遍，说说过去和现在交通工具的不同。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.46.mp3" type="audio/mp3">
+</audio>
+
+#### 书面作业
+
+- 完成练习册 P54-57
 
 ## D12, 2025-05-25
 
