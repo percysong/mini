@@ -4,6 +4,103 @@ created: 2024-09-11
 updated: 2025-05-27
 ---
 
+## 2025-06-09
+
+### 学习资料和学习任务
+
+- Workbook P56-57 Vocabulary and Grammar
+- 复习 Student book P123 语法部分（尤其是will/won’t与be going to表示未来的用法区别）
+- 回顾 suffixes 构成形容词的方式
+
+#### **1. -ful**
+  
+**Meaning**: _full of_ or _having a lot of something_
+
+This suffix turns a **noun** into an **adjective**.
+
+|**Word**|**Meaning**|
+|---|---|
+|**helpful**|giving help to others|
+|**joyful**|full of joy or happiness|
+|**hopeful**|having hope or feeling positive|
+|**careful**|being cautious and thinking about what you do|
+|**beautiful**|very nice to look at, full of beauty|
+
+#### **2. -less**
+
+**Meaning**: _without something_ or _lacking something_
+
+This suffix also turns a **noun** into an **adjective**, but gives the opposite meaning of **-ful**.
+
+|**Word**|**Meaning**|
+|---|---|
+|**careless**|not careful, likely to make mistakes|
+|**hopeless**|having no hope, feeling there is no chance|
+|**homeless**|without a home|
+|**powerless**|having no power or control|
+|**fearless**|not afraid|
+
+#### **3. -able / -ible**
+
+**Meaning**: _can be done_ or _is possible_
+
+These suffixes are added to **verbs** to make **adjectives**.
+
+|**Word**|**Meaning**|
+|---|---|
+|**readable**|easy to read|
+|**breakable**|can be broken easily|
+|**enjoyable**|fun or pleasant|
+|**understandable**|easy to understand|
+|**disposable**|designed to be used once|
+|**accessible**|easy to enter or reach|
+|**edible**|can be eaten|
+
+#### **4. -ous**
+
+**Meaning**: _full of_ or _having the quality of_
+
+This suffix is used to describe something that has a strong quality or feeling. It changes **nouns** into **adjectives**.
+
+|**Word**|**Meaning**|
+|---|---|
+|**dangerous**|full of danger|
+|**famous**|well known by many people|
+|**mysterious**|full of mystery, hard to explain|
+|**courageous**|very brave|
+|**delicious**|tastes very good|
+
+#### **5. -ive**
+
+**Meaning**: _having the quality of_ or _tending to_
+
+Often added to **verbs** to form **adjectives** that describe behavior or characteristics.
+
+|**Word**|**Meaning**|
+|---|---|
+|**creative**|full of new ideas and imagination|
+|**talkative**|talks a lot|
+|**active**|full of activity, always doing something|
+|**attractive**|nice to look at, pleasing in appearance|
+
+
+### 学习内容
+
+- 回顾上节课的主题 Less is More, 通过文本，说说自己对这个生活方式的理解
+- 学习后缀的使用和意义
+- **How can we live without money?**
+	- 探讨金钱的重要性
+	- 钱可以买到什么
+	- 钱不能买到什么
+		- <mark>大家都提到了 health, time, life, feeling …</mark>
+	- 想象生活在一个没有钱的世界里会怎么样
+		- <mark>Lucas说大家都会变成robber抢东西😅</mark>
+- 阅读文本了解**Swapshop App（以物易物的应用程序）**
+	- 说说其优缺点是什么
+- 复习可数和不可数名词的表达以及quantifier的使用
+- 学习关于未来的表达，区分 will/won’t 和 be going to 的区别
+	- <mark>Jason 对该语法的语感很好，很快就掌握其微妙的差异和用法</mark>
+
 ## 2025-05-26
 
 ### 学习资料和学习任务
