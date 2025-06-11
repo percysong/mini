@@ -58,167 +58,80 @@ updated: 2025-06-11
 ### **Spring**
 
 - **Boötes**, the Ice Cream Cone
-    
     - **Pronunciation**: boh-OH-teez
-        
     - **Chinese**: 牧夫座
-        
-    
 - **Ursa Major**, the Big Bear
-    
     - **Pronunciation**: UR-suh MAY-jer
-        
     - **Chinese**: 大熊座
-        
-    
 - **Leo**, the Lion
-    
     - **Pronunciation**: LEE-oh
-        
     - **Chinese**: 狮子座
-        
-    
 - **Virgo**, the Maiden
-    
     - **Pronunciation**: VER-goh
-        
     - **Chinese**: 室女座
-        
-    
 - **Coma Berenices**, the Hair
-    
     - **Pronunciation**: KOH-muh beh-ruh-NYE-seez
-        
     - **Chinese**: 后发座
 
 ### **Summer**
 
 - **Scorpius**, the Scorpion
-    
     - **Pronunciation**: SKOR-pee-us
-        
     - **Chinese**: 天蝎座
-        
-    
 - **Sagittarius**, the Archer
-    
     - **Pronunciation**: saj-ih-TAIR-ee-us
-        
     - **Chinese**: 射手座
-        
-    
 - **Lyra**, the Harp
-    
-    - **Pronunciation**: LIE-ruh
-        
-    - **Chinese**: 天琴座
-        
-    
+    - **Pronunciation**: LIE-ruh 
+    - **Chinese**: 天琴座      
 - **Hercules**, the Strongman
-    
-    - **Pronunciation**: HER-kyuh-leez
-        
-    - **Chinese**: 武仙座
-        
-    
+    - **Pronunciation**: HER-kyuh-leez    
+    - **Chinese**: 武仙座     
 - **Cygnus**, the Swan
-    
-    - **Pronunciation**: SIG-nus
-        
+    - **Pronunciation**: SIG-nus    
     - **Chinese**: 天鹅座
-        
-    
 - **Aquila**, the Eagle
-    
     - **Pronunciation**: AH-kwih-luh
-        
     - **Chinese**: 天鹰座
-        
 
 ### **Fall**
 
 - **Pegasus**, the Flying Horse
-    
-    - **Pronunciation**: PEG-uh-sus
-        
-    - **Chinese**: 飞马座
-        
-    
+    - **Pronunciation**: PEG-uh-sus    
+    - **Chinese**: 飞马座    
 - **Andromeda**, the Princess
-    
     - **Pronunciation**: an-DRAW-muh-duh
-        
-    - **Chinese**: 仙女座
-        
-    
-- **Pisces**, the Fish
-    
-    - **Pronunciation**: PIE-seez
-        
-    - **Chinese**: 双鱼座
-        
-    
-- **Cetus**, the Sea Monster
-    
-    - **Pronunciation**: SEE-tus
-        
-    - **Chinese**: 鲸鱼座
-        
-    
+    - **Chinese**: 仙女座        
+- **Pisces**, the Fish    
+    - **Pronunciation**: PIE-seez        
+    - **Chinese**: 双鱼座            
+- **Cetus**, the Sea Monster    
+    - **Pronunciation**: SEE-tus        
+    - **Chinese**: 鲸鱼座        
 - **Aquarius**, the Water Carrier
-    
     - **Pronunciation**: uh-KWAIR-ee-us
-        
     - **Chinese**: 宝瓶座
 
 ### **Winter**
 
-- **Orion**, the Hunter
-    
-    - **Pronunciation**: oh-RYE-un
-        
-    - **Chinese**: 猎户座
-        
-    
-- **Taurus**, the Bull
-    
-    - **Pronunciation**: TOR-us
-        
-    - **Chinese**: 金牛座
-        
-    
-- **Gemini**, the Twins
-    
-    - **Pronunciation**: JEM-uh-nye
-        
-    - **Chinese**: 双子座
-        
-    
-- **Canis Major**, the Big Dog
-    
-    - **Pronunciation**: KAY-nis MAY-jer
-        
-    - **Chinese**: 大犬座
-        
-    
-- **Canis Minor**, the Little Dog
-    
-    - **Pronunciation**: KAY-nis MY-ner
-        
-    - **Chinese**: 小犬座
-        
-    
+- **Orion**, the Hunter    
+    - **Pronunciation**: oh-RYE-un        
+    - **Chinese**: 猎户座            
+- **Taurus**, the Bull    
+    - **Pronunciation**: TOR-us        
+    - **Chinese**: 金牛座            
+- **Gemini**, the Twins    
+    - **Pronunciation**: JEM-uh-nye        
+    - **Chinese**: 双子座            
+- **Canis Major**, the Big Dog    
+    - **Pronunciation**: KAY-nis MAY-jer        
+    - **Chinese**: 大犬座            
+- **Canis Minor**, the Little Dog    
+    - **Pronunciation**: KAY-nis MY-ner        
+    - **Chinese**: 小犬座        
 - **Auriga**, the Charioteer
-    
     - **Pronunciation**: aw-RYE-guh
-        
     - **Chinese**: 御夫座
-        
-    
-
----
-
-Let me know if you’d like a printable or illustrated version for students!
 
 ### 学习内容
 
