@@ -1,7 +1,7 @@
 ---
 title: 牛津探索周二班
 created: 2024-10-19
-updated: 2025-06-10
+updated: 2025-06-11
 ---
 
 ## D14, 2025-06-10
@@ -16,10 +16,10 @@ updated: 2025-06-10
 	- south
 	- west
 - The sun **rises** in the east and **sets** in the west.
-	- rise  *v.*
-	- set  *v.*
-	- sunrise  *n.*
-	- sunset  *n.*
+	- rise *v.*
+	- set *v.*
+	- sunrise *n.*
+	- sunset *n.*
 - **throughout**: from the beginning to end of something
 	- The constellation changes throughout the year
 - constellation
@@ -33,10 +33,16 @@ updated: 2025-06-10
 
 #### 视频扩展
 
-Watch the video *Why do places have different times?*
+- 观看视频，回顾著名星座的英文命名
 
 <video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/why-do-places-have-different-times-mystery-science.mp4" type="video/mp4">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/constellations-connect-the-dots-in-the-sky.mp4" type="video/mp4">
+</video>
+
+- 观看视频，回顾为什么不同季节会看到星座
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/let-s-look-at-constellations-how-we-study-space-sci-show-kids.mp4" type="video/mp4">
 </video>
 
 #### 阅读任务
@@ -85,7 +91,6 @@ Watch the video *Why do places have different times?*
         
     - **Chinese**: 后发座
 
-
 ### **Summer**
 
 - **Scorpius**, the Scorpion
@@ -130,7 +135,6 @@ Watch the video *Why do places have different times?*
     - **Chinese**: 天鹰座
         
 
-
 ### **Fall**
 
 - **Pegasus**, the Flying Horse
@@ -166,8 +170,6 @@ Watch the video *Why do places have different times?*
     - **Pronunciation**: uh-KWAIR-ee-us
         
     - **Chinese**: 宝瓶座
-
-
 
 ### **Winter**
 
