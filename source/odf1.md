@@ -1,7 +1,7 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2025-05-27
+updated: 2025-06-10
 ---
 
 ## 2025-06-09
@@ -13,6 +13,7 @@ updated: 2025-05-27
 - 回顾 suffixes 构成形容词的方式
 
 #### **1. -ful**
+
   
 **Meaning**: _full of_ or _having a lot of something_
 
@@ -82,7 +83,6 @@ Often added to **verbs** to form **adjectives** that describe behavior or charac
 |**talkative**|talks a lot|
 |**active**|full of activity, always doing something|
 |**attractive**|nice to look at, pleasing in appearance|
-
 
 ### 学习内容
 

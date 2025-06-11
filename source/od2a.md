@@ -1,8 +1,235 @@
 ---
 title: 牛津探索周二班
 created: 2024-10-19
-updated: 2025-05-28
+updated: 2025-06-10
 ---
+
+## D14, 2025-06-10
+
+#### 词汇
+
+复习本节课学习的扩展词汇：
+
+- Four **directions**
+	- north
+	- east
+	- south
+	- west
+- The sun **rises** in the east and **sets** in the west.
+	- rise  *v.*
+	- set  *v.*
+	- sunrise  *n.*
+	- sunset  *n.*
+- **throughout**: from the beginning to end of something
+	- The constellation changes throughout the year
+- constellation
+	- a group of stars in the night sky that form a pattern
+- rotate
+	- to spin or turn around a central point, like the Earth around its axis
+- orbit (resolve)
+	- to circle another object, like the Earth around the Sun
+- solid line ────
+- dotted line – · – · – · –
+
+#### 视频扩展
+
+Watch the video *Why do places have different times?*
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/why-do-places-have-different-times-mystery-science.mp4" type="video/mp4">
+</video>
+
+#### 阅读任务
+
+- 扩展阅读文本两篇
+	- *How Does a Leaf Know When to Change its Color?*
+	- *What Do A.M. and PM. Mean?*
+
+#### 复习任务
+
+使用自己制作的*Universe In a Box* 「盒子中的宇宙」模型并运用来观察不同季节的星象，对照星座表，认识不同季节的星座。
+
+### **Spring**
+
+- **Boötes**, the Ice Cream Cone
+    
+    - **Pronunciation**: boh-OH-teez
+        
+    - **Chinese**: 牧夫座
+        
+    
+- **Ursa Major**, the Big Bear
+    
+    - **Pronunciation**: UR-suh MAY-jer
+        
+    - **Chinese**: 大熊座
+        
+    
+- **Leo**, the Lion
+    
+    - **Pronunciation**: LEE-oh
+        
+    - **Chinese**: 狮子座
+        
+    
+- **Virgo**, the Maiden
+    
+    - **Pronunciation**: VER-goh
+        
+    - **Chinese**: 室女座
+        
+    
+- **Coma Berenices**, the Hair
+    
+    - **Pronunciation**: KOH-muh beh-ruh-NYE-seez
+        
+    - **Chinese**: 后发座
+
+
+### **Summer**
+
+- **Scorpius**, the Scorpion
+    
+    - **Pronunciation**: SKOR-pee-us
+        
+    - **Chinese**: 天蝎座
+        
+    
+- **Sagittarius**, the Archer
+    
+    - **Pronunciation**: saj-ih-TAIR-ee-us
+        
+    - **Chinese**: 射手座
+        
+    
+- **Lyra**, the Harp
+    
+    - **Pronunciation**: LIE-ruh
+        
+    - **Chinese**: 天琴座
+        
+    
+- **Hercules**, the Strongman
+    
+    - **Pronunciation**: HER-kyuh-leez
+        
+    - **Chinese**: 武仙座
+        
+    
+- **Cygnus**, the Swan
+    
+    - **Pronunciation**: SIG-nus
+        
+    - **Chinese**: 天鹅座
+        
+    
+- **Aquila**, the Eagle
+    
+    - **Pronunciation**: AH-kwih-luh
+        
+    - **Chinese**: 天鹰座
+        
+
+
+### **Fall**
+
+- **Pegasus**, the Flying Horse
+    
+    - **Pronunciation**: PEG-uh-sus
+        
+    - **Chinese**: 飞马座
+        
+    
+- **Andromeda**, the Princess
+    
+    - **Pronunciation**: an-DRAW-muh-duh
+        
+    - **Chinese**: 仙女座
+        
+    
+- **Pisces**, the Fish
+    
+    - **Pronunciation**: PIE-seez
+        
+    - **Chinese**: 双鱼座
+        
+    
+- **Cetus**, the Sea Monster
+    
+    - **Pronunciation**: SEE-tus
+        
+    - **Chinese**: 鲸鱼座
+        
+    
+- **Aquarius**, the Water Carrier
+    
+    - **Pronunciation**: uh-KWAIR-ee-us
+        
+    - **Chinese**: 宝瓶座
+
+
+
+### **Winter**
+
+- **Orion**, the Hunter
+    
+    - **Pronunciation**: oh-RYE-un
+        
+    - **Chinese**: 猎户座
+        
+    
+- **Taurus**, the Bull
+    
+    - **Pronunciation**: TOR-us
+        
+    - **Chinese**: 金牛座
+        
+    
+- **Gemini**, the Twins
+    
+    - **Pronunciation**: JEM-uh-nye
+        
+    - **Chinese**: 双子座
+        
+    
+- **Canis Major**, the Big Dog
+    
+    - **Pronunciation**: KAY-nis MAY-jer
+        
+    - **Chinese**: 大犬座
+        
+    
+- **Canis Minor**, the Little Dog
+    
+    - **Pronunciation**: KAY-nis MY-ner
+        
+    - **Chinese**: 小犬座
+        
+    
+- **Auriga**, the Charioteer
+    
+    - **Pronunciation**: aw-RYE-guh
+        
+    - **Chinese**: 御夫座
+        
+    
+
+---
+
+Let me know if you’d like a printable or illustrated version for students!
+
+### 学习内容
+
+- Wordle 猜词游戏热身
+- 复习了地球产生白天 daytime 和黑夜 nighttime 的原因，回顾地球自转的表达
+- *How can the Sun tell you the season?* 判断不同季节太阳的轨迹
+- 通过单元问题引入今天的探究：*Why do the stars change with the seasons?* **为什么星星随着季节而改变？** 进入地球公转的学习。
+	- 认识星座 *Constellation* 的概念，以及不同季节的著名星座及旁边的星云 *nebula*
+	- 探究为什么冬天看到的猎户座 *Orion* 在夏天会消失
+	- 通过季节星象图，认识不同季节的不同星座及其英文名称
+	- 看不同的夜空图片，找到相应的星座及季节
+	- 回顾视频，进一步了解产生这一现象的原因
+	- 制作 *Universe In a Box* 「盒子中的宇宙」模型并运用来观察不同季节的星象
 
 ## D13, 2025-05-27
 
