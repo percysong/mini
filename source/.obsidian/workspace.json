@@ -6,6 +6,7 @@
       {
         "id": "456a9cabb1a7b876",
         "type": "tabs",
+        "dimension": 51.70499603489295,
         "children": [
           {
             "id": "0b137a6d851c8a70",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bendai.md",
+                "file": "beginner-japanese-5.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bendai"
+              "title": "beginner-japanese-5"
             }
           }
         ]
@@ -36,6 +37,7 @@
       {
         "id": "bca6343ba7ef9f68",
         "type": "tabs",
+        "dimension": 48.29500396510706,
         "children": [
           {
             "id": "33532db6779c3584",
@@ -43,8 +45,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "od2a.md",
-                "mode": "source",
+                "file": "beginner-japanese-6.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -58,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "od2a"
+              "title": "beginner-japanese-6"
             }
           }
         ]
@@ -143,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2a.md",
+                "file": "beginner-japanese-6.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2a"
+              "title": "Outline of beginner-japanese-6"
             }
           },
           {
@@ -243,17 +245,18 @@
   },
   "active": "33532db6779c3584",
   "lastOpenFiles": [
-    "bendai.md",
-    "od2a.md",
-    "odf1.md",
     "beginner-japanese-5.md",
+    "beginner-japanese-6.md",
+    "beginner-japanese.md",
+    "od2a.md",
+    "bendai.md",
+    "od2b.md",
+    "odf1.md",
     "gal-gao-2025.md",
     "beginner-japanese-4.md",
-    "beginner-japanese.md",
     "annaxiang-2025.md",
     "dannychen-2025.md",
     "od2c.md",
-    "od2b.md",
     "zhuxuanyu.md",
     "od1a.md",
     "beginner-japanese-3.md",
@@ -261,7 +264,6 @@
     "leoyao.md",
     "beginner-japanese-1.md",
     "wuzimo.md",
-    "beginner-japanese-6.md",
     "beginner-japanese-7.md",
     "beginner-japanese-9.md",
     "beginner-japanese-10.md",
