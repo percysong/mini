@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cv-percy.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cv-percy"
+              "title": "index"
             }
           }
         ],
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cv-percy.md",
+                "file": "about/index.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cv-percy"
+              "title": "Outline of index"
             }
           },
           {
@@ -238,9 +238,16 @@
   },
   "active": "d1564c2d5836c265",
   "lastOpenFiles": [
-    "bendai.md",
-    "beginner-japanese-6.md",
     "cv-percy.md",
+    "_posts/how-to-use-dictionaries.md",
+    "_posts/home.md",
+    "_posts/what-does-AI-mean-for-future-education.md",
+    "english-course.md",
+    "math.md",
+    "chinese.md",
+    "calligraphy.md",
+    "beginner-japanese-6.md",
+    "bendai.md",
     "beginner-japanese-5.md",
     "beginner-japanese.md",
     "od2a.md",
@@ -257,13 +264,6 @@
     "beginner-japanese-2.md",
     "leoyao.md",
     "beginner-japanese-1.md",
-    "wuzimo.md",
-    "beginner-japanese-7.md",
-    "beginner-japanese-9.md",
-    "beginner-japanese-10.md",
-    "beginner-japanese-11.md",
-    "beginner-japanese-8.md",
-    "ms-li.md",
     "Attachments/brainpop-jr-mammals.mp4",
     "Attachments/brainpop-jr-insects.mp4",
     "Attachments/brainpop-jr-fish.mp4",

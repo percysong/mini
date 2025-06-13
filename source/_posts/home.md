@@ -2,6 +2,8 @@
 title: 小象教育
 date: 2024-01-01
 sticky: 100
+created: 2025-06-13
+updated: 2025-06-13
 ---
 
 <img src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/05/27/college-project-animate.svg" width="100%">

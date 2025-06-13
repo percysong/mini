@@ -27,4 +27,4 @@ menu: yes
 ## 联系方式
 
 - 电子邮件：hi@minielephant.net
-- 微信号：miniElephantPercy
+- 微信号：minisssimon
