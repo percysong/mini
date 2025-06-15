@@ -2,6 +2,8 @@
 title: 关于
 link: about
 menu: yes
+created: 2025-06-13
+updated: 2025-06-13
 ---
 
 我们是不断进行自我重塑和自我改造的终身学习者，亦是在新科技和新媒介的浸淫下成长的探索者。关注于前沿的教育研究，教育相关的工具和媒体的选荐（[curation](https://www.merriam-webster.com/dictionary/curation)）和评论，以及电子信息技术在教育领域的应用。为您提供更少但更好的课程。面向家长、教师和每一位终身学习者。

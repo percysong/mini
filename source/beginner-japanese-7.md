@@ -1,7 +1,7 @@
 ---
 menu: no
 modified: 2024-06-27T11:48:38
-updated: 2025-05-30
+updated: 2025-06-15
 created: 2024-06-29
 ---
 
@@ -10,27 +10,28 @@ created: 2024-06-29
 ## 学习任务
 
 - 复习任务
-	- 复习 Sweet Dinos な行的**学习**视频，跟读两遍；
-	- 复习 Sweet Dinos な行的**练习**视频，快速回答问题，检查自己的掌握情况；
+	- 复习 Sweet Dinos な・ナ行的**练习**视频，快速回答问题，检查自己的掌握情况；
 	- 复习常用日语在不同时间场合的问候方式，暂停跟读三遍，感受日语的节奏和发音；
 - 学习任务
 	- 观看 Sweet Dinos は行的**学习**视频，跟读三遍并书空熟悉字型；
 	- 观看は行汉字来源，找找假名与汉字发音和书写方式的共同之处；
 	- 在 [日语学习软件](https://minielephant.net/beginner-japanese/#apps) 中学习は行的平假名；
+	- 观看 Sweet Dinos ハ行片假名的**学习和练习**视频，找找部分片假名词汇对应的英文词汇；
+	- 观看ハ行汉字来源；
 	- 学习日语 1–10 数字歌，跟唱两遍，听听看跟中文的哪些数字发音相似；
 
 ### 今日复习
-
-- な行**学习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://youtu.be/Wewz9QDOYhw?si=3Mba5losDLnJALjg)
-
-<video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/06/29/learn-hiragana-alphabet-characters-lesson-5.mp4" type="video/mp4">
-</video>
 
 - な行**练习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://youtu.be/rridw9nIzlg?si=bqAniM1rDZmF6Ode)
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/07/01/learn-hiragana-alphabet-characters-practice-5.mp4">
+</video>
+
+- ナ行**学习和练习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗]()
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-katakana-japanese-alphabet-characters-lesson-4.mp4" type="video/mp4">
 </video>
 
 - 日语的各种问候方式 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://youtu.be/MblKNliC6uc)
@@ -56,7 +57,29 @@ created: 2024-06-29
 
 想一想：为什么在现代汉语中声母为 b 的汉字，到了日语假名中全部变成发 h 的音呢？（等学到浊音或许你就有答案了）。
 
+- ば行**学习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://www.youtube.com/watch?v=YVRw_QYBhlc)
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-hiragana-alphabet-characters-lesson-14.mp4" type="video/mp4">
+</video>
+
 ![平假名汉字来源](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/06/29/Hiragana_origin.svg)
+
+---
+
+- ハ行**学习和练习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://www.youtube.com/watch?v=HGUCWuW84oM)
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/let-s-learn-katakana-japanese-alphabet-characters-lesson-6.mp4" type="video/mp4">
+</video>
+
+- ハ行**汉字来源** by [Yahoo!映像トピックス公式チャンネル](https://www.youtube.com/@yahoo4559)｜[YouTube 链接🔗](https://www.youtube.com/watch?v=rf-n_qI2occ)
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/japanese-katakana-were-born-from-chinese-characters-ha.mp4" type="video/mp4">
+</video>
+
+---
 
 - 日语 1–10 数字歌 by [FunNihongo](https://www.youtube.com/@funnihongo9881)｜[YouTube 链接🔗](https://youtu.be/Jqglm3rZEnc?si=76RlUFUDjAIoIKW7)
 
