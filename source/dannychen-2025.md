@@ -1,8 +1,92 @@
 ---
 title: Danny 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-06-09
+updated: 2025-06-16
 ---
+
+## D17, 2025-06-15
+
+### 学习任务
+
+#### 牛津自然拼读 Blending Sounds
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频和一个拼读故事
+- 听一遍，跟读一遍
+{% endnote %}
+
+- *sm*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_03_sm.mp4" type="video/mp4">
+	</video>
+- *sn*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_03_sn.mp4" type="video/mp4">
+	</video>
+- *sp*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_03_sp.mp4" type="video/mp4">
+	</video>
+- *st*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_03_st.mp4" type="video/mp4">
+	</video>
+- *sw*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_03_sw.mp4" type="video/mp4">
+	</video>
+
+#### 拼读绘本操练
+
+复习新发的拼读绘本，听录音，暂停跟读。
+
+- *Seasons*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB4_Disc1_Track48.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_4_SB_Story-3.jpeg)
+
+#### 语法
+
+继续复习语法 Possessive Adjectives 形容词性物主代词，检查练习册的错误。
+
+Possessive Adjectives
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Oxford_Discover_L1_Unit_14_FINAL_OUP_CPT_eBook.mp4" type="video/mp4">
+</video>
+
+观看视频，完成视频中的练习（边看边选）：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/possessive-adjectives-quiz-my-his-her-its-your-our-their-quiz-ladla-education.mp4" type="video/mp4">
+</video>
+
+#### 动画复习
+
+复习 P144 动画，听录音，逐句暂停跟读，持续两天。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_2.46.mp3" type="audio/mp3">
+</audio>
+
+#### 练习册
+
+- 练习册 P125 Writing: 描写自己社区，说说它在哪里，周围有什么，你喜欢去其中哪里玩
+- 练习册 P126–P127
+- 书上 P145 Project: 借助 iPad 地图软件，和平时自己的了解，观察回忆自己社区周围都有什么，制作简单的剪贴画，标记出周围的地点。参考书上的例子，表达描述自己的社区。
+
+### 课堂学习内容
+
+- 继续学习自然拼读 Blending
+- 学习原版拼读绘本
+- 完成第 13 单元小测试，讲解测试问题
+- 复习本单元的词汇，完成拼词练习
+- 学习 P144 动画，回顾本单元的知识点和表达
+
+<mark>Danny对上个单元的知识点掌握得不错，前面基础部分只有一个抄写漏掉字母的粗心错误。后面阅读部分有两个地方没有看清细节，导致判断错误（题目有一定难度，需要很细心的阅读和判断）。</mark>
 
 ## D16, 2025-06-08
 
