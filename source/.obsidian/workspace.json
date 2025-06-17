@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "odf1.md",
+                "file": "od2a.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "odf1"
+              "title": "od2a"
             }
           }
         ]
@@ -113,12 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "od2a.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of od2a"
             }
           },
           {
@@ -197,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +213,7 @@
   },
   "active": "6ea3932adb3a3aae",
   "lastOpenFiles": [
+    "odf1.md",
     "Attachments/Pasted image 20250617160433.png",
     "dannychen-2025.md",
     "annaxiang-2025.md",
@@ -233,7 +234,6 @@
     "bendai.md",
     "od2a.md",
     "od2b.md",
-    "odf1.md",
     "beginner-japanese-4.md",
     "od2c.md",
     "zhuxuanyu.md",
@@ -257,7 +257,6 @@
     "embeds/college-project-animate.svg",
     "lib/pdf/web/images/treeitem-expanded@2x.png",
     "lib/pdf/web/images/treeitem-expanded.svg",
-    "lib/pdf/web/images/treeitem-expanded.png",
-    "lib/pdf/web/images/treeitem-collapsed@2x.png"
+    "lib/pdf/web/images/treeitem-expanded.png"
   ]
 }

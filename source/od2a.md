@@ -4,6 +4,67 @@ created: 2024-10-19
 updated: 2025-06-11
 ---
 
+## D15, 2025-06-17
+
+#### 歌曲
+
+复习 P73 歌曲，跟唱两遍，注意将来时态的使用
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.46.mp3" type="audio/mp3">
+</audio>
+
+#### 语法
+
+观看视频，学习如何使用 will 表示未来发生的事实
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_U7_Grammar.mp4" type="video/mp4">
+</video>
+
+#### 听力材料
+
+复习 P74 听力材料，注意温度和时间的表达。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L3_Student_Book_Audio_1.47.mp3" type="audio/mp3">
+</audio>
+
+**Key Vocabulary**
+
+- temperature
+	- high ~
+	- low ~
+- degree Celsius 摄氏度
+- degree Fahrenheit 华氏度
+- The sun **rises** in the east and **sets** in the west.
+	- rise *v.*
+	- set *v.*
+	- sunrise *n.*
+	- sunset *n.*
+
+**Ankara, Turkey**
+Good evening. Tomorrow is June 21st, the first day of summer and the longest day of the year. Here in Ankara, the sun will rise at 4:54 a.m., and it will set at 6:59 p.m. The weather tomorrow will be hot and sunny. The high temperature will be 34 degrees Celsius, and the low temperature will be 21.
+
+**Stockholm, Sweden**
+Good evening, and welcome to the weather for the Stockholm area. Tomorrow is June 21st, the first day of summer. Unfortunately it will rain most of the day tomorrow. The low temperature will be 10 degrees Celsius, but it will reach 20 degrees in the afternoon. The sun will rise at 3:31 a.m., and it will set at 10:08 p.m. 
+
+**Santiago, Chile**
+Good evening. Tomorrow is June 21st, the shortest day of the year. The sun will rise at 7:47 a.m., and it will set at 5:43 p.m. There will be clear skies, with a high temperature of 19 degrees Celsius and a low of 10 degrees. Enjoy your day!
+
+#### 书面作业
+
+- 练习册 P57-60
+
+### 学习内容
+
+- Wordle 猜词游戏热身
+- 回顾上节课的实验，说说为什么会在不同季节看到不同星座；
+- 回顾书上的科普文本，回顾 main idea 和 details
+- 完成课后练习
+- 学习语法，运用 will / won't 表示未来发生的事实
+- 完成听力练习，学习温度和时间的表达
+
 ## D14, 2025-06-10
 
 #### 词汇

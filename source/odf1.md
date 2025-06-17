@@ -1,7 +1,7 @@
 ---
 title: 未来探索班
 created: 2024-09-11
-updated: 2025-06-10
+updated: 2025-06-17
 ---
 
 ## 2025-06-16
@@ -19,7 +19,7 @@ updated: 2025-06-10
 
 - 通过 Bunia Island Trading Game 交易策略游戏，回顾分别使用 be going to 来做 plan, 以及使用 will/won’t 来预测；
 - 新学习的词汇表达：
-	- offer  *n.* 
+	- offer *n.* 
 		- You make an _offer_ when you present your willingness to do something. People selling a house wait for the best _offer_.
 	- **make an offer**
 	- **agree to / accept an offer**
