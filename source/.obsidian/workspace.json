@@ -11,10 +11,24 @@
             "id": "6ea3932adb3a3aae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "odf1.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "odf1"
             }
           }
         ]
@@ -199,6 +213,7 @@
   },
   "active": "6ea3932adb3a3aae",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250617160433.png",
     "dannychen-2025.md",
     "annaxiang-2025.md",
     "gal-gao-2025.md",
@@ -224,7 +239,6 @@
     "zhuxuanyu.md",
     "od1a.md",
     "beginner-japanese-3.md",
-    "beginner-japanese-2.md",
     "Attachments/brainpop-jr-mammals.mp4",
     "Attachments/brainpop-jr-insects.mp4",
     "Attachments/brainpop-jr-fish.mp4",

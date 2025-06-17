@@ -4,6 +4,56 @@ created: 2024-09-11
 updated: 2025-06-10
 ---
 
+## 2025-06-16
+
+### 学习资料和学习任务
+
+- Workbook P58 Vocabulary and Grammar;
+- Workbook P59 Listening;
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/ODF_WB1_6.01.mp3" type="audio/mp3">
+</audio>
+
+### 学习内容
+
+- 通过 Bunia Island Trading Game 交易策略游戏，回顾分别使用 be going to 来做 plan, 以及使用 will/won’t 来预测；
+- 新学习的词汇表达：
+	- offer  *n.* 
+		- You make an _offer_ when you present your willingness to do something. People selling a house wait for the best _offer_.
+	- **make an offer**
+	- **agree to / accept an offer**
+	- **decline / refuse / reject an offer**
+- 讨论货币的由来，为什么人类会创造货币，最早的货币是什么；
+
+🧠 生活技能重点：创造性思维（Creative Thinking）
+	•	策略：在短时间内尽量想出不同的点子。
+	•	前几项可能很普通，后面的可能会更有创意。
+	•	一开始最好自己思考，之后再与他人分享和讨论。
+
+🎧 听力策略：听关键信息（Listening for Specific Information）
+	•	听的时候要专注于关键词或具体信息（如时间、地点、操作步骤等）。
+	•	不需要注意无关信息（irrelevant information）。
+
+🛠️ 实践活动：废物利用创意区（The Waste-free Zone）
+
+完成听力，学习如何重复利用废弃物来制作新的物品，例如：
+	•	烛台和花瓶
+	•	喂鸟器
+	•	用瓶盖制作的棋盘游戏
+
+常用材料词汇包括：瓶盖、木板、彩纸、胶水、剪刀、喷漆、绳子等。
+注意两个新词汇：
+- bottle tops
+- spray paint
+
+🗣️ 讨论与口语表达：
+	•	分享各自的创意想法（如用旧物做新物）。
+	•	练习使用关键表达句型，例如：
+		•	One idea is to…
+		•	How about recycling…?
+		•	Any more ideas?
+
 ## 2025-06-09
 
 ### 学习资料和学习任务
