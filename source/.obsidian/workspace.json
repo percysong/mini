@@ -60,8 +60,33 @@
               "icon": "lucide-file",
               "title": "beginner-japanese-8"
             }
+          },
+          {
+            "id": "9f13ea90a022dcee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "beginner-japanese.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "beginner-japanese"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beginner-japanese-8.md",
+                "file": "beginner-japanese.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of beginner-japanese-8"
+              "title": "Outline of beginner-japanese"
             }
           },
           {
@@ -240,11 +265,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b41fce4cb2d18f85",
+  "active": "9f13ea90a022dcee",
   "lastOpenFiles": [
+    "beginner-japanese-8.md",
     "beginner-japanese-6.md",
     "beginner-japanese-7.md",
-    "beginner-japanese-8.md",
     "beginner-japanese-8-1.md",
     "beginner-japanese.md",
     "od2a.md",

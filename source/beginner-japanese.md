@@ -17,8 +17,8 @@ updated: 2025-06-18
 | [第４課](https://minielephant.net/beginner-japanese-4)| さ・サ行假名学习、常用日语 |
 | [第５課](https://minielephant.net/beginner-japanese-5)| た・タ行假名学习、常用日语 |
 | [第６課](https://minielephant.net/beginner-japanese-6)| な・ナ行假名学习、常用日语 |
-| [第７課](https://minielephant.net/beginner-japanese-7)| は・ハ行假名学习、常用日语 |
-| [第８課](https://minielephant.net/beginner-japanese-8)| は・ハ行假名学习、常用日语 |
+| [第７課](https://minielephant.net/beginner-japanese-7)| は・ハ行假名学习、日语数字 |
+| [第８課](https://minielephant.net/beginner-japanese-8)| ぱ行假名学习、数字及常用日语 |
 
 ## 为什么学习日语
 
