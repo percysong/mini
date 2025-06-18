@@ -1,7 +1,7 @@
 ---
 title: 牛津探索周二班
 created: 2024-10-19
-updated: 2025-06-11
+updated: 2025-06-18
 ---
 
 ## D15, 2025-06-17
@@ -62,7 +62,7 @@ Good evening. Tomorrow is June 21st, the shortest day of the year. The sun will 
 - 回顾上节课的实验，说说为什么会在不同季节看到不同星座；
 - 回顾书上的科普文本，回顾 main idea 和 details
 - 完成课后练习
-- 学习语法，运用 will / won't 表示未来发生的事实
+- 学习语法，运用 will / won’t 表示未来发生的事实
 - 完成听力练习，学习温度和时间的表达
 
 ## D14, 2025-06-10

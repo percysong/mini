@@ -1,7 +1,7 @@
 ---
 menu: no
 modified: 2024-06-27T11:48:38
-updated: 2025-06-15
+updated: 2025-06-18
 created: 2024-06-29
 ---
 
@@ -31,7 +31,7 @@ created: 2024-06-29
 - ナ行**学习和练习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗]()
 
 <video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-katakana-japanese-alphabet-characters-lesson-4.mp4" type="video/mp4">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-katakana-japanese-alphabet-characters-lesson-5.mp4" type="video/mp4">
 </video>
 
 - 日语的各种问候方式 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://youtu.be/MblKNliC6uc)
@@ -70,7 +70,7 @@ created: 2024-06-29
 - ハ行**学习和练习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://www.youtube.com/watch?v=HGUCWuW84oM)
 
 <video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/let-s-learn-katakana-japanese-alphabet-characters-lesson-6.mp4" type="video/mp4">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-katakana-japanese-alphabet-characters-lesson-6.mp4" type="video/mp4">
 </video>
 
 - ハ行**汉字来源** by [Yahoo!映像トピックス公式チャンネル](https://www.youtube.com/@yahoo4559)｜[YouTube 链接🔗](https://www.youtube.com/watch?v=rf-n_qI2occ)
