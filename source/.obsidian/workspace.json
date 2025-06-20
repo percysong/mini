@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0f20860457c208b0",
+        "id": "a8660fbf63c13617",
         "type": "tabs",
         "children": [
           {
-            "id": "6ea3932adb3a3aae",
+            "id": "b41fce4cb2d18f85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leoyao.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "leoyao"
+            }
+          },
+          {
+            "id": "9f13ea90a022dcee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,61 +56,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "a8660fbf63c13617",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b41fce4cb2d18f85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "beginner-japanese-8.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "beginner-japanese-8"
-            }
-          },
-          {
-            "id": "9f13ea90a022dcee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "beginner-japanese.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "beginner-japanese"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beginner-japanese.md",
+                "file": "leoyao.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of beginner-japanese"
+              "title": "Outline of leoyao"
             }
           },
           {
@@ -265,13 +234,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f13ea90a022dcee",
+  "active": "b41fce4cb2d18f85",
   "lastOpenFiles": [
     "beginner-japanese-8.md",
-    "beginner-japanese-6.md",
     "beginner-japanese-7.md",
-    "beginner-japanese-8-1.md",
     "beginner-japanese.md",
+    "beginner-japanese-6.md",
+    "beginner-japanese-8-1.md",
     "od2a.md",
     "odf1.md",
     "Attachments/Pasted image 20250617160433.png",
