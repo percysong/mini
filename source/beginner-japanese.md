@@ -4,7 +4,7 @@ menu: no
 link: beginner-japanese
 created: 2024-06-21
 modified: 2024-03-26T03:48:12
-updated: 2025-06-18
+updated: 2025-06-21
 ---
 
 ## 每日学习任务
@@ -19,6 +19,7 @@ updated: 2025-06-18
 | [第６課](https://minielephant.net/beginner-japanese-6)| な・ナ行假名学习、常用日语 |
 | [第７課](https://minielephant.net/beginner-japanese-7)| は・ハ行假名学习、日语数字 |
 | [第８課](https://minielephant.net/beginner-japanese-8)| ぱ行假名学习、数字及常用日语 |
+| [第９課](https://minielephant.net/beginner-japanese-9)| ま・マ行假名学习、常用日语 |
 
 ## 为什么学习日语
 

@@ -1,7 +1,7 @@
 ---
 menu: no
 modified: 2024-06-27T11:48:38
-updated: 2025-06-18
+updated: 2025-06-21
 created: 2024-06-29
 ---
 
@@ -15,7 +15,7 @@ created: 2024-06-29
 - 学习任务
 	- 观看 Sweet Dinos は行的**学习**视频，跟读三遍并书空熟悉字型；
 	- 观看は行汉字来源，找找假名与汉字发音和书写方式的共同之处；
-	- 在 [日语学习软件](https://minielephant.net/beginner-japanese/#apps) 中学习は行的平假名；
+	- 在 [日语学习软件](https://minielephant.net/beginner-japanese#学习软件) 中学习は行的平假名；
 	- 观看 Sweet Dinos ハ行片假名的**学习和练习**视频，找找部分片假名词汇对应的英文词汇；
 	- 观看ハ行汉字来源；
 	- 学习日语 1–10 数字歌，跟唱两遍，听听看跟中文的哪些数字发音相似；
@@ -28,7 +28,7 @@ created: 2024-06-29
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/07/01/learn-hiragana-alphabet-characters-practice-5.mp4">
 </video>
 
-- ナ行**学习和练习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗]()
+- ナ行**学习和练习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://www.youtube.com/watch?v=HGUCWuW84oM)
 
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-katakana-japanese-alphabet-characters-lesson-5.mp4" type="video/mp4">

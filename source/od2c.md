@@ -1,8 +1,76 @@
 ---
 title: 牛津探索周五班
 created: 2024-10-19
-updated: 2025-06-07
+updated: 2025-06-21
 ---
+
+## D11, 2025-06-20
+
+### 课堂回顾
+
+- 回顾故事的阅读策略 BME，并用自己的话来复述小红帽的 BME
+- 学习故事 *Bandar the Greedy Monkey*, 解决生词，完成练习
+- 学习/复习语法：一般过去时态的提问
+- 口头操练（<mark>在练习的时候大家对过去式的使用更有意识</mark>）
+- 复习身体部位，完成绕口令的听力练习
+- 学习Contraction
+- 练习册改错
+
+### 学习资料和学习任务
+
+#### Reading
+
+复习 P78-79 文本，跟读两遍，注意不规则动词过去式的使用。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.03.mp3" type="audio/mp3">
+</audio>
+
+#### Song
+
+复习P81–D歌曲，跟唱两遍
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.04.mp3" type="audio/mp3">
+</audio>
+
+#### Grammar
+
+复习 Simple Past Irregular Verbs 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_U7_Mixed_Final.mp4" type="video/mp4">
+</video>
+
+以及 Simple Past Irregular Verbs Questions 视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_U8_Mixed_Final.mp4" type="video/mp4">
+</video>
+
+#### Word Study
+
+复习 Contraction 缩写的构成
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-contractions.mp4" type="video/mp4">
+</video>
+
+#### 动画复习
+
+自主学习 P84 动画，听录音跟读两遍，注意过去时态的使用。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.09.mp3" type="audio/mp3">
+</audio>
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_04_Story4.mp4" type="video/mp4">
+</video>
+
+#### Workbook
+
+- Workbook P66–71
 
 ## D10, 2025-06-06
 

@@ -1,7 +1,7 @@
 ---
 menu: no
 modified: 2024-06-27T11:48:38
-updated: 2025-06-18
+updated: 2025-06-21
 created: 2024-07-03
 ---
 
@@ -56,7 +56,7 @@ created: 2024-07-03
 - ぱ行**学习**视频 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://www.youtube.com/watch?v=3DAbFkCL4_o)
 
 <video width="100%" height="auto" controls>
-  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/07/03/learn-hiragana-alphabet-characters-practice-6.mp4">
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/learn-hiragana-alphabet-characters-lesson-15.mp4">
 </video>
 
 - 日语 11–20 一起数数 by [Sweet Dinos](https://www.youtube.com/@SweetDinos/videos)｜[YouTube 链接🔗](https://www.youtube.com/watch?v=iNW0MYUYLPY)
