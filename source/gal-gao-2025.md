@@ -4,6 +4,80 @@ created: 2024-09-11
 updated: 2025-06-16
 ---
 
+## D5, 2025-06-22
+
+### 学习任务
+
+#### 牛津自然拼读 Blending Sounds
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频和一个拼读故事
+- 听一遍，跟读一遍
+{% endnote %}
+
+- *sh*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_04_sh.mp4" type="video/mp4">
+	</video>
+- *ch*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_04_ch.mp4" type="video/mp4">
+	</video>
+- *tch*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_04_tch.mp4" type="video/mp4">
+	</video>
+- *ph*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_04_ph.mp4" type="video/mp4">
+	</video>
+- *wh*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_04_wh.mp4" type="video/mp4">
+	</video>
+
+#### 拼读绘本操练
+
+复习拼读绘本，听录音，暂停跟读。
+
+- *Dolphin Bay*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB4_Disc1_Track64.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_4_SB_Story-4.jpeg)
+
+#### 复习歌曲
+
+Apple Round, Apple Red
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/apple-round-apple-red-nursery-rhymes-kids-songs-baby-tiger.mp4" type="video/mp4">
+</video>
+
+London Bridge is Falling Down
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/london-bridge-is-falling-down-mother-goose-club-rhymes-for-kids.mp4" type="video/mp4">
+</video>
+
+#### 练习册
+
+- 练习册 P128-129
+
+### 课堂学习内容
+
+- 继续学习自然拼读 Blending
+- 学习原版拼读绘本 *Dolphin Bay*
+- 完成第 14 单元小测试
+- 学习歌曲 *London Bridge is Falling Down, Apple Round Apple Red*
+- 引入第15单元，*How Can We Make Music*
+- 认识不同的乐器，说说自己会演奏的乐器：*I can play the (piano).*
+- 聆听不同乐器的声音，完成判断乐器的小游戏。
+
+<mark>Gal 拼读掌握得不错，已经可以很流利地拼出绘本。注意更多模仿句子的语调。新的学习资料已经发下来。记得完成之前的学习资料和练习哟。</mark>
+
 ## D4, 2025-06-15
 
 ### 学习任务

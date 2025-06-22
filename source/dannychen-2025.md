@@ -1,8 +1,82 @@
 ---
 title: Danny 2025 春季学期学习档案
 created: 2024-09-11
-updated: 2025-06-16
+updated: 2025-06-22
 ---
+
+## D18, 2025-06-22
+
+### 学习任务
+
+#### 牛津自然拼读 Blending Sounds
+
+{% note info %}
+学习小贴士：
+- 每天复习两个视频和一个拼读故事
+- 听一遍，跟读一遍
+{% endnote %}
+
+- *sh*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_04_sh.mp4" type="video/mp4">
+	</video>
+- *ch*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_04_ch.mp4" type="video/mp4">
+	</video>
+- *tch*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_04_tch.mp4" type="video/mp4">
+	</video>
+- *ph*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_04_ph.mp4" type="video/mp4">
+	</video>
+- *wh*
+	<video width="100%" height="auto" controls>
+	  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/U_04_wh.mp4" type="video/mp4">
+	</video>
+
+#### 拼读绘本操练
+
+复习拼读绘本，听录音，暂停跟读。
+
+- *Dolphin Bay*
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_SB4_Disc1_Track64.mp3" type="audio/mp3">
+</audio>
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OPW_4_SB_Story-4.jpeg)
+
+#### 复习歌曲
+
+Apple Round, Apple Red
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/apple-round-apple-red-nursery-rhymes-kids-songs-baby-tiger.mp4" type="video/mp4">
+</video>
+
+London Bridge is Falling Down
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/london-bridge-is-falling-down-mother-goose-club-rhymes-for-kids.mp4" type="video/mp4">
+</video>
+
+#### 练习册
+
+- 练习册 P128-129
+
+### 课堂学习内容
+
+- 继续学习自然拼读 Blending
+- 学习原版拼读绘本 *Dolphin Bay*
+- 完成第 14 单元小测试
+- 学习歌曲 *London Bridge is Falling Down, Apple Round Apple Red*
+- 引入第15单元，*How Can We Make Music*
+- 认识不同的乐器，说说自己会演奏的乐器：*I can play the (piano).*
+- 聆听不同乐器的声音，完成判断乐器的小游戏。
+
+<mark>Danny本次测试有两个小错误（第一题图片比较简单可能没有辨认清楚，词汇的掌握应该是没问题的），对人称代词的使用基本能够分辨。阅读有一个句子（Brett wants to stay in the city.）没有联系对应的原文（He likes the movie theaters, but he misses his home in the country.）理解。</mark>
 
 ## D17, 2025-06-15
 
