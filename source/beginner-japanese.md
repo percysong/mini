@@ -20,7 +20,7 @@ updated: 2025-06-24
 | [第７課](https://minielephant.net/beginner-japanese-7)| は・ハ行假名学习、日语数字 |
 | [第８課](https://minielephant.net/beginner-japanese-8)| ぱ行假名学习、数字及常用日语 |
 | [第９課](https://minielephant.net/beginner-japanese-9)| ま・マ行假名学习、常用日语 |
-| [第10課](https://minielephant.net/beginner-japanese-10)| ま・マ行假名学习、常用日语 |
+| [第10課](https://minielephant.net/beginner-japanese-10)| や・ヤ行假名学习、常用日语 |
 
 ## 为什么学习日语
 
