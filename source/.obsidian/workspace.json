@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beginner-japanese-12.md",
-                "mode": "preview",
+                "file": "beginner-japanese.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "beginner-japanese-12"
+              "title": "beginner-japanese"
             }
           }
         ]
@@ -213,11 +213,11 @@
   },
   "active": "b6ccd39b979ecb7c",
   "lastOpenFiles": [
-    "beginner-japanese-11.md",
     "beginner-japanese-12.md",
-    "beginner-japanese-10.md",
-    "beginner-japanese-9.md",
     "beginner-japanese.md",
+    "beginner-japanese-10.md",
+    "beginner-japanese-11.md",
+    "beginner-japanese-9.md",
     "Attachments/U_04_wh.mp4",
     "dannychen-2025.md",
     "od2a.md",
