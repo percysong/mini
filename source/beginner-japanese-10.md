@@ -1,7 +1,7 @@
 ---
 menu: no
 modified: 2024-06-27T11:48:38
-updated: 2025-06-24
+updated: 2025-06-28
 created: 2024-07-03
 ---
 
@@ -17,7 +17,7 @@ created: 2024-07-03
 	- 观看や行汉字来源，找找假名与汉字发音和书写方式的共同之处；
 	- 观看 Sweet Dinos ヤ行片假名的**学习和练习**视频，找找部分片假名词汇对应的英文词汇；
 	- 观看ヤ行汉字来源；
-	- 在 [日语学习软件](https://minielephant.net/beginner-japanese/#apps) 中学习や行的平假名；
+	- 在 [日语学习软件](https://minielephant.net/beginner-japanese#学习软件) 中学习や行的平假名；
 	- 学唱日语版的 Hello Song，跟唱两遍，学习问候的不同问答方式；
 
 ### 今日复习

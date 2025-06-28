@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e22dde5c8621f703",
+        "id": "c10b63e78a095a0c",
         "type": "tabs",
         "children": [
           {
-            "id": "9b8b86a8b232358f",
+            "id": "b6ccd39b979ecb7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beginner-japanese.md",
-                "mode": "source",
+                "file": "beginner-japanese-12.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,37 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "beginner-japanese"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0f151edf2090bbbc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "96c940c5eb87e3d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "beginner-japanese-9.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "beginner-japanese-9"
+              "title": "beginner-japanese-12"
             }
           }
         ]
@@ -241,18 +211,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b8b86a8b232358f",
+  "active": "b6ccd39b979ecb7c",
   "lastOpenFiles": [
+    "beginner-japanese-11.md",
+    "beginner-japanese-12.md",
     "beginner-japanese-10.md",
-    "beginner-japanese.md",
     "beginner-japanese-9.md",
-    "beginner-japanese-10-1.md",
+    "beginner-japanese.md",
+    "Attachments/U_04_wh.mp4",
     "dannychen-2025.md",
     "od2a.md",
     "gal-gao-2025.md",
     "annaxiang-2025.md",
     "rm db.json.md",
-    "Attachments/U_04_wh.mp4",
     "Attachments/U_04_tch.mp4",
     "Attachments/U_04_sh.mp4",
     "Attachments/U_04_ph.mp4",
@@ -274,7 +245,6 @@
     "_posts/home.md",
     "_posts/what-does-AI-mean-for-future-education.md",
     "english-course.md",
-    "math.md",
     "Attachments/brainpop-jr-mammals.mp4",
     "Attachments/brainpop-jr-insects.mp4",
     "Attachments/brainpop-jr-fish.mp4",
