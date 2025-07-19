@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c10b63e78a095a0c",
+        "id": "09cc6ddc6bf49e4c",
         "type": "tabs",
         "children": [
           {
-            "id": "b6ccd39b979ecb7c",
+            "id": "965600bc7d1829b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beginner-japanese.md",
+                "file": "od4-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "beginner-japanese"
+              "title": "od4-2025"
+            }
+          },
+          {
+            "id": "066e6f5b172eda2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bendai.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bendai"
+            }
+          },
+          {
+            "id": "027863e64285385d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leoyao.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "leoyao"
             }
           }
         ]
@@ -112,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gal-gao-2025.md",
+                "file": "od4-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of gal-gao-2025"
+              "title": "Outline of od4-2025"
             }
           },
           {
@@ -197,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,40 +258,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6ccd39b979ecb7c",
+  "active": "965600bc7d1829b5",
   "lastOpenFiles": [
-    "beginner-japanese-12.md",
-    "beginner-japanese.md",
-    "beginner-japanese-10.md",
-    "beginner-japanese-11.md",
-    "beginner-japanese-9.md",
-    "Attachments/U_04_wh.mp4",
+    "od2c.md",
+    "od4-2025.md",
+    "liaopeiyan.md",
+    "gal-gao-2025.md",
+    "leoyao.md",
+    "for-parents.md",
+    "zhangyuantai.md",
+    "stevengao.md",
+    "winter-2025.md",
+    "student-demo.md",
+    "wuzimo.md",
+    "park-english.md",
+    "zhuxuanyu.md",
+    "shaoyuhan.md",
+    "ms-li.md",
+    "od2b.md",
+    "bendai.md",
+    "annaxiang-2025.md",
     "dannychen-2025.md",
     "od2a.md",
-    "gal-gao-2025.md",
-    "annaxiang-2025.md",
-    "rm db.json.md",
+    "odf1.md",
+    "rockyzhu-2025.md",
+    "od1a.md",
+    "beginner-japanese.md",
+    "beginner-japanese-12.md",
+    "beginner-japanese-10.md",
+    "Attachments/U_04_wh.mp4",
     "Attachments/U_04_tch.mp4",
     "Attachments/U_04_sh.mp4",
     "Attachments/U_04_ph.mp4",
     "Attachments/U_04_ch.mp4",
-    "od2c.md",
-    "beginner-japanese-7.md",
-    "beginner-japanese-8.md",
-    "beginner-japanese-2.md",
-    "beginner-japanese-1.md",
-    "od1a.md",
-    "leoyao.md",
-    "beginner-japanese-6.md",
-    "odf1.md",
     "Attachments/Pasted image 20250617160433.png",
-    "beginner-japanese-5.md",
-    "about/index.md",
-    "cv-percy.md",
-    "_posts/how-to-use-dictionaries.md",
-    "_posts/home.md",
-    "_posts/what-does-AI-mean-for-future-education.md",
-    "english-course.md",
     "Attachments/brainpop-jr-mammals.mp4",
     "Attachments/brainpop-jr-insects.mp4",
     "Attachments/brainpop-jr-fish.mp4",
