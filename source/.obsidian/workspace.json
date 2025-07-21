@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "09cc6ddc6bf49e4c",
+        "id": "2dfe43d2e93f5912",
         "type": "tabs",
         "children": [
           {
@@ -29,54 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "od4-2025"
-            }
-          },
-          {
-            "id": "066e6f5b172eda2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bendai.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "bendai"
-            }
-          },
-          {
-            "id": "027863e64285385d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "leoyao.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "leoyao"
             }
           }
         ]
@@ -144,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 210.5,
+    "collapsed": true
   },
   "right": {
     "id": "64580d7f7bc765f8",
@@ -245,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,8 +214,8 @@
   },
   "active": "965600bc7d1829b5",
   "lastOpenFiles": [
-    "od2c.md",
     "od4-2025.md",
+    "od2c.md",
     "liaopeiyan.md",
     "gal-gao-2025.md",
     "leoyao.md",
