@@ -1,7 +1,7 @@
 ---
 title: 牛津探索2 周日班
 created: 2024-10-19
-updated: 2025-06-09
+updated: 2025-08-14
 ---
 
 ## D13, 2025-06-08
@@ -600,10 +600,13 @@ P55 听录音，跟读两遍
 	- move
 		- go from place to place
 	- **lay** egg
-	- hard shells
+		- *Mammals don’t lay eggs.*
+	- hard/soft shells
+		- *Chicken eggs have hard shells on the outside.* 
 	- bite
 		- use teeth to cut into something
 	- on land
+		- *Tortoise*
 	- in water
 	- wet
 		- covered with water, not dry
