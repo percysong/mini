@@ -1,12 +1,76 @@
 ---
 title: 小象暑期收心课程
 created: 2024-09-11
-updated: 2025-08-14
+updated: 2025-08-15
 ---
+
+# D3, 2025年8月15日
+
+## 学习任务
+
+1. **文本复习**
+
+- 复习 P10–11 文本，选一个类型的动物文本跟读三遍。
+- 回顾今天小组维恩图，尝试自己练习说说两组动物的不同点与相同点。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+</audio>
+
+2. **练习册**
+
+完成黑白练习册 P4–5 页的阅读小练习
+
+3. **歌曲**
+
+复习书上 P13 歌曲，注意目标句型 **A** have **B** to help them …
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.04.mp3" type="audio/mp3">
+</audio>
+
+4. **观看视频，复习语法**
+
+{% tabs Objective Pronouns* %}
+<!-- tab -->
+**Story Movie**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-ell-scary-stories-movie.mp4" type="video/mp4">
+</video>
+<!-- endtab -->
+
+<!-- tab -->
+**Grammar Movie**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-ell-scary-stories-grammar.mp4" type="video/mp4">
+</video>
+<!-- endtab -->
+
+<!-- tab -->
+**Vocabulary Movie**
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-ell-scary-stories-vocabulary.mp4" type="video/mp4">
+</video>
+<!-- endtab -->
+{% endtabs %}
+
+## 课堂回顾
+
+- 课前口语表达练习 *Where did you go in your summer vacation?*
+- 通过 Four Corners 游戏熟悉生词和不同动物的特点
+- 回顾寻找特点关键词的方法，使用维恩图和对比与比较的阅读策略来归纳动物特点
+
+![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_2052.jpeg)
+
+- 完成课后练习
+- 学习语法 Object Pronouns 并口头操练
 
 # D2, 2025年8月14日
 
-### 学习任务
+## 学习任务
 
 1. **词汇复习**
 
