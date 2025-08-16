@@ -4,6 +4,74 @@ created: 2024-09-11
 updated: 2025-08-15
 ---
 
+# D4, 2025年8月15日
+
+## 学习任务
+
+1. **练习册**
+
+完成黑白练习册 P6–9 页（除了写作部分）。
+
+2. **文本复习**
+
+- 继续复习 P10–11 文本，选择另一个类型的动物文本跟读三遍。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.03.mp3" type="audio/mp3">
+</audio>
+
+3. **听力材料**
+
+复习听力材料，尝试说说这些动物最特别的特征。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.07.mp3" type="audio/mp3">
+</audio>
+
+> Welcome to Amazing Animals. People have body parts, and animals do, too! Today I’m talking about animal body parts that are different from ours.
+
+> One.
+> 
+> These animals live in the ocean but they’re not in the fish group! They don’t have fins or gills. Their eyes are on their arms. They have one eye spot on each arm. They can see light and dark. These animals usually have five arms but can have up to forty!
+> 
+> Two.
+> 
+> These animals are in the mammal group. They have very long ears! This helps them hear very well. This is good because they can’t see very well. The ears also help them keep their body cool and warm.
+> 
+> Three.
+> 
+> These animals are mammals but they don’t have any fur or hair. They live in the ocean! They don’t have any legs, but they have very big mouths. About one hundred people can stand in this animal’s mouth!
+> 
+> Four.
+> 
+> These are very small animals but many people are scared of them. They have eight legs. They don’t have ears but they hear sound with the hairs on their legs. Most of them have eight eyes but they can’t see very well.
+> 
+> Five.
+> 
+> These animals are amphibians. Their babies come from eggs and look like fish. Their eyes are on top of their heads so they can see when they’re under the water. Their eyes are open all the time, even when they’re sleeping! And they sleep all winter.
+> 
+> Six.
+> 
+> These animals have wings but they’re not birds. They have five eyes. There are three small eyes on top of their head and two big eyes in front of their head. They have six legs. Be careful when you see one. If it gets angry, it can hurt you!
+
+## 课堂回顾
+
+- 课前拼词游戏激活
+- 练习册评讲
+- 通过表演和猜谜游戏回顾不同动物的特点
+- 回顾第一节的的分类活动，学习更多的科学知识来进一步准确科学地分类
+	- 科学家在分类时，不仅仅只关注动物表面的样子，还要关注它的宝宝从哪里来，是否有骨头
+- 修正自己之前的分类，并挑战更难的动物分类，在学习科学知识的同时，运用语言来表达
+	- *They all have bones. / They don’t have bones.*
+	- *They lay eggs.* / *They don’t lay eggs. (give birth)*
+	- *They have fur / feather / scales …*
+	- …
+	- *So, I think, it is a mammal / fish / bird / reptiles.*
+- 完成听力练习，通过听力来获取动物的有趣信息。
+- 学习词法 Compound Words，并根据图片/视频猜测合成词的意思。
+
+今天大家的学习状态都不错，虽然语言的难度不大，但是科学知识还是有一定的挑战。尤其是如何运用科学的思维来进行猜测、观察、记录、验证。对文章和词汇还不熟悉的同学，还要更多地复习课文，多多跟读。
+
 # D3, 2025年8月15日
 
 ## 学习任务
