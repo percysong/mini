@@ -67,6 +67,9 @@ updated: 2025-08-15
 	- *They have fur / feather / scales …*
 	- …
 	- *So, I think, it is a mammal / fish / bird / reptiles.*
+- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/0D784132-18A4-407F-A1B7-34041D021AAB.jpeg)
+- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/F5917547-C874-40F3-A184-1311CD0CB179.jpeg)
+- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/EFF8E7FB-94A4-413A-8055-68B1C54A5818.jpeg)
 - 完成听力练习，通过听力来获取动物的有趣信息。
 - 学习词法 Compound Words，并根据图片/视频猜测合成词的意思。
 
