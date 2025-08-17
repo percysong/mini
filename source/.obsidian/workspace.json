@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od4-2025.md",
+                "file": "summer-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od4-2025"
+              "title": "Outline of summer-2025"
             }
           },
           {
@@ -221,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,9 +236,9 @@
   },
   "active": "8c86f84f444cd2d1",
   "lastOpenFiles": [
-    "Attachments/2B36A2D9-92C3-4901-9328-A95A709B4962_4_5005_c.jpeg",
     "od2b.md",
     "summer-2025.md",
+    "Attachments/2B36A2D9-92C3-4901-9328-A95A709B4962_4_5005_c.jpeg",
     "liaopeiyan.md",
     "zhangyuantai.md",
     "chenruochun.md",
@@ -281,7 +280,6 @@
     "embeds/kindergarten-student-animate.svg",
     "embeds/college-project-animate.svg",
     "lib/pdf/web/images/treeitem-expanded@2x.png",
-    "lib/pdf/web/images/treeitem-expanded.svg",
-    "lib/pdf/web/images/treeitem-expanded.png"
+    "lib/pdf/web/images/treeitem-expanded.svg"
   ]
 }

@@ -1,8 +1,52 @@
 ---
 title: 小象暑期收心课程
 created: 2024-09-11
-updated: 2025-08-15
+updated: 2025-08-17
 ---
+
+# D5, 2025年8月17日
+
+## 学习任务
+
+1. **练习册**
+
+完成黑白练习册 P9 写作 – P11 词汇练习。
+
+2. **词汇**
+
+复习书上 P16 词汇，跟读两遍；同时代入练习B的句子中朗读熟悉。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.09.mp3" type="audio/mp3">
+</audio>
+
+3. **故事预习**
+
+阅读 P18–19 文本，听录音，跟读两遍，注意语气和停顿。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+</audio>
+
+## 课堂回顾
+
+- 课前英文歌曲弹唱热身激活
+- 回顾第一单元的知识，使用目标句型来回顾所学
+	- … have … to help them …
+- 学习更多关于动物和动作的词汇
+	-  注意 *worm* (w-er-m), *squawk* (skw-o-k) 的读音
+- 复习阅读策略：比较和对比，运用该策略来分析虚构文本中的角色
+- 复习故事要素：
+	- character
+	- setting
+	- problem
+	- solution
+- 学习故事 *Leo and Lily’s Adventure*
+	- 根据图片标题预测故事
+	- 用英文描述自己对故事的猜测
+	- 听录音，表演每个场景发生的故事
+
+今天我们复习了前面课程学习的科学知识，大家都能熟练应用英语来表达不同动物的特点。同时复习了阅读策略，来分析虚构文本中的角色。通过听原版故事和表演的互动学习，大家更深刻地理解新的词汇表达。请大家一定多多跟读，尽量模仿故事朗读的语气和语调。
 
 # D4, 2025年8月16日
 
