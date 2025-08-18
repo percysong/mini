@@ -1,8 +1,58 @@
 ---
 title: 小象暑期收心课程
 created: 2024-09-11
-updated: 2025-08-17
+updated: 2025-08-18
 ---
+
+# D6, 2025年8月18日
+
+## 学习任务
+
+1. **练习册**
+
+完成黑白练习册 P12 – P15 词汇练习。
+
+2. **词汇**
+
+复习书上 P22 词汇，跟读两遍；同时代入练习B的句子中理解。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.12.mp3" type="audio/mp3">
+</audio>
+
+3. **故事复习**
+
+复习 P18–19 文本，听录音，跟读两遍，注意语气和停顿。尝试复述故事。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.10.mp3" type="audio/mp3">
+</audio>
+
+4. **扩展视频**
+
+- 观看 BrainPop，复习 Story Elements
+	- Character
+		<video width="100%" height="auto" controls>
+		  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-character.mp4" type="video/mp4">
+		</video>
+	- Setting
+		<video width="100%" height="auto" controls>
+		  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-setting.mp4" type="video/mp4">
+		</video>
+- 选择自己喜欢的动物类型，点击链接观看扩展视频（有一定难度）：
+	- [fish 🐟](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-fish.mp4)
+	- [insects 🐞](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-insects.mp4)
+	- [mammals 🐼](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-mammals.mp4)
+	- [reptiles 🦎](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-reptiles.mp4)
+
+## 课堂回顾
+
+- 课前英文歌曲弹唱热身激活
+- 回顾词汇：注意 escape, hunt, peck, squawk 的发音
+- 用关键词回顾故事，并尝试复述故事的 BME
+- 完成课后练习，讨论动物是有互相帮助的可能，你知道哪些动物互助的例子
+- 学习语法：频率副词，互相表达自己的习惯
+- 学习更多描述动物性格的词汇
 
 # D5, 2025年8月17日
 
