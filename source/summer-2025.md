@@ -1,8 +1,87 @@
 ---
 title: 小象暑期收心课程
 created: 2024-09-11
-updated: 2025-08-18
+updated: 2025-08-20
 ---
+
+# D7, 2025年8月20日
+
+## 学习任务
+
+1. **完成动物绘本卡片**
+
+完成动物绘本卡片并自行上色。
+
+2. **练习册**
+
+完成黑白练习册 P16，P18 – P19。
+
+3. **听力材料**
+
+复习听力材料，用形容词描述这些动物的性格特点。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.14.mp3" type="audio/mp3">
+</audio>
+
+> Hello, kids! Welcome to our farm. Let’s walk around and I can introduce you to some of the animals here.
+> 
+> One.
+> 
+> OK everyone. Here we are at the cow barn. My sons, Alan and Frank, are milking the cows now. This is Bessie. It’s easy for Alan to milk her. She’s always very calm. She’s very gentle too. She likes people.
+> 
+> Two.
+> 
+> Oh, look everyone! Do you see Toby, one of our farm cats? We need cats here to help us.
+> 
+> To chase birds?
+> 
+> No. Look at Toby. Can you see him? He’s very patient.
+> 
+> Yes! He’s hunting that mouse.
+> 
+> Good. The mice eat our corn. Uh-oh! The mouse is running away!
+> 
+> Three.
+> 
+> Now everybody, come with me over here. We have two farm dogs to help us, too. This is Maggie. She’s usually very gentle, but now she’s very fierce. Do you know why?
+> 
+> Because she has puppies?
+> 
+> That’s right. She wants to keep her puppies safe.
+> 
+> Four.
+> 
+> Now let’s go and look at the horses. We have a lot of horses on this farm but Sadie is my favorite. She’s very smart. She always comes when I call her name. And she’s also…
+> 
+> I know! She’s strong!
+> 
+> Yes, that’s right. She works hard and she’s very calm and gentle. Who wants to ride her?
+> 
+> Me! Me!
+
+3. **动画复习**
+
+复习 P24 漫画，听录音，跟读两遍，注意语气和停顿。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.16.mp3" type="audio/mp3">
+</audio>
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2_01_Story1.mp4" type="video/mp4">
+</video>
+
+## 课堂回顾
+
+- 课前英文歌曲弹唱热身激活
+- 词汇竞猜游戏，小组大比拼。
+- 听力练习，了解动物性格的表达。
+- 词汇练习：更多代词的使用
+- 学习动画视频，角色扮演描述自己的宠物。
+- 完成大任务：自制动物绘本卡片
+
+今天我们结束了第一个大单元的学习，孩子们在休息之后状态恢复得不错，能够通过自己的所学完成动物卡片的信息总结和制作。作业完成情况不是很好，请一定督促大家完成每天的复习任务和网站跟读哟！
 
 # D6, 2025年8月18日
 
