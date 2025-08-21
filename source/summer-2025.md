@@ -1,8 +1,43 @@
 ---
 title: 小象暑期收心课程
 created: 2024-09-11
-updated: 2025-08-20
+updated: 2025-08-21
 ---
+
+# D8, 2025年8月21日
+
+## 学习任务
+
+1. **练习册**
+
+完成新发下来的黑白练习册 P20 – P21。
+
+2. **词汇**
+
+复习书上 P28 词汇，跟读两遍；带入下面的例句跟读理解。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.17.mp3" type="audio/mp3">
+</audio>
+
+3. **视频学习**
+
+复习 BrainPop 关于 Cause and Effect 视频，思考我们如何将这个策略 strategy 运用到自己平时的阅读中。
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/10/09/BrainPOP_cause-effect.mp4" type="video/mp4">
+</video>
+
+## 课堂回顾
+
+- 课前英文歌曲弹唱热身：今日歌曲 BINGO!
+- 介绍自己绘制的 Animal Story Book
+- 开启第二单元 *How do things change* 的学习
+- 学习物质状态的词汇
+- 学习阅读策略 Cause and effect
+- 完成相应练习
+
+今天大家完成了第一个单元任务的展示，运用本单元所学的知识来丰富自己的表达，并大方地向同学们展示。虽然还有些词句不是特别熟练，但表达都很清晰准确，同时介绍了自己最喜欢的动物。
 
 # D7, 2025年8月20日
 
