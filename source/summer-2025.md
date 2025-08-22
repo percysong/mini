@@ -1,8 +1,48 @@
 ---
 title: 小象暑期收心课程
 created: 2024-09-11
-updated: 2025-08-21
+updated: 2025-08-22
 ---
+
+# D9, 2025年8月22日
+
+## 学习任务
+
+1. **练习册**
+
+- 完成新发下来的黑白练习册 P22 – P23 阅读练习。
+
+2. **复习阅读**
+
+- 复习 P30–31 课文 *What is our world made of?* 听录音，结合课堂上完成的思维导图，思考物质三态如何变化。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.18.mp3" type="audio/mp3">
+</audio>
+
+3. **扩展视频（根据情况选择观看）**
+
+- 难度：🌟🌟🌟
+- 观看 BrainPop 关于物质三态的视频，尝试深入理解物质三态的不同特点
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/2024/11/05/brain-pop-jr-solids-liquids-and-gases.mp4" type="video/mp4">
+</video>
+
+## 课堂回顾
+
+- 课前英文歌曲弹唱热身
+- 回顾上节课的词汇和大问题
+- 回顾阅读策略 Cause and effect
+- 思考「我们的世界是由什么组成的」(*What is our world made of?*) 阅读文本
+	- 学习勾画三态性质的关键词
+	- 了解三态的性质，以及描述它们的不同词汇
+		- solids can be *hard* or *soft*
+		- liquids can be *thick* or *thin*
+	- 运用 cause and effect 阅读策略来解释三态之间的变化
+	- 完成思维导图（物质三态转化图）表来加深自己的理解
+	- ![](https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/IMG_2154.jpeg)
+	- 完成课后小练习
 
 # D8, 2025年8月21日
 
