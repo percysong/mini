@@ -1,8 +1,76 @@
 ---
 title: 小象暑期收心课程
 created: 2024-09-11
-updated: 2025-08-22
+updated: 2025-08-23
 ---
+
+# D10, 2025年8月23日
+
+## 学习任务
+
+1. **练习册**
+
+- 完成新发下来的黑白练习册 P24 – P26 阅读练习。
+
+2. **复习词汇**
+
+- 复习书上 P34 词汇，跟读两遍；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.20.mp3" type="audio/mp3">
+</audio>
+
+- 复习书上 P36 词汇，跟读两遍；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.24.mp3" type="audio/mp3">
+</audio>
+
+3. **听力材料**
+
+回顾听力材料，对照文字听一遍录音，加深理解。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.22.mp3" type="audio/mp3">
+</audio>
+
+> Let’s talk about how solids, liquids and gases can change.
+> 
+> I have some things we see every day. See if you can guess what they are.
+> 
+> One.
+> 
+> A lot of people like this very much. It was a liquid but now it’s a solid. How do we make this thing? We freeze it to make it very cold so it changes to a solid. You should eat it fast on a hot day!
+> 
+> Two.
+> 
+> This thing is a solid, and small and soft. But when we put some gas in it, it gets big and is like a ball. We shouldn’t add too much gas to it or it can pop! We often see these at parties.
+> 
+> Three.
+> 
+> This is a container and we heat water in it. When the water is hot, it changes from a liquid to a gas and we see steam. If we heat it for a long time, all the water changes to steam.
+> 
+> Four.
+> 
+> This is a solid. But if we make it hot on top, it melts, the top changes to a liquid, and this thing gets short. When it gets cold again, the liquid part changes back to a solid.
+> 
+> Five.
+> 
+> This is in a very cold place. When it gets very, very cold on a house, the water dripping down on the side of the house freezes, and changes from a liquid to a solid. When it gets warm this melts and changes to water again.
+> 
+> Six.
+> 
+> This is a solid. When we make it hot, it doesn’t change to a liquid or gas. It stays a solid and gets big… Look! They were very small, and now they’re big. Mmm. It smells good! I’m hungry.
+
+## 课堂回顾
+
+- 课前英文歌曲弹唱热身
+- 通过图示，回顾物质三态的变化
+- 扩展不同物质的词汇，通过阅读线索和听力来猜测物品
+- 语言运用：如何礼貌让他人传东西
+- 词汇学习：同时作为名词和动词
+- 学习需要制作冰激凌所需的词汇
+- 完成练习作业
 
 # D9, 2025年8月22日
 
