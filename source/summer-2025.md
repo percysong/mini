@@ -1,8 +1,41 @@
 ---
 title: 小象暑期收心课程
 created: 2024-09-11
-updated: 2025-08-23
+updated: 2025-08-24
 ---
+
+# D11, 2025年8月23日
+
+## 学习任务
+
+1. **练习册**
+
+- 完成新发下来的黑白练习册 P28 – P31
+
+2. **复习词汇**
+
+- 复习书上 P36 词汇，跟读两遍；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.24.mp3" type="audio/mp3">
+</audio>
+
+3. **阅读
+
+- 复习 P38–39 剧本 *Let’s Make Ice Cream!* 听录音跟读两遍，注意语气和情绪。注意 P39 制作的步骤。
+- 熟悉工作纸上的制作方法和步骤。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_1.25.mp3" type="audio/mp3">
+</audio>
+
+## 课堂回顾
+
+- 课前英文歌曲弹唱热身
+- 阅读故事，学习如何不用冰箱的情况下制作冰激凌
+- 回顾阅读策略 Cause and effect 并通过它来找到虚构写作中的事件的内在联系
+- 完成课后题
+- 工作纸总结制作冰激凌的原料和步骤
 
 # D10, 2025年8月23日
 
