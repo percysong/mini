@@ -1,10 +1,86 @@
 ---
 title: 牛津探索周五班
 created: 2024-10-19
-updated: 2025-08-30
+updated: 2025-09-01
 ---
 
-## D12, 2025-08-30
+## D14–15, 2025-08-31
+
+### 学习资料和学习任务
+
+- 练习册 P96–99
+
+- 复习 P114 词汇，跟读两遍：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.28.mp3" type="audio/mp3">
+</audio>
+
+- 复习阅读策略的视频 Main idea and details
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-main-idea.mp4" type="video/mp4">
+</video>
+
+- 自学 BrainPop 关于 Reduce, Reuse, Recycle 的视频：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brain-pop-jr-reduce-reuse-recycle.mp4" type="video/mp4">
+</video>
+
+### 学习内容
+
+- 回顾课文 *Natural Resources*, 复习中心句和支持论点
+- 完成课后练习，并回答问题
+- 学习语法：preposition 介词
+- 用不同的介词来描述图片
+- 了解不同形式的户外活动，练习听力，找到污染的地方（宣宇的听力部分很不错，完全听懂并复述细节信息）
+- 练习口语交际，看到乱扔垃圾应该怎么回应，如何道歉
+	- 学习不同程度的道歉方法
+	- I apologize.
+	- I’m very sorry.
+- 学习词性和判断词性的方法，完成练习。
+
+## D13, 2025-08-30
+
+### 学习资料和学习任务
+
+#### Vocabulary
+
+复习 P108 词汇，跟读两遍：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.25.mp3" type="audio/mp3">
+</audio>
+
+#### Reading
+
+复习 P110-111 文本，读两遍，注意找到每一部分的 main idea.
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.26.mp3" type="audio/mp3">
+</audio>
+
+#### Workbook
+
+- Workbook P92–93
+
+### 课堂回顾
+
+- 口语热身：聊聊自己的暑期经历
+- 观看视频 [*One Earth - Environmental Short Film*](https://www.youtube.com/watch?v=QQYgCxu988s)进入本堂课课题，说一说，写一写：
+	- 看到了地球上有什么
+	- 地球给人类带来了什么
+	- 地球有什么问题
+	- 我们为什么以及如何保护地球
+- 进入课题：Natural Resources
+- 了解不同的自然资源，并写出它们的用途
+- 学习阅读策略：中心句和支撑细节 main idea and details
+- 进入自然资源文本的学习
+- 通过图片和标题（title, heading）来猜测文本大意
+- 找到每部分的中心句和支撑细节
+
+## D12, 2025-08-29
 
 ### 学习资料和学习任务
 
