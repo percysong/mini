@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f10fc63c44403f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "od2c.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "od2c"
-            }
-          },
-          {
             "id": "67007018ff564586",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zhuxuanyu.md",
+                "file": "park-english.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "zhuxuanyu"
+              "title": "park-english"
             }
           }
         ]
@@ -136,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2c.md",
+                "file": "park-english.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2c"
+              "title": "Outline of park-english"
             }
           },
           {
@@ -236,9 +212,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f10fc63c44403f9",
+  "active": "67007018ff564586",
   "lastOpenFiles": [
+    "wuzimo.md",
+    "park-english.md",
     "zhuxuanyu.md",
+    "student-demo.md",
+    "od1.md",
+    "od1a.md",
     "od2c.md",
     "bendai.md",
     "rockyzhu-2025.md",
@@ -257,14 +238,9 @@
     "leoyao.md",
     "for-parents.md",
     "stevengao.md",
-    "student-demo.md",
-    "wuzimo.md",
-    "park-english.md",
     "shaoyuhan.md",
     "ms-li.md",
     "annaxiang-2025.md",
-    "dannychen-2025.md",
-    "odf1.md",
     "Attachments/U_04_wh.mp4",
     "Attachments/U_04_tch.mp4",
     "Attachments/U_04_sh.mp4",
