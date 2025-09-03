@@ -55,8 +55,7 @@
               "title": "od2c"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "od2c.md",
+                "file": "park-english.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of od2c"
+              "title": "Outline of park-english"
             }
           },
           {
@@ -237,15 +236,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "561afa5cc9850643",
+  "active": "67007018ff564586",
   "lastOpenFiles": [
+    "od2c.md",
     "park-english.md",
     "wuzimo.md",
     "zhuxuanyu.md",
     "student-demo.md",
     "od1.md",
     "od1a.md",
-    "od2c.md",
     "bendai.md",
     "rockyzhu-2025.md",
     "od2a.md",
