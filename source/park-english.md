@@ -4,6 +4,78 @@ created: 2024-09-11
 updated: 2025-09-02
 ---
 
+# 复习任务 Big Question 3
+
+## Unit 5
+
+- P48 复习生词，先遮挡单词，尝试自己看图指读一遍，听录音检查正误，跟读两遍；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.32.mp3" type="audio/mp3">
+</audio>
+
+- P50–51 复习课文，听录音跟读两遍；第二遍跟读打卡。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.33.mp3" type="audio/mp3">
+</audio>
+
+- P53 语法歌曲，听录音唱一遍；注意地点疑问句的提问方式。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.34.mp3" type="audio/mp3">
+</audio>
+
+- 复习 Unit 5 语法视频，回顾句型，边看边跟读一遍：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Oxford_Discover_L1_Unit_5_Grammar.mp4" type="video/mp4">
+</video>
+
+- P54 复习更多动物及其栖息地，先遮挡单词，尝试自己看图指读一遍，听录音检查正误，跟读两遍；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.35.mp3" type="audio/mp3">
+</audio>
+
+## Unit 6
+
+- P56 复习单词，先尝试自己看图指读一遍，听录音检查正误，跟读两遍；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.39.mp3" type="audio/mp3">
+</audio>
+
+- P58-59 复习课文，听录音跟读两遍；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.40.mp3" type="audio/mp3">
+</audio>
+
+- P61 语法歌曲，听录音唱一遍；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.41.mp3" type="audio/mp3">
+</audio>
+
+- 复习 Unit 6 语法视频，回顾句型，边看边跟读：
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/Oxford_Discover_L1_Unit_6_Grammar.mp4" type="video/mp4">
+</video>
+
+- P62 复习词汇，先尝试自己看图指读一遍，听录音检查正误，跟读两遍；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.42.mp3" type="audio/mp3">
+</audio>
+
+- P64 复习动画音频，跟读一遍。
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L1_Student_Book_Audio_1.46.mp3" type="audio/mp3">
+</audio>
+
 # 复习任务 Big Question 2
 
 ## Unit 3
