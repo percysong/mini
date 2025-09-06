@@ -1,8 +1,44 @@
 ---
 title: 牛津探索周五班
 created: 2024-10-19
-updated: 2025-09-02
+updated: 2025-09-05
 ---
+
+## D16, 2025-09-05
+
+### 学习资料和学习任务
+
+- 练习册 P100–103；
+- 复习 P116 词汇，跟读两遍：
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.32.mp3" type="audio/mp3">
+</audio>
+
+- 复习BrainPop阅读策略关于故事情景的视频
+
+<video width="100%" height="auto" controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-setting.mp4" type="video/mp4">
+</video>
+
+#### 阅读 *A Juice Carton’s Diary*
+
+复习 P110–111 文本，听录音跟读两遍，每两天跟读一页，注意 Juice Carton 的语气和情绪；
+
+<audio controls>
+  <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/OD2e_L2_Student_Book_Audio_2.33.mp3" type="audio/mp3">
+  </audio>
+
+### 学习内容
+
+- 口语对话谈论新学期的生活变化；
+- 英语脑筋急转弯猜谜；
+- 复习自然资源和现在人类环境的问题和原因，以及我们保护环境的方式；
+- 引入 3R 的保护方法，进入本课 recycle 故事主题；
+- 学习生词，根据图片，完成对漫画故事情节的预测；
+	- 大家基本能够图片，用英语猜测主要的故事线索。
+- 准备大任务：选择一种自然资源，完成剪贴画
+	- 课堂上已完成写的部分，下次会继续完成并表达展示。
 
 ## D14–15, 2025-08-31
 
