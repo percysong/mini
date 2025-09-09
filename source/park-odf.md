@@ -1,7 +1,7 @@
 ---
 title: 小象公园牛津英语基础班
 created: 2024-09-11
-updated: 2025-09-07
+updated: 2025-09-09
 ---
 
 # W1, 2025-09-07
@@ -24,6 +24,7 @@ updated: 2025-09-07
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/seven-steps-counting-song-super-simple-songs.mp4" type="video/mp4">
 </video>
  
+
 ### 自然拼读
 
 复习字母 Aa 和 Bb 的形状、笔顺以及发音，看视频书空并跟读（视频会播放单词或吟唱两次，先听一遍再跟着童声读一遍）。每两天复习一个视频，观看两次。
