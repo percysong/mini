@@ -1,7 +1,7 @@
 ---
 title: 牛津探索周二班
 created: 2024-10-19
-updated: 2025-06-18
+updated: 2025-09-10
 ---
 
 # W0, 2025-09-09
@@ -31,7 +31,6 @@ updated: 2025-06-18
 <video width="100%" height="auto" controls>
   <source src="https://mini-elephant-1318622621.cos.ap-chongqing.myqcloud.com/english/brainpop-jr-plot.mp4" type="video/mp4">
 </video>
-
 
 ## 课堂学习内容
 
